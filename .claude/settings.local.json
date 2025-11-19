@@ -12,7 +12,12 @@
       "Bash(where:*)",
       "Bash(node create_combined_json.js:*)",
       "Bash(node:*)",
-      "Bash(dir:*)"
+      "Bash(dir:*)",
+      "Bash(npm create:*)",
+      "Bash(npm install)",
+      "Bash(copy:*)",
+      "Bash(npm run dev:*)",
+      "Bash(README.md)"
     ],
     "deny": [],
     "ask": []

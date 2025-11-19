@@ -1,0 +1,60 @@
+.row {
+  padding: 1.5rem 1rem;
+  border-bottom: 1px solid rgba(128, 0, 128, 0.2);
+  transition: background-color 0.2s ease;
+}
+
+.row:hover {
+  background-color: rgba(128, 0, 128, 0.05);
+}
+
+.time {
+  font-size: 0.65rem;
+  color: #888;
+  margin-bottom: 0.5rem;
+  font-family: 'Courier New', monospace;
+  letter-spacing: 0.5px;
+}
+
+.japanese {
+  font-size: 1.75rem;
+  font-weight: 600;
+  color: #2a0a3d;
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+}
+
+.hiragana {
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 0.75rem;
+  line-height: 1.5;
+}
+
+.english {
+  font-size: 1rem;
+  color: #444;
+  line-height: 1.6;
+}
+
+@media (max-width: 768px) {
+  .row {
+    padding: 1.25rem 0.75rem;
+  }
+
+  .time {
+    font-size: 0.6rem;
+  }
+
+  .japanese {
+    font-size: 1.5rem;
+  }
+
+  .hiragana {
+    font-size: 0.85rem;
+  }
+
+  .english {
+    font-size: 0.95rem;
+  }
+}

@@ -1,0 +1,302 @@
+[
+  {
+    "time": "00:11:00",
+    "japanese": "追跡班、両機の現在位置を報告。",
+    "hiragana": "ついせきはん、りょうきのげんざいいちをほうこく。",
+    "english": "Tracking team, report on both units' current positions."
+  },
+  {
+    "time": "00:11:03",
+    "japanese": "ポッドツーダッシュ、作戦高度に到達。",
+    "hiragana": "ぽっどつーだっしゅ、さくせんこうどにとうたつ。",
+    "english": "Pod 02-Dash has reached operation altitude."
+  },
+  {
+    "time": "00:11:07",
+    "japanese": "予定軌道に乗った。",
+    "hiragana": "よていきどうにのった。",
+    "english": "It has settled into the targeted orbit."
+  },
+  {
+    "time": "00:11:08",
+    "japanese": "ポッドエイト、軌道投入に問題発生。高度が足りない",
+    "hiragana": "ぽっどえいと、きどうとうにゅうにもんだいはっせい。こうどがたりない",
+    "english": "Due to insufficient altitude, Pod 08 was unable to breach target orbital range."
+  },
+  {
+    "time": "00:11:13",
+    "japanese": "確認した。",
+    "hiragana": "かくにんした。",
+    "english": "Copy that."
+  },
+  {
+    "time": "00:11:14",
+    "japanese": "以後はツーダッシュ単独でのオペレーションに切り替える。",
+    "hiragana": "いごはつーだっしゅたんどくでのおぺれーしょんにきりかえる。",
+    "english": "02-Dash will conduct a solo operation."
+  },
+  {
+    "time": "00:11:16",
+    "japanese": "了解。",
+    "hiragana": "りょうかい。",
+    "english": "Roger."
+  },
+  {
+    "time": "00:11:17",
+    "japanese": "ポッドエイトを直援。",
+    "hiragana": "ぽっどえいとをちょくえん。",
+    "english": "Pod 08 will act as support."
+  },
+  {
+    "time": "00:11:19",
+    "japanese": "シフトをセブンに移行",
+    "hiragana": "しふとをせぶんにいこう",
+    "english": "Transition shift to seven."
+  },
+  {
+    "time": "00:11:21",
+    "japanese": "ポッドツーダッシュ、不帰投点を通過。",
+    "hiragana": "ぽっどつーだっしゅ、ふきとうてんをつうか。",
+    "english": "Pod 02-Dash has passed the point of no return."
+  },
+  {
+    "time": "00:11:24",
+    "japanese": "エリア８８に侵入。",
+    "hiragana": "えりあはちはちにしんにゅう。",
+    "english": "It is entering Area 88."
+  },
+  {
+    "time": "00:11:25",
+    "japanese": "了解。",
+    "hiragana": "りょうかい。",
+    "english": "Roger."
+  },
+  {
+    "time": "00:11:26",
+    "japanese": "これよりＵＳ作戦を開始。",
+    "hiragana": "これよりゆーえすさくせんをかいし。",
+    "english": "Commence Operation US."
+  },
+  {
+    "time": "00:11:29",
+    "japanese": "了解。",
+    "hiragana": "りょうかい。",
+    "english": "Roger."
+  },
+  {
+    "time": "00:11:30",
+    "japanese": "ポッドツーダッシュ、作戦最終軌道に投入開始。",
+    "hiragana": "ぽっどつーだっしゅ、さくせんさいしゅうきどうにとうにゅうかいし。",
+    "english": "Pod 02-Dash is entering the final operation orbit."
+  },
+  {
+    "time": "00:11:33",
+    "japanese": "RCS同調。作動を確認。",
+    "hiragana": "あーるしーえすどうちょう。さどうをかくにん。",
+    "english": "Tuning RCS. Activation confirmed."
+  },
+  {
+    "time": "00:11:34",
+    "japanese": "減速行動に移る。",
+    "hiragana": "げんそくこうどうにうつる。",
+    "english": "Switching to deceleration."
+  },
+  {
+    "time": "00:11:35",
+    "japanese": "第一段全エンジンを点火。",
+    "hiragana": "だいいちだんぜんえんじんをてんか。",
+    "english": "Igniting all engines, stage one."
+  },
+  {
+    "time": "00:11:36",
+    "japanese": "姿勢制御、問題なし",
+    "hiragana": "しせいせいぎょ、もんだいなし",
+    "english": "Orientation controls are nominal."
+  },
+  {
+    "time": "00:11:37",
+    "japanese": "燃焼を開始。",
+    "hiragana": "ねんしょうをかいし。",
+    "english": "Beginning combustion."
+  },
+  {
+    "time": "00:11:42",
+    "japanese": "接続リング、切り離し準備。",
+    "hiragana": "せつぞくりんぐ、きりはなしじゅんび。",
+    "english": "Contact ring ready for separation."
+  },
+  {
+    "time": "00:11:42",
+    "japanese": "Ｓ‐１Ｃ燃焼終了。",
+    "hiragana": "えすわんしーねんしょうしゅうりょう。",
+    "english": "S-1C combustion complete."
+  },
+  {
+    "time": "00:11:44",
+    "japanese": "RCS同調、確認。",
+    "hiragana": "あーるしーえすどうちょう、かくにん。",
+    "english": "RCS tuning confirmed."
+  },
+  {
+    "time": "00:11:45",
+    "japanese": "減速を確認。",
+    "hiragana": "げんそくをかくにん。",
+    "english": "Deceleration confirmed."
+  },
+  {
+    "time": "00:11:46",
+    "japanese": "第１段ブースターユニットをジェットソン。",
+    "hiragana": "だいいちだんぶーすたーゆにっとをじぇっとそん。",
+    "english": "Jettisoning booster unit, stage one."
+  },
+  {
+    "time": "00:11:46",
+    "japanese": "質量変化の要素を入力。",
+    "hiragana": "しつりょうへんかのようそをにゅうりょく。",
+    "english": "Inputting mass variation factors."
+  },
+  {
+    "time": "00:11:50",
+    "japanese": "分離を確認。",
+    "hiragana": "ぶんりをかくにん。",
+    "english": "Separation confirmed."
+  },
+  {
+    "time": "00:11:51",
+    "japanese": "電装系をチェック。異常なし。",
+    "hiragana": "でんそうけいをちぇっく。いじょうなし。",
+    "english": "Checking power systems. No problems detected."
+  },
+  {
+    "time": "00:11:51",
+    "japanese": "ドレイン弁開放。推進剤を廃棄",
+    "hiragana": "どれいんべんかいほう。すいしんざいをはいき",
+    "english": "Opening drain valves. Discarding propellant."
+  },
+  {
+    "time": "00:11:54",
+    "japanese": "了解した。",
+    "hiragana": "りょうかいした。",
+    "english": "Roger."
+  },
+  {
+    "time": "00:11:55",
+    "japanese": "燃焼タイミングはオート。",
+    "hiragana": "ねんしょうたいみんぐはおーと。",
+    "english": "Automating ignition timing."
+  },
+  {
+    "time": "00:11:56",
+    "japanese": "第２段全エンジンを点火。",
+    "hiragana": "だいにだんぜんえんじんをてんか。",
+    "english": "Igniting all engines, stage two."
+  },
+  {
+    "time": "00:12:02",
+    "japanese": "Ｓ‐１Ｃ燃焼終了。",
+    "hiragana": "えすわんしーねんしょうしゅうりょう。",
+    "english": "S-1C combustion complete."
+  },
+  {
+    "time": "00:12:02",
+    "japanese": "第２接続リング、切り離し準備。",
+    "hiragana": "だいにせつぞくりんぐ、きりはなしじゅんび。",
+    "english": "Second contact ring ready for separation."
+  },
+  {
+    "time": "00:12:03",
+    "japanese": "圧力弁を閉鎖。",
+    "hiragana": "あつりょくべんをへいさ。",
+    "english": "Closing pressure valves."
+  },
+  {
+    "time": "00:12:05",
+    "japanese": "RCS同調、再度確認。",
+    "hiragana": "あーるしーえすどうちょう、さいどかくにん。",
+    "english": "RCS tuning reconfirmed."
+  },
+  {
+    "time": "00:12:05",
+    "japanese": "第２段ブースターユニットをジェットソン。",
+    "hiragana": "だいにだんぶーすたーゆにっとをじぇっとそん。",
+    "english": "Jettisoning booster unit, stage 2."
+  },
+  {
+    "time": "00:12:09",
+    "japanese": "減速行動を終了。",
+    "hiragana": "げんそくこうどうをしゅうりょう。",
+    "english": "Deceleration complete."
+  },
+  {
+    "time": "00:12:10",
+    "japanese": "全ユニットの分離を確認",
+    "hiragana": "ぜんゆにっとのぶんりをかくにん",
+    "english": "Separation of all units confirmed."
+  },
+  {
+    "time": "00:12:10",
+    "japanese": "最終作戦軌道への投入準備。",
+    "hiragana": "さいしゅうさくせんきどうへのとうにゅうじゅんび。",
+    "english": "Preparing to enter final operation orbit."
+  },
+  {
+    "time": "00:12:12",
+    "japanese": "ドレイン弁開放。推進剤を廃棄",
+    "hiragana": "どれいんべんかいほう。すいしんざいをはいき",
+    "english": "Opening drain valves. Discarding propellant."
+  },
+  {
+    "time": "00:12:13",
+    "japanese": "機首を反転。",
+    "hiragana": "きしゅをはんてん。",
+    "english": "Flipping unit head."
+  },
+  {
+    "time": "00:12:14",
+    "japanese": "回頭開始。",
+    "hiragana": "かいとうかいし。",
+    "english": "Commencing rotation."
+  },
+  {
+    "time": "00:12:16",
+    "japanese": "降下角度、確認、誤差修正内。",
+    "hiragana": "こうかかくど、かくにん、ごさしゅうせいない。",
+    "english": "Descent angle confirmed to be within error ranges."
+  },
+  {
+    "time": "00:12:18",
+    "japanese": "接触空域に変化なし。",
+    "hiragana": "せっしょくくういきにへんかなし。",
+    "english": "No changes in contact airspace."
+  },
+  {
+    "time": "00:12:18",
+    "japanese": "相対速度、再計算。",
+    "hiragana": "そうたいそくど、さいけいさん。",
+    "english": "Recalculating relative velocity."
+  },
+  {
+    "time": "00:12:19",
+    "japanese": "タイムスケジュール、変更なし",
+    "hiragana": "たいむすけじゅーる、へんこうなし",
+    "english": "Timetable requires no correction."
+  },
+  {
+    "time": "00:12:19",
+    "japanese": "座標高度を再確認。",
+    "hiragana": "ざひょうこうどをさいかくにん。",
+    "english": "Reconfirming coordinate altitude."
+  },
+  {
+    "time": "00:12:22",
+    "japanese": "全て問題なし。",
+    "hiragana": "すべてもんだいなし。",
+    "english": "No problems."
+  },
+  {
+    "time": "00:12:22",
+    "japanese": "数値を再確認。問題なし",
+    "hiragana": "すうちをさいかくにん。もんだいなし",
+    "english": "Values reconfirmed, all clear."
+  }
+]
