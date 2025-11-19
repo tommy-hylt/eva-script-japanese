@@ -1,4 +1,4 @@
-import type { ScriptEntry } from '../types/ScriptEntry';
+import type { ScriptEntry, TextSegment } from '../types/ScriptEntry';
 import './Row.css';
 
 interface RowProps {
@@ -6,11 +6,24 @@ interface RowProps {
 }
 
 export const Row = ({ entry }: RowProps) => {
+  const renderSegment = (segment: TextSegment, index: number) => {
+    if (typeof segment === 'string') {
+      return <span key={index}>{segment}</span>;
+    }
+    return (
+      <ruby key={index}>
+        {segment.kanji}
+        <rt>{segment.reading}</rt>
+      </ruby>
+    );
+  };
+
   return (
     <div className="row">
       <div className="time">{entry.time} {entry.character && `- ${entry.character}`}</div>
-      <div className="japanese">{entry.japanese}</div>
-      <div className="hiragana">{entry.hiragana}</div>
+      <div className="japanese">
+        {entry.segments.map((segment, index) => renderSegment(segment, index))}
+      </div>
       <div className="english">{entry.english}</div>
     </div>
   );

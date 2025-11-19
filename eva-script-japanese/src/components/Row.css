@@ -19,15 +19,18 @@
   font-size: 1.75rem;
   font-weight: 600;
   color: #3d1a1a;
-  margin-bottom: 0.5rem;
-  line-height: 1.4;
+  margin-bottom: 0.75rem;
+  line-height: 2.2;
 }
 
-.hiragana {
-  font-size: 0.9rem;
+.japanese ruby {
+  ruby-position: over;
+}
+
+.japanese rt {
+  font-size: 0.5em;
   color: #666;
-  margin-bottom: 0.75rem;
-  line-height: 1.5;
+  font-weight: 400;
 }
 
 .english {

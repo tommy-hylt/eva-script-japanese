@@ -1,7 +1,8 @@
+export type TextSegment = string | { kanji: string; reading: string };
+
 export interface ScriptEntry {
   time: string;
   character: string;
-  japanese: string;
-  hiragana: string;
+  segments: TextSegment[];
   english: string;
 }

@@ -1,1577 +1,2649 @@
 [
   {
     "time": "00:44:33",
-    "japanese": "今日は早いね",
-    "hiragana": "きょうははやいね",
-    "english": "You're here early today.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "今日", "reading": "きょう"},
+      "は",
+      {"kanji": "早", "reading": "はや"},
+      "いね"
+    ],
+    "english": "You're here early today."
   },
   {
     "time": "00:44:35",
-    "japanese": "他にすることがないから",
-    "hiragana": "ほかにすることがないから",
-    "english": "I didn't have anything else to do.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "他", "reading": "ほか"},
+      "にすることがないから"
+    ],
+    "english": "I didn't have anything else to do."
   },
   {
     "time": "00:44:44",
-    "japanese": "何だか久しぶりに楽しかったよ。",
-    "hiragana": "なんだかひさしぶりにたのしかったよ。",
-    "english": "It's been ages since I've had this much fun.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "何", "reading": "なん"},
+      "だか",
+      {"kanji": "久", "reading": "ひさ"},
+      "しぶりに",
+      {"kanji": "楽", "reading": "たの"},
+      "しかったよ。"
+    ],
+    "english": "It's been ages since I've had this much fun."
   },
   {
     "time": "00:45:07",
-    "japanese": "どうしたらもっと上手く弾けるのかな？",
-    "hiragana": "どうしたらもっとうまくひけるのかな？",
-    "english": "How can I get better at playing piano?",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "どうしたらもっと",
+      {"kanji": "上手", "reading": "うま"},
+      "く",
+      {"kanji": "弾", "reading": "ひ"},
+      "けるのかな？"
+    ],
+    "english": "How can I get better at playing piano?"
   },
   {
     "time": "00:45:10",
-    "japanese": "上手く弾く必要はないよ。",
-    "hiragana": "うまくひくひつようはないよ。",
-    "english": "You don't have to be good at it.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "上手", "reading": "うま"},
+      "く",
+      {"kanji": "弾", "reading": "ひ"},
+      "く",
+      {"kanji": "必要", "reading": "ひつよう"},
+      "はないよ。"
+    ],
+    "english": "You don't have to be good at it."
   },
   {
     "time": "00:45:13",
-    "japanese": "ただ、気持ちのいい音を出せばいい。",
-    "hiragana": "ただ、きもちのいいおとをだせばいい。",
-    "english": "Just make music that feels good.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "ただ、",
+      {"kanji": "気持", "reading": "きも"},
+      "ちのいい",
+      {"kanji": "音", "reading": "おと"},
+      "を",
+      {"kanji": "出", "reading": "だ"},
+      "せばいい。"
+    ],
+    "english": "Just make music that feels good."
   },
   {
     "time": "00:45:17",
-    "japanese": "じゃあ、もっといい音を出したいんだけど、どうすればいい？",
-    "hiragana": "じゃあ、もっといいおとをだしたいんだけど、どうすればいい？",
-    "english": "Well, how do I make music that sounds even better?",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "じゃあ、もっといい",
+      {"kanji": "音", "reading": "おと"},
+      "を",
+      {"kanji": "出", "reading": "だ"},
+      "したいんだけど、どうすればいい？"
+    ],
+    "english": "Well, how do I make music that sounds even better?"
   },
   {
     "time": "00:45:21",
-    "japanese": "反復練習さ。",
-    "hiragana": "はんぷくれんしゅうさ。",
-    "english": "Practice and more practice.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "反復練習", "reading": "はんぷくれんしゅう"},
+      "さ。"
+    ],
+    "english": "Practice and more practice."
   },
   {
     "time": "00:45:23",
-    "japanese": "同じ事を何度も繰り返す。自分がいいなって感じられるまでね。",
-    "hiragana": "おなじことをなんどもくりかえす。じぶんがいいなってかんじられるまでね。",
-    "english": "",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "同", "reading": "おな"},
+      "じ",
+      {"kanji": "事", "reading": "こと"},
+      "を",
+      {"kanji": "何度", "reading": "なんど"},
+      "も",
+      {"kanji": "繰", "reading": "く"},
+      "り",
+      {"kanji": "返", "reading": "かえ"},
+      "す。",
+      {"kanji": "自分", "reading": "じぶん"},
+      "がいいなって",
+      {"kanji": "感", "reading": "かん"},
+      "じられるまでね。"
+    ],
+    "english": ""
   },
   {
     "time": "00:45:26",
-    "japanese": "ここのまま星をみようよ。",
-    "hiragana": "ここのままほしをみようよ。",
-    "english": "We could watch the stars from here.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "ここのまま",
+      {"kanji": "星", "reading": "ほし"},
+      "をみようよ。"
+    ],
+    "english": "We could watch the stars from here."
   },
   {
     "time": "00:45:30",
-    "japanese": "それしかない。",
-    "hiragana": "それしかない。",
-    "english": "",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "それしかない。"
+    ],
+    "english": ""
   },
   {
     "time": "00:46:01",
-    "japanese": "いいよ。任せて。",
-    "hiragana": "いいよ。まかせて。",
-    "english": "",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "いいよ。",
+      {"kanji": "任", "reading": "まか"},
+      "せて。"
+    ],
+    "english": ""
   },
   {
     "time": "00:46:03",
-    "japanese": "動くようにすればいいんだね。",
-    "hiragana": "うごくようにすればいいんだね。",
-    "english": "I just need to get it working again, right?",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "動", "reading": "うご"},
+      "くようにすればいいんだね。"
+    ],
+    "english": "I just need to get it working again, right?"
   },
   {
     "time": "00:46:05",
-    "japanese": "うん。ありがとう。",
-    "hiragana": "うん。ありがとう。",
-    "english": "Yeah. Thank you.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "うん。ありがとう。"
+    ],
+    "english": "Yeah. Thank you."
   },
   {
     "time": "00:46:07",
-    "japanese": "何だか悪いかな。こんな事まで頼んじゃって。",
-    "hiragana": "なんだかわるいかな。こんなことまでたのんじゃって。",
-    "english": "Sorry for asking so much of you.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "何", "reading": "なん"},
+      "だか",
+      {"kanji": "悪", "reading": "わる"},
+      "いかな。こんな",
+      {"kanji": "事", "reading": "こと"},
+      "まで",
+      {"kanji": "頼", "reading": "たの"},
+      "んじゃって。"
+    ],
+    "english": "Sorry for asking so much of you."
   },
   {
     "time": "00:46:10",
-    "japanese": "気にする事はないよ。",
-    "hiragana": "きにすることはないよ。",
-    "english": "Don't need to worry about it.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "気", "reading": "き"},
+      "にする",
+      {"kanji": "事", "reading": "こと"},
+      "はないよ。"
+    ],
+    "english": "Don't need to worry about it."
   },
   {
     "time": "00:46:12",
-    "japanese": "友だちだからね。",
-    "hiragana": "ともだちだからね。",
-    "english": "We're friends, after all.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "友", "reading": "とも"},
+      "だちだからね。"
+    ],
+    "english": "We're friends, after all."
   },
   {
     "time": "00:46:18",
-    "japanese": "暗くなってきたね。",
-    "hiragana": "くらくなってきたね。",
-    "english": "It's getting dark.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "暗", "reading": "くら"},
+      "くなってきたね。"
+    ],
+    "english": "It's getting dark."
   },
   {
     "time": "00:46:20",
-    "japanese": "今日はこれで戻ろう。",
-    "hiragana": "きょうはこれでもどろう。",
-    "english": "Let's call it a day.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "今日", "reading": "きょう"},
+      "はこれで",
+      {"kanji": "戻", "reading": "もど"},
+      "ろう。"
+    ],
+    "english": "Let's call it a day."
   },
   {
     "time": "00:46:23",
-    "japanese": "ねえ、もう少しここにいない？",
-    "hiragana": "ねえ、もうすこしここにいない？",
-    "english": "Hey, why don't we stay here a little longer?",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "ねえ、もう",
+      {"kanji": "少", "reading": "すこ"},
+      "しここにいない？"
+    ],
+    "english": "Hey, why don't we stay here a little longer?"
   },
   {
     "time": "00:46:28",
-    "japanese": "星を？",
-    "hiragana": "ほしを？",
-    "english": "The stars?",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "星", "reading": "ほし"},
+      "を？"
+    ],
+    "english": "The stars?"
   },
   {
     "time": "00:46:31",
-    "japanese": "―――星が好きなのかい？",
-    "hiragana": "―――ほしがすきなのかい？",
-    "english": "So you like the stars?",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "―――",
+      {"kanji": "星", "reading": "ほし"},
+      "が",
+      {"kanji": "好", "reading": "す"},
+      "きなのかい？"
+    ],
+    "english": "So you like the stars?"
   },
   {
     "time": "00:46:34",
-    "japanese": "うん。",
-    "hiragana": "うん。",
-    "english": "Yeah.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "うん。"
+    ],
+    "english": "Yeah."
   },
   {
     "time": "00:46:36",
-    "japanese": "この宇宙の大きさを感じてると、",
-    "hiragana": "このうちゅうのおおきさをかんじてると、",
-    "english": "Whenever I think about how vast the universe is,",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "この",
+      {"kanji": "宇宙", "reading": "うちゅう"},
+      "の",
+      {"kanji": "大", "reading": "おお"},
+      "きさを",
+      {"kanji": "感", "reading": "かん"},
+      "じてると、"
+    ],
+    "english": "Whenever I think about how vast the universe is,"
   },
   {
     "time": "00:46:39",
-    "japanese": "小さい時からなんだかすごく安らぐっていうか、",
-    "hiragana": "ちいさいときからなんだかすごくやすらぐっていうか、",
-    "english": "it's always put my mind completely at ease, ever since I was little.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "小", "reading": "ちい"},
+      "さい",
+      {"kanji": "時", "reading": "とき"},
+      "から",
+      {"kanji": "何", "reading": "なん"},
+      "だかすごく",
+      {"kanji": "安", "reading": "やす"},
+      "らぐっていうか、"
+    ],
+    "english": "it's always put my mind completely at ease, ever since I was little."
   },
   {
     "time": "00:46:44",
-    "japanese": "１４年くらいじゃ何にも変わらないのが嬉しいっていうか、",
-    "hiragana": "１４ねんくらいじゃなんにもかわらないのがうれしいっていうか、",
-    "english": "I guess I'm happy that it hasn't changed at all these past fourteen years.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "１４年", "reading": "じゅうよねん"},
+      "くらいじゃ",
+      {"kanji": "何", "reading": "なん"},
+      "にも",
+      {"kanji": "変", "reading": "か"},
+      "わらないのが",
+      {"kanji": "嬉", "reading": "うれ"},
+      "しいっていうか、"
+    ],
+    "english": "I guess I'm happy that it hasn't changed at all these past fourteen years."
   },
   {
     "time": "00:46:49",
-    "japanese": "自分の事なんてどうでもいい気がして、落ちつくっていうか・・・",
-    "hiragana": "じぶんのことなんてどうでもいいきがして、おちつくっていうか・・・",
-    "english": "It makes me feel like I can stop worrying about myself and really calm down.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "自分", "reading": "じぶん"},
+      "の",
+      {"kanji": "事", "reading": "こと"},
+      "なんてどうでもいい",
+      {"kanji": "気", "reading": "き"},
+      "がして、",
+      {"kanji": "落", "reading": "お"},
+      "ちつくっていうか・・・"
+    ],
+    "english": "It makes me feel like I can stop worrying about myself and really calm down."
   },
   {
     "time": "00:46:55",
-    "japanese": "あの、上手く言えないよ。",
-    "hiragana": "あの、うまくいえないよ。",
-    "english": "Uh, it's hard to put into words.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "あの、",
+      {"kanji": "上手", "reading": "うま"},
+      "く",
+      {"kanji": "言", "reading": "い"},
+      "えないよ。"
+    ],
+    "english": "Uh, it's hard to put into words."
   },
   {
     "time": "00:46:58",
-    "japanese": "君の気持ちは伝わるよ。",
-    "hiragana": "きみのきもちはつたわるよ。",
-    "english": "Your feelings came through.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "君", "reading": "きみ"},
+      "の",
+      {"kanji": "気持", "reading": "きも"},
+      "ちは",
+      {"kanji": "伝", "reading": "つた"},
+      "わるよ。"
+    ],
+    "english": "Your feelings came through."
   },
   {
     "time": "00:47:01",
-    "japanese": "変化を求めず、虚無と無慈悲な深淵の世界を好む。",
-    "hiragana": "へんかをもとめず、きょむとむじひなしんえんのせかいをこのむ。",
-    "english": "Instead of seeking change, you prefer a void, merciless abyss of a world.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "変化", "reading": "へんか"},
+      "を",
+      {"kanji": "求", "reading": "もと"},
+      "めず、",
+      {"kanji": "虚無", "reading": "きょむ"},
+      "と",
+      {"kanji": "無慈悲", "reading": "むじひ"},
+      "な",
+      {"kanji": "深淵", "reading": "しんえん"},
+      "の",
+      {"kanji": "世界", "reading": "せかい"},
+      "を",
+      {"kanji": "好", "reading": "この"},
+      "む。"
+    ],
+    "english": "Instead of seeking change, you prefer a void, merciless abyss of a world."
   },
   {
     "time": "00:47:06",
-    "japanese": "君らしいよ。",
-    "hiragana": "きみらしいよ。",
-    "english": "It's just like you.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "君", "reading": "きみ"},
+      "らしいよ。"
+    ],
+    "english": "It's just like you."
   },
   {
     "time": "00:47:09",
-    "japanese": "いいね。２人で横たわるって。",
-    "hiragana": "いいね。ふたりでよこたわるって。",
-    "english": "Lying here together is nice.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "いいね。",
+      {"kanji": "２人", "reading": "ふたり"},
+      "で",
+      {"kanji": "横", "reading": "よこ"},
+      "たわるって。"
+    ],
+    "english": "Lying here together is nice."
   },
   {
     "time": "00:47:12",
-    "japanese": "こんなに心地よいとは知らなかったよ。",
-    "hiragana": "こんなにここちよいとはしらなかったよ。",
-    "english": "I didn't know it would feel so good.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "こんなに",
+      {"kanji": "心地", "reading": "ここち"},
+      "よいとは",
+      {"kanji": "知", "reading": "し"},
+      "らなかったよ。"
+    ],
+    "english": "I didn't know it would feel so good."
   },
   {
     "time": "00:47:15",
-    "japanese": "ありがとう。誘ってくれて。",
-    "hiragana": "ありがとう。さそってくれて。",
-    "english": "Thanks for inviting me.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "ありがとう。",
+      {"kanji": "誘", "reading": "さそ"},
+      "ってくれて。"
+    ],
+    "english": "Thanks for inviting me."
   },
   {
     "time": "00:47:18",
-    "japanese": "いや、そんな、別に・・・",
-    "hiragana": "いや、そんな、べつに・・・",
-    "english": "Oh, it's no big deal.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "いや、そんな、",
+      {"kanji": "別", "reading": "べつ"},
+      "に・・・"
+    ],
+    "english": "Oh, it's no big deal."
   },
   {
     "time": "00:47:20",
-    "japanese": "渚君と星を見たら、楽しいかなって―――　ちょっと思っただけ・・・",
-    "hiragana": "なぎさくんとほしをみたら、たのしいかなって―――　ちょっとおもっただけ・・・",
-    "english": "I just thought it'd be fun to watch the stars with you, and—",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "渚", "reading": "なぎさ"},
+      {"kanji": "君", "reading": "くん"},
+      "と",
+      {"kanji": "星", "reading": "ほし"},
+      "を",
+      {"kanji": "見", "reading": "み"},
+      "たら、",
+      {"kanji": "楽", "reading": "たの"},
+      "しいかなって―――　ちょっと",
+      {"kanji": "思", "reading": "おも"},
+      "っただけ・・・"
+    ],
+    "english": "I just thought it'd be fun to watch the stars with you, and—"
   },
   {
     "time": "00:47:27",
-    "japanese": "―――楽しいよ",
-    "hiragana": "―――たのしいよ",
-    "english": "It is fun.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "―――",
+      {"kanji": "楽", "reading": "たの"},
+      "しいよ"
+    ],
+    "english": "It is fun."
   },
   {
     "time": "00:47:30",
-    "japanese": "僕は、君と会う為に生まれて来たんだね。",
-    "hiragana": "ぼくは、きみとあうためにうまれてきたんだね。",
-    "english": "I really was born to meet you.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "僕", "reading": "ぼく"},
+      "は、",
+      {"kanji": "君", "reading": "きみ"},
+      "と",
+      {"kanji": "会", "reading": "あ"},
+      "う",
+      {"kanji": "為", "reading": "ため"},
+      "に",
+      {"kanji": "生", "reading": "う"},
+      "まれて",
+      {"kanji": "来", "reading": "き"},
+      "たんだね。"
+    ],
+    "english": "I really was born to meet you."
   },
   {
     "time": "00:47:44",
-    "japanese": "ん？",
-    "hiragana": "ん？",
-    "english": "Hm?",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "ん？"
+    ],
+    "english": "Hm?"
   },
   {
     "time": "00:47:50",
-    "japanese": "今度のはちょっとおっきかな・・・ん？",
-    "hiragana": "こんどのはちょっとおっきかな・・・ん？",
-    "english": "This one's a little big.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "今度", "reading": "こんど"},
+      "のはちょっとおっきかな・・・ん？"
+    ],
+    "english": "This one's a little big."
   },
   {
     "time": "00:47:53",
-    "japanese": "あれ？",
-    "hiragana": "あれ？",
-    "english": "Huh?",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "あれ？"
+    ],
+    "english": "Huh?"
   },
   {
     "time": "00:47:55",
-    "japanese": "鈴原トウジ",
-    "hiragana": "すずはらとうじ",
-    "english": "Suzuhara Toji",
-    "character": "名札"
+    "character": "名札",
+    "segments": [
+      {"kanji": "鈴原", "reading": "すずはら"},
+      "トウジ"
+    ],
+    "english": "Suzuhara Toji"
   },
   {
     "time": "00:47:56",
-    "japanese": "・・・！！",
-    "hiragana": "・・・！！",
-    "english": "",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "・・・！！"
+    ],
+    "english": ""
   },
   {
     "time": "00:48:00",
-    "japanese": "ハイ。これで動くようになったよ。",
-    "hiragana": "はい。これでうごくようになったよ。",
-    "english": "Here, it should work just fine now.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "ハイ。これで",
+      {"kanji": "動", "reading": "うご"},
+      "くようになったよ。"
+    ],
+    "english": "Here, it should work just fine now."
   },
   {
     "time": "00:48:03",
-    "japanese": "ありがとう。",
-    "hiragana": "ありがとう。",
-    "english": "Thanks.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "ありがとう。"
+    ],
+    "english": "Thanks."
   },
   {
     "time": "00:48:04",
-    "japanese": "・・・すごいね渚君。",
-    "hiragana": "・・・すごいねなぎさくん。",
-    "english": "You're amazing, Nagisa-kun.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "・・・すごいね",
+      {"kanji": "渚", "reading": "なぎさ"},
+      {"kanji": "君", "reading": "くん"},
+      "。"
+    ],
+    "english": "You're amazing, Nagisa-kun."
   },
   {
     "time": "00:48:06",
-    "japanese": "何でも出来ちゃうんだ。",
-    "hiragana": "なんでもできちゃうんだ。",
-    "english": "There's nothing you can't do.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "何", "reading": "なん"},
+      "でも",
+      {"kanji": "出来", "reading": "でき"},
+      "ちゃうんだ。"
+    ],
+    "english": "There's nothing you can't do."
   },
   {
     "time": "00:48:08",
-    "japanese": "こんなのは知識に過ぎない。",
-    "hiragana": "こんなのはちしきにすぎない。",
-    "english": "Knowledge is all this is.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "こんなのは",
+      {"kanji": "知識", "reading": "ちしき"},
+      "に",
+      {"kanji": "過", "reading": "す"},
+      "ぎない。"
+    ],
+    "english": "Knowledge is all this is."
   },
   {
     "time": "00:48:10",
-    "japanese": "君より少しこの世界に留まっているからだよ。",
-    "hiragana": "きみよりすこしこのせかいにとどまっているからだよ。",
-    "english": "It's only because I've been in this world a little longer than you have.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "君", "reading": "きみ"},
+      "より",
+      {"kanji": "少", "reading": "すこ"},
+      "しこの",
+      {"kanji": "世界", "reading": "せかい"},
+      "に",
+      {"kanji": "留", "reading": "とど"},
+      "まっているからだよ。"
+    ],
+    "english": "It's only because I've been in this world a little longer than you have."
   },
   {
     "time": "00:48:14",
-    "japanese": "・・・でも、すごいよ。",
-    "hiragana": "・・・でも、すごいよ。",
-    "english": "You're still amazing, though.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "・・・でも、すごいよ。"
+    ],
+    "english": "You're still amazing, though."
   },
   {
     "time": "00:48:18",
-    "japanese": "元気少ないね。どうしたんだい？",
-    "hiragana": "げんきすくないね。どうしたんだい？",
-    "english": "You seem down.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "元気", "reading": "げんき"},
+      {"kanji": "少", "reading": "すく"},
+      "ないね。どうしたんだい？"
+    ],
+    "english": "You seem down."
   },
   {
     "time": "00:48:25",
-    "japanese": "心配になったんだ。・・・友達が。",
-    "hiragana": "しんぱいになったんだ。・・・ともだちが。",
-    "english": "I'm worried about my friends.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "心配", "reading": "しんぱい"},
+      "になったんだ。・・・",
+      {"kanji": "友達", "reading": "ともだち"},
+      "が。"
+    ],
+    "english": "I'm worried about my friends."
   },
   {
     "time": "00:48:29",
-    "japanese": "友達？",
-    "hiragana": "ともだち？",
-    "english": "Your friends?",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "友達", "reading": "ともだち"},
+      "？"
+    ],
+    "english": "Your friends?"
   },
   {
     "time": "00:48:30",
-    "japanese": "うん。",
-    "hiragana": "うん。",
-    "english": "Yeah.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "うん。"
+    ],
+    "english": "Yeah."
   },
   {
     "time": "00:48:32",
-    "japanese": "ネルフ本部の上に街があって、",
-    "hiragana": "ねるふほんぶのうえにまちがあって、",
-    "english": "There was a city above Nerv HQ.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "ネルフ",
+      {"kanji": "本部", "reading": "ほんぶ"},
+      "の",
+      {"kanji": "上", "reading": "うえ"},
+      "に",
+      {"kanji": "街", "reading": "まち"},
+      "があって、"
+    ],
+    "english": "There was a city above Nerv HQ."
   },
   {
     "time": "00:48:35",
-    "japanese": "みんなそこにいたんだ。",
-    "hiragana": "みんなそこにいたんだ。",
-    "english": "We all used to live there.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "みんなそこにいたんだ。"
+    ],
+    "english": "We all used to live there."
   },
   {
     "time": "00:48:37",
-    "japanese": "トウジやケンスケ。",
-    "hiragana": "とうじやけんすけ。",
-    "english": "Toji, Kensuke.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "トウジやケンスケ。"
+    ],
+    "english": "Toji, Kensuke."
   },
   {
     "time": "00:48:38",
-    "japanese": "委員長やクラスのみんなも―――",
-    "hiragana": "いいんちょうやくらすのみんなも―――",
-    "english": "The class rep, my other classmates...",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "委員長", "reading": "いいんちょう"},
+      "やクラスのみんなも―――"
+    ],
+    "english": "The class rep, my other classmates..."
   },
   {
     "time": "00:48:41",
-    "japanese": "僕は１４年間も初号機の中で眠ってたみたいなんだ・・・",
-    "hiragana": "ぼくは１４ねんかんもしょごうきのなかでねむってたみたいなんだ・・・",
-    "english": "Apparently I slept in Eva-01 for fourteen years.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "僕", "reading": "ぼく"},
+      "は",
+      {"kanji": "１４年間", "reading": "じゅうよねんかん"},
+      "も",
+      {"kanji": "初号機", "reading": "しょごうき"},
+      "の",
+      {"kanji": "中", "reading": "なか"},
+      "で",
+      {"kanji": "眠", "reading": "ねむ"},
+      "ってたみたいなんだ・・・"
+    ],
+    "english": "Apparently I slept in Eva-01 for fourteen years."
   },
   {
     "time": "00:48:45",
-    "japanese": "その間に、何もかも変わっちゃったんだよ。",
-    "hiragana": "そのあいだに、なにもかもかわっちゃったんだよ。",
-    "english": "So much has changed since then.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "その",
+      {"kanji": "間", "reading": "あいだ"},
+      "に、",
+      {"kanji": "何", "reading": "なに"},
+      "もかも",
+      {"kanji": "変", "reading": "か"},
+      "わっちゃったんだよ。"
+    ],
+    "english": "So much has changed since then."
   },
   {
     "time": "00:48:50",
-    "japanese": "その変化に耐えきれず・・・辛いんだね。",
-    "hiragana": "そのへんかにたえきれず・・・つらいんだね。",
-    "english": "More change than you can bear at once is painful.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "その",
+      {"kanji": "変化", "reading": "へんか"},
+      "に",
+      {"kanji": "耐", "reading": "た"},
+      "えきれず・・・",
+      {"kanji": "辛", "reading": "つら"},
+      "いんだね。"
+    ],
+    "english": "More change than you can bear at once is painful."
   },
   {
     "time": "00:48:54",
-    "japanese": "何だか怖いんだ。",
-    "hiragana": "なんだかこわいんだ。",
-    "english": "I'm kind of scared.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "何", "reading": "なん"},
+      "だか",
+      {"kanji": "怖", "reading": "こわ"},
+      "いんだ。"
+    ],
+    "english": "I'm kind of scared."
   },
   {
     "time": "00:48:57",
-    "japanese": "街が・・・みんながどうなっちゃってるのか。",
-    "hiragana": "まちが・・・みんながどうなっちゃってるのか。",
-    "english": "I don't know... what happened to the city and everyone.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "街", "reading": "まち"},
+      "が・・・みんながどうなっちゃってるのか。"
+    ],
+    "english": "I don't know... what happened to the city and everyone."
   },
   {
     "time": "00:49:02",
-    "japanese": "ワケわからなくて怖いんだ。",
-    "hiragana": "わけわからなくてこわいんだ。",
-    "english": "Nothing makes sense, and it scares me.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "ワケわからなくて",
+      {"kanji": "怖", "reading": "こわ"},
+      "いんだ。"
+    ],
+    "english": "Nothing makes sense, and it scares me."
   },
   {
     "time": "00:49:04",
-    "japanese": "そう、怖いんだよ！",
-    "hiragana": "そう、こわいんだよ！",
-    "english": "That's right! I'm scared!",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "そう、",
+      {"kanji": "怖", "reading": "こわ"},
+      "いんだよ！"
+    ],
+    "english": "That's right! I'm scared!"
   },
   {
     "time": "00:49:15",
-    "japanese": "・・・知りたいかい？",
-    "hiragana": "・・・しりたいかい？",
-    "english": "Do you want to know?",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "・・・",
+      {"kanji": "知", "reading": "し"},
+      "りたいかい？"
+    ],
+    "english": "Do you want to know?"
   },
   {
     "time": "00:49:29",
-    "japanese": "うわっ！",
-    "hiragana": "うわっ！",
-    "english": "",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "うわっ！"
+    ],
+    "english": ""
   },
   {
     "time": "00:49:44",
-    "japanese": "渚君？",
-    "hiragana": "なぎさくん？",
-    "english": "Nagisa-kun?",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "渚", "reading": "なぎさ"},
+      {"kanji": "君", "reading": "くん"},
+      "？"
+    ],
+    "english": "Nagisa-kun?"
   },
   {
     "time": "00:49:46",
-    "japanese": "渚君！！",
-    "hiragana": "なぎさくん！！",
-    "english": "Nagisa-kun!",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "渚", "reading": "なぎさ"},
+      {"kanji": "君", "reading": "くん"},
+      "！！"
+    ],
+    "english": "Nagisa-kun!"
   },
   {
     "time": "00:50:03",
-    "japanese": "さぁ、もう少しだ。",
-    "hiragana": "さぁ、もうすこしだ。",
-    "english": "Just a little further now.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "さぁ、もう",
+      {"kanji": "少", "reading": "すこ"},
+      "しだ。"
+    ],
+    "english": "Just a little further now."
   },
   {
     "time": "00:50:17",
-    "japanese": "はあ・・・はあ・・・",
-    "hiragana": "はあ・・・はあ・・・",
-    "english": "",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "はあ・・・はあ・・・"
+    ],
+    "english": ""
   },
   {
     "time": "00:50:22",
-    "japanese": "もうすぐ雲が切れる。",
-    "hiragana": "もうすぐくもがきれる。",
-    "english": "The clouds will soon disperse,",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "もうすぐ",
+      {"kanji": "雲", "reading": "くも"},
+      "が",
+      {"kanji": "切", "reading": "き"},
+      "れる。"
+    ],
+    "english": "The clouds will soon disperse,"
   },
   {
     "time": "00:50:24",
-    "japanese": "君の知りたい真実が見れるよ。",
-    "hiragana": "きみのしりたいしんじつがみれるよ。",
-    "english": "and you will see the truth you desire.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "君", "reading": "きみ"},
+      "の",
+      {"kanji": "知", "reading": "し"},
+      "りたい",
+      {"kanji": "真実", "reading": "しんじつ"},
+      "が",
+      {"kanji": "見", "reading": "み"},
+      "れるよ。"
+    ],
+    "english": "and you will see the truth you desire."
   },
   {
     "time": "00:50:31",
-    "japanese": "・・・！！",
-    "hiragana": "・・・！！",
-    "english": "",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "・・・！！"
+    ],
+    "english": ""
   },
   {
     "time": "00:50:36",
-    "japanese": "・・・なんだ、これ？",
-    "hiragana": "・・・なんだ、これ？",
-    "english": "What is this...?",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "・・・",
+      {"kanji": "何", "reading": "なん"},
+      "だ、これ？"
+    ],
+    "english": "What is this...?"
   },
   {
     "time": "00:50:43",
-    "japanese": "君が初号機と同化している間に起こったサードインパクトの結果だよ。",
-    "hiragana": "きみがしょごうきとどうかしているあいだにおこったさーどいんぱくとのけっかだよ。",
-    "english": "",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "君", "reading": "きみ"},
+      "が",
+      {"kanji": "初号機", "reading": "しょごうき"},
+      "と",
+      {"kanji": "同化", "reading": "どうか"},
+      "している",
+      {"kanji": "間", "reading": "あいだ"},
+      "に",
+      {"kanji": "起", "reading": "お"},
+      "こったサードインパクトの",
+      {"kanji": "結果", "reading": "けっか"},
+      "だよ。"
+    ],
+    "english": ""
   },
   {
     "time": "00:50:51",
-    "japanese": "これじゃ・・・",
-    "hiragana": "これじゃ・・・",
-    "english": "But then...",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "これじゃ・・・"
+    ],
+    "english": "But then..."
   },
   {
     "time": "00:50:53",
-    "japanese": "街のみんなは―――",
-    "hiragana": "まちのみんなは―――",
-    "english": "What happened to everyone in the city?",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "街", "reading": "まち"},
+      "のみんなは―――"
+    ],
+    "english": "What happened to everyone in the city?"
   },
   {
     "time": "00:50:55",
-    "japanese": "この星での大量絶滅はめずらしい事じゃない。",
-    "hiragana": "このほしでのたいりょうぜつめつはめずらしいことじゃない。",
-    "english": "Mass extinctions are not unusual on this planet.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "この",
+      {"kanji": "星", "reading": "ほし"},
+      "での",
+      {"kanji": "大量絶滅", "reading": "たいりょうぜつめつ"},
+      "はめずらしい",
+      {"kanji": "事", "reading": "こと"},
+      "じゃない。"
+    ],
+    "english": "Mass extinctions are not unusual on this planet."
   },
   {
     "time": "00:50:58",
-    "japanese": "むしろ、進化を促す面もある。",
-    "hiragana": "むしろ、しんかをうながすめんもある。",
-    "english": "In fact, they help drive evolution.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "むしろ、",
+      {"kanji": "進化", "reading": "しんか"},
+      "を",
+      {"kanji": "促", "reading": "うなが"},
+      "す",
+      {"kanji": "面", "reading": "めん"},
+      "もある。"
+    ],
+    "english": "In fact, they help drive evolution."
   },
   {
     "time": "00:51:02",
-    "japanese": "生命とは本来、世界に合わせて自らを変えていく存在だからね。",
-    "hiragana": "せいめいとはほんらい、せかいにあわせてみずからをかえていくそんざいだからね。",
-    "english": "Life has always changed itself to adapt to the world around it.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "生命", "reading": "せいめい"},
+      "とは",
+      {"kanji": "本来", "reading": "ほんらい"},
+      "、",
+      {"kanji": "世界", "reading": "せかい"},
+      "に",
+      {"kanji": "合", "reading": "あ"},
+      "わせて",
+      {"kanji": "自", "reading": "みずか"},
+      "らを",
+      {"kanji": "変", "reading": "か"},
+      "えていく",
+      {"kanji": "存在", "reading": "そんざい"},
+      "だからね。"
+    ],
+    "english": "Life has always changed itself to adapt to the world around it."
   },
   {
     "time": "00:51:08",
-    "japanese": "しかし、リリンは自らではなく世界の方を変えていく。",
-    "hiragana": "しかし、りりんはみずからではなくせかいのほうをかえていく。",
-    "english": "However, Lilin change not themselves, but the world.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "しかし、リリンは",
+      {"kanji": "自", "reading": "みずか"},
+      "らではなく",
+      {"kanji": "世界", "reading": "せかい"},
+      "の",
+      {"kanji": "方", "reading": "ほう"},
+      "を",
+      {"kanji": "変", "reading": "か"},
+      "えていく。"
+    ],
+    "english": "However, Lilin change not themselves, but the world."
   },
   {
     "time": "00:51:15",
-    "japanese": "だから、自らを人工的に進化させる為の儀式を起こした。",
-    "hiragana": "だから、みずからをじんこうてきにしんかさせるためのぎしきをおこした。",
-    "english": "So they brought the rite of artificial evolution unto themselves.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "だから、",
+      {"kanji": "自", "reading": "みずか"},
+      "らを",
+      {"kanji": "人工的", "reading": "じんこうてき"},
+      "に",
+      {"kanji": "進化", "reading": "しんか"},
+      "させる",
+      {"kanji": "為", "reading": "ため"},
+      "の",
+      {"kanji": "儀式", "reading": "ぎしき"},
+      "を",
+      {"kanji": "起", "reading": "お"},
+      "こした。"
+    ],
+    "english": "So they brought the rite of artificial evolution unto themselves."
   },
   {
     "time": "00:51:21",
-    "japanese": "古の生命体をニエとし、生命の実を与えた新たな生命体をつくり出す為にね。",
-    "hiragana": "いにしえのせいめいたいをにえとし、せいめいのみをあたえたあらたなせいめいたいをつくりだすためにね。",
-    "english": "Old life is offered in sacrifice,",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "古", "reading": "いにしえ"},
+      "の",
+      {"kanji": "生命体", "reading": "せいめいたい"},
+      "をニエとし、",
+      {"kanji": "生命", "reading": "せいめい"},
+      "の",
+      {"kanji": "実", "reading": "み"},
+      "を",
+      {"kanji": "与", "reading": "あた"},
+      "えた",
+      {"kanji": "新", "reading": "あら"},
+      "たな",
+      {"kanji": "生命体", "reading": "せいめいたい"},
+      "を",
+      {"kanji": "作", "reading": "つく"},
+      "り",
+      {"kanji": "出", "reading": "だ"},
+      "す",
+      {"kanji": "為", "reading": "ため"},
+      "にね。"
+    ],
+    "english": "Old life is offered in sacrifice,"
   },
   {
     "time": "00:51:29",
-    "japanese": "全てが太古よりプログラムされていた絶滅行動だ。",
-    "hiragana": "すべてがたいこよりぷろぐらむされていたぜつめつこうどうだ。",
-    "english": "All this is an act of extinction that has been programmed since time immemorial.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "全", "reading": "すべ"},
+      "てが",
+      {"kanji": "太古", "reading": "たいこ"},
+      "よりプログラムされていた",
+      {"kanji": "絶滅行動", "reading": "ぜつめつこうどう"},
+      "だ。"
+    ],
+    "english": "All this is an act of extinction that has been programmed since time immemorial."
   },
   {
     "time": "00:51:33",
-    "japanese": "ネルフでは、人類補完計画と呼んでいたよ。",
-    "hiragana": "ねるふでは、じんるいほかんけいかくとよんでいたよ。",
-    "english": "Nerv call it the Human Instrumentality Project.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "ネルフでは、",
+      {"kanji": "人類補完計画", "reading": "じんるいほかんけいかく"},
+      "と",
+      {"kanji": "呼", "reading": "よ"},
+      "んでいたよ。"
+    ],
+    "english": "Nerv call it the Human Instrumentality Project."
   },
   {
     "time": "00:51:38",
-    "japanese": "ネルフがこれを・・・",
-    "hiragana": "ねるふがこれを・・・",
-    "english": "This is Nerv's...",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "ネルフがこれを・・・"
+    ],
+    "english": "This is Nerv's..."
   },
   {
     "time": "00:51:43",
-    "japanese": "父さんは何をやってるんだ",
-    "hiragana": "とうさんはなにをやってるんだ",
-    "english": "This is what my father was doing.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "父", "reading": "とう"},
+      "さんは",
+      {"kanji": "何", "reading": "なに"},
+      "をやってるんだ"
+    ],
+    "english": "This is what my father was doing."
   },
   {
     "time": "00:51:48",
-    "japanese": "・・・碇シンジ君。",
-    "hiragana": "・・・いかりしんじくん。",
-    "english": "Ikari Shinji-kun,",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "・・・",
+      {"kanji": "碇", "reading": "いかり"},
+      "シンジ",
+      {"kanji": "君", "reading": "くん"},
+      "。"
+    ],
+    "english": "Ikari Shinji-kun,"
   },
   {
     "time": "00:51:50",
-    "japanese": "一度覚醒し、ガフの扉を開いたエヴァ初号機は、",
-    "hiragana": "いちどかくせいし、がふのとびらをひらいたえう゛ぁしょごうきは、",
-    "english": "once Awakened, Eva-01 opened the Gates of Guf",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "一度", "reading": "いちど"},
+      {"kanji": "覚醒", "reading": "かくせい"},
+      "し、ガフの",
+      {"kanji": "扉", "reading": "とびら"},
+      "を",
+      {"kanji": "開", "reading": "ひら"},
+      "いたエヴァ",
+      {"kanji": "初号機", "reading": "しょごうき"},
+      "は、"
+    ],
+    "english": "once Awakened, Eva-01 opened the Gates of Guf"
   },
   {
     "time": "00:51:55",
-    "japanese": "サードインパクトのトリガーとなってしまった。",
-    "hiragana": "さーどいんぱくとのとりがーとなってしまった。",
-    "english": "and became the trigger for Third Impact.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "サードインパクトのトリガーとなってしまった。"
+    ],
+    "english": "and became the trigger for Third Impact."
   },
   {
     "time": "00:51:58",
-    "japanese": "リリンの言う、ニアサードインパクト。",
-    "hiragana": "りりんのいう、にあさーどいんぱくと。",
-    "english": "Lilin call it Near Third Impact.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "リリンの",
+      {"kanji": "言", "reading": "い"},
+      "う、ニアサードインパクト。"
+    ],
+    "english": "Lilin call it Near Third Impact."
   },
   {
     "time": "00:52:02",
-    "japanese": "全てのきっかけは　君なんだよ。",
-    "hiragana": "すべてのきっかけは　きみなんだよ。",
-    "english": "It was all initiated by you.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "全", "reading": "すべ"},
+      "てのきっかけは　",
+      {"kanji": "君", "reading": "きみ"},
+      "なんだよ。"
+    ],
+    "english": "It was all initiated by you."
   },
   {
     "time": "00:52:05",
-    "japanese": "・・・！！",
-    "hiragana": "・・・！！",
-    "english": "",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "・・・！！"
+    ],
+    "english": ""
   },
   {
     "time": "00:52:09",
-    "japanese": "違う。",
-    "hiragana": "ちがう。",
-    "english": "You're wrong!",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "違", "reading": "ちが"},
+      "う。"
+    ],
+    "english": "You're wrong!"
   },
   {
     "time": "00:52:10",
-    "japanese": "僕はただ、綾波を助けたかっただけだ。",
-    "hiragana": "ぼくはただ、あやなみをたすけたかっただけだ。",
-    "english": "All I wanted to do was save Ayanami!",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "僕", "reading": "ぼく"},
+      "はただ、",
+      {"kanji": "綾波", "reading": "あやなみ"},
+      "を",
+      {"kanji": "助", "reading": "たす"},
+      "けたかっただけだ。"
+    ],
+    "english": "All I wanted to do was save Ayanami!"
   },
   {
     "time": "00:52:16",
-    "japanese": "・・・そうだね。しかし、それが原因だよ",
-    "hiragana": "・・・そうだね。しかし、それがげんいんだよ",
-    "english": "True. But that caused everything else.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "・・・そうだね。しかし、それが",
+      {"kanji": "原因", "reading": "げんいん"},
+      "だよ"
+    ],
+    "english": "True. But that caused everything else."
   },
   {
     "time": "00:52:21",
-    "japanese": "そんな・・・",
-    "hiragana": "そんな・・・",
-    "english": "No...",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "そんな・・・"
+    ],
+    "english": "No..."
   },
   {
     "time": "00:52:25",
-    "japanese": "僕は知らないよ！",
-    "hiragana": "ぼくはしらないよ！",
-    "english": "This can't be right!",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "僕", "reading": "ぼく"},
+      "は",
+      {"kanji": "知", "reading": "し"},
+      "らないよ！"
+    ],
+    "english": "This can't be right!"
   },
   {
     "time": "00:52:27",
-    "japanese": "そんな事急に言われたって",
-    "hiragana": "そんなこときゅうにいわれたって",
-    "english": "You're telling me all of this so fast,",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "そんな",
+      {"kanji": "事", "reading": "こと"},
+      {"kanji": "急", "reading": "きゅう"},
+      "に",
+      {"kanji": "言", "reading": "い"},
+      "われたって"
+    ],
+    "english": "You're telling me all of this so fast,"
   },
   {
     "time": "00:52:29",
-    "japanese": "どうしようもないよっ！！",
-    "hiragana": "どうしようもないよっ！！",
-    "english": "and there's nothing I can do about it!",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "どうしようもないよっ！！"
+    ],
+    "english": "and there's nothing I can do about it!"
   },
   {
     "time": "00:52:30",
-    "japanese": "そう。",
-    "hiragana": "そう。",
-    "english": "Indeed.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "そう。"
+    ],
+    "english": "Indeed."
   },
   {
     "time": "00:52:31",
-    "japanese": "どうしようもない君の過去。",
-    "hiragana": "どうしようもないきみのかこ。",
-    "english": "There's nothing you can do about your past.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "どうしようもない",
+      {"kanji": "君", "reading": "きみ"},
+      "の",
+      {"kanji": "過去", "reading": "かこ"},
+      "。"
+    ],
+    "english": "There's nothing you can do about your past."
   },
   {
     "time": "00:52:35",
-    "japanese": "君の知りたかった真実だ。",
-    "hiragana": "きみのしりたかったしんじつだ。",
-    "english": "This is the truth you desired to know.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "君", "reading": "きみ"},
+      "の",
+      {"kanji": "知", "reading": "し"},
+      "りたかった",
+      {"kanji": "真実", "reading": "しんじつ"},
+      "だ。"
+    ],
+    "english": "This is the truth you desired to know."
   },
   {
     "time": "00:52:38",
-    "japanese": "結果として、リリンは罪の代償を与えた。",
-    "hiragana": "けっかとして、りりんはつみのだいしょうをあたえた。",
-    "english": "As a result, the Lilin are letting you pay for your sin.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "結果", "reading": "けっか"},
+      "として、リリンは",
+      {"kanji": "罪", "reading": "つみ"},
+      "の",
+      {"kanji": "代償", "reading": "だいしょう"},
+      "を",
+      {"kanji": "与", "reading": "あた"},
+      "えた。"
+    ],
+    "english": "As a result, the Lilin are letting you pay for your sin."
   },
   {
     "time": "00:52:43",
-    "japanese": "それがその首のものじゃないのかい？",
-    "hiragana": "それがそのくびのものじゃないのかい？",
-    "english": "That's what the thing on your neck is, no?",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "それがその",
+      {"kanji": "首", "reading": "くび"},
+      "のものじゃないのかい？"
+    ],
+    "english": "That's what the thing on your neck is, no?"
   },
   {
     "time": "00:52:48",
-    "japanese": "罪だなんて・・・",
-    "hiragana": "つみだなんて・・・",
-    "english": "What sin?",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "罪", "reading": "つみ"},
+      "だなんて・・・"
+    ],
+    "english": "What sin?"
   },
   {
     "time": "00:52:50",
-    "japanese": "何もしてないよ！",
-    "hiragana": "なにもしてないよ！",
-    "english": "I didn't do anything!",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "何", "reading": "なに"},
+      "もしてないよ！"
+    ],
+    "english": "I didn't do anything!"
   },
   {
     "time": "00:52:52",
-    "japanese": "僕は関係ないよっ！！",
-    "hiragana": "ぼくはかんけいないよっ！！",
-    "english": "I had nothing to do with it!",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "僕", "reading": "ぼく"},
+      "は",
+      {"kanji": "関係", "reading": "かんけい"},
+      "ないよっ！！"
+    ],
+    "english": "I had nothing to do with it!"
   },
   {
     "time": "00:52:54",
-    "japanese": "君になくても他人からはあるのさ。",
-    "hiragana": "きみになくてもたにんからはあるのさ。",
-    "english": "You may deny it, but humanity thinks otherwise.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "君", "reading": "きみ"},
+      "になくても",
+      {"kanji": "他人", "reading": "たにん"},
+      "からはあるのさ。"
+    ],
+    "english": "You may deny it, but humanity thinks otherwise."
   },
   {
     "time": "00:52:58",
-    "japanese": "・・・ただ、償えない罪はない。",
-    "hiragana": "・・・ただ、つぐなえないつみはない。",
-    "english": "However, no sin is beyond redemption.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "・・・ただ、",
+      {"kanji": "償", "reading": "つぐな"},
+      "えない",
+      {"kanji": "罪", "reading": "つみ"},
+      "はない。"
+    ],
+    "english": "However, no sin is beyond redemption."
   },
   {
     "time": "00:53:02",
-    "japanese": "希望は残っているよ。",
-    "hiragana": "きぼうはのこっているよ。",
-    "english": "There is always hope.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "希望", "reading": "きぼう"},
+      "は",
+      {"kanji": "残", "reading": "のこ"},
+      "っているよ。"
+    ],
+    "english": "There is always hope."
   },
   {
     "time": "00:53:04",
-    "japanese": "どんな時にもね。",
-    "hiragana": "どんなときにもね。",
-    "english": "Always.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "どんな",
+      {"kanji": "時", "reading": "とき"},
+      "にもね。"
+    ],
+    "english": "Always."
   },
   {
     "time": "00:53:23",
-    "japanese": "ゼーレの少年が第３の少年と接触。",
-    "hiragana": "ぜーれのしょうねんがだい３のしょうねんとせっしょく。",
-    "english": "Seele's boy has contacted the Third Boy.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      "ゼーレの",
+      {"kanji": "少年", "reading": "しょうねん"},
+      "が",
+      {"kanji": "第３", "reading": "だいさん"},
+      "の",
+      {"kanji": "少年", "reading": "しょうねん"},
+      "と",
+      {"kanji": "接触", "reading": "せっしょく"},
+      "。"
+    ],
+    "english": "Seele's boy has contacted the Third Boy."
   },
   {
     "time": "00:53:27",
-    "japanese": "外界の様を見せたようだ。",
-    "hiragana": "がいかいのさまをみせたようだ。",
-    "english": "He showed him the conditions outside, it seems.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "外界", "reading": "がいかい"},
+      "の",
+      {"kanji": "様", "reading": "さま"},
+      "を",
+      {"kanji": "見", "reading": "み"},
+      "せたようだ。"
+    ],
+    "english": "He showed him the conditions outside, it seems."
   },
   {
     "time": "00:53:30",
-    "japanese": "果たして、どう受け止めるのか・・・",
-    "hiragana": "はたして、どううけとめるのか・・・",
-    "english": "I wonder how he'll cope with it.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "果", "reading": "は"},
+      "たして、どう",
+      {"kanji": "受", "reading": "う"},
+      "け",
+      {"kanji": "止", "reading": "と"},
+      "めるのか・・・"
+    ],
+    "english": "I wonder how he'll cope with it."
   },
   {
     "time": "00:53:33",
-    "japanese": "いいのか、碇？",
-    "hiragana": "いいのか、いかり？",
-    "english": "Are you sure about this, Ikari?",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      "いいのか、",
+      {"kanji": "碇", "reading": "いかり"},
+      "？"
+    ],
+    "english": "Are you sure about this, Ikari?"
   },
   {
     "time": "00:53:35",
-    "japanese": "ゼーレのシナリオを我々で書き換える。",
-    "hiragana": "ぜーれのしなりおをわれわれでかきかえる。",
-    "english": "We'll rewrite Seele's scenario.",
-    "character": "ゲンドウ"
+    "character": "ゲンドウ",
+    "segments": [
+      "ゼーレのシナリオを",
+      {"kanji": "我々", "reading": "われわれ"},
+      "で",
+      {"kanji": "書", "reading": "か"},
+      "き",
+      {"kanji": "換", "reading": "か"},
+      "える。"
+    ],
+    "english": "We'll rewrite Seele's scenario."
   },
   {
     "time": "00:53:39",
-    "japanese": "あらゆる存在は　その為の道具に過ぎん。",
-    "hiragana": "あらゆるそんざいは　そのためのどうぐにすぎん。",
-    "english": "Everything in existence is but a tool for that purpose.",
-    "character": "ゲンドウ"
+    "character": "ゲンドウ",
+    "segments": [
+      "あらゆる",
+      {"kanji": "存在", "reading": "そんざい"},
+      "は　その",
+      {"kanji": "為", "reading": "ため"},
+      "の",
+      {"kanji": "道具", "reading": "どうぐ"},
+      "に",
+      {"kanji": "過", "reading": "す"},
+      "ぎん。"
+    ],
+    "english": "Everything in existence is but a tool for that purpose."
   },
   {
     "time": "00:53:42",
-    "japanese": "お前の生き様を見せても息子の為にはならんとするか。",
-    "hiragana": "おまえのいきざまをみせてもむすこのためにはならんとするか。",
-    "english": "So you're saying that your son wouldn't benefit from seeing how you live?",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "お前", "reading": "おまえ"},
+      "の",
+      {"kanji": "生", "reading": "い"},
+      "き",
+      {"kanji": "様", "reading": "ざま"},
+      "を",
+      {"kanji": "見", "reading": "み"},
+      "せても",
+      {"kanji": "息子", "reading": "むすこ"},
+      "の",
+      {"kanji": "為", "reading": "ため"},
+      "にはならんとするか。"
+    ],
+    "english": "So you're saying that your son wouldn't benefit from seeing how you live?"
   },
   {
     "time": "00:53:48",
-    "japanese": "―――私はそうは思わんがな。",
-    "hiragana": "―――わたしはそうはおもわんがな。",
-    "english": "I'll have to disagree.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      "―――",
+      {"kanji": "私", "reading": "わたし"},
+      "はそうは",
+      {"kanji": "思", "reading": "おも"},
+      "わんがな。"
+    ],
+    "english": "I'll have to disagree."
   },
   {
     "time": "00:53:53",
-    "japanese": "・・・なんでだよ。",
-    "hiragana": "・・・なんでだよ。",
-    "english": "I don't get it.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "・・・",
+      {"kanji": "何", "reading": "なん"},
+      "でだよ。"
+    ],
+    "english": "I don't get it."
   },
   {
     "time": "00:53:56",
-    "japanese": "・・・あんな事になってるなんて―――",
-    "hiragana": "・・・あんなことになってるなんて―――",
-    "english": "How did everything end up this way?",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "・・・あんな",
+      {"kanji": "事", "reading": "こと"},
+      "になってるなんて―――"
+    ],
+    "english": "How did everything end up this way?"
   },
   {
     "time": "00:54:03",
-    "japanese": "・・・そうだ。綾波を助けたんだ・・・",
-    "hiragana": "・・・そうだ。あやなみをたすけたんだ・・・",
-    "english": "Right... I saved Ayanami.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "・・・そうだ。",
+      {"kanji": "綾波", "reading": "あやなみ"},
+      "を",
+      {"kanji": "助", "reading": "たす"},
+      "けたんだ・・・"
+    ],
+    "english": "Right... I saved Ayanami."
   },
   {
     "time": "00:54:06",
-    "japanese": "それでいいじゃないかっ",
-    "hiragana": "それでいいじゃないかっ",
-    "english": "Isn't that good enough?",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "それでいいじゃないかっ"
+    ],
+    "english": "Isn't that good enough?"
   },
   {
     "time": "00:54:32",
-    "japanese": "またいない・・・",
-    "hiragana": "またいない・・・",
-    "english": "She's gone again.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "またいない・・・"
+    ],
+    "english": "She's gone again."
   },
   {
     "time": "00:54:34",
-    "japanese": "まだ読んでない",
-    "hiragana": "まだよんでない",
-    "english": "She still hasn't touched the books.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "まだ",
+      {"kanji": "読", "reading": "よ"},
+      "んでない"
+    ],
+    "english": "She still hasn't touched the books."
   },
   {
     "time": "00:54:38",
-    "japanese": "・・・何だよ・・・",
-    "hiragana": "・・・なんだよ・・・",
-    "english": "What's going on?",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "・・・",
+      {"kanji": "何", "reading": "なん"},
+      "だよ・・・"
+    ],
+    "english": "What's going on?"
   },
   {
     "time": "00:54:40",
-    "japanese": "綾波も、どうしちゃったんだよ。もうっ！",
-    "hiragana": "あやなみも、どうしちゃったんだよ。もうっ！",
-    "english": "What's wrong with Ayanami?!",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "綾波", "reading": "あやなみ"},
+      "も、どうしちゃったんだよ。もうっ！"
+    ],
+    "english": "What's wrong with Ayanami?!"
   },
   {
     "time": "00:54:53",
-    "japanese": "第３の少年。将棋はうてるか？",
-    "hiragana": "だい３のしょうねん。しょうぎはうてるか？",
-    "english": "Third Boy, do you play shogi?",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "第３", "reading": "だいさん"},
+      "の",
+      {"kanji": "少年", "reading": "しょうねん"},
+      "。",
+      {"kanji": "将棋", "reading": "しょうぎ"},
+      "はうてるか？"
+    ],
+    "english": "Third Boy, do you play shogi?"
   },
   {
     "time": "00:54:57",
-    "japanese": "ええ。ルールくらいは",
-    "hiragana": "ええ。るーるくらいは",
-    "english": "Eh... I only know the rules.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "ええ。ルールくらいは"
+    ],
+    "english": "Eh... I only know the rules."
   },
   {
     "time": "00:55:00",
-    "japanese": "けっこうだ。付き合いたまえ。",
-    "hiragana": "けっこうだ。つきあいたまえ。",
-    "english": "Good enough. Let's have a game.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      "けっこうだ。",
+      {"kanji": "付", "reading": "つ"},
+      "き",
+      {"kanji": "合", "reading": "あ"},
+      "いたまえ。"
+    ],
+    "english": "Good enough. Let's have a game."
   },
   {
     "time": "00:55:03",
-    "japanese": "飛車角金は落としてやる。",
-    "hiragana": "ひしゃかくきんはおとしてやる。",
-    "english": "I'll start without a castle, bishop, and golden generals.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "飛車角金", "reading": "ひしゃかくきん"},
+      "は",
+      {"kanji": "落", "reading": "お"},
+      "としてやる。"
+    ],
+    "english": "I'll start without a castle, bishop, and golden generals."
   },
   {
     "time": "00:55:12",
-    "japanese": "―――心を静かに、落ち着かせる。",
-    "hiragana": "―――こころをしずかに、おちつかせる。",
-    "english": "Let your mind be still.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      "―――",
+      {"kanji": "心", "reading": "こころ"},
+      "を",
+      {"kanji": "静", "reading": "しず"},
+      "かに、",
+      {"kanji": "落", "reading": "お"},
+      "ち",
+      {"kanji": "着", "reading": "つ"},
+      "かせる。"
+    ],
+    "english": "Let your mind be still."
   },
   {
     "time": "00:55:16",
-    "japanese": "戦いに勝つ為に必要な事だ。",
-    "hiragana": "たたかいにかつためにひつようなことだ。",
-    "english": "It's the only way to achieve victory.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "戦", "reading": "たたか"},
+      "いに",
+      {"kanji": "勝", "reading": "か"},
+      "つ",
+      {"kanji": "為", "reading": "ため"},
+      "に",
+      {"kanji": "必要", "reading": "ひつよう"},
+      "な",
+      {"kanji": "事", "reading": "こと"},
+      "だ。"
+    ],
+    "english": "It's the only way to achieve victory."
   },
   {
     "time": "00:55:19",
-    "japanese": "３１手先で、君の詰みだ。",
-    "hiragana": "３１てさきで、きみのつみだ。",
-    "english": "You'll lose in another thirty-one moves.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "３１手先", "reading": "さんじゅういってさき"},
+      "で、",
+      {"kanji": "君", "reading": "きみ"},
+      "の",
+      {"kanji": "詰", "reading": "つ"},
+      "みだ。"
+    ],
+    "english": "You'll lose in another thirty-one moves."
   },
   {
     "time": "00:55:24",
-    "japanese": "―――ふむ",
-    "hiragana": "―――ふむ",
-    "english": "Hmm...",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      "―――ふむ"
+    ],
+    "english": "Hmm..."
   },
   {
     "time": "00:55:31",
-    "japanese": "これなら楽しめるか。",
-    "hiragana": "これならたのしめるか。",
-    "english": "Is it more fun for you this way?",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      "これなら",
+      {"kanji": "楽", "reading": "たの"},
+      "しめるか。"
+    ],
+    "english": "Is it more fun for you this way?"
   },
   {
     "time": "00:55:35",
-    "japanese": "・・・老人の趣味に付き合ってくれて、礼を言う。",
-    "hiragana": "・・・ろうじんのしゅみにつきあってくれて、れいをいう。",
-    "english": "Thank you for indulging an old man his hobby.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      "・・・",
+      {"kanji": "老人", "reading": "ろうじん"},
+      "の",
+      {"kanji": "趣味", "reading": "しゅみ"},
+      "に",
+      {"kanji": "付", "reading": "つ"},
+      "き",
+      {"kanji": "合", "reading": "あ"},
+      "ってくれて、",
+      {"kanji": "礼", "reading": "れい"},
+      "を",
+      {"kanji": "言", "reading": "い"},
+      "う。"
+    ],
+    "english": "Thank you for indulging an old man his hobby."
   },
   {
     "time": "00:55:43",
-    "japanese": "私も臆病でね。",
-    "hiragana": "わたしもおくびょうでね。",
-    "english": "I'm a coward too, you know.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "私", "reading": "わたし"},
+      "も",
+      {"kanji": "臆病", "reading": "おくびょう"},
+      "でね。"
+    ],
+    "english": "I'm a coward too, you know."
   },
   {
     "time": "00:55:45",
-    "japanese": "口実でもなければ、こうして君と話す機会を持てなかった。",
-    "hiragana": "こうじつでもなければ、こうしてきみとはなすきかいをもてなかった。",
-    "english": "I used this game as a pretext to talk to you.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "口実", "reading": "こうじつ"},
+      "でもなければ、こうして",
+      {"kanji": "君", "reading": "きみ"},
+      "と",
+      {"kanji": "話", "reading": "はな"},
+      "す",
+      {"kanji": "機会", "reading": "きかい"},
+      "を",
+      {"kanji": "持", "reading": "も"},
+      "てなかった。"
+    ],
+    "english": "I used this game as a pretext to talk to you."
   },
   {
     "time": "00:55:50",
-    "japanese": "君は、お母さんを覚えているかね？",
-    "hiragana": "きみは、おかあさんをおぼえているかね？",
-    "english": "Do you remember your mother?",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "君", "reading": "きみ"},
+      "は、お",
+      {"kanji": "母", "reading": "かあ"},
+      "さんを",
+      {"kanji": "覚", "reading": "おぼ"},
+      "えているかね？"
+    ],
+    "english": "Do you remember your mother?"
   },
   {
     "time": "00:55:54",
-    "japanese": "・・・いえ。まだ小さかったし。",
-    "hiragana": "・・・いえ。まだちいさかったし。",
-    "english": "No. I was very young.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "・・・いえ。まだ",
+      {"kanji": "小", "reading": "ちい"},
+      "さかったし。"
+    ],
+    "english": "No. I was very young."
   },
   {
     "time": "00:55:58",
-    "japanese": "それに、母のモノは父が全部処分したので・・・。",
-    "hiragana": "それに、ははのものはちちがぜんぶしょぶんしたので・・・。",
-    "english": "Father got rid of everything that was hers.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "それに、",
+      {"kanji": "母", "reading": "はは"},
+      "のモノは",
+      {"kanji": "父", "reading": "ちち"},
+      "が",
+      {"kanji": "全部", "reading": "ぜんぶ"},
+      {"kanji": "処分", "reading": "しょぶん"},
+      "したので・・・。"
+    ],
+    "english": "Father got rid of everything that was hers."
   },
   {
     "time": "00:56:07",
-    "japanese": "・・・この人は・・・",
-    "hiragana": "・・・このひとは・・・",
-    "english": "Is this...",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "・・・この",
+      {"kanji": "人", "reading": "ひと"},
+      "は・・・"
+    ],
+    "english": "Is this..."
   },
   {
     "time": "00:56:10",
-    "japanese": "・・・綾波？",
-    "hiragana": "・・・あやなみ？",
-    "english": "...Ayanami?",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "・・・",
+      {"kanji": "綾波", "reading": "あやなみ"},
+      "？"
+    ],
+    "english": "...Ayanami?"
   },
   {
     "time": "00:56:13",
-    "japanese": "君の母親だ。",
-    "hiragana": "きみのははおやだ。",
-    "english": "Your mother.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "君", "reading": "きみ"},
+      "の",
+      {"kanji": "母親", "reading": "ははおや"},
+      "だ。"
+    ],
+    "english": "Your mother."
   },
   {
     "time": "00:56:14",
-    "japanese": "旧姓は綾波ユイ。",
-    "hiragana": "きゅうせいはあやなみゆい。",
-    "english": "Maiden name, Ayanami Yui.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "旧姓", "reading": "きゅうせい"},
+      "は",
+      {"kanji": "綾波", "reading": "あやなみ"},
+      "ユイ。"
+    ],
+    "english": "Maiden name, Ayanami Yui."
   },
   {
     "time": "00:56:16",
-    "japanese": "大学では私の教え子だった。",
-    "hiragana": "だいがくではわたしのおしえごだった。",
-    "english": "She was my student at the university.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "大学", "reading": "だいがく"},
+      "では",
+      {"kanji": "私", "reading": "わたし"},
+      "の",
+      {"kanji": "教", "reading": "おし"},
+      "え",
+      {"kanji": "子", "reading": "ご"},
+      "だった。"
+    ],
+    "english": "She was my student at the university."
   },
   {
     "time": "00:56:20",
-    "japanese": "今はエヴァ初号機の制御システムとなっている。",
-    "hiragana": "いまはえう゛ぁしょごうきのせいぎょしすてむとなっている。",
-    "english": "Now, she is the control system of Eva Unit 01.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "今", "reading": "いま"},
+      "はエヴァ",
+      {"kanji": "初号機", "reading": "しょごうき"},
+      "の",
+      {"kanji": "制御", "reading": "せいぎょ"},
+      "システムとなっている。"
+    ],
+    "english": "Now, she is the control system of Eva Unit 01."
   },
   {
     "time": "00:56:24",
-    "japanese": "！！",
-    "hiragana": "！！",
-    "english": "",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "！！"
+    ],
+    "english": ""
   },
   {
     "time": "00:56:27",
-    "japanese": "ふむ。ようやく電源が復旧したか。",
-    "hiragana": "ふむ。ようやくでんげんがふっきゅうしたか。",
-    "english": "Hm. The power's finally back.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      "ふむ。ようやく",
+      {"kanji": "電源", "reading": "でんげん"},
+      "が",
+      {"kanji": "復旧", "reading": "ふっきゅう"},
+      "したか。"
+    ],
+    "english": "Hm. The power's finally back."
   },
   {
     "time": "00:56:33",
-    "japanese": "エヴァの極初期型制御システムだ。",
-    "hiragana": "えう゛ぁのごくしょきがたせいぎょしすてむだ。",
-    "english": "That is a very early prototype of the Eva control system.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      "エヴァの",
+      {"kanji": "極初期型", "reading": "ごくしょきがた"},
+      {"kanji": "制御", "reading": "せいぎょ"},
+      "システムだ。"
+    ],
+    "english": "That is a very early prototype of the Eva control system."
   },
   {
     "time": "00:56:37",
-    "japanese": "ここでユイ君が発案した、コアへのダイレクトエントリを",
-    "hiragana": "ここでゆいくんがはつあんした、こあへのだいれくとえんとりーを",
-    "english": "Here, Yui-kun proposed direct entry into cores,",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      "ここでユイ",
+      {"kanji": "君", "reading": "くん"},
+      "が",
+      {"kanji": "発案", "reading": "はつあん"},
+      "した、コアへのダイレクトエントリーを"
+    ],
+    "english": "Here, Yui-kun proposed direct entry into cores,"
   },
   {
     "time": "00:56:41",
-    "japanese": "自らが被験者となり、試みた。",
-    "hiragana": "みずからがひけんしゃとなり、こころみた。",
-    "english": "and tested it using herself as the subject.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "自", "reading": "みずか"},
+      "らが",
+      {"kanji": "被験者", "reading": "ひけんしゃ"},
+      "となり、",
+      {"kanji": "試", "reading": "こころ"},
+      "みた。"
+    ],
+    "english": "and tested it using herself as the subject."
   },
   {
     "time": "00:56:45",
-    "japanese": "君も見ていたよ。記憶が消去されているがな。",
-    "hiragana": "きみもみていたよ。きおくがしょうきょされているがな。",
-    "english": "You were watching, too, but your memories have been erased.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "君", "reading": "きみ"},
+      "も",
+      {"kanji": "見", "reading": "み"},
+      "ていたよ。",
+      {"kanji": "記憶", "reading": "きおく"},
+      "が",
+      {"kanji": "消去", "reading": "しょうきょ"},
+      "されているがな。"
+    ],
+    "english": "You were watching, too, but your memories have been erased."
   },
   {
     "time": "00:56:55",
-    "japanese": "結果、ユイ君はここで消え、",
-    "hiragana": "けっか、ゆいくんはここできえ、",
-    "english": "In the end, Yui-kun vanished here,",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "結果", "reading": "けっか"},
+      "、ユイ",
+      {"kanji": "君", "reading": "くん"},
+      "はここで",
+      {"kanji": "消", "reading": "き"},
+      "え、"
+    ],
+    "english": "In the end, Yui-kun vanished here,"
   },
   {
     "time": "00:56:59",
-    "japanese": "彼女の情報だけが綾波シリーズに残された。",
-    "hiragana": "かのじょのじょうほうだけがあやなみしりーずにのこされた。",
-    "english": "and only her data was left behind for the Ayanami Series.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "彼女", "reading": "かのじょ"},
+      "の",
+      {"kanji": "情報", "reading": "じょうほう"},
+      "だけが",
+      {"kanji": "綾波", "reading": "あやなみ"},
+      "シリーズに",
+      {"kanji": "残", "reading": "のこ"},
+      "された。"
+    ],
+    "english": "and only her data was left behind for the Ayanami Series."
   },
   {
     "time": "00:57:03",
-    "japanese": "君の知っている綾波レイは、ユイ君の複製体のひとつだ。",
-    "hiragana": "きみのしっているあやなみれいは、ゆいくんのふくせいたいのひとつだ。",
-    "english": "The Ayanami Rei you know is one of Yui-kun's clones.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "君", "reading": "きみ"},
+      "の",
+      {"kanji": "知", "reading": "し"},
+      "っている",
+      {"kanji": "綾波", "reading": "あやなみ"},
+      "レイは、ユイ",
+      {"kanji": "君", "reading": "くん"},
+      "の",
+      {"kanji": "複製体", "reading": "ふくせいたい"},
+      "のひとつだ。"
+    ],
+    "english": "The Ayanami Rei you know is one of Yui-kun's clones."
   },
   {
     "time": "00:57:08",
-    "japanese": "その娘も君の母親同様、初号機の中に保存されている。",
-    "hiragana": "そのむすめもきみのははおやどうよう、しょごうきのなかにほぞんされている。",
-    "english": "She is preserved within Eva-01, the same as your mother.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      "その",
+      {"kanji": "娘", "reading": "むすめ"},
+      "も",
+      {"kanji": "君", "reading": "きみ"},
+      "の",
+      {"kanji": "母親", "reading": "ははおや"},
+      {"kanji": "同様", "reading": "どうよう"},
+      "、",
+      {"kanji": "初号機", "reading": "しょごうき"},
+      "の",
+      {"kanji": "中", "reading": "なか"},
+      "に",
+      {"kanji": "保存", "reading": "ほぞん"},
+      "されている。"
+    ],
+    "english": "She is preserved within Eva-01, the same as your mother."
   },
   {
     "time": "00:57:13",
-    "japanese": "全ては碇の計画だよ。",
-    "hiragana": "すべてはいかりのけいかくだよ。",
-    "english": "It is all part of Ikari's plan.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "全", "reading": "すべ"},
+      "ては",
+      {"kanji": "碇", "reading": "いかり"},
+      "の",
+      {"kanji": "計画", "reading": "けいかく"},
+      "だよ。"
+    ],
+    "english": "It is all part of Ikari's plan."
   },
   {
     "time": "00:57:17",
-    "japanese": "・・・そんな。",
-    "hiragana": "・・・そんな。",
-    "english": "No way...",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "・・・そんな。"
+    ],
+    "english": "No way..."
   },
   {
     "time": "00:57:20",
-    "japanese": "世界を崩す事は雑作もない。",
-    "hiragana": "せかいをくずすことはぞうさもない。",
-    "english": "Destroying the world is a simple matter.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "世界", "reading": "せかい"},
+      "を",
+      {"kanji": "崩", "reading": "くず"},
+      "す",
+      {"kanji": "事", "reading": "こと"},
+      "は",
+      {"kanji": "雑作", "reading": "ぞうさ"},
+      "もない。"
+    ],
+    "english": "Destroying the world is a simple matter."
   },
   {
     "time": "00:57:24",
-    "japanese": "だが・・・つくり直すとなると、そうもいかん。",
-    "hiragana": "だが・・・つくりなおすとなると、そうもいかん。",
-    "english": "But rebuilding it, that isn't so easy.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      "だが・・・",
+      {"kanji": "作", "reading": "つく"},
+      "り",
+      {"kanji": "直", "reading": "なお"},
+      "すとなると、そうもいかん。"
+    ],
+    "english": "But rebuilding it, that isn't so easy."
   },
   {
     "time": "00:57:28",
-    "japanese": "時と同じく、世界に可逆性はないからな。",
-    "hiragana": "ときとおなじく、せかいにかぎゃくせいはないからな。",
-    "english": "The world can be reversed no more than time.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "時", "reading": "とき"},
+      "と",
+      {"kanji": "同", "reading": "おな"},
+      "じく、",
+      {"kanji": "世界", "reading": "せかい"},
+      "に",
+      {"kanji": "可逆性", "reading": "かぎゃくせい"},
+      "はないからな。"
+    ],
+    "english": "The world can be reversed no more than time."
   },
   {
     "time": "00:57:32",
-    "japanese": "ヒトの心にも。",
-    "hiragana": "ひとのこころにも。",
-    "english": "Nor can the human heart.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      "ヒトの",
+      {"kanji": "心", "reading": "こころ"},
+      "にも。"
+    ],
+    "english": "Nor can the human heart."
   },
   {
     "time": "00:57:35",
-    "japanese": "だから今、碇は自分の願いを叶える為に、",
-    "hiragana": "だからいま、いかりはじぶんのねがいをかなえるために、",
-    "english": "And thus, so that his wish might be granted,",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      "だから",
+      {"kanji": "今", "reading": "いま"},
+      "、",
+      {"kanji": "碇", "reading": "いかり"},
+      "は",
+      {"kanji": "自分", "reading": "じぶん"},
+      "の",
+      {"kanji": "願", "reading": "ねが"},
+      "いを",
+      {"kanji": "叶", "reading": "かな"},
+      "える",
+      {"kanji": "為", "reading": "ため"},
+      "に、"
+    ],
+    "english": "And thus, so that his wish might be granted,"
   },
   {
     "time": "00:57:38",
-    "japanese": "あらゆる犠牲を払っている。",
-    "hiragana": "あらゆるぎせいをはらっている。",
-    "english": "Ikari is paying every price there is.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      "あらゆる",
+      {"kanji": "犠牲", "reading": "ぎせい"},
+      "を",
+      {"kanji": "払", "reading": "はら"},
+      "っている。"
+    ],
+    "english": "Ikari is paying every price there is."
   },
   {
     "time": "00:57:41",
-    "japanese": "自分の魂もだ。",
-    "hiragana": "じぶんのたましいもだ。",
-    "english": "Including his very soul.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "自分", "reading": "じぶん"},
+      "の",
+      {"kanji": "魂", "reading": "たましい"},
+      "もだ。"
+    ],
+    "english": "Including his very soul."
   },
   {
     "time": "00:57:44",
-    "japanese": "君には少し、真実を伝えておきたかった。",
-    "hiragana": "きみにはすこし、しんじつをつたえておきたかった。",
-    "english": "I just wanted to tell you some of the truth,",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "君", "reading": "きみ"},
+      "には",
+      {"kanji": "少", "reading": "すこ"},
+      "し、",
+      {"kanji": "真実", "reading": "しんじつ"},
+      "を",
+      {"kanji": "伝", "reading": "つた"},
+      "えておきたかった。"
+    ],
+    "english": "I just wanted to tell you some of the truth,"
   },
   {
     "time": "00:57:47",
-    "japanese": "父親の事も",
-    "hiragana": "ちちおやのことも",
-    "english": "and about your father.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "父親", "reading": "ちちおや"},
+      "の",
+      {"kanji": "事", "reading": "こと"},
+      "も"
+    ],
+    "english": "and about your father."
   },
   {
     "time": "00:57:59",
-    "japanese": "ずっとお礼言いたかったんだ",
-    "hiragana": "ずっとおれいいいたかったんだ",
-    "english": "I've been wanting to thank you for a while now.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "ずっとお",
+      {"kanji": "礼", "reading": "れい"},
+      {"kanji": "言", "reading": "い"},
+      "いたかったんだ"
+    ],
+    "english": "I've been wanting to thank you for a while now."
   },
   {
     "time": "00:58:01",
-    "japanese": "まったく嫌な役だ。",
-    "hiragana": "まったくいやなやくだ。",
-    "english": "'Tis a wretched role I'm playing.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      "まったく",
+      {"kanji": "嫌", "reading": "いや"},
+      "な",
+      {"kanji": "役", "reading": "やく"},
+      "だ。"
+    ],
+    "english": "'Tis a wretched role I'm playing."
   },
   {
     "time": "00:58:04",
-    "japanese": "ユイ君。・・・これでいいんだな。",
-    "hiragana": "ゆいくん。・・・これでいいんだな。",
-    "english": "Yui-kun, I hope this will suffice.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      "ユイ",
+      {"kanji": "君", "reading": "くん"},
+      "。・・・これでいいんだな。"
+    ],
+    "english": "Yui-kun, I hope this will suffice."
   },
   {
     "time": "00:58:15",
-    "japanese": "最後の契約の時が来る。",
-    "hiragana": "さいごのけいやくのときがくる。",
-    "english": "The time of the final contract is upon us.",
-    "character": "ゲンドウ"
+    "character": "ゲンドウ",
+    "segments": [
+      {"kanji": "最後", "reading": "さいご"},
+      "の",
+      {"kanji": "契約", "reading": "けいやく"},
+      "の",
+      {"kanji": "時", "reading": "とき"},
+      "が",
+      {"kanji": "来", "reading": "く"},
+      "る。"
+    ],
+    "english": "The time of the final contract is upon us."
   },
   {
     "time": "00:58:20",
-    "japanese": "もうすぐ会えるな・・・ユイ。",
-    "hiragana": "もうすぐあえるな・・・ゆい。",
-    "english": "We will soon meet again, Yui.",
-    "character": "ゲンドウ"
+    "character": "ゲンドウ",
+    "segments": [
+      "もうすぐ",
+      {"kanji": "会", "reading": "あ"},
+      "えるな・・・ユイ。"
+    ],
+    "english": "We will soon meet again, Yui."
   },
   {
     "time": "00:58:31",
-    "japanese": "何で本、読まないんだよ",
-    "hiragana": "なんでほん、よまないんだよ",
-    "english": "Why aren't you reading the books?",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "何", "reading": "なん"},
+      "で",
+      {"kanji": "本", "reading": "ほん"},
+      "、",
+      {"kanji": "読", "reading": "よ"},
+      "まないんだよ"
+    ],
+    "english": "Why aren't you reading the books?"
   },
   {
     "time": "00:58:36",
-    "japanese": "命令にないから",
-    "hiragana": "めいれいにないから",
-    "english": "Because I wasn't ordered to.",
-    "character": "レイ"
+    "character": "レイ",
+    "segments": [
+      {"kanji": "命令", "reading": "めいれい"},
+      "にないから"
+    ],
+    "english": "Because I wasn't ordered to."
   },
   {
     "time": "00:58:38",
-    "japanese": "命令か・・・",
-    "hiragana": "めいれいか・・・",
-    "english": "\"Ordered\", huh?",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "命令", "reading": "めいれい"},
+      "か・・・"
+    ],
+    "english": "\"Ordered\", huh?"
   },
   {
     "time": "00:58:40",
-    "japanese": "じゃあ、もういいよっ！",
-    "hiragana": "じゃあ、もういいよっ！",
-    "english": "Alright, I've had enough!",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "じゃあ、もういいよっ！"
+    ],
+    "english": "Alright, I've had enough!"
   },
   {
     "time": "00:58:45",
-    "japanese": "ねえ！綾波だよねっ！",
-    "hiragana": "ねえ！あやなみだよねっ！",
-    "english": "You are Ayanami, right?",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "ねえ！",
+      {"kanji": "綾波", "reading": "あやなみ"},
+      "だよねっ！"
+    ],
+    "english": "You are Ayanami, right?"
   },
   {
     "time": "00:58:48",
-    "japanese": "そう。アヤナミレイ。",
-    "hiragana": "そう。あやなみれい。",
-    "english": "Yes, Ayanami Rei.",
-    "character": "レイ"
+    "character": "レイ",
+    "segments": [
+      "そう。アヤナミレイ。"
+    ],
+    "english": "Yes, Ayanami Rei."
   },
   {
     "time": "00:58:51",
-    "japanese": "だったら　あの時助けたよねっ！！",
-    "hiragana": "だったら　あのときたすけたよねっ！！",
-    "english": "Then I did save you, didn't I?",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "だったら　あの",
+      {"kanji": "時", "reading": "とき"},
+      {"kanji": "助", "reading": "たす"},
+      "けたよねっ！！"
+    ],
+    "english": "Then I did save you, didn't I?"
   },
   {
     "time": "00:58:55",
-    "japanese": "―――知らない。",
-    "hiragana": "―――しらない。",
-    "english": "I don't know.",
-    "character": "レイ"
+    "character": "レイ",
+    "segments": [
+      "―――",
+      {"kanji": "知", "reading": "し"},
+      "らない。"
+    ],
+    "english": "I don't know."
   },
   {
     "time": "00:58:59",
-    "japanese": "くっ・・うう・・・・",
-    "hiragana": "くっ・・うう・・・・",
-    "english": "",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "くっ・・うう・・・・"
+    ],
+    "english": ""
   },
   {
     "time": "00:59:04",
-    "japanese": "イカリ君・・・？",
-    "hiragana": "いかりくん・・・？",
-    "english": "Ikari-kun...?",
-    "character": "レイ"
+    "character": "レイ",
+    "segments": [
+      "イカリ",
+      {"kanji": "君", "reading": "くん"},
+      "・・・？"
+    ],
+    "english": "Ikari-kun...?"
   },
   {
     "time": "01:00:16",
-    "japanese": "うああっ！！！",
-    "hiragana": "うああっ！！！",
-    "english": "",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "うああっ！！！"
+    ],
+    "english": ""
   },
   {
     "time": "01:00:47",
-    "japanese": "最後の執行者がついに完成したか。",
-    "hiragana": "さいごのしっこうしゃがついにかんせいしたか。",
-    "english": "The final executor is complete at last.",
-    "character": "冬月"
+    "character": "冬月",
+    "segments": [
+      {"kanji": "最後", "reading": "さいご"},
+      "の",
+      {"kanji": "執行者", "reading": "しっこうしゃ"},
+      "がついに",
+      {"kanji": "完成", "reading": "かんせい"},
+      "したか。"
+    ],
+    "english": "The final executor is complete at last."
   },
   {
     "time": "01:00:50",
-    "japanese": "ああ。これで道具は全てそろった",
-    "hiragana": "ああ。これでどうぐはすべてそろった",
-    "english": "Yes. Everything we need is right here.",
-    "character": "ゲンドウ"
+    "character": "ゲンドウ",
+    "segments": [
+      "ああ。これで",
+      {"kanji": "道具", "reading": "どうぐ"},
+      "は",
+      {"kanji": "全", "reading": "すべ"},
+      "てそろった"
+    ],
+    "english": "Yes. Everything we need is right here."
   },
   {
     "time": "01:00:56",
-    "japanese": "時が満ちた。",
-    "hiragana": "ときがみちた。",
-    "english": "The time has come.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "時", "reading": "とき"},
+      "が",
+      {"kanji": "満", "reading": "み"},
+      "ちた。"
+    ],
+    "english": "The time has come."
   },
   {
     "time": "01:00:59",
-    "japanese": "いよいよだね。碇シンジ君",
-    "hiragana": "いよいよだね。いかりしんじくん",
-    "english": "This is it, Ikari Shinji-kun.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "いよいよだね。",
+      {"kanji": "碇", "reading": "いかり"},
+      "シンジ",
+      {"kanji": "君", "reading": "くん"}
+    ],
+    "english": "This is it, Ikari Shinji-kun."
   },
   {
     "time": "01:01:02",
-    "japanese": "イヤだっ！",
-    "hiragana": "いやだっ！",
-    "english": "No!",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "イヤだっ！"
+    ],
+    "english": "No!"
   },
   {
     "time": "01:01:05",
-    "japanese": "エヴァなんてもう乗りたくない！",
-    "hiragana": "えう゛ぁなんてもうのりたくない！",
-    "english": "I never want to pilot an Eva again!",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "エヴァなんてもう",
+      {"kanji": "乗", "reading": "の"},
+      "りたくない！"
+    ],
+    "english": "I never want to pilot an Eva again!"
   },
   {
     "time": "01:01:07",
-    "japanese": "綾波を助けてなかったんだ！",
-    "hiragana": "あやなみをたすけてなかったんだ！",
-    "english": "I didn't save Ayanami after all!",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "綾波", "reading": "あやなみ"},
+      "を",
+      {"kanji": "助", "reading": "たす"},
+      "けてなかったんだ！"
+    ],
+    "english": "I didn't save Ayanami after all!"
   },
   {
     "time": "01:01:10",
-    "japanese": "エヴァに乗ったっていい事なんかなかったんだ！",
-    "hiragana": "えう゛ぁにのったっていいことなんかなかったんだ！",
-    "english": "Nothing good ever came out of piloting an Eva!",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "エヴァに",
+      {"kanji": "乗", "reading": "の"},
+      "ったっていい",
+      {"kanji": "事", "reading": "こと"},
+      "なんかなかったんだ！"
+    ],
+    "english": "Nothing good ever came out of piloting an Eva!"
   },
   {
     "time": "01:01:13",
-    "japanese": "もうイヤだ！何もしたくない！！",
-    "hiragana": "もういやだ！なにもしたくない！！",
-    "english": "I've had enough! I don't want to do anything!",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "もうイヤだ！",
+      {"kanji": "何", "reading": "なに"},
+      "もしたくない！！"
+    ],
+    "english": "I've had enough! I don't want to do anything!"
   },
   {
     "time": "01:01:16",
-    "japanese": "―――そうして、辛い感情の記憶ばかりをリフレインさせても、いい事は何も生まれない。",
-    "hiragana": "―――そうして、つらいかんじょうのきおくばかりをりふれいんさせても、いいことはなにもうまれない。",
-    "english": "And nothing good comes from replaying your painful memories either.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "―――そうして、",
+      {"kanji": "辛", "reading": "つら"},
+      "い",
+      {"kanji": "感情", "reading": "かんじょう"},
+      "の",
+      {"kanji": "記憶", "reading": "きおく"},
+      "ばかりをリフレインさせても、いい",
+      {"kanji": "事", "reading": "こと"},
+      "は",
+      {"kanji": "何", "reading": "なに"},
+      "も",
+      {"kanji": "生", "reading": "う"},
+      "まれない。"
+    ],
+    "english": "And nothing good comes from replaying your painful memories either."
   },
   {
     "time": "01:01:24",
-    "japanese": "いい事なんかないよっ！！",
-    "hiragana": "いいことなんかないよっ！！",
-    "english": "Nothing is ever good!",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "いい",
+      {"kanji": "事", "reading": "こと"},
+      "なんかないよっ！！"
+    ],
+    "english": "Nothing is ever good!"
   },
   {
     "time": "01:01:26",
-    "japanese": "渚君が見せたんじゃないか！",
-    "hiragana": "なぎさくんがみせたんじゃないか！",
-    "english": "You showed me it yourself, Nagisa-kun.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "渚", "reading": "なぎさ"},
+      {"kanji": "君", "reading": "くん"},
+      "が",
+      {"kanji": "見", "reading": "み"},
+      "せたんじゃないか！"
+    ],
+    "english": "You showed me it yourself, Nagisa-kun."
   },
   {
     "time": "01:01:29",
-    "japanese": "あの真っ赤などうしようもない世界を",
-    "hiragana": "あのまっかなどうしようもないせかいを",
-    "english": "The blood-red world I can't do anything about...",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "あの",
+      {"kanji": "真", "reading": "ま"},
+      "っ",
+      {"kanji": "赤", "reading": "か"},
+      "などうしようもない",
+      {"kanji": "世界", "reading": "せかい"},
+      "を"
+    ],
+    "english": "The blood-red world I can't do anything about..."
   },
   {
     "time": "01:01:32",
-    "japanese": "エヴァで変わった事はエヴァで再び変えてしまえばいい。",
-    "hiragana": "えう゛ぁでかわったことはえう゛ぁでふたたびかえてしまえばいい。",
-    "english": "That which was changed by Eva can be restored by Eva in turn.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "エヴァで",
+      {"kanji": "変", "reading": "か"},
+      "わった",
+      {"kanji": "事", "reading": "こと"},
+      "はエヴァで",
+      {"kanji": "再", "reading": "ふたた"},
+      "び",
+      {"kanji": "変", "reading": "か"},
+      "えてしまえばいい。"
+    ],
+    "english": "That which was changed by Eva can be restored by Eva in turn."
   },
   {
     "time": "01:01:36",
-    "japanese": "そんな事言ったってエヴァも父さんもミサトさんも",
-    "hiragana": "そんなこといったってえう゛ぁもとうさんもみさとさんも",
-    "english": "",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "そんな",
+      {"kanji": "事", "reading": "こと"},
+      {"kanji": "言", "reading": "い"},
+      "ったってエヴァも",
+      {"kanji": "父", "reading": "とう"},
+      "さんもミサトさんも"
+    ],
+    "english": ""
   },
   {
     "time": "01:01:39",
-    "japanese": "何もかも信じられないよっ！！",
-    "hiragana": "なにもかもしんじられないよっ！！",
-    "english": "",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "何", "reading": "なに"},
+      "もかも",
+      {"kanji": "信", "reading": "しん"},
+      "じられないよっ！！"
+    ],
+    "english": ""
   },
   {
     "time": "01:01:43",
-    "japanese": "―――でも、僕は信じて欲しい。",
-    "hiragana": "―――でも、ぼくはしんじてほしい。",
-    "english": "Still, I want you to believe in me.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "―――でも、",
+      {"kanji": "僕", "reading": "ぼく"},
+      "は",
+      {"kanji": "信", "reading": "しん"},
+      "じて",
+      {"kanji": "欲", "reading": "ほ"},
+      "しい。"
+    ],
+    "english": "Still, I want you to believe in me."
   },
   {
     "time": "01:01:46",
-    "japanese": "出来ないよっ！！",
-    "hiragana": "できないよっ！！",
-    "english": "I can't!",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "出来", "reading": "でき"},
+      "ないよっ！！"
+    ],
+    "english": "I can't!"
   },
   {
     "time": "01:01:49",
-    "japanese": "ミサトさんたちが僕にこれを付けたんだ。",
-    "hiragana": "みさとさんたちがぼくにこれをつけたんだ。",
-    "english": "Misato-san had this thing put on me.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "ミサトさんたちが",
+      {"kanji": "僕", "reading": "ぼく"},
+      "にこれを",
+      {"kanji": "付", "reading": "つ"},
+      "けたんだ。"
+    ],
+    "english": "Misato-san had this thing put on me."
   },
   {
     "time": "01:01:53",
-    "japanese": "もうエヴァには乗るなって！",
-    "hiragana": "もうえう゛ぁにはのるなって！",
-    "english": "They told me to never pilot an Eva again.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "もうエヴァには",
+      {"kanji": "乗", "reading": "の"},
+      "るなって！"
+    ],
+    "english": "They told me to never pilot an Eva again."
   },
   {
     "time": "01:01:55",
-    "japanese": "乗ったら死ぬって脅されて！",
-    "hiragana": "のったらしぬっておどされて！",
-    "english": "They said that I'd die if I did.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      {"kanji": "乗", "reading": "の"},
+      "ったら",
+      {"kanji": "死", "reading": "し"},
+      "ぬって",
+      {"kanji": "脅", "reading": "おど"},
+      "されて！"
+    ],
+    "english": "They said that I'd die if I did."
   },
   {
     "time": "01:01:59",
-    "japanese": "・・・もう、エヴァなんかどうでもいいんだ・・・",
-    "hiragana": "・・・もう、えう゛ぁなんかどうでもいいんだ・・・",
-    "english": "I don't care about Evas anymore.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "・・・もう、エヴァなんかどうでもいいんだ・・・"
+    ],
+    "english": "I don't care about Evas anymore."
   },
   {
     "time": "01:02:09",
-    "japanese": "―――わかっている。",
-    "hiragana": "―――わかっている。",
-    "english": "I understand.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "―――わかっている。"
+    ],
+    "english": "I understand."
   },
   {
     "time": "01:02:10",
-    "japanese": "リリンの呪いとエヴァの覚醒リスクは僕が引き受けるよ。",
-    "hiragana": "りりんののろいとえう゛ぁのかくせいりすくはぼくがひきうけるよ。",
-    "english": "I will shoulder the burden of the Lilin's curse and the risk of Eva's Awakening.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "リリンの",
+      {"kanji": "呪", "reading": "のろ"},
+      "いとエヴァの",
+      {"kanji": "覚醒", "reading": "かくせい"},
+      "リスクは",
+      {"kanji": "僕", "reading": "ぼく"},
+      "が",
+      {"kanji": "引", "reading": "ひ"},
+      "き",
+      {"kanji": "受", "reading": "う"},
+      "けるよ。"
+    ],
+    "english": "I will shoulder the burden of the Lilin's curse and the risk of Eva's Awakening."
   },
   {
     "time": "01:02:21",
-    "japanese": "・・・渚・・・君",
-    "hiragana": "・・・なぎさ・・・くん",
-    "english": "Nagisa-kun...",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "・・・",
+      {"kanji": "渚", "reading": "なぎさ"},
+      "・・・",
+      {"kanji": "君", "reading": "くん"}
+    ],
+    "english": "Nagisa-kun..."
   },
   {
     "time": "01:02:24",
-    "japanese": "気にしなくていいよ。",
-    "hiragana": "きにしなくていいよ。",
-    "english": "No need to worry.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "気", "reading": "き"},
+      "にしなくていいよ。"
+    ],
+    "english": "No need to worry."
   },
   {
     "time": "01:02:26",
-    "japanese": "元々は僕を怖れたリリンが作ったモノだからね。",
-    "hiragana": "もともとはぼくをおそれたりりんがつくったものだからね。",
-    "english": "The Lilin originally created this due to their fear of me.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "元々", "reading": "もともと"},
+      "は",
+      {"kanji": "僕", "reading": "ぼく"},
+      "を",
+      {"kanji": "怖", "reading": "おそ"},
+      "れたリリンが",
+      {"kanji": "作", "reading": "つく"},
+      "ったモノだからね。"
+    ],
+    "english": "The Lilin originally created this due to their fear of me."
   },
   {
     "time": "01:02:29",
-    "japanese": "いずれは、こうするつもりだったんだ。",
-    "hiragana": "いずれは、こうするつもりだったんだ。",
-    "english": "I intended to take it from you at some point.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "いずれは、こうするつもりだったんだ。"
+    ],
+    "english": "I intended to take it from you at some point."
   },
   {
     "time": "01:02:34",
-    "japanese": "―――碇シンジ君。君の希望はドグマの爆心地に残る２本の槍だけだ。",
-    "hiragana": "―――いかりしんじくん。きみのきぼうはどぐまのばくしんちにのこる２ほんのやりだけだ。",
-    "english": "Ikari Shinji-kun, your only hope lies with the two Spears left at the Impact epicenter in Dogma.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "―――",
+      {"kanji": "碇", "reading": "いかり"},
+      "シンジ",
+      {"kanji": "君", "reading": "くん"},
+      "。",
+      {"kanji": "君", "reading": "きみ"},
+      "の",
+      {"kanji": "希望", "reading": "きぼう"},
+      "はドグマの",
+      {"kanji": "爆心地", "reading": "ばくしんち"},
+      "に",
+      {"kanji": "残", "reading": "のこ"},
+      "る",
+      {"kanji": "２本", "reading": "にほん"},
+      "の",
+      {"kanji": "槍", "reading": "やり"},
+      "だけだ。"
+    ],
+    "english": "Ikari Shinji-kun, your only hope lies with the two Spears left at the Impact epicenter in Dogma."
   },
   {
     "time": "01:02:41",
-    "japanese": "それが補完計画発動のキーとなっている。",
-    "hiragana": "それがほかんけいかくはつどうのきーとなっている。",
-    "english": "They are the keys to invoking the Instrumentality Project.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "それが",
+      {"kanji": "補完計画", "reading": "ほかんけいかく"},
+      {"kanji": "発動", "reading": "はつどう"},
+      "のキーとなっている。"
+    ],
+    "english": "They are the keys to invoking the Instrumentality Project."
   },
   {
     "time": "01:02:45",
-    "japanese": "僕らでその槍を手にすればいい。",
-    "hiragana": "ぼくらでそのやりをてにすればいい。",
-    "english": "We should take those Spears for ourselves.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "僕", "reading": "ぼく"},
+      "らでその",
+      {"kanji": "槍", "reading": "やり"},
+      "を",
+      {"kanji": "手", "reading": "て"},
+      "にすればいい。"
+    ],
+    "english": "We should take those Spears for ourselves."
   },
   {
     "time": "01:02:48",
-    "japanese": "そうすれば、ネルフもフォースインパクトを起こせなくなるし、",
-    "hiragana": "そうすれば、ねるふもふぉーすいんぱくとをおこせなくなるし、",
-    "english": "That way, Nerv can no longer trigger the Fourth Impact,",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "そうすれば、ネルフもフォースインパクトを",
+      {"kanji": "起", "reading": "お"},
+      "こせなくなるし、"
+    ],
+    "english": "That way, Nerv can no longer trigger the Fourth Impact,"
   },
   {
     "time": "01:02:52",
-    "japanese": "第１３号機とセットで使えば、世界の修復も可能だ。",
-    "hiragana": "だい１３ごうきとせっとでつかえば、せかいのしゅうふくもかのうだ。",
-    "english": "And if we use them together with Eva-13, we can even repair the world.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "第１３号機", "reading": "だいじゅうさんごうき"},
+      "とセットで",
+      {"kanji": "使", "reading": "つか"},
+      "えば、",
+      {"kanji": "世界", "reading": "せかい"},
+      "の",
+      {"kanji": "修復", "reading": "しゅうふく"},
+      "も",
+      {"kanji": "可能", "reading": "かのう"},
+      "だ。"
+    ],
+    "english": "And if we use them together with Eva-13, we can even repair the world."
   },
   {
     "time": "01:02:58",
-    "japanese": "―――そうだね。",
-    "hiragana": "―――そうだね。",
-    "english": "I guess so.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "―――そうだね。"
+    ],
+    "english": "I guess so."
   },
   {
     "time": "01:03:03",
-    "japanese": "うん。君になら出来るよ。",
-    "hiragana": "うん。きみになら できるよ。",
-    "english": "Yeah, I'm sure you can do it.",
-    "character": "シンジ"
+    "character": "シンジ",
+    "segments": [
+      "うん。",
+      {"kanji": "君", "reading": "きみ"},
+      "になら ",
+      {"kanji": "出来", "reading": "でき"},
+      "るよ。"
+    ],
+    "english": "Yeah, I'm sure you can do it."
   },
   {
     "time": "01:03:05",
-    "japanese": "君となら、だよ。",
-    "hiragana": "きみとなら、だよ。",
-    "english": "*We* can do it, you mean.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "君", "reading": "きみ"},
+      "となら、だよ。"
+    ],
+    "english": "*We* can do it, you mean."
   },
   {
     "time": "01:03:07",
-    "japanese": "エヴァ第１３号機はダブルエントリーシステムなんだ。",
-    "hiragana": "えう゛ぁだい１３ごうきはだぶるえんとりーしすてむなんだ。",
-    "english": "Eva-13 uses a double entry system.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      "エヴァ",
+      {"kanji": "第１３号機", "reading": "だいじゅうさんごうき"},
+      "はダブルエントリーシステムなんだ。"
+    ],
+    "english": "Eva-13 uses a double entry system."
   },
   {
     "time": "01:03:11",
-    "japanese": "二人でリリンの希望となろう。",
-    "hiragana": "ふたりでりりんのきぼうとなろう。",
-    "english": "Let's become the hope of Lilin together.",
-    "character": "カヲル"
+    "character": "カヲル",
+    "segments": [
+      {"kanji": "二人", "reading": "ふたり"},
+      "でリリンの",
+      {"kanji": "希望", "reading": "きぼう"},
+      "となろう。"
+    ],
+    "english": "Let's become the hope of Lilin together."
   }
 ]
