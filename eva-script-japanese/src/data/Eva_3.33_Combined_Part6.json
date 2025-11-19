@@ -3,630 +3,735 @@
     "time": "01:20:03",
     "japanese": "主砲斉射用意、曲射弾装填",
     "hiragana": "しゅほうせいしゃようい、きょくしゃだんそうてん",
-    "english": "Prepare the main cannons for a salvo! Load the mortar shells!"
+    "english": "Prepare the main cannons for a salvo! Load the mortar shells!",
+    "character": "ミサト"
   },
   {
     "time": "01:20:06",
     "japanese": "なんとしてもフォースの発動を食い止めるのよ！",
     "hiragana": "なんとしてもふぉーすのはつどうをくいとめるのよ！",
-    "english": "We'll do whatever it takes to keep Fourth Impact in check!"
+    "english": "We'll do whatever it takes to keep Fourth Impact in check!",
+    "character": "ミサト"
   },
   {
     "time": "01:20:08",
     "japanese": "撃てェ！！",
     "hiragana": "うてぇ！！",
-    "english": "Fire!"
+    "english": "Fire!",
+    "character": "ミサト"
   },
   {
     "time": "01:20:17",
     "japanese": "やられましたっ！！主砲に直撃！",
     "hiragana": "やられましたっ！！しゅほうにちょくげき！",
-    "english": "We've taken damage! Direct hit to the main cannons!"
+    "english": "We've taken damage! Direct hit to the main cannons!",
+    "character": "北上"
   },
   {
     "time": "01:20:19",
     "japanese": "アダムスの器か！？",
     "hiragana": "あだむすのうつわか！？",
-    "english": "The Adams' Vessel?!"
+    "english": "The Adams' Vessel?!",
+    "character": "ミサト"
   },
   {
     "time": "01:20:26",
     "japanese": "中央部に被弾！損害不明！",
     "hiragana": "ちゅうおうぶにひだん！そんがいふめい！",
-    "english": "Central hull hit! Extent of damage unknown!"
+    "english": "Central hull hit! Extent of damage unknown!",
+    "character": "多摩"
   },
   {
     "time": "01:20:28",
     "japanese": "/ 目標新型エヴァ＃＃＃＃",
     "hiragana": "/ もくひょうしんがたえゔぁ＃＃＃＃",
-    "english": "/ The target new-type Eva ＃＃＃＃"
+    "english": "/ The target new-type Eva ＃＃＃＃",
+    "character": "女 (BG)"
   },
   {
     "time": "01:20:30",
     "japanese": "舵がききません！",
     "hiragana": "かじがききません！",
-    "english": "Rudder irresponsive!"
+    "english": "Rudder irresponsive!",
+    "character": "長良"
   },
   {
     "time": "01:20:32",
     "japanese": "落下します！",
     "hiragana": "らっかします！",
-    "english": "We're losing altitude!"
+    "english": "We're losing altitude!",
+    "character": "長良"
   },
   {
     "time": "01:20:46",
     "japanese": "アダムスの器は、ヴンダー本来の主。",
     "hiragana": "あだむすのうつわは、ゔんだーほんらいのしゅ。",
-    "english": "The Adams' Vessel is Wunder's true master."
+    "english": "The Adams' Vessel is Wunder's true master.",
+    "character": "リツコ"
   },
   {
     "time": "01:20:48",
     "japanese": "初号機から本艦の制御を奪い返すつもりだわ",
     "hiragana": "しょごうきからほんかんのせいぎょをうばいかえすつもりだわ",
-    "english": "It intends to take the ship's controls back from Eva-01!"
+    "english": "It intends to take the ship's controls back from Eva-01!",
+    "character": "リツコ"
   },
   {
     "time": "01:20:57",
     "japanese": "何故？リンクが回復しない。",
     "hiragana": "なぜ？りんくがかいふくしない。",
-    "english": "Why can't I restore the link?"
+    "english": "Why can't I restore the link?",
+    "character": "レイ"
   },
   {
     "time": "01:21:03",
     "japanese": "よっと。",
     "hiragana": "よっと。",
-    "english": ""
+    "english": "",
+    "character": "マリ"
   },
   {
     "time": "01:21:05",
     "japanese": "あっちゃ～～。",
     "hiragana": "あっちゃ～～。",
-    "english": "Oh, man!"
+    "english": "Oh, man!",
+    "character": "マリ"
   },
   {
     "time": "01:21:07",
     "japanese": "こいつはシッチャカメッチャカな状況ね",
     "hiragana": "こいつはしっちゃかめっちゃかなじょうきょうね",
-    "english": "That's one hell of a mess they got themselves in."
+    "english": "That's one hell of a mess they got themselves in.",
+    "character": "マリ"
   },
   {
     "time": "01:21:10",
     "japanese": "コネメガネはガキのエヴァを。",
     "hiragana": "こねめがねはがきのえゔぁを。",
-    "english": "Glasses, you handle the brat's Eva!"
+    "english": "Glasses, you handle the brat's Eva!",
+    "character": "アスカ"
   },
   {
     "time": "01:21:12",
     "japanese": "ヴンダーは改２で助ける",
     "hiragana": "ゔんだーはかい２でたすける",
-    "english": "I'll help out Wunder with 02'!"
+    "english": "I'll help out Wunder with 02'!",
+    "character": "アスカ"
   },
   {
     "time": "01:21:14",
     "japanese": "ラジャ！",
     "hiragana": "らじゃ！",
-    "english": "Roger!"
+    "english": "Roger!",
+    "character": "マリ"
   },
   {
     "time": "01:21:15",
     "japanese": "アダムスの器、排除できません！",
     "hiragana": "あだむすのうつわ、はいじょできません！",
-    "english": "Unable to reject the Adams' Vessel!"
+    "english": "Unable to reject the Adams' Vessel!",
+    "character": "北上"
   },
   {
     "time": "01:21:17",
     "japanese": "主制御システムに未確認データが侵入",
     "hiragana": "しゅせいぎょしすてむにみかくにんでーたがしんにゅう",
-    "english": "Unidentified data is infiltrating the main control system!"
+    "english": "Unidentified data is infiltrating the main control system!",
+    "character": "多摩"
   },
   {
     "time": "01:21:19",
     "japanese": "艦のコントロールが、乗っ取られていきます！",
     "hiragana": "かんのこんとろーるが、のっとられていきます！",
-    "english": "It's hijacking control of the ship!"
+    "english": "It's hijacking control of the ship!",
+    "character": "青葉"
   },
   {
     "time": "01:21:43",
     "japanese": "ズルっ！ゼーレのやりそうな事ね",
     "hiragana": "ずるっ！ぜーれのやりそうなことね",
-    "english": "No fair! That reeks of Seele."
+    "english": "No fair! That reeks of Seele.",
+    "character": "アスカ"
   },
   {
     "time": "01:21:53",
     "japanese": "モードチェンジ！",
     "hiragana": "もーどちぇんじ！",
-    "english": "Mode change!"
+    "english": "Mode change!",
+    "character": "アスカ"
   },
   {
     "time": "01:21:55",
     "japanese": "コード７７７（トリプル・セブン）！",
     "hiragana": "こーど７７７（とりぷる・せぶん）！",
-    "english": "Code 777!"
+    "english": "Code 777!",
+    "character": "アスカ"
   },
   {
     "time": "01:22:04",
     "japanese": "誰？",
     "hiragana": "だれ？",
-    "english": "Who's there?"
+    "english": "Who's there?",
+    "character": "レイ"
   },
   {
     "time": "01:22:05",
     "japanese": "あんたこそ誰よ！",
     "hiragana": "あんたこそだれよ！",
-    "english": "Who the hell are *you*?!"
+    "english": "Who the hell are *you*?!",
+    "character": "アスカ"
   },
   {
     "time": "01:22:24",
     "japanese": "観測室より報告！",
     "hiragana": "かんそくしつよりほうこく！",
-    "english": "Report from the observation station."
+    "english": "Report from the observation station.",
+    "character": "青葉"
   },
   {
     "time": "01:22:26",
     "japanese": "改２号機、アダムスの器と会敵！",
     "hiragana": "かい２ごうき、あだむすのうつわとかいてき！",
-    "english": "Eva-02' has engaged the Adams' Vessel!"
+    "english": "Eva-02' has engaged the Adams' Vessel!",
+    "character": "青葉"
   },
   {
     "time": "01:22:27",
     "japanese": "たのむわ、アスカ",
     "hiragana": "たのむわ、あすか",
-    "english": "We're counting on you, Asuka."
+    "english": "We're counting on you, Asuka.",
+    "character": "ミサト"
   },
   {
     "time": "01:22:48",
     "japanese": "こんな時、アヤナミレイならどうするの？",
     "hiragana": "こんなとき、あやなみれいならどうするの？",
-    "english": "What would Ayanami Rei do in this situation?"
+    "english": "What would Ayanami Rei do in this situation?",
+    "character": "レイ"
   },
   {
     "time": "01:22:51",
     "japanese": "知るか！",
     "hiragana": "しるか！",
-    "english": "Hell if I know!"
+    "english": "Hell if I know!",
+    "character": "アスカ"
   },
   {
     "time": "01:22:52",
     "japanese": "あんたはどうしたいの！！",
     "hiragana": "あんたはどうしたいの！！",
-    "english": "What do *you* want to do?!"
+    "english": "What do *you* want to do?!",
+    "character": "アスカ"
   },
   {
     "time": "01:22:58",
     "japanese": "これで、コアを！！",
     "hiragana": "これで、こあを！！",
-    "english": "I've got the core now!"
+    "english": "I've got the core now!",
+    "character": "アスカ"
   },
   {
     "time": "01:23:09",
     "japanese": "こいつ、全身がコアか！",
     "hiragana": "こいつ、ぜんしんがこあか！",
-    "english": "The whole thing is the core?!"
+    "english": "The whole thing is the core?!",
+    "character": "アスカ"
   },
   {
     "time": "01:23:12",
     "japanese": "時間もない。",
     "hiragana": "じかんもない。",
-    "english": "I don't have time."
+    "english": "I don't have time.",
+    "character": "アスカ"
   },
   {
     "time": "01:23:14",
     "japanese": "ごめん２号機！",
     "hiragana": "ごめん２ごうき！",
-    "english": "Sorry, Eva-02!"
+    "english": "Sorry, Eva-02!",
+    "character": "アスカ"
   },
   {
     "time": "01:23:31",
     "japanese": "制御システム回復！",
     "hiragana": "せいぎょしすてむかいふく！",
-    "english": "Control system restored!"
+    "english": "Control system restored!",
+    "character": "長良"
   },
   {
     "time": "01:23:33",
     "japanese": "全艦緊急発進！",
     "hiragana": "ぜんかんきんきゅうはっしん！",
-    "english": "Emergency launch of all ships!"
+    "english": "Emergency launch of all ships!",
+    "character": "ミサト"
   },
   {
     "time": "01:23:34",
     "japanese": "目標のエヴァをただちに追跡！",
     "hiragana": "もくひょうのえゔぁをただちについせき！",
-    "english": "Pursue the target Eva immediately!"
+    "english": "Pursue the target Eva immediately!",
+    "character": "ミサト"
   },
   {
     "time": "01:23:36",
     "japanese": "艦長！主機が復元されるまでは無理よ",
     "hiragana": "かんちょう！しゅきがふくげんされるまではむりよ",
-    "english": "Captain, we must wait until the main engine recovers."
+    "english": "Captain, we must wait until the main engine recovers.",
+    "character": "リツコ"
   },
   {
     "time": "01:23:40",
     "japanese": "シンジ君",
     "hiragana": "しんじくん",
-    "english": "Shinji-kun..."
+    "english": "Shinji-kun...",
+    "character": "ミサト"
   },
   {
     "time": "01:24:02",
     "japanese": "僕のせいなのか・・・",
     "hiragana": "ぼくのせいなのか・・・",
-    "english": "This is all because of me...?"
+    "english": "This is all because of me...?",
+    "character": "シンジ"
   },
   {
     "time": "01:24:06",
     "japanese": "僕が・・・僕が・・・",
     "hiragana": "ぼくが・・・ぼくが・・・",
-    "english": "I... I..."
+    "english": "I... I...",
+    "character": "シンジ"
   },
   {
     "time": "01:24:12",
     "japanese": "君のせいじゃない。",
     "hiragana": "きみのせいじゃない。",
-    "english": "It's not your fault."
+    "english": "It's not your fault.",
+    "character": "カヲル"
   },
   {
     "time": "01:24:15",
     "japanese": "僕が第１３の使徒になってしまったからね。",
     "hiragana": "ぼくがだい１３のしとになってしまったからね。",
-    "english": "It happened because I became the Thirteenth Angel."
+    "english": "It happened because I became the Thirteenth Angel.",
+    "character": "カヲル"
   },
   {
     "time": "01:24:19",
     "japanese": "僕がトリガーだ。",
     "hiragana": "ぼくがとりがーだ。",
-    "english": "I was the trigger."
+    "english": "I was the trigger.",
+    "character": "カヲル"
   },
   {
     "time": "01:24:21",
     "japanese": "どうしよう・・・",
     "hiragana": "どうしよう・・・",
-    "english": "What should I do?"
+    "english": "What should I do?",
+    "character": "シンジ"
   },
   {
     "time": "01:24:24",
     "japanese": "ねえ、どうしよう・・・",
     "hiragana": "ねえ、どうしよう・・・",
-    "english": "Tell me, what should I do?"
+    "english": "Tell me, what should I do?",
+    "character": "シンジ"
   },
   {
     "time": "01:24:31",
     "japanese": "カヲル君。",
     "hiragana": "かをるくん。",
-    "english": "Kaworu-kun,"
+    "english": "Kaworu-kun,",
+    "character": "シンジ"
   },
   {
     "time": "01:24:34",
     "japanese": "僕はどうしたらいいの？",
     "hiragana": "ぼくはどうしたらいいの？",
-    "english": "what would be the right thing?"
+    "english": "what would be the right thing?",
+    "character": "シンジ"
   },
   {
     "time": "01:24:37",
     "japanese": "魂が消えても、願いと呪いはこの世界に残る。",
     "hiragana": "たましいがきえても、ねがいとのろいはこのせかいにのこる。",
-    "english": "Even if your soul disappears, your hopes and curses remain in this world."
+    "english": "Even if your soul disappears, your hopes and curses remain in this world.",
+    "character": "カヲル"
   },
   {
     "time": "01:24:43",
     "japanese": "意志は情報として世界を伝い、変えていく。",
     "hiragana": "いしはじょうほうとしてせかいをつたい、かえていく。",
-    "english": "Your will roams the world as information and gradually changes."
+    "english": "Your will roams the world as information and gradually changes.",
+    "character": "カヲル"
   },
   {
     "time": "01:24:48",
     "japanese": "いつか自分自身のことも書き換えていくんだ。",
     "hiragana": "いつかじぶんじしんのこともかきかえていくんだ。",
-    "english": "In time, even your very self is altered."
+    "english": "In time, even your very self is altered.",
+    "character": "カヲル"
   },
   {
     "time": "01:24:54",
     "japanese": "ごめん。これは君の望む幸せではなかった",
     "hiragana": "ごめん。これはきみののぞむしあわせではなかった",
-    "english": "I'm sorry. This wasn't the happiness you desired."
+    "english": "I'm sorry. This wasn't the happiness you desired.",
+    "character": "カヲル"
   },
   {
     "time": "01:25:03",
     "japanese": "シンジ君が心配することはない。",
     "hiragana": "しんじくんがしんぱいすることはない。",
-    "english": "You don't need to worry, Shinji-kun."
+    "english": "You don't need to worry, Shinji-kun.",
+    "character": "カヲル"
   },
   {
     "time": "01:25:05",
     "japanese": "カヲル君・・・。",
     "hiragana": "かをるくん・・・。",
-    "english": "Kaworu-kun..."
+    "english": "Kaworu-kun...",
+    "character": "シンジ"
   },
   {
     "time": "01:25:08",
     "japanese": "カヲル君が何を云ってるのか",
     "hiragana": "かをるくんがなにをいってるのか",
-    "english": "What are you talking about, Kaworu-kun?"
+    "english": "What are you talking about, Kaworu-kun?",
+    "character": "シンジ"
   },
   {
     "time": "01:25:11",
     "japanese": "わからないよ",
     "hiragana": "わからないよ",
-    "english": "I don't get it at all!"
+    "english": "I don't get it at all!",
+    "character": "シンジ"
   },
   {
     "time": "01:25:18",
     "japanese": "シンジ君は、安らぎと自分の場所を見つければいい。",
     "hiragana": "しんじくんは、やすらぎとじぶんのばしょをみつければいい。",
-    "english": "Shinji-kun, you just need to find peace and a place to call your own."
+    "english": "Shinji-kun, you just need to find peace and a place to call your own.",
+    "character": "カヲル"
   },
   {
     "time": "01:25:31",
     "japanese": "縁が君を導くだろう。",
     "hiragana": "えんがきみをみちびくだろう。",
-    "english": "Fate will surely guide you."
+    "english": "Fate will surely guide you.",
+    "character": "カヲル"
   },
   {
     "time": "01:25:37",
     "japanese": "そんな顔をしないで。",
     "hiragana": "そんなかおをしないで。",
-    "english": "Don't look at me like that."
+    "english": "Don't look at me like that.",
+    "character": "カヲル"
   },
   {
     "time": "01:25:41",
     "japanese": "また会えるよ。シンジ君",
     "hiragana": "またあえるよ。しんじくん",
-    "english": "We'll meet again, Shinji-kun."
+    "english": "We'll meet again, Shinji-kun.",
+    "character": "カヲル"
   },
   {
     "time": "01:25:44",
     "japanese": "カヲル君！！・・・",
     "hiragana": "かをるくん！！・・・",
-    "english": "Kaworu-kun!"
+    "english": "Kaworu-kun!",
+    "character": "シンジ"
   },
   {
     "time": "01:26:04",
     "japanese": "ガフの扉がまだ閉じない！",
     "hiragana": "がふのとびらがまだとじない！",
-    "english": "The Gates of Guf still hasn't closed!"
+    "english": "The Gates of Guf still hasn't closed!",
+    "character": "マリ"
   },
   {
     "time": "01:26:06",
     "japanese": "ワンコ君がゼーレの保険か！",
     "hiragana": "わんこくんがぜーれのほけんか！",
-    "english": "So, Puppy Boy was Seele's backup!"
+    "english": "So, Puppy Boy was Seele's backup!",
+    "character": "マリ"
   },
   {
     "time": "01:26:25",
     "japanese": "後始末は済んだ！",
     "hiragana": "あとしまつはすんだ！",
-    "english": "Everything's settled!"
+    "english": "Everything's settled!",
+    "character": "マリ"
   },
   {
     "time": "01:26:26",
     "japanese": "しっかりしろ、ワンコ君！！",
     "hiragana": "しっかりしろ、わんこくん！！",
-    "english": "Get a hold of yourself, Puppy Boy!"
+    "english": "Get a hold of yourself, Puppy Boy!",
+    "character": "マリ"
   },
   {
     "time": "01:26:30",
     "japanese": "グズるな！せめて、姫を助けろ！",
     "hiragana": "ぐずるな！せめて、ひめをたすけろ！",
-    "english": "Stop being such a baby!"
+    "english": "Stop being such a baby!",
+    "character": "マリ"
   },
   {
     "time": "01:26:31",
     "japanese": "ちょっとは世間を知りニャ！",
     "hiragana": "ちょっとはせけんをしりにゃ！",
-    "english": "Help out the Princess, at least!"
+    "english": "Help out the Princess, at least!",
+    "character": "マリ"
   },
   {
     "time": "01:26:33",
     "japanese": "男だろ！",
     "hiragana": "おとこだろ！",
-    "english": "You're a man, aren't you?!"
+    "english": "You're a man, aren't you?!",
+    "character": "マリ"
   },
   {
     "time": "01:26:36",
     "japanese": "ついでに、",
     "hiragana": "ついでに、",
-    "english": "And while you're at it, get to know the world a little!"
+    "english": "And while you're at it, get to know the world a little!",
+    "character": "マリ"
   },
   {
     "time": "01:27:33",
     "japanese": "酷い有様だな。",
     "hiragana": "ひどいありさまだな。",
-    "english": "Look at this mess."
+    "english": "Look at this mess.",
+    "character": "冬月"
   },
   {
     "time": "01:27:35",
     "japanese": "ほとんどがゼーレの目論み通りだ。",
     "hiragana": "ほとんどがぜーれのもくろみどおりだ。",
-    "english": "Nearly everything went as Seele had intended."
+    "english": "Nearly everything went as Seele had intended.",
+    "character": "冬月"
   },
   {
     "time": "01:27:38",
     "japanese": "だが、ゼーレの少年を排除し、第１３号機も覚醒へと導いた。",
     "hiragana": "だが、ぜーれのしょうねんをはいじょし、だい１３ごうきもかくせいへとみちびいた。",
-    "english": "Even so, we eliminated Seele's boy and guided Eva-13 to its Awakening."
+    "english": "Even so, we eliminated Seele's boy and guided Eva-13 to its Awakening.",
+    "character": "ゲンドウ"
   },
   {
     "time": "01:27:46",
     "japanese": "葛城大佐の動きも計算内だ。",
     "hiragana": "かつらぎたいさのうごきもけいさんないだ。",
-    "english": "Captain Katsuragi's actions are also within expectations."
+    "english": "Captain Katsuragi's actions are also within expectations.",
+    "character": "ゲンドウ"
   },
   {
     "time": "01:27:49",
     "japanese": "今はこれでいい。",
     "hiragana": "いまはこれでいい。",
-    "english": "This will do for now."
+    "english": "This will do for now.",
+    "character": "ゲンドウ"
   },
   {
     "time": "01:27:52",
     "japanese": "全艦、第２種警戒態勢を維持。",
     "hiragana": "ぜんかん、だい２しゅけいかいたいせいをいじ。",
-    "english": "All ships, remain in secondary state of alert."
+    "english": "All ships, remain in secondary state of alert.",
+    "character": "日向(無線)"
   },
   {
     "time": "01:27:55",
     "japanese": "パターン青、反応なし。",
     "hiragana": "ぱたーんあお、はんのうなし。",
-    "english": "No blood type blue readings."
+    "english": "No blood type blue readings.",
+    "character": "北上(無線)"
   },
   {
     "time": "01:27:57",
     "japanese": "警戒空域に機影を認めず。",
     "hiragana": "けいかいくういきにきえいをみとめず。",
-    "english": "No units detected in the monitored airspace."
+    "english": "No units detected in the monitored airspace.",
+    "character": "北上(無線)"
   },
   {
     "time": "01:27:59",
     "japanese": "中央部損傷箇所の応急処置完了。",
     "hiragana": "ちゅうおうぶそんしょうかしょのおうきゅうしょちかんりょう。",
-    "english": "Emergency repairs to the central hull completed."
+    "english": "Emergency repairs to the central hull completed.",
+    "character": "多摩(無線)"
   },
   {
     "time": "01:28:01",
     "japanese": "誰のおかげかわからないけれどフォースは止まった。",
     "hiragana": "だれのおかげかわからないけれどふぉーすはとまった。",
-    "english": "I don't know who did it, but Fourth Impact was stopped."
+    "english": "I don't know who did it, but Fourth Impact was stopped.",
+    "character": "リツコ"
   },
   {
     "time": "01:28:07",
     "japanese": "ミサト。今はそれで良しとしましょう",
     "hiragana": "みさと。いまはそれでよしとしましょう",
-    "english": "Misato, this should be good enough for now."
+    "english": "Misato, this should be good enough for now.",
+    "character": "リツコ"
   },
   {
     "time": "01:29:01",
     "japanese": "・・・ガキシンジ。",
     "hiragana": "・・・がきしんじ。",
-    "english": "You brat, Shinji."
+    "english": "You brat, Shinji.",
+    "character": "アスカ"
   },
   {
     "time": "01:29:04",
     "japanese": "助けてくれないんだ。私を",
     "hiragana": "たすけてくれないんだ。わたしを",
-    "english": "You didn't come to help me."
+    "english": "You didn't come to help me.",
+    "character": "アスカ"
   },
   {
     "time": "01:29:10",
     "japanese": "また自分の事ばっかり。黙ってりゃ済むと思ってる",
     "hiragana": "またじぶんのことばっかり。だまってりゃすむとおもってる",
-    "english": "Only thinking about yourself, as usual."
+    "english": "Only thinking about yourself, as usual.",
+    "character": "アスカ"
   },
   {
     "time": "01:29:40",
     "japanese": "まだ甘えてる。",
     "hiragana": "まだあまえてる。",
-    "english": "You're still such a baby."
+    "english": "You're still such a baby.",
+    "character": "アスカ"
   },
   {
     "time": "01:29:43",
     "japanese": "いつまでたっても・・・手間のかかるガキね",
     "hiragana": "いつまでたっても・・・てまのかかるがきね",
-    "english": ""
+    "english": "",
+    "character": "アスカ"
   },
   {
     "time": "01:29:47",
     "japanese": "ほら、これ着けて。",
     "hiragana": "ほら、これつけて。",
-    "english": "Here, put this on."
+    "english": "Here, put this on.",
+    "character": "アスカ"
   },
   {
     "time": "01:29:50",
     "japanese": "もお～～　立ってるくらい自分で出来るでしょ！",
     "hiragana": "もお～～　たってるくらいじぶんでできるでしょ！",
-    "english": "Jeez! You can't even *stand* on your own?!"
+    "english": "Jeez! You can't even *stand* on your own?!",
+    "character": "アスカ"
   },
   {
     "time": "01:29:58",
     "japanese": "さっきのパイロットね。",
     "hiragana": "さっきのぱいろっとね。",
-    "english": "You're the pilot from before."
+    "english": "You're the pilot from before.",
+    "character": "アスカ"
   },
   {
     "time": "01:30:02",
     "japanese": "綾波タイプの初期ロットか。",
     "hiragana": "あやなみたいぷのしょきろっとか。",
-    "english": "From an early lot of Ayanami types, are you?"
+    "english": "From an early lot of Ayanami types, are you?",
+    "character": "アスカ"
   },
   {
     "time": "01:30:11",
     "japanese": "ここじゃＬ結界密度が強すぎて、助けに来れないわ",
     "hiragana": "ここじゃＬけっかいみつどがつよすぎて、たすけにこれないわ",
-    "english": "The L Barrier density is too high here, so they won't be able to come for us."
+    "english": "The L Barrier density is too high here, so they won't be able to come for us.",
+    "character": "アスカ"
   },
   {
     "time": "01:30:16",
     "japanese": "リリンが近付ける所まで移動するわよ。",
     "hiragana": "りりんがちかづけるところまでいどうするわよ。",
-    "english": "We'll go someplace where the Lilin can pick us up."
+    "english": "We'll go someplace where the Lilin can pick us up.",
+    "character": "アスカ"
   },
   {
     "time": "01:30:23",
     "japanese": "ほら！",
     "hiragana": "ほら！",
-    "english": "Come on!"
+    "english": "Come on!",
+    "character": "アスカ"
   },
   {
     "time": "01:30:51",
     "japanese": "第３装甲板、大破！",
     "hiragana": "だい３そうこうばん、たいは！",
-    "english": "Severe damage to the third armor plate!"
+    "english": "Severe damage to the third armor plate!",
+    "character": "青葉"
   },
   {
     "time": "01:35:12",
     "japanese": "生きる気力を失ったまま放浪を続ける碇シンジ。",
     "hiragana": "いきるきりょくをうしなったままほうろうをつづけるいかりしんじ。",
-    "english": "Shinji Ikari is still adrift after losing his will to live."
+    "english": "Shinji Ikari is still adrift after losing his will to live.",
+    "character": "ナレーター"
   },
   {
     "time": "01:35:16",
     "japanese": "たどり着いた場所が彼に希望を教える。",
     "hiragana": "たどりついたばしょがかれにきぼうをおしえる。",
-    "english": "He'll discover hope at the place he ends up."
+    "english": "He'll discover hope at the place he ends up.",
+    "character": "ナレーター"
   },
   {
     "time": "01:35:19",
     "japanese": "ついに発動する補完計画。",
     "hiragana": "ついにはつどうするほかんけいかく。",
-    "english": "Finally the Instrumentality Project is set in motion."
+    "english": "Finally the Instrumentality Project is set in motion.",
+    "character": "ナレーター"
   },
   {
     "time": "01:35:22",
     "japanese": "ファイナルインパクト阻止のため、",
     "hiragana": "ふぁいなるいんぱくとそしのため、",
-    "english": "Wille make one last grueling stand to prevent Final Impact."
+    "english": "Wille make one last grueling stand to prevent Final Impact.",
+    "character": "ナレーター"
   },
   {
     "time": "01:35:23",
     "japanese": "最後の決戦を挑むヴィレ。",
     "hiragana": "さいごのけっせんをいどむゔぃれ。",
-    "english": ""
+    "english": "",
+    "character": "ナレーター"
   },
   {
     "time": "01:35:26",
     "japanese": "空を裂くヴンダー！",
     "hiragana": "そらをさくゔんだー！",
-    "english": "The Wunder tears through the sky!"
+    "english": "The Wunder tears through the sky!",
+    "character": "ナレーター"
   },
   {
     "time": "01:35:27",
     "japanese": "赤い大地を疾走する、エヴァ８＋２号機！",
     "hiragana": "あかいだいちをしっそうする、えゔぁ８＋２ごうき！",
-    "english": "Eva Unit 8+2 races across the red earth!"
+    "english": "Eva Unit 8+2 races across the red earth!",
+    "character": "ナレーター"
   },
   {
     "time": "01:35:32",
     "japanese": "次回『シン・エヴァンゲリオン劇場版』",
     "hiragana": "じかい『しん・えゔぁんげりおんげきじょうばん』",
-    "english": "Next time in \"New Evangelion Theatrical Edition\"."
+    "english": "Next time in \"New Evangelion Theatrical Edition\".",
+    "character": "ナレーター"
   },
   {
     "time": "01:35:34",
     "japanese": "さぁ～て最後まで、サービス、サービスぅ！",
     "hiragana": "さぁ～てさいごまで、さーびす、さーびすぅ！",
-    "english": "There'll be plenty of fan service all the way to the end!"
+    "english": "There'll be plenty of fan service all the way to the end!",
+    "character": "ナレーター"
   },
   {
     "time": "01:41:39",
     "japanese": "話そうよ",
     "hiragana": "はなそうよ",
-    "english": ""
+    "english": "",
+    "character": "カヲル"
   }
 ]

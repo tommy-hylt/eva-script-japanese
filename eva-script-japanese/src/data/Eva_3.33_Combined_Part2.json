@@ -3,762 +3,889 @@
     "time": "00:14:07",
     "japanese": "試運転もなしに、危険すぎます！",
     "hiragana": "しうんてんもなしに、きけんすぎます！",
-    "english": "We've never performed a single test flight! It's too dangerous!"
+    "english": "We've never performed a single test flight! It's too dangerous!",
+    "character": "多摩"
   },
   {
     "time": "00:14:09",
     "japanese": "重力制御、未経験です。",
     "hiragana": "じゅうりょくせいぎょ、みけいけんです。",
-    "english": "I have no experience controlling the gravity."
+    "english": "I have no experience controlling the gravity.",
+    "character": "長良"
   },
   {
     "time": "00:14:11",
     "japanese": "自信ありません。",
     "hiragana": "じしんありません。",
-    "english": "I doubt I can do it."
+    "english": "I doubt I can do it.",
+    "character": "長良"
   },
   {
     "time": "00:14:13",
     "japanese": "勝てない戦はなしがいいな。",
     "hiragana": "かてないいくさはなしがいいな。",
-    "english": "I'd rather not fight a battle we can't win."
+    "english": "I'd rather not fight a battle we can't win.",
+    "character": ""
   },
   {
     "time": "00:14:15",
     "japanese": "私まだ死にたくないです。",
     "hiragana": "わたしまだしにたくないです。",
-    "english": "I don't wanna die just yet."
+    "english": "I don't wanna die just yet.",
+    "character": "北上"
   },
   {
     "time": "00:14:17",
     "japanese": "死ぬ時ゃ死ぬ。そんだけだ。",
     "hiragana": "しぬときゃしぬ。そんだけだ。",
-    "english": "You'll die when it's time. Simple as that."
+    "english": "You'll die when it's time. Simple as that.",
+    "character": "高雄"
   },
   {
     "time": "00:14:19",
     "japanese": "若いもんが細かく言うな。",
     "hiragana": "わかいもんがこまかくいうな。",
-    "english": "You kids should stop complaining so much."
+    "english": "You kids should stop complaining so much.",
+    "character": "高雄"
   },
   {
     "time": "00:14:21",
     "japanese": "ええ！年寄りなら慎重にいくもんでしょお！？",
     "hiragana": "ええ！としよりならしんちょうにいくもんでしょお！？",
-    "english": "Shouldn't you old folks watch out for yourselves?"
+    "english": "Shouldn't you old folks watch out for yourselves?",
+    "character": ""
   },
   {
     "time": "00:14:24",
     "japanese": "けっ",
     "hiragana": "けっ",
-    "english": ""
+    "english": "",
+    "character": "高雄"
   },
   {
     "time": "00:14:25",
     "japanese": "無茶は承知。",
     "hiragana": "むちゃはしょうち。",
-    "english": "I know it's reckless!"
+    "english": "I know it's reckless!",
+    "character": "ミサト"
   },
   {
     "time": "00:14:27",
     "japanese": "本艦をおとりに目標を引きずりだします。",
     "hiragana": "ほんかんをおとりにもくひょうをひきずりだします。",
-    "english": "We'll use this ship as bait and draw the targets out."
+    "english": "We'll use this ship as bait and draw the targets out.",
+    "character": "ミサト"
   },
   {
     "time": "00:14:30",
     "japanese": "神殺しの力、見極めるだけよ。",
     "hiragana": "かみごろしのちから、みきわめるだけよ。",
-    "english": "The power to kill gods... I'll see what it can do."
+    "english": "The power to kill gods... I'll see what it can do.",
+    "character": "ミサト"
   },
   {
     "time": "00:14:33",
     "japanese": "しかし、肝心の点火システムは未設置なのよ。",
     "hiragana": "しかし、かんじんのてんかしすてむはみせっちなのよ。",
-    "english": "But the crucial ignition system hasn't been installed yet."
+    "english": "But the crucial ignition system hasn't been installed yet.",
+    "character": "リツコ"
   },
   {
     "time": "00:14:36",
     "japanese": "まさか、エヴァを使う気？",
     "hiragana": "まさか、えう゛ぁをつかうき？",
-    "english": "Don't tell me you're going to use the Evas?"
+    "english": "Don't tell me you're going to use the Evas?",
+    "character": "リツコ"
   },
   {
     "time": "00:14:39",
     "japanese": "マリ？",
     "hiragana": "まり？",
-    "english": "Mari?"
+    "english": "Mari?",
+    "character": "ミサト"
   },
   {
     "time": "00:14:40",
     "japanese": "８号機まだムリ。",
     "hiragana": "はちごうきまだむり。",
-    "english": "Eva-08 isn't ready yet."
+    "english": "Eva-08 isn't ready yet.",
+    "character": "マリ（無線）"
   },
   {
     "time": "00:14:41",
     "japanese": "アスカ",
     "hiragana": "あすか",
-    "english": "Asuka?"
+    "english": "Asuka?",
+    "character": "ミサト"
   },
   {
     "time": "00:14:42",
     "japanese": "アスカ？",
     "hiragana": "あすか？",
-    "english": "Asuka?"
+    "english": "Asuka?",
+    "character": "シンジ"
   },
   {
     "time": "00:14:46",
     "japanese": "もうやってる。",
     "hiragana": "もうやってる。",
-    "english": "I'm already on it!"
+    "english": "I'm already on it!",
+    "character": "アスカ"
   },
   {
     "time": "00:14:47",
     "japanese": "要は点火器をぶち込みゃいいんでしょ。",
     "hiragana": "ようはてんかきをぶちこみゃいいんでしょ。",
-    "english": "I just have to shove the igniter in, right?"
+    "english": "I just have to shove the igniter in, right?",
+    "character": "アスカ"
   },
   {
     "time": "00:14:50",
     "japanese": "―――頼むわ。",
     "hiragana": "たのむわ。",
-    "english": "I'm counting on you."
+    "english": "I'm counting on you.",
+    "character": "ミサト"
   },
   {
     "time": "00:14:51",
     "japanese": "しかし、主機周辺は結界密度の問題が―――。",
     "hiragana": "しかし、しゅきしゅうへんはけっかいみつどのもんだいが。",
-    "english": "But there's a problem with the barrier density around the main engine."
+    "english": "But there's a problem with the barrier density around the main engine.",
+    "character": "リツコ"
   },
   {
     "time": "00:14:54",
     "japanese": "それに換装作業中でしょ。",
     "hiragana": "それにかんそうさぎょうちゅうでしょ。",
-    "english": "And parts are currently being exchanged, aren't they?"
+    "english": "And parts are currently being exchanged, aren't they?",
+    "character": "リツコ"
   },
   {
     "time": "00:14:56",
     "japanese": "ま、目的優先。人命軽視は大佐のモットーだしね。",
     "hiragana": "ま、もくてきゆうせん。じんめいけいしはたいさのもっとーだしね。",
-    "english": "Well, the captain's motto is 'prioritize the objective over human life'."
+    "english": "Well, the captain's motto is 'prioritize the objective over human life'.",
+    "character": "アスカ"
   },
   {
     "time": "00:15:00",
     "japanese": "気にせず、出るわよ。",
     "hiragana": "きにせず、でるわよ。",
-    "english": "I'm going all out!"
+    "english": "I'm going all out!",
+    "character": "アスカ"
   },
   {
     "time": "00:15:01",
     "japanese": "エヴァ改２号機、起動！",
     "hiragana": "えう゛ぁかいにごうき、きどう！",
-    "english": "Eva Unit 02', activate!"
+    "english": "Eva Unit 02', activate!",
+    "character": "アスカ"
   },
   {
     "time": "00:15:06",
     "japanese": "改２号機、発進。",
     "hiragana": "かいにごうき、はっしん。",
-    "english": "Launch Eva-02'."
+    "english": "Launch Eva-02'.",
+    "character": "伊吹"
   },
   {
     "time": "00:15:07",
     "japanese": "了解。",
     "hiragana": "りょうかい。",
-    "english": "Roger."
+    "english": "Roger.",
+    "character": "北上"
   },
   {
     "time": "00:15:08",
     "japanese": "エヴァ改２号機発進中。",
     "hiragana": "えう゛ぁかいにごうきはっしんちゅう。",
-    "english": "Preparing Eva-02' for launch."
+    "english": "Preparing Eva-02' for launch.",
+    "character": "北上"
   },
   {
     "time": "00:15:09",
     "japanese": "続いて、水中モーター及びレフトコンテナ１番を投下！",
     "hiragana": "つづいて、すいちゅうもーたーおよびれふとこんてないちばんをとうか！",
-    "english": "Also deploying the underwater motor and Left Container No. 1."
+    "english": "Also deploying the underwater motor and Left Container No. 1.",
+    "character": "伊吹"
   },
   {
     "time": "00:15:20",
     "japanese": "ったく、せっかくのニュースタイルだっちゅーのに、何とも地味な出陣ね。",
     "hiragana": "ったく、せっかくのにゅーすたいるだっちゅーのに、なんともじみなしゅつじんね。",
-    "english": "What a lame way for my unit to debut after its makeover."
+    "english": "What a lame way for my unit to debut after its makeover.",
+    "character": "アスカ"
   },
   {
     "time": "00:15:31",
     "japanese": "やっぱり、エヴァ２号機。",
     "hiragana": "やっぱり、えう゛ぁにごうき。",
-    "english": "It really is Eva Unit 02."
+    "english": "It really is Eva Unit 02.",
+    "character": "シンジ"
   },
   {
     "time": "00:15:33",
     "japanese": "よかった。無事だったんだ。アスカ。",
     "hiragana": "よかった。ぶじだったんだ。あすか。",
-    "english": "Thank goodness. You're alright, Asuka."
+    "english": "Thank goodness. You're alright, Asuka.",
+    "character": "シンジ"
   },
   {
     "time": "00:15:40",
     "japanese": "・・・・・・ミサトさん、僕は？",
     "hiragana": "みさとさん、ぼくは？",
-    "english": "Misato-san, what about me?"
+    "english": "Misato-san, what about me?",
+    "character": "シンジ"
   },
   {
     "time": "00:15:43",
     "japanese": "全艦、第一種戦闘配置",
     "hiragana": "ぜんかん、だいいっしゅせんとうはいち",
-    "english": "All ships to Battle Stations One."
+    "english": "All ships to Battle Stations One.",
+    "character": "ミサト"
   },
   {
     "time": "00:15:46",
     "japanese": "全艦、第一種戦闘配置。",
     "hiragana": "ぜんかん、だいいっしゅせんとうはいち。",
-    "english": "All ships, Battle Stations One."
+    "english": "All ships, Battle Stations One.",
+    "character": "アナウンス"
   },
   {
     "time": "00:15:48",
     "japanese": "繰り返す、全艦、第一種戦闘配置",
     "hiragana": "くりかえす、ぜんかん、だいいっしゅせんとうはいち",
-    "english": "Repeat, all ships to Battle Stations One."
+    "english": "Repeat, all ships to Battle Stations One.",
+    "character": "アナウンス"
   },
   {
     "time": "00:15:51",
     "japanese": "戦闘指揮系統を移行。",
     "hiragana": "せんとうしきけいとうをいこう。",
-    "english": "Shifting to the battle command system."
+    "english": "Shifting to the battle command system.",
+    "character": "リツコ"
   },
   {
     "time": "00:15:54",
     "japanese": "主要員は戦闘艦橋へ。",
     "hiragana": "しゅよういんはせんとうかんきょうへ。",
-    "english": "All key personnel, head to the combat bridge."
+    "english": "All key personnel, head to the combat bridge.",
+    "character": "リツコ"
   },
   {
     "time": "00:15:56",
     "japanese": "重力バラスト、準備。",
     "hiragana": "じゅうりょくばらすと、じゅんび。",
-    "english": "Prepare the gravity ballast."
+    "english": "Prepare the gravity ballast.",
+    "character": "ミサト"
   },
   {
     "time": "00:15:58",
     "japanese": "了解。",
     "hiragana": "りょうかい。",
-    "english": "Roger."
+    "english": "Roger.",
+    "character": "長良"
   },
   {
     "time": "00:15:58",
     "japanese": "全ベントをチェック。",
     "hiragana": "ぜんべんとをちぇっく。",
-    "english": "Checking all vents."
+    "english": "Checking all vents.",
+    "character": "長良"
   },
   {
     "time": "00:16:00",
     "japanese": "艦の主制御をアンカリングプラグへ集中。",
     "hiragana": "かんのしゅせいぎょをあんかりんぐぷらぐへしゅうちゅう。",
-    "english": "Focus all primary control of the ship to the anchoring plug."
+    "english": "Focus all primary control of the ship to the anchoring plug.",
+    "character": "ミサト"
   },
   {
     "time": "00:16:02",
     "japanese": "了解。",
     "hiragana": "りょうかい。",
-    "english": "Roger."
+    "english": "Roger.",
+    "character": "高雄"
   },
   {
     "time": "00:16:03",
     "japanese": "ディセント準備。",
     "hiragana": "でぃせんとじゅんび。",
-    "english": "Preparing descent."
+    "english": "Preparing descent.",
+    "character": "高雄"
   },
   {
     "time": "00:16:04",
     "japanese": "インジェクター確認。",
     "hiragana": "いんじぇくたーかくにん。",
-    "english": "Confirming injector."
+    "english": "Confirming injector.",
+    "character": "高雄"
   },
   {
     "time": "00:16:05",
     "japanese": "カウント入ります。",
     "hiragana": "かうんとはいります。",
-    "english": "Starting countdown."
+    "english": "Starting countdown.",
+    "character": "高雄"
   },
   {
     "time": "00:16:09",
     "japanese": "ミサトさん！",
     "hiragana": "みさとさん！",
-    "english": "Misato-san!"
+    "english": "Misato-san!",
+    "character": "シンジ"
   },
   {
     "time": "00:16:11",
     "japanese": "初号機、ここにあるんでしょ！",
     "hiragana": "しょごうき、ここにあるんでしょ！",
-    "english": "Eva-01 is here, isn't it?"
+    "english": "Eva-01 is here, isn't it?",
+    "character": "シンジ"
   },
   {
     "time": "00:16:14",
     "japanese": "僕も乗ります！",
     "hiragana": "ぼくものります！",
-    "english": "I'll pilot, too!"
+    "english": "I'll pilot, too!",
+    "character": "シンジ"
   },
   {
     "time": "00:16:15",
     "japanese": "アスカを手伝います！",
     "hiragana": "あすかをてつだいます！",
-    "english": "I'll help Asuka!"
+    "english": "I'll help Asuka!",
+    "character": "シンジ"
   },
   {
     "time": "00:16:16",
     "japanese": "チッ",
     "hiragana": "ちっ",
-    "english": ""
+    "english": "",
+    "character": "北上"
   },
   {
     "time": "00:16:44",
     "japanese": "ミサトさん！！",
     "hiragana": "みさとさん！！",
-    "english": "Misato-san!!"
+    "english": "Misato-san!!",
+    "character": "シンジ"
   },
   {
     "time": "00:16:46",
     "japanese": "碇シンジ君。",
     "hiragana": "いかりしんじくん。",
-    "english": "Ikari Shinji-kun."
+    "english": "Ikari Shinji-kun.",
+    "character": "ミサト"
   },
   {
     "time": "00:16:50",
     "japanese": "あなたはもう、何もしないで。",
     "hiragana": "あなたはもう、なにもしないで。",
-    "english": "From now on... you'll do nothing."
+    "english": "From now on... you'll do nothing.",
+    "character": "ミサト"
   },
   {
     "time": "00:17:06",
     "japanese": "ＬＣＬガス充満。",
     "hiragana": "えるしーえるがすじゅうまん。",
-    "english": "Saturating LCL with gas."
+    "english": "Saturating LCL with gas.",
+    "character": "男(無線)"
   },
   {
     "time": "00:17:07",
     "japanese": "電荷密度クリア。",
     "hiragana": "でんかみつどくりあ。",
-    "english": "Electrification density has been cleared."
+    "english": "Electrification density has been cleared.",
+    "character": "男(無線)"
   },
   {
     "time": "00:17:08",
     "japanese": "エントリースタート。",
     "hiragana": "えんとりーすたーと。",
-    "english": "Begin entry."
+    "english": "Begin entry.",
+    "character": "リツコ"
   },
   {
     "time": "00:17:10",
     "japanese": "ＬＣＬ電荷状態は正常。",
     "hiragana": "えるしーえるでんかじょうたいはせいじょう。",
-    "english": "LCL charge status is nominal."
+    "english": "LCL charge status is nominal.",
+    "character": "女(無線)"
   },
   {
     "time": "00:17:25",
     "japanese": "主機システム点火用動力を注入中、",
     "hiragana": "しゅきしすてむてんかようどうりょくをちゅうにゅうちゅう、",
-    "english": "Now infusing power for ignition of the main engine system."
+    "english": "Now infusing power for ignition of the main engine system.",
+    "character": ""
   },
   {
     "time": "00:17:28",
     "japanese": "臨界まであと５％。",
     "hiragana": "りんかいまであとごぱーせんと。",
-    "english": "Another 5% until it hits critical."
+    "english": "Another 5% until it hits critical.",
+    "character": "高雄"
   },
   {
     "time": "00:17:30",
     "japanese": "ジャイロコンパス始動。",
     "hiragana": "じゃいろこんぱすしどう。",
-    "english": "Initiating the gyrocompass."
+    "english": "Initiating the gyrocompass.",
+    "character": "長良"
   },
   {
     "time": "00:17:31",
     "japanese": "スタビライザー問題無し",
     "hiragana": "すたびらいざーもんだいなし",
-    "english": "Stabilizer nominal."
+    "english": "Stabilizer nominal.",
+    "character": "長良"
   },
   {
     "time": "00:17:33",
     "japanese": "視覚化情報処理を開始。",
     "hiragana": "しかくかじょうほうしょりをかいし。",
-    "english": "Commencing visual data processing."
+    "english": "Commencing visual data processing.",
+    "character": "女(無線)"
   },
   {
     "time": "00:17:35",
     "japanese": "主モニター、点灯します。",
     "hiragana": "しゅもにたー、てんとうします。",
-    "english": "Turning on the main monitor."
+    "english": "Turning on the main monitor.",
+    "character": "女(無線)"
   },
   {
     "time": "00:17:37",
     "japanese": "目標依然として接近中･････！！",
     "hiragana": "もくひょういぜんとしてせっきんちゅう！！",
-    "english": "Targets are still closing in."
+    "english": "Targets are still closing in.",
+    "character": "日向"
   },
   {
     "time": "00:17:39",
     "japanese": "包囲陣形をとりつつあり！",
     "hiragana": "ほういじんけいをとりつつあり！",
-    "english": "Currently taking on an encircling formation."
+    "english": "Currently taking on an encircling formation.",
+    "character": "日向"
   },
   {
     "time": "00:17:41",
     "japanese": "改２号機　推進機を廃棄。",
     "hiragana": "かいにごうき　すいしんきをはいき。",
-    "english": "Eva-02' discarding propellers."
+    "english": "Eva-02' discarding propellers.",
+    "character": "青葉"
   },
   {
     "time": "00:17:43",
     "japanese": "左腕を換装中。",
     "hiragana": "ひだりうでをかんそうちゅう。",
-    "english": "Now switching out the left arm."
+    "english": "Now switching out the left arm.",
+    "character": "青葉"
   },
   {
     "time": "00:17:45",
     "japanese": "あーらよっと。",
     "hiragana": "あーらよっと。",
-    "english": "Here we go!"
+    "english": "Here we go!",
+    "character": "アスカ"
   },
   {
     "time": "00:17:54",
     "japanese": "―――さてと。",
     "hiragana": "さてと。",
-    "english": "Now then..."
+    "english": "Now then...",
+    "character": "アスカ"
   },
   {
     "time": "00:17:56",
     "japanese": "―――やるか",
     "hiragana": "やるか",
-    "english": "Let's do this!"
+    "english": "Let's do this!",
+    "character": "アスカ"
   },
   {
     "time": "00:18:04",
     "japanese": "Ａ．Ｔ．フィールド展開。",
     "hiragana": "えーてぃーふぃーるどてんかい。",
-    "english": "Deploy A.T. Field."
+    "english": "Deploy A.T. Field.",
+    "character": "アスカ"
   },
   {
     "time": "00:18:09",
     "japanese": "光の柱に変化！",
     "hiragana": "ひかりのはしらにへんか！",
-    "english": "The pillars of light are changing!"
+    "english": "The pillars of light are changing!",
+    "character": "青葉"
   },
   {
     "time": "00:18:12",
     "japanese": "みるみるエネルギーが増大してます！",
     "hiragana": "みるみるえねるぎーがぞうだいしてます！",
-    "english": "Their energy is skyrocketing!"
+    "english": "Their energy is skyrocketing!",
+    "character": "北上"
   },
   {
     "time": "00:18:13",
     "japanese": "全体が移動を開始。",
     "hiragana": "ぜんたいがいどうをかいし。",
-    "english": "All targets are mobilizing."
+    "english": "All targets are mobilizing.",
+    "character": "日向"
   },
   {
     "time": "00:18:18",
     "japanese": "味方巡洋艦蒸発！",
     "hiragana": "みかたじゅんようかんじょうはつ！",
-    "english": "Allied cruiser has been vaporized!"
+    "english": "Allied cruiser has been vaporized!",
+    "character": "青葉"
   },
   {
     "time": "00:18:19",
     "japanese": "飽和攻撃よ。",
     "hiragana": "ほうわこうげきよ。",
-    "english": "A saturated attack."
+    "english": "A saturated attack.",
+    "character": "リツコ"
   },
   {
     "time": "00:18:21",
     "japanese": "本艦にとりつかれたら　万事休すね。",
     "hiragana": "ほんかんにとりつかれたら　ばんじきゅうすね。",
-    "english": "If it hits this ship, we're done for."
+    "english": "If it hits this ship, we're done for.",
+    "character": "リツコ"
   },
   {
     "time": "00:18:24",
     "japanese": "接触まであと、３６０秒！",
     "hiragana": "せっしょくまであと、さんびゃくろくじゅうびょう！",
-    "english": "Another 360 seconds until contact!"
+    "english": "Another 360 seconds until contact!",
+    "character": "北上"
   },
   {
     "time": "00:18:34",
     "japanese": "せえぇえのっ！！",
     "hiragana": "せえぇえのっ！！",
-    "english": "Here we go!"
+    "english": "Here we go!",
+    "character": "アスカ"
   },
   {
     "time": "00:18:38",
     "japanese": "改２号機、作業開始。",
     "hiragana": "かいにごうき、さぎょうかいし。",
-    "english": "Eva-02' has commenced operations."
+    "english": "Eva-02' has commenced operations.",
+    "character": "青葉"
   },
   {
     "time": "00:18:40",
     "japanese": "流入圧力　３００％！",
     "hiragana": "りゅうにゅうあつりょく　さんびゃくぱーせんと！",
-    "english": "Influent pressure at 300%!"
+    "english": "Influent pressure at 300%!",
+    "character": "男{無線)"
   },
   {
     "time": "00:18:42",
     "japanese": "かまわん！",
     "hiragana": "かまわん！",
-    "english": "Doesn't matter!"
+    "english": "Doesn't matter!",
+    "character": "高雄"
   },
   {
     "time": "00:18:43",
     "japanese": "フライホイールへ全てのエネルギーを回せ！",
     "hiragana": "ふらいほいーるへすべてのえねるぎーをまわせ！",
-    "english": "Transfer all energy to the flywheel!"
+    "english": "Transfer all energy to the flywheel!",
+    "character": "高雄"
   },
   {
     "time": "00:18:45",
     "japanese": "最優先だ！",
     "hiragana": "さいゆうせんだ！",
-    "english": "Make that top priority!"
+    "english": "Make that top priority!",
+    "character": "高雄"
   },
   {
     "time": "00:18:57",
     "japanese": "第７コンバータ群爆発！",
     "hiragana": "だいななこんばーたぐんばくはつ！",
-    "english": "The 7th converter cluster has exploded!"
+    "english": "The 7th converter cluster has exploded!",
+    "character": "多摩"
   },
   {
     "time": "00:18:59",
     "japanese": "ダウンしたラインにかまうな！",
     "hiragana": "だうんしたらいんにかまうな！",
-    "english": "Disregard the broken lines!"
+    "english": "Disregard the broken lines!",
+    "character": "高雄"
   },
   {
     "time": "00:19:01",
     "japanese": "強制注入を続けろ！",
     "hiragana": "きょうせいちゅうにゅうをつづけろ！",
-    "english": "Proceed with the forced injection!"
+    "english": "Proceed with the forced injection!",
+    "character": "高雄"
   },
   {
     "time": "00:19:03",
     "japanese": "圧力計は全て無視だ！",
     "hiragana": "あつりょくけいはすべてむしだ！",
-    "english": "Ignore all the pressure gauges!"
+    "english": "Ignore all the pressure gauges!",
+    "character": "高雄"
   },
   {
     "time": "00:19:05",
     "japanese": "フライホイール圧着板ロック解除。",
     "hiragana": "ふらいほいーるあっちゃくばんろっくかいじょ。",
-    "english": "Releasing locks on the flywheel crimp."
+    "english": "Releasing locks on the flywheel crimp.",
+    "character": "多摩"
   },
   {
     "time": "00:19:07",
     "japanese": "回転開始",
     "hiragana": "かいてんかいし",
-    "english": "Beginning rotation!"
+    "english": "Beginning rotation!",
+    "character": "多摩"
   },
   {
     "time": "00:19:16",
     "japanese": "主機エネルギーポンプ運転開始",
     "hiragana": "しゅきえねるぎーぽんぷうんてんかいし",
-    "english": "Main engine's energy pump has been initiated."
+    "english": "Main engine's energy pump has been initiated.",
+    "character": "男(無線)"
   },
   {
     "time": "00:19:19",
     "japanese": "補機回転、出力８０％へ",
     "hiragana": "ほきかいてん、しゅつりょくはちじゅっぱーせんとへ",
-    "english": "Auxiliary engine output has reached 80%!"
+    "english": "Auxiliary engine output has reached 80%!",
+    "character": "多摩"
   },
   {
     "time": "00:19:21",
     "japanese": "触媒を強制投入",
     "hiragana": "しょくばいをきょうせいとうにゅう",
-    "english": "Force insert the catalyst!"
+    "english": "Force insert the catalyst!",
+    "character": "高雄"
   },
   {
     "time": "00:19:28",
     "japanese": "ううううううう・・・",
     "hiragana": "ううううううう・・・",
-    "english": ""
+    "english": "",
+    "character": "アスカ"
   },
   {
     "time": "00:19:39",
     "japanese": "あとは―――",
     "hiragana": "あとは",
-    "english": "Next up..."
+    "english": "Next up...",
+    "character": "アスカ"
   },
   {
     "time": "00:19:42",
     "japanese": "あと３５秒！",
     "hiragana": "あとさんじゅうごびょう！",
-    "english": "Thirty-five seconds remaining!"
+    "english": "Thirty-five seconds remaining!",
+    "character": "北上"
   },
   {
     "time": "00:19:44",
     "japanese": "回転数上昇中。１万、１万２千",
     "hiragana": "かいてんすうじょうしょうちゅう。いちまん、いちまんにせん",
-    "english": "Rotational speed increasing! 10,000 turns... 12,000 turns..."
+    "english": "Rotational speed increasing! 10,000 turns... 12,000 turns...",
+    "character": "アナウンス"
   },
   {
     "time": "00:19:46",
     "japanese": "改２号機、点火位置",
     "hiragana": "かいにごうき、てんかいち",
-    "english": "Eva-02' in place for ignition."
+    "english": "Eva-02' in place for ignition.",
+    "character": "青葉"
   },
   {
     "time": "00:19:48",
     "japanese": "来ましたっ！",
     "hiragana": "きましたっ！",
-    "english": "We're there!"
+    "english": "We're there!",
+    "character": "多摩"
   },
   {
     "time": "00:19:50",
     "japanese": "フライホイール充電１０２％！",
     "hiragana": "ふらいほいーるじゅうでんひゃくにぱーせんと！",
-    "english": "Fly wheel 102% charged!"
+    "english": "Fly wheel 102% charged!",
+    "character": ""
   },
   {
     "time": "00:19:51",
     "japanese": "臨界突破！",
     "hiragana": "りんかいとっぱ！",
-    "english": "Critical point exceeded!"
+    "english": "Critical point exceeded!",
+    "character": ""
   },
   {
     "time": "00:19:52",
     "japanese": "始動、最終段階です。",
     "hiragana": "しどう、さいしゅうだんかいです。",
-    "english": "We're in the final start-up phase!"
+    "english": "We're in the final start-up phase!",
+    "character": "高雄"
   },
   {
     "time": "00:19:54",
     "japanese": "了解。",
     "hiragana": "りょうかい。",
-    "english": "Roger."
+    "english": "Roger.",
+    "character": "ミサト"
   },
   {
     "time": "00:19:55",
     "japanese": "操艦系を切り替え。",
     "hiragana": "そうかんけいをきりかえ。",
-    "english": "Switch to flight mode."
+    "english": "Switch to flight mode.",
+    "character": "ミサト"
   },
   {
     "time": "00:19:56",
     "japanese": "了解。",
     "hiragana": "りょうかい。",
-    "english": "Roger."
+    "english": "Roger.",
+    "character": "長良"
   },
   {
     "time": "00:19:57",
     "japanese": "時空間制御を開始。",
     "hiragana": "じくうかんせいぎょをかいし。",
-    "english": "Starting spatiotemporal control."
+    "english": "Starting spatiotemporal control.",
+    "character": "長良"
   },
   {
     "time": "00:19:58",
     "japanese": "立体式操舵に移行します。",
     "hiragana": "りったいしきそうだにいこうします。",
-    "english": "Transferring to 3D control of vessel."
+    "english": "Transferring to 3D control of vessel.",
+    "character": "長良"
   },
   {
     "time": "00:20:02",
     "japanese": "点火と同時にA.T.フィールドを展開。",
     "hiragana": "てんかとどうじにえーてぃーふぃーるどをてんかい。",
-    "english": "Deploy the A.T. Field at the moment of ignition."
+    "english": "Deploy the A.T. Field at the moment of ignition.",
+    "character": "ミサト"
   },
   {
     "time": "00:20:04",
     "japanese": "回転数3万6千！オールグリーン！",
     "hiragana": "かいてんすうさんまんろくせん！おーるぐりーん！",
-    "english": "Rotational speed at 36,000 turns! All parameters are green!"
+    "english": "Rotational speed at 36,000 turns! All parameters are green!",
+    "character": "多摩"
   },
   {
     "time": "00:20:07",
     "japanese": "コンタクト、行けます！",
     "hiragana": "こんたくと、いけます！",
-    "english": "Contact imminent!"
+    "english": "Contact imminent!",
+    "character": "高雄"
   },
   {
     "time": "00:20:09",
     "japanese": "カウント省略。",
     "hiragana": "かうんとしょうりゃく。",
-    "english": "Skip the countdown!"
+    "english": "Skip the countdown!",
+    "character": "ミサト"
   },
   {
     "time": "00:20:10",
     "japanese": "メイン接続",
     "hiragana": "めいんせつぞく",
-    "english": "Connect the main engine!"
+    "english": "Connect the main engine!",
+    "character": "ミサト"
   },
   {
     "time": "00:20:11",
     "japanese": "接続！",
     "hiragana": "せつぞく！",
-    "english": "Connecting!"
+    "english": "Connecting!",
+    "character": "高雄"
   },
   {
     "time": "00:20:16",
     "japanese": "点火！",
     "hiragana": "てんか！",
-    "english": "Ignite!"
+    "english": "Ignite!",
+    "character": "ミサト"
   },
   {
     "time": "00:20:18",
     "japanese": "でぇえいっ！！",
     "hiragana": "でぇえいっ！！",
-    "english": ""
+    "english": "",
+    "character": "アスカ"
   },
   {
     "time": "00:20:34",
     "japanese": "障害物、クリア。",
     "hiragana": "しょうがいぶつ、くりあ。",
-    "english": "Obstacles cleared!"
+    "english": "Obstacles cleared!",
+    "character": "北上"
   },
   {
     "time": "00:20:35",
     "japanese": "各部確認。",
     "hiragana": "かくぶかくにん。",
-    "english": "Check every department!"
+    "english": "Check every department!",
+    "character": "リツコ"
   },
   {
     "time": "00:20:36",
     "japanese": "僚艦は全て退避。",
     "hiragana": "りょうかんはすべてたいひ。",
-    "english": "Pull back all consort ships!"
+    "english": "Pull back all consort ships!",
+    "character": "リツコ"
   },
   {
     "time": "00:20:37",
     "japanese": "ゆくわよ。",
     "hiragana": "ゆくわよ。",
-    "english": "Here we go."
+    "english": "Here we go.",
+    "character": "ミサト"
   },
   {
     "time": "00:20:39",
     "japanese": "ヴンダー、発進！",
     "hiragana": "う゛んだー、はっしん！",
-    "english": "Wunder, launch!"
+    "english": "Wunder, launch!",
+    "character": "ミサト"
   },
   {
     "time": "00:21:30",
     "japanese": "主翼を貫通！損害不明！",
     "hiragana": "しゅよくをかんつう！そんがいふめい！",
-    "english": "Main wings penetrated! Extent of damage unknown!"
+    "english": "Main wings penetrated! Extent of damage unknown!",
+    "character": "多摩"
   },
   {
     "time": "00:21:32",
     "japanese": "構うな！",
     "hiragana": "かまうな！",
-    "english": "Don't sweat it!"
+    "english": "Don't sweat it!",
+    "character": "ミサト"
   },
   {
     "time": "00:21:33",
     "japanese": "殲滅戦、用意！",
     "hiragana": "せんめつせん、ようい！",
-    "english": "Prepare to eliminate the targets!"
+    "english": "Prepare to eliminate the targets!",
+    "character": "ミサト"
   },
   {
     "time": "00:21:34",
     "japanese": "艦を倒立。",
     "hiragana": "かんをとうりつ。",
-    "english": "Upend the ship!"
+    "english": "Upend the ship!",
+    "character": "ミサト"
   },
   {
     "time": "00:21:35",
     "japanese": "ゴースターン！",
     "hiragana": "ごーすたーん！",
-    "english": "Go astern!"
+    "english": "Go astern!",
+    "character": "ミサト"
   }
 ]
