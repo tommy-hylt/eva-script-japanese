@@ -18,8 +18,7 @@ export const Pagination = ({ currentPart, totalParts, onPartChange }: Pagination
       </button>
 
       <div className="pagination-info">
-        <span className="current-part">Part {currentPart}</span>
-        <span className="total-parts">of {totalParts}</span>
+        <span className="current-part">Part {currentPart} / {totalParts}</span>
       </div>
 
       <button

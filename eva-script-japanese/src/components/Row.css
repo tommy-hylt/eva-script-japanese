@@ -19,7 +19,7 @@
   font-size: 1.75rem;
   font-weight: 600;
   color: #3d1a1a;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.25rem;
   line-height: 2.2;
 }
 
@@ -31,6 +31,7 @@
   font-size: 0.5em;
   color: #666;
   font-weight: 400;
+  margin-bottom: 0.15em;
 }
 
 .english {
