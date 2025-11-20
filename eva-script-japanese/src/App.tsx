@@ -73,16 +73,7 @@ function App() {
         )}
 
         {!loading && !error && data.length > 0 && (
-          <>
-            <List entries={data} />
-            <div className="pagination-bottom">
-              <Pagination
-                currentPart={currentPart}
-                totalParts={totalParts}
-                onPartChange={handlePartChange}
-              />
-            </div>
-          </>
+          <List entries={data} />
         )}
       </main>
 
