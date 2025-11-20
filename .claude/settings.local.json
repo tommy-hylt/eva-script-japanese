@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:transcripts.foreverdreaming.org)",
+      "WebFetch(domain:github.com)",
+      "Bash(curl:*)",
+      "WebFetch(domain:subs.kamigami.org)",
+      "Bash(python process_scripts.py:*)",
+      "Bash(python create_combined_json.py:*)",
+      "Bash(python3:*)",
+      "Bash(where:*)",
+      "Bash(node create_combined_json.js:*)",
+      "Bash(node:*)",
+      "Bash(dir:*)",
+      "Bash(npm create:*)",
+      "Bash(npm install)",
+      "Bash(copy:*)",
+      "Bash(npm run dev:*)",
+      "Bash(README.md)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
