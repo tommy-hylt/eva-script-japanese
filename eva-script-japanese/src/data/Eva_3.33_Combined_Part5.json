@@ -1,19 +1,1910 @@
 [
   {
+    "time": "00:54:06",
+    "character": "シンジ",
+    "segments": [
+      "それでいいじゃないかっ"
+    ],
+    "english": "Isn't that good enough?"
+  },
+  {
+    "time": "00:54:32",
+    "character": "シンジ",
+    "segments": [
+      "またいない・・・"
+    ],
+    "english": "She's gone again."
+  },
+  {
+    "time": "00:54:34",
+    "character": "シンジ",
+    "segments": [
+      "まだ",
+      {
+        "kanji": "読",
+        "reading": "よ"
+      },
+      "んでない"
+    ],
+    "english": "She still hasn't touched the books."
+  },
+  {
+    "time": "00:54:38",
+    "character": "シンジ",
+    "segments": [
+      "・・・",
+      {
+        "kanji": "何",
+        "reading": "なん"
+      },
+      "だよ・・・"
+    ],
+    "english": "What's going on?"
+  },
+  {
+    "time": "00:54:40",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "綾波",
+        "reading": "あやなみ"
+      },
+      "も、どうしちゃったんだよ。もうっ！"
+    ],
+    "english": "What's wrong with Ayanami?!"
+  },
+  {
+    "time": "00:54:53",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "第３",
+        "reading": "だいさん"
+      },
+      "の",
+      {
+        "kanji": "少年",
+        "reading": "しょうねん"
+      },
+      "。",
+      {
+        "kanji": "将棋",
+        "reading": "しょうぎ"
+      },
+      "はうてるか？"
+    ],
+    "english": "Third Boy, do you play shogi?"
+  },
+  {
+    "time": "00:54:57",
+    "character": "シンジ",
+    "segments": [
+      "ええ。ルールくらいは"
+    ],
+    "english": "Eh... I only know the rules."
+  },
+  {
+    "time": "00:55:00",
+    "character": "冬月",
+    "segments": [
+      "けっこうだ。",
+      {
+        "kanji": "付",
+        "reading": "つ"
+      },
+      "き",
+      {
+        "kanji": "合",
+        "reading": "あ"
+      },
+      "いたまえ。"
+    ],
+    "english": "Good enough. Let's have a game."
+  },
+  {
+    "time": "00:55:03",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "飛車角金",
+        "reading": "ひしゃかくきん"
+      },
+      "は",
+      {
+        "kanji": "落",
+        "reading": "お"
+      },
+      "としてやる。"
+    ],
+    "english": "I'll start without a castle, bishop, and golden generals."
+  },
+  {
+    "time": "00:55:12",
+    "character": "冬月",
+    "segments": [
+      "―――",
+      {
+        "kanji": "心",
+        "reading": "こころ"
+      },
+      "を",
+      {
+        "kanji": "静",
+        "reading": "しず"
+      },
+      "かに、",
+      {
+        "kanji": "落",
+        "reading": "お"
+      },
+      "ち",
+      {
+        "kanji": "着",
+        "reading": "つ"
+      },
+      "かせる。"
+    ],
+    "english": "Let your mind be still."
+  },
+  {
+    "time": "00:55:16",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "戦",
+        "reading": "たたか"
+      },
+      "いに",
+      {
+        "kanji": "勝",
+        "reading": "か"
+      },
+      "つ",
+      {
+        "kanji": "為",
+        "reading": "ため"
+      },
+      "に",
+      {
+        "kanji": "必要",
+        "reading": "ひつよう"
+      },
+      "な",
+      {
+        "kanji": "事",
+        "reading": "こと"
+      },
+      "だ。"
+    ],
+    "english": "It's the only way to achieve victory."
+  },
+  {
+    "time": "00:55:19",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "３１手先",
+        "reading": "さんじゅういってさき"
+      },
+      "で、",
+      {
+        "kanji": "君",
+        "reading": "きみ"
+      },
+      "の",
+      {
+        "kanji": "詰",
+        "reading": "つ"
+      },
+      "みだ。"
+    ],
+    "english": "You'll lose in another thirty-one moves."
+  },
+  {
+    "time": "00:55:24",
+    "character": "冬月",
+    "segments": [
+      "―――ふむ"
+    ],
+    "english": "Hmm..."
+  },
+  {
+    "time": "00:55:31",
+    "character": "冬月",
+    "segments": [
+      "これなら",
+      {
+        "kanji": "楽",
+        "reading": "たの"
+      },
+      "しめるか。"
+    ],
+    "english": "Is it more fun for you this way?"
+  },
+  {
+    "time": "00:55:35",
+    "character": "冬月",
+    "segments": [
+      "・・・",
+      {
+        "kanji": "老人",
+        "reading": "ろうじん"
+      },
+      "の",
+      {
+        "kanji": "趣味",
+        "reading": "しゅみ"
+      },
+      "に",
+      {
+        "kanji": "付",
+        "reading": "つ"
+      },
+      "き",
+      {
+        "kanji": "合",
+        "reading": "あ"
+      },
+      "ってくれて、",
+      {
+        "kanji": "礼",
+        "reading": "れい"
+      },
+      "を",
+      {
+        "kanji": "言",
+        "reading": "い"
+      },
+      "う。"
+    ],
+    "english": "Thank you for indulging an old man his hobby."
+  },
+  {
+    "time": "00:55:43",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "私",
+        "reading": "わたし"
+      },
+      "も",
+      {
+        "kanji": "臆病",
+        "reading": "おくびょう"
+      },
+      "でね。"
+    ],
+    "english": "I'm a coward too, you know."
+  },
+  {
+    "time": "00:55:45",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "口実",
+        "reading": "こうじつ"
+      },
+      "でもなければ、こうして",
+      {
+        "kanji": "君",
+        "reading": "きみ"
+      },
+      "と",
+      {
+        "kanji": "話",
+        "reading": "はな"
+      },
+      "す",
+      {
+        "kanji": "機会",
+        "reading": "きかい"
+      },
+      "を",
+      {
+        "kanji": "持",
+        "reading": "も"
+      },
+      "てなかった。"
+    ],
+    "english": "I used this game as a pretext to talk to you."
+  },
+  {
+    "time": "00:55:50",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "君",
+        "reading": "きみ"
+      },
+      "は、お",
+      {
+        "kanji": "母",
+        "reading": "かあ"
+      },
+      "さんを",
+      {
+        "kanji": "覚",
+        "reading": "おぼ"
+      },
+      "えているかね？"
+    ],
+    "english": "Do you remember your mother?"
+  },
+  {
+    "time": "00:55:54",
+    "character": "シンジ",
+    "segments": [
+      "・・・いえ。まだ",
+      {
+        "kanji": "小",
+        "reading": "ちい"
+      },
+      "さかったし。"
+    ],
+    "english": "No. I was very young."
+  },
+  {
+    "time": "00:55:58",
+    "character": "シンジ",
+    "segments": [
+      "それに、",
+      {
+        "kanji": "母",
+        "reading": "はは"
+      },
+      "のモノは",
+      {
+        "kanji": "父",
+        "reading": "ちち"
+      },
+      "が",
+      {
+        "kanji": "全部",
+        "reading": "ぜんぶ"
+      },
+      {
+        "kanji": "処分",
+        "reading": "しょぶん"
+      },
+      "したので・・・。"
+    ],
+    "english": "Father got rid of everything that was hers."
+  },
+  {
+    "time": "00:56:07",
+    "character": "シンジ",
+    "segments": [
+      "・・・この",
+      {
+        "kanji": "人",
+        "reading": "ひと"
+      },
+      "は・・・"
+    ],
+    "english": "Is this..."
+  },
+  {
+    "time": "00:56:10",
+    "character": "シンジ",
+    "segments": [
+      "・・・",
+      {
+        "kanji": "綾波",
+        "reading": "あやなみ"
+      },
+      "？"
+    ],
+    "english": "...Ayanami?"
+  },
+  {
+    "time": "00:56:13",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "君",
+        "reading": "きみ"
+      },
+      "の",
+      {
+        "kanji": "母親",
+        "reading": "ははおや"
+      },
+      "だ。"
+    ],
+    "english": "Your mother."
+  },
+  {
+    "time": "00:56:14",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "旧姓",
+        "reading": "きゅうせい"
+      },
+      "は",
+      {
+        "kanji": "綾波",
+        "reading": "あやなみ"
+      },
+      "ユイ。"
+    ],
+    "english": "Maiden name, Ayanami Yui."
+  },
+  {
+    "time": "00:56:16",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "大学",
+        "reading": "だいがく"
+      },
+      "では",
+      {
+        "kanji": "私",
+        "reading": "わたし"
+      },
+      "の",
+      {
+        "kanji": "教",
+        "reading": "おし"
+      },
+      "え",
+      {
+        "kanji": "子",
+        "reading": "ご"
+      },
+      "だった。"
+    ],
+    "english": "She was my student at the university."
+  },
+  {
+    "time": "00:56:20",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      "はエヴァ",
+      {
+        "kanji": "初号機",
+        "reading": "しょごうき"
+      },
+      "の",
+      {
+        "kanji": "制御",
+        "reading": "せいぎょ"
+      },
+      "システムとなっている。"
+    ],
+    "english": "Now, she is the control system of Eva Unit 01."
+  },
+  {
+    "time": "00:56:24",
+    "character": "シンジ",
+    "segments": [
+      "！！"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:56:27",
+    "character": "冬月",
+    "segments": [
+      "ふむ。ようやく",
+      {
+        "kanji": "電源",
+        "reading": "でんげん"
+      },
+      "が",
+      {
+        "kanji": "復旧",
+        "reading": "ふっきゅう"
+      },
+      "したか。"
+    ],
+    "english": "Hm. The power's finally back."
+  },
+  {
+    "time": "00:56:33",
+    "character": "冬月",
+    "segments": [
+      "エヴァの",
+      {
+        "kanji": "極初期型",
+        "reading": "ごくしょきがた"
+      },
+      {
+        "kanji": "制御",
+        "reading": "せいぎょ"
+      },
+      "システムだ。"
+    ],
+    "english": "That is a very early prototype of the Eva control system."
+  },
+  {
+    "time": "00:56:37",
+    "character": "冬月",
+    "segments": [
+      "ここでユイ",
+      {
+        "kanji": "君",
+        "reading": "くん"
+      },
+      "が",
+      {
+        "kanji": "発案",
+        "reading": "はつあん"
+      },
+      "した、コアへのダイレクトエントリーを"
+    ],
+    "english": "Here, Yui-kun proposed direct entry into cores,"
+  },
+  {
+    "time": "00:56:41",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "自",
+        "reading": "みずか"
+      },
+      "らが",
+      {
+        "kanji": "被験者",
+        "reading": "ひけんしゃ"
+      },
+      "となり、",
+      {
+        "kanji": "試",
+        "reading": "こころ"
+      },
+      "みた。"
+    ],
+    "english": "and tested it using herself as the subject."
+  },
+  {
+    "time": "00:56:45",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "君",
+        "reading": "きみ"
+      },
+      "も",
+      {
+        "kanji": "見",
+        "reading": "み"
+      },
+      "ていたよ。",
+      {
+        "kanji": "記憶",
+        "reading": "きおく"
+      },
+      "が",
+      {
+        "kanji": "消去",
+        "reading": "しょうきょ"
+      },
+      "されているがな。"
+    ],
+    "english": "You were watching, too, but your memories have been erased."
+  },
+  {
+    "time": "00:56:55",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "結果",
+        "reading": "けっか"
+      },
+      "、ユイ",
+      {
+        "kanji": "君",
+        "reading": "くん"
+      },
+      "はここで",
+      {
+        "kanji": "消",
+        "reading": "き"
+      },
+      "え、"
+    ],
+    "english": "In the end, Yui-kun vanished here,"
+  },
+  {
+    "time": "00:56:59",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "彼女",
+        "reading": "かのじょ"
+      },
+      "の",
+      {
+        "kanji": "情報",
+        "reading": "じょうほう"
+      },
+      "だけが",
+      {
+        "kanji": "綾波",
+        "reading": "あやなみ"
+      },
+      "シリーズに",
+      {
+        "kanji": "残",
+        "reading": "のこ"
+      },
+      "された。"
+    ],
+    "english": "and only her data was left behind for the Ayanami Series."
+  },
+  {
+    "time": "00:57:03",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "君",
+        "reading": "きみ"
+      },
+      "の",
+      {
+        "kanji": "知",
+        "reading": "し"
+      },
+      "っている",
+      {
+        "kanji": "綾波",
+        "reading": "あやなみ"
+      },
+      "レイは、ユイ",
+      {
+        "kanji": "君",
+        "reading": "くん"
+      },
+      "の",
+      {
+        "kanji": "複製体",
+        "reading": "ふくせいたい"
+      },
+      "のひとつだ。"
+    ],
+    "english": "The Ayanami Rei you know is one of Yui-kun's clones."
+  },
+  {
+    "time": "00:57:08",
+    "character": "冬月",
+    "segments": [
+      "その",
+      {
+        "kanji": "娘",
+        "reading": "むすめ"
+      },
+      "も",
+      {
+        "kanji": "君",
+        "reading": "きみ"
+      },
+      "の",
+      {
+        "kanji": "母親",
+        "reading": "ははおや"
+      },
+      {
+        "kanji": "同様",
+        "reading": "どうよう"
+      },
+      "、",
+      {
+        "kanji": "初号機",
+        "reading": "しょごうき"
+      },
+      "の",
+      {
+        "kanji": "中",
+        "reading": "なか"
+      },
+      "に",
+      {
+        "kanji": "保存",
+        "reading": "ほぞん"
+      },
+      "されている。"
+    ],
+    "english": "She is preserved within Eva-01, the same as your mother."
+  },
+  {
+    "time": "00:57:13",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "全",
+        "reading": "すべ"
+      },
+      "ては",
+      {
+        "kanji": "碇",
+        "reading": "いかり"
+      },
+      "の",
+      {
+        "kanji": "計画",
+        "reading": "けいかく"
+      },
+      "だよ。"
+    ],
+    "english": "It is all part of Ikari's plan."
+  },
+  {
+    "time": "00:57:17",
+    "character": "シンジ",
+    "segments": [
+      "・・・そんな。"
+    ],
+    "english": "No way..."
+  },
+  {
+    "time": "00:57:20",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "世界",
+        "reading": "せかい"
+      },
+      "を",
+      {
+        "kanji": "崩",
+        "reading": "くず"
+      },
+      "す",
+      {
+        "kanji": "事",
+        "reading": "こと"
+      },
+      "は",
+      {
+        "kanji": "雑作",
+        "reading": "ぞうさ"
+      },
+      "もない。"
+    ],
+    "english": "Destroying the world is a simple matter."
+  },
+  {
+    "time": "00:57:24",
+    "character": "冬月",
+    "segments": [
+      "だが・・・",
+      {
+        "kanji": "作",
+        "reading": "つく"
+      },
+      "り",
+      {
+        "kanji": "直",
+        "reading": "なお"
+      },
+      "すとなると、そうもいかん。"
+    ],
+    "english": "But rebuilding it, that isn't so easy."
+  },
+  {
+    "time": "00:57:28",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "時",
+        "reading": "とき"
+      },
+      "と",
+      {
+        "kanji": "同",
+        "reading": "おな"
+      },
+      "じく、",
+      {
+        "kanji": "世界",
+        "reading": "せかい"
+      },
+      "に",
+      {
+        "kanji": "可逆性",
+        "reading": "かぎゃくせい"
+      },
+      "はないからな。"
+    ],
+    "english": "The world can be reversed no more than time."
+  },
+  {
+    "time": "00:57:32",
+    "character": "冬月",
+    "segments": [
+      "ヒトの",
+      {
+        "kanji": "心",
+        "reading": "こころ"
+      },
+      "にも。"
+    ],
+    "english": "Nor can the human heart."
+  },
+  {
+    "time": "00:57:35",
+    "character": "冬月",
+    "segments": [
+      "だから",
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      "、",
+      {
+        "kanji": "碇",
+        "reading": "いかり"
+      },
+      "は",
+      {
+        "kanji": "自分",
+        "reading": "じぶん"
+      },
+      "の",
+      {
+        "kanji": "願",
+        "reading": "ねが"
+      },
+      "いを",
+      {
+        "kanji": "叶",
+        "reading": "かな"
+      },
+      "える",
+      {
+        "kanji": "為",
+        "reading": "ため"
+      },
+      "に、"
+    ],
+    "english": "And thus, so that his wish might be granted,"
+  },
+  {
+    "time": "00:57:38",
+    "character": "冬月",
+    "segments": [
+      "あらゆる",
+      {
+        "kanji": "犠牲",
+        "reading": "ぎせい"
+      },
+      "を",
+      {
+        "kanji": "払",
+        "reading": "はら"
+      },
+      "っている。"
+    ],
+    "english": "Ikari is paying every price there is."
+  },
+  {
+    "time": "00:57:41",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "自分",
+        "reading": "じぶん"
+      },
+      "の",
+      {
+        "kanji": "魂",
+        "reading": "たましい"
+      },
+      "もだ。"
+    ],
+    "english": "Including his very soul."
+  },
+  {
+    "time": "00:57:44",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "君",
+        "reading": "きみ"
+      },
+      "には",
+      {
+        "kanji": "少",
+        "reading": "すこ"
+      },
+      "し、",
+      {
+        "kanji": "真実",
+        "reading": "しんじつ"
+      },
+      "を",
+      {
+        "kanji": "伝",
+        "reading": "つた"
+      },
+      "えておきたかった。"
+    ],
+    "english": "I just wanted to tell you some of the truth,"
+  },
+  {
+    "time": "00:57:47",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "父親",
+        "reading": "ちちおや"
+      },
+      "の",
+      {
+        "kanji": "事",
+        "reading": "こと"
+      },
+      "も"
+    ],
+    "english": "and about your father."
+  },
+  {
+    "time": "00:57:59",
+    "character": "シンジ",
+    "segments": [
+      "ずっとお",
+      {
+        "kanji": "礼",
+        "reading": "れい"
+      },
+      {
+        "kanji": "言",
+        "reading": "い"
+      },
+      "いたかったんだ"
+    ],
+    "english": "I've been wanting to thank you for a while now."
+  },
+  {
+    "time": "00:58:01",
+    "character": "冬月",
+    "segments": [
+      "まったく",
+      {
+        "kanji": "嫌",
+        "reading": "いや"
+      },
+      "な",
+      {
+        "kanji": "役",
+        "reading": "やく"
+      },
+      "だ。"
+    ],
+    "english": "'Tis a wretched role I'm playing."
+  },
+  {
+    "time": "00:58:04",
+    "character": "冬月",
+    "segments": [
+      "ユイ",
+      {
+        "kanji": "君",
+        "reading": "くん"
+      },
+      "。・・・これでいいんだな。"
+    ],
+    "english": "Yui-kun, I hope this will suffice."
+  },
+  {
+    "time": "00:58:15",
+    "character": "ゲンドウ",
+    "segments": [
+      {
+        "kanji": "最後",
+        "reading": "さいご"
+      },
+      "の",
+      {
+        "kanji": "契約",
+        "reading": "けいやく"
+      },
+      "の",
+      {
+        "kanji": "時",
+        "reading": "とき"
+      },
+      "が",
+      {
+        "kanji": "来",
+        "reading": "く"
+      },
+      "る。"
+    ],
+    "english": "The time of the final contract is upon us."
+  },
+  {
+    "time": "00:58:20",
+    "character": "ゲンドウ",
+    "segments": [
+      "もうすぐ",
+      {
+        "kanji": "会",
+        "reading": "あ"
+      },
+      "えるな・・・ユイ。"
+    ],
+    "english": "We will soon meet again, Yui."
+  },
+  {
+    "time": "00:58:31",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なん"
+      },
+      "で",
+      {
+        "kanji": "本",
+        "reading": "ほん"
+      },
+      "、",
+      {
+        "kanji": "読",
+        "reading": "よ"
+      },
+      "まないんだよ"
+    ],
+    "english": "Why aren't you reading the books?"
+  },
+  {
+    "time": "00:58:36",
+    "character": "レイ",
+    "segments": [
+      {
+        "kanji": "命令",
+        "reading": "めいれい"
+      },
+      "にないから"
+    ],
+    "english": "Because I wasn't ordered to."
+  },
+  {
+    "time": "00:58:38",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "命令",
+        "reading": "めいれい"
+      },
+      "か・・・"
+    ],
+    "english": "\"Ordered\", huh?"
+  },
+  {
+    "time": "00:58:40",
+    "character": "シンジ",
+    "segments": [
+      "じゃあ、もういいよっ！"
+    ],
+    "english": "Alright, I've had enough!"
+  },
+  {
+    "time": "00:58:45",
+    "character": "シンジ",
+    "segments": [
+      "ねえ！",
+      {
+        "kanji": "綾波",
+        "reading": "あやなみ"
+      },
+      "だよねっ！"
+    ],
+    "english": "You are Ayanami, right?"
+  },
+  {
+    "time": "00:58:48",
+    "character": "レイ",
+    "segments": [
+      "そう。アヤナミレイ。"
+    ],
+    "english": "Yes, Ayanami Rei."
+  },
+  {
+    "time": "00:58:51",
+    "character": "シンジ",
+    "segments": [
+      "だったら　あの",
+      {
+        "kanji": "時",
+        "reading": "とき"
+      },
+      {
+        "kanji": "助",
+        "reading": "たす"
+      },
+      "けたよねっ！！"
+    ],
+    "english": "Then I did save you, didn't I?"
+  },
+  {
+    "time": "00:58:55",
+    "character": "レイ",
+    "segments": [
+      "―――",
+      {
+        "kanji": "知",
+        "reading": "し"
+      },
+      "らない。"
+    ],
+    "english": "I don't know."
+  },
+  {
+    "time": "00:58:59",
+    "character": "シンジ",
+    "segments": [
+      "くっ・・うう・・・・"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:59:04",
+    "character": "レイ",
+    "segments": [
+      "イカリ",
+      {
+        "kanji": "君",
+        "reading": "くん"
+      },
+      "・・・？"
+    ],
+    "english": "Ikari-kun...?"
+  },
+  {
+    "time": "01:00:16",
+    "character": "シンジ",
+    "segments": [
+      "うああっ！！！"
+    ],
+    "english": ""
+  },
+  {
+    "time": "01:00:47",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "最後",
+        "reading": "さいご"
+      },
+      "の",
+      {
+        "kanji": "執行者",
+        "reading": "しっこうしゃ"
+      },
+      "がついに",
+      {
+        "kanji": "完成",
+        "reading": "かんせい"
+      },
+      "したか。"
+    ],
+    "english": "The final executor is complete at last."
+  },
+  {
+    "time": "01:00:50",
+    "character": "ゲンドウ",
+    "segments": [
+      "ああ。これで",
+      {
+        "kanji": "道具",
+        "reading": "どうぐ"
+      },
+      "は",
+      {
+        "kanji": "全",
+        "reading": "すべ"
+      },
+      "てそろった"
+    ],
+    "english": "Yes. Everything we need is right here."
+  },
+  {
+    "time": "01:00:56",
+    "character": "カヲル",
+    "segments": [
+      {
+        "kanji": "時",
+        "reading": "とき"
+      },
+      "が",
+      {
+        "kanji": "満",
+        "reading": "み"
+      },
+      "ちた。"
+    ],
+    "english": "The time has come."
+  },
+  {
+    "time": "01:00:59",
+    "character": "カヲル",
+    "segments": [
+      "いよいよだね。",
+      {
+        "kanji": "碇",
+        "reading": "いかり"
+      },
+      "シンジ",
+      {
+        "kanji": "君",
+        "reading": "くん"
+      }
+    ],
+    "english": "This is it, Ikari Shinji-kun."
+  },
+  {
+    "time": "01:01:02",
+    "character": "シンジ",
+    "segments": [
+      "イヤだっ！"
+    ],
+    "english": "No!"
+  },
+  {
+    "time": "01:01:05",
+    "character": "シンジ",
+    "segments": [
+      "エヴァなんてもう",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "りたくない！"
+    ],
+    "english": "I never want to pilot an Eva again!"
+  },
+  {
+    "time": "01:01:07",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "綾波",
+        "reading": "あやなみ"
+      },
+      "を",
+      {
+        "kanji": "助",
+        "reading": "たす"
+      },
+      "けてなかったんだ！"
+    ],
+    "english": "I didn't save Ayanami after all!"
+  },
+  {
+    "time": "01:01:10",
+    "character": "シンジ",
+    "segments": [
+      "エヴァに",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "ったっていい",
+      {
+        "kanji": "事",
+        "reading": "こと"
+      },
+      "なんかなかったんだ！"
+    ],
+    "english": "Nothing good ever came out of piloting an Eva!"
+  },
+  {
+    "time": "01:01:13",
+    "character": "シンジ",
+    "segments": [
+      "もうイヤだ！",
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
+      "もしたくない！！"
+    ],
+    "english": "I've had enough! I don't want to do anything!"
+  },
+  {
+    "time": "01:01:16",
+    "character": "カヲル",
+    "segments": [
+      "―――そうして、",
+      {
+        "kanji": "辛",
+        "reading": "つら"
+      },
+      "い",
+      {
+        "kanji": "感情",
+        "reading": "かんじょう"
+      },
+      "の",
+      {
+        "kanji": "記憶",
+        "reading": "きおく"
+      },
+      "ばかりをリフレインさせても、いい",
+      {
+        "kanji": "事",
+        "reading": "こと"
+      },
+      "は",
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
+      "も",
+      {
+        "kanji": "生",
+        "reading": "う"
+      },
+      "まれない。"
+    ],
+    "english": "And nothing good comes from replaying your painful memories either."
+  },
+  {
+    "time": "01:01:24",
+    "character": "シンジ",
+    "segments": [
+      "いい",
+      {
+        "kanji": "事",
+        "reading": "こと"
+      },
+      "なんかないよっ！！"
+    ],
+    "english": "Nothing is ever good!"
+  },
+  {
+    "time": "01:01:26",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "渚",
+        "reading": "なぎさ"
+      },
+      {
+        "kanji": "君",
+        "reading": "くん"
+      },
+      "が",
+      {
+        "kanji": "見",
+        "reading": "み"
+      },
+      "せたんじゃないか！"
+    ],
+    "english": "You showed me it yourself, Nagisa-kun."
+  },
+  {
+    "time": "01:01:29",
+    "character": "シンジ",
+    "segments": [
+      "あの",
+      {
+        "kanji": "真",
+        "reading": "ま"
+      },
+      "っ",
+      {
+        "kanji": "赤",
+        "reading": "か"
+      },
+      "などうしようもない",
+      {
+        "kanji": "世界",
+        "reading": "せかい"
+      },
+      "を"
+    ],
+    "english": "The blood-red world I can't do anything about..."
+  },
+  {
+    "time": "01:01:32",
+    "character": "カヲル",
+    "segments": [
+      "エヴァで",
+      {
+        "kanji": "変",
+        "reading": "か"
+      },
+      "わった",
+      {
+        "kanji": "事",
+        "reading": "こと"
+      },
+      "はエヴァで",
+      {
+        "kanji": "再",
+        "reading": "ふたた"
+      },
+      "び",
+      {
+        "kanji": "変",
+        "reading": "か"
+      },
+      "えてしまえばいい。"
+    ],
+    "english": "That which was changed by Eva can be restored by Eva in turn."
+  },
+  {
+    "time": "01:01:36",
+    "character": "シンジ",
+    "segments": [
+      "そんな",
+      {
+        "kanji": "事",
+        "reading": "こと"
+      },
+      {
+        "kanji": "言",
+        "reading": "い"
+      },
+      "ったってエヴァも",
+      {
+        "kanji": "父",
+        "reading": "とう"
+      },
+      "さんもミサトさんも"
+    ],
+    "english": ""
+  },
+  {
+    "time": "01:01:39",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
+      "もかも",
+      {
+        "kanji": "信",
+        "reading": "しん"
+      },
+      "じられないよっ！！"
+    ],
+    "english": ""
+  },
+  {
+    "time": "01:01:43",
+    "character": "カヲル",
+    "segments": [
+      "―――でも、",
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
+      "は",
+      {
+        "kanji": "信",
+        "reading": "しん"
+      },
+      "じて",
+      {
+        "kanji": "欲",
+        "reading": "ほ"
+      },
+      "しい。"
+    ],
+    "english": "Still, I want you to believe in me."
+  },
+  {
+    "time": "01:01:46",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "出来",
+        "reading": "でき"
+      },
+      "ないよっ！！"
+    ],
+    "english": "I can't!"
+  },
+  {
+    "time": "01:01:49",
+    "character": "シンジ",
+    "segments": [
+      "ミサトさんたちが",
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
+      "にこれを",
+      {
+        "kanji": "付",
+        "reading": "つ"
+      },
+      "けたんだ。"
+    ],
+    "english": "Misato-san had this thing put on me."
+  },
+  {
+    "time": "01:01:53",
+    "character": "シンジ",
+    "segments": [
+      "もうエヴァには",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "るなって！"
+    ],
+    "english": "They told me to never pilot an Eva again."
+  },
+  {
+    "time": "01:01:55",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "ったら",
+      {
+        "kanji": "死",
+        "reading": "し"
+      },
+      "ぬって",
+      {
+        "kanji": "脅",
+        "reading": "おど"
+      },
+      "されて！"
+    ],
+    "english": "They said that I'd die if I did."
+  },
+  {
+    "time": "01:01:59",
+    "character": "シンジ",
+    "segments": [
+      "・・・もう、エヴァなんかどうでもいいんだ・・・"
+    ],
+    "english": "I don't care about Evas anymore."
+  },
+  {
+    "time": "01:02:09",
+    "character": "カヲル",
+    "segments": [
+      "―――わかっている。"
+    ],
+    "english": "I understand."
+  },
+  {
+    "time": "01:02:10",
+    "character": "カヲル",
+    "segments": [
+      "リリンの",
+      {
+        "kanji": "呪",
+        "reading": "のろ"
+      },
+      "いとエヴァの",
+      {
+        "kanji": "覚醒",
+        "reading": "かくせい"
+      },
+      "リスクは",
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
+      "が",
+      {
+        "kanji": "引",
+        "reading": "ひ"
+      },
+      "き",
+      {
+        "kanji": "受",
+        "reading": "う"
+      },
+      "けるよ。"
+    ],
+    "english": "I will shoulder the burden of the Lilin's curse and the risk of Eva's Awakening."
+  },
+  {
+    "time": "01:02:21",
+    "character": "シンジ",
+    "segments": [
+      "・・・",
+      {
+        "kanji": "渚",
+        "reading": "なぎさ"
+      },
+      "・・・",
+      {
+        "kanji": "君",
+        "reading": "くん"
+      }
+    ],
+    "english": "Nagisa-kun..."
+  },
+  {
+    "time": "01:02:24",
+    "character": "カヲル",
+    "segments": [
+      {
+        "kanji": "気",
+        "reading": "き"
+      },
+      "にしなくていいよ。"
+    ],
+    "english": "No need to worry."
+  },
+  {
+    "time": "01:02:26",
+    "character": "カヲル",
+    "segments": [
+      {
+        "kanji": "元々",
+        "reading": "もともと"
+      },
+      "は",
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
+      "を",
+      {
+        "kanji": "怖",
+        "reading": "おそ"
+      },
+      "れたリリンが",
+      {
+        "kanji": "作",
+        "reading": "つく"
+      },
+      "ったモノだからね。"
+    ],
+    "english": "The Lilin originally created this due to their fear of me."
+  },
+  {
+    "time": "01:02:29",
+    "character": "カヲル",
+    "segments": [
+      "いずれは、こうするつもりだったんだ。"
+    ],
+    "english": "I intended to take it from you at some point."
+  },
+  {
+    "time": "01:02:34",
+    "character": "カヲル",
+    "segments": [
+      "―――",
+      {
+        "kanji": "碇",
+        "reading": "いかり"
+      },
+      "シンジ",
+      {
+        "kanji": "君",
+        "reading": "くん"
+      },
+      "。",
+      {
+        "kanji": "君",
+        "reading": "きみ"
+      },
+      "の",
+      {
+        "kanji": "希望",
+        "reading": "きぼう"
+      },
+      "はドグマの",
+      {
+        "kanji": "爆心地",
+        "reading": "ばくしんち"
+      },
+      "に",
+      {
+        "kanji": "残",
+        "reading": "のこ"
+      },
+      "る",
+      {
+        "kanji": "２本",
+        "reading": "にほん"
+      },
+      "の",
+      {
+        "kanji": "槍",
+        "reading": "やり"
+      },
+      "だけだ。"
+    ],
+    "english": "Ikari Shinji-kun, your only hope lies with the two Spears left at the Impact epicenter in Dogma."
+  },
+  {
+    "time": "01:02:41",
+    "character": "カヲル",
+    "segments": [
+      "それが",
+      {
+        "kanji": "補完計画",
+        "reading": "ほかんけいかく"
+      },
+      {
+        "kanji": "発動",
+        "reading": "はつどう"
+      },
+      "のキーとなっている。"
+    ],
+    "english": "They are the keys to invoking the Instrumentality Project."
+  },
+  {
+    "time": "01:02:45",
+    "character": "カヲル",
+    "segments": [
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
+      "らでその",
+      {
+        "kanji": "槍",
+        "reading": "やり"
+      },
+      "を",
+      {
+        "kanji": "手",
+        "reading": "て"
+      },
+      "にすればいい。"
+    ],
+    "english": "We should take those Spears for ourselves."
+  },
+  {
+    "time": "01:02:48",
+    "character": "カヲル",
+    "segments": [
+      "そうすれば、ネルフもフォースインパクトを",
+      {
+        "kanji": "起",
+        "reading": "お"
+      },
+      "こせなくなるし、"
+    ],
+    "english": "That way, Nerv can no longer trigger the Fourth Impact,"
+  },
+  {
+    "time": "01:02:52",
+    "character": "カヲル",
+    "segments": [
+      {
+        "kanji": "第１３号機",
+        "reading": "だいじゅうさんごうき"
+      },
+      "とセットで",
+      {
+        "kanji": "使",
+        "reading": "つか"
+      },
+      "えば、",
+      {
+        "kanji": "世界",
+        "reading": "せかい"
+      },
+      "の",
+      {
+        "kanji": "修復",
+        "reading": "しゅうふく"
+      },
+      "も",
+      {
+        "kanji": "可能",
+        "reading": "かのう"
+      },
+      "だ。"
+    ],
+    "english": "And if we use them together with Eva-13, we can even repair the world."
+  },
+  {
+    "time": "01:02:58",
+    "character": "シンジ",
+    "segments": [
+      "―――そうだね。"
+    ],
+    "english": "I guess so."
+  },
+  {
+    "time": "01:03:03",
+    "character": "シンジ",
+    "segments": [
+      "うん。",
+      {
+        "kanji": "君",
+        "reading": "きみ"
+      },
+      "になら ",
+      {
+        "kanji": "出来",
+        "reading": "でき"
+      },
+      "るよ。"
+    ],
+    "english": "Yeah, I'm sure you can do it."
+  },
+  {
+    "time": "01:03:05",
+    "character": "カヲル",
+    "segments": [
+      {
+        "kanji": "君",
+        "reading": "きみ"
+      },
+      "となら、だよ。"
+    ],
+    "english": "*We* can do it, you mean."
+  },
+  {
+    "time": "01:03:07",
+    "character": "カヲル",
+    "segments": [
+      "エヴァ",
+      {
+        "kanji": "第１３号機",
+        "reading": "だいじゅうさんごうき"
+      },
+      "はダブルエントリーシステムなんだ。"
+    ],
+    "english": "Eva-13 uses a double entry system."
+  },
+  {
+    "time": "01:03:11",
+    "character": "カヲル",
+    "segments": [
+      {
+        "kanji": "二人",
+        "reading": "ふたり"
+      },
+      "でリリンの",
+      {
+        "kanji": "希望",
+        "reading": "きぼう"
+      },
+      "となろう。"
+    ],
+    "english": "Let's become the hope of Lilin together."
+  },
+  {
     "time": "01:03:15",
     "character": "カヲル",
     "segments": [
-      {"kanji": "今", "reading": "いま"},
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
       "の",
-      {"kanji": "君", "reading": "きみ"},
+      {
+        "kanji": "君",
+        "reading": "きみ"
+      },
       "に",
-      {"kanji": "必要", "reading": "ひつよう"},
+      {
+        "kanji": "必要",
+        "reading": "ひつよう"
+      },
       "な",
-      {"kanji": "事", "reading": "こと"},
+      {
+        "kanji": "事",
+        "reading": "こと"
+      },
       "は",
-      {"kanji": "何", "reading": "なに"},
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
       "よりも",
-      {"kanji": "希望", "reading": "きぼう"},
+      {
+        "kanji": "希望",
+        "reading": "きぼう"
+      },
       "。"
     ],
     "english": "What you need most of all right now is hope,"
@@ -23,11 +1914,20 @@
     "character": "カヲル",
     "segments": [
       "そしてしょく",
-      {"kanji": "罪", "reading": "ざい"},
+      {
+        "kanji": "罪",
+        "reading": "ざい"
+      },
       "と",
-      {"kanji": "心", "reading": "こころ"},
+      {
+        "kanji": "心",
+        "reading": "こころ"
+      },
       "の",
-      {"kanji": "余裕", "reading": "よゆう"},
+      {
+        "kanji": "余裕",
+        "reading": "よゆう"
+      },
       "だからね。"
     ],
     "english": "along with atonement and serenity."
@@ -37,7 +1937,10 @@
     "character": "シンジ",
     "segments": [
       "・・・すごいや。",
-      {"kanji": "何", "reading": "なん"},
+      {
+        "kanji": "何",
+        "reading": "なん"
+      },
       "でもわかっちゃうんだ。"
     ],
     "english": "You're amazing. You know everything."
@@ -47,11 +1950,20 @@
     "character": "カヲル",
     "segments": [
       "いつも、",
-      {"kanji": "君", "reading": "きみ"},
+      {
+        "kanji": "君",
+        "reading": "きみ"
+      },
       "の",
-      {"kanji": "事", "reading": "こと"},
+      {
+        "kanji": "事",
+        "reading": "こと"
+      },
       "しか",
-      {"kanji": "考", "reading": "かんが"},
+      {
+        "kanji": "考",
+        "reading": "かんが"
+      },
       "えていないから。"
     ],
     "english": "Only because I'm always thinking about you."
@@ -61,8 +1973,14 @@
     "character": "シンジ",
     "segments": [
       "・・・ありがとう。",
-      {"kanji": "渚", "reading": "なぎさ"},
-      {"kanji": "君", "reading": "くん"}
+      {
+        "kanji": "渚",
+        "reading": "なぎさ"
+      },
+      {
+        "kanji": "君",
+        "reading": "くん"
+      }
     ],
     "english": "Thank you, Nagisa-kun."
   },
@@ -86,7 +2004,10 @@
     "time": "01:03:43",
     "character": "シンジ",
     "segments": [
-      {"kanji": "僕", "reading": "ぼく"},
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
       "もシンジ、でいいよ。"
     ],
     "english": "You can call me Shinji, then."
@@ -96,7 +2017,10 @@
     "character": "カヲル",
     "segments": [
       "―――ピアノと",
-      {"kanji": "同", "reading": "おな"},
+      {
+        "kanji": "同",
+        "reading": "おな"
+      },
       "じだ。"
     ],
     "english": "It's the same as playing piano."
@@ -105,12 +2029,24 @@
     "time": "01:03:50",
     "character": "カヲル",
     "segments": [
-      {"kanji": "二人", "reading": "ふたり"},
-      {"kanji": "一緒", "reading": "いっしょ"},
+      {
+        "kanji": "二人",
+        "reading": "ふたり"
+      },
+      {
+        "kanji": "一緒",
+        "reading": "いっしょ"
+      },
       "ならいい",
-      {"kanji": "事", "reading": "こと"},
+      {
+        "kanji": "事",
+        "reading": "こと"
+      },
       "があるよ。シンジ",
-      {"kanji": "君", "reading": "くん"},
+      {
+        "kanji": "君",
+        "reading": "くん"
+      },
       "。"
     ],
     "english": "Good things will happen if we're together, Shinji-kun."
@@ -120,9 +2056,15 @@
     "character": "シンジ",
     "segments": [
       "―――うん。",
-      {"kanji": "行", "reading": "い"},
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
       "こう。カヲル",
-      {"kanji": "君", "reading": "くん"}
+      {
+        "kanji": "君",
+        "reading": "くん"
+      }
     ],
     "english": "Let's go, Kaworu-kun."
   },
@@ -131,11 +2073,20 @@
     "character": "二人",
     "segments": [
       "エヴァンゲリオン",
-      {"kanji": "第", "reading": "だい"},
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
       "１３",
-      {"kanji": "号機", "reading": "ごうき"},
+      {
+        "kanji": "号機",
+        "reading": "ごうき"
+      },
       "　",
-      {"kanji": "起動", "reading": "きどう"},
+      {
+        "kanji": "起動",
+        "reading": "きどう"
+      },
       "！"
     ],
     "english": "Evangelion 13, start up!"
@@ -144,8 +2095,14 @@
     "time": "01:04:43",
     "character": "青葉",
     "segments": [
-      {"kanji": "信号", "reading": "しんごう"},
-      {"kanji": "来", "reading": "き"},
+      {
+        "kanji": "信号",
+        "reading": "しんごう"
+      },
+      {
+        "kanji": "来",
+        "reading": "き"
+      },
       "ました！"
     ],
     "english": "Signal detected!"
@@ -154,11 +2111,20 @@
     "time": "01:04:44",
     "character": "青葉",
     "segments": [
-      {"kanji": "新型", "reading": "しんがた"},
+      {
+        "kanji": "新型",
+        "reading": "しんがた"
+      },
       "エヴァの",
-      {"kanji": "起動", "reading": "きどう"},
+      {
+        "kanji": "起動",
+        "reading": "きどう"
+      },
       "を",
-      {"kanji": "確認", "reading": "かくにん"}
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      }
     ],
     "english": "Activation of a new Eva confirmed!"
   },
@@ -166,7 +2132,10 @@
     "time": "01:05:06",
     "character": "シンジ",
     "segments": [
-      {"kanji": "僕", "reading": "ぼく"},
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
       "らだけじゃないんだ。"
     ],
     "english": "We're not alone."
@@ -176,7 +2145,10 @@
     "character": "カヲル",
     "segments": [
       "Mark.09の",
-      {"kanji": "事", "reading": "こと"},
+      {
+        "kanji": "事",
+        "reading": "こと"
+      },
       "かい。"
     ],
     "english": "It's here as our backup."
@@ -185,7 +2157,10 @@
     "time": "01:05:10",
     "character": "カヲル",
     "segments": [
-      {"kanji": "援護", "reading": "えんご"},
+      {
+        "kanji": "援護",
+        "reading": "えんご"
+      },
       "のためだよ。"
     ],
     "english": ""
@@ -195,9 +2170,15 @@
     "character": "カヲル",
     "segments": [
       "ヴィレの",
-      {"kanji": "動", "reading": "うご"},
+      {
+        "kanji": "動",
+        "reading": "うご"
+      },
       "きを",
-      {"kanji": "警戒", "reading": "けいかい"},
+      {
+        "kanji": "警戒",
+        "reading": "けいかい"
+      },
       "しているのさ。"
     ],
     "english": "It'll look out for any signs of Wille activity."
@@ -207,9 +2188,15 @@
     "character": "シンジ",
     "segments": [
       "そんなの",
-      {"kanji": "僕", "reading": "ぼく"},
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
       "らだけ",
-      {"kanji": "十分", "reading": "じゅうぶん"},
+      {
+        "kanji": "十分",
+        "reading": "じゅうぶん"
+      },
       "だよ。"
     ],
     "english": "Just the two of us would've been enough."
@@ -219,7 +2206,10 @@
     "character": "シンジ",
     "segments": [
       "・・・",
-      {"kanji": "綾波", "reading": "あやなみ"},
+      {
+        "kanji": "綾波",
+        "reading": "あやなみ"
+      },
       "じゃないのに"
     ],
     "english": "She's not Ayanami anyway..."
@@ -245,11 +2235,20 @@
     "character": "カヲル",
     "segments": [
       "ああ、",
-      {"kanji": "全", "reading": "すべ"},
+      {
+        "kanji": "全",
+        "reading": "すべ"
+      },
       "て、インフィニティの",
-      {"kanji": "成", "reading": "な"},
+      {
+        "kanji": "成",
+        "reading": "な"
+      },
       "り",
-      {"kanji": "損", "reading": "そこ"},
+      {
+        "kanji": "損",
+        "reading": "そこ"
+      },
       "ないたちだ。"
     ],
     "english": "Yes, all failures of infinity."
@@ -258,9 +2257,15 @@
     "time": "01:05:38",
     "character": "カヲル",
     "segments": [
-      {"kanji": "君", "reading": "きみ"},
+      {
+        "kanji": "君",
+        "reading": "きみ"
+      },
       "は",
-      {"kanji": "気", "reading": "き"},
+      {
+        "kanji": "気",
+        "reading": "き"
+      },
       "にしなくていい。"
     ],
     "english": "Don't let them weigh upon your mind."
@@ -270,7 +2275,10 @@
     "character": "カヲル",
     "segments": [
       "もうすぐ、リリスの",
-      {"kanji": "結界", "reading": "けっかい"},
+      {
+        "kanji": "結界",
+        "reading": "けっかい"
+      },
       "だ。"
     ],
     "english": "We're nearly at Lilith's barrier."
@@ -280,7 +2288,10 @@
     "character": "カヲル",
     "segments": [
       "メインシャフトを",
-      {"kanji": "完全", "reading": "かんぜん"},
+      {
+        "kanji": "完全",
+        "reading": "かんぜん"
+      },
       "にふさいでいて、"
     ],
     "english": "The Main Shaft is completely blocked,"
@@ -290,11 +2301,20 @@
     "character": "カヲル",
     "segments": [
       "この１４",
-      {"kanji": "年間", "reading": "ねんかん"},
+      {
+        "kanji": "年間",
+        "reading": "ねんかん"
+      },
       "、",
-      {"kanji": "誰", "reading": "だれ"},
+      {
+        "kanji": "誰",
+        "reading": "だれ"
+      },
       "の",
-      {"kanji": "侵入", "reading": "しんにゅう"},
+      {
+        "kanji": "侵入",
+        "reading": "しんにゅう"
+      },
       "もゆるしていない。"
     ],
     "english": "keeping anyone from intruding over the past fourteen years."
@@ -304,7 +2324,10 @@
     "character": "シンジ",
     "segments": [
       "まるで",
-      {"kanji": "大", "reading": "おお"},
+      {
+        "kanji": "大",
+        "reading": "おお"
+      },
       "きなフタみたいだ。"
     ],
     "english": "It's just like a huge lid."
@@ -313,11 +2336,20 @@
     "time": "01:06:00",
     "character": "カヲル",
     "segments": [
-      {"kanji": "大丈夫", "reading": "だいじょうぶ"},
+      {
+        "kanji": "大丈夫",
+        "reading": "だいじょうぶ"
+      },
       "さ。これを",
-      {"kanji": "突破", "reading": "とっぱ"},
+      {
+        "kanji": "突破",
+        "reading": "とっぱ"
+      },
       "するための１３",
-      {"kanji": "号機", "reading": "ごうき"},
+      {
+        "kanji": "号機",
+        "reading": "ごうき"
+      },
       "だからね。"
     ],
     "english": "Don't worry. Eva-13 was designed to break through it."
@@ -326,9 +2358,15 @@
     "time": "01:06:03",
     "character": "カヲル",
     "segments": [
-      {"kanji": "二人", "reading": "ふたり"},
+      {
+        "kanji": "二人",
+        "reading": "ふたり"
+      },
       "なら",
-      {"kanji": "出来", "reading": "でき"},
+      {
+        "kanji": "出来",
+        "reading": "でき"
+      },
       "るよ。"
     ],
     "english": "We can do it together."
@@ -346,7 +2384,10 @@
     "character": "カヲル",
     "segments": [
       "テンポを",
-      {"kanji": "合", "reading": "あ"},
+      {
+        "kanji": "合",
+        "reading": "あ"
+      },
       "わせよう。"
     ],
     "english": "Try to join tempos."
@@ -356,11 +2397,20 @@
     "character": "カヲル",
     "segments": [
       "ピアノの",
-      {"kanji": "連弾", "reading": "れんだん"},
+      {
+        "kanji": "連弾",
+        "reading": "れんだん"
+      },
       "を",
-      {"kanji": "思", "reading": "おも"},
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
       "い",
-      {"kanji": "出", "reading": "だ"},
+      {
+        "kanji": "出",
+        "reading": "だ"
+      },
       "して・・・"
     ],
     "english": "Think about our piano duets."
@@ -369,9 +2419,15 @@
     "time": "01:06:24",
     "character": "カヲル",
     "segments": [
-      {"kanji": "行", "reading": "い"},
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
       "くよ、シンジ",
-      {"kanji": "君", "reading": "くん"},
+      {
+        "kanji": "君",
+        "reading": "くん"
+      },
       "。"
     ],
     "english": "Let's go, Shinji-kun."
@@ -388,9 +2444,15 @@
     "time": "01:07:07",
     "character": "カヲル",
     "segments": [
-      {"kanji": "着", "reading": "つ"},
+      {
+        "kanji": "着",
+        "reading": "つ"
+      },
       "いたよ。 セントラルドグマの",
-      {"kanji": "最深部", "reading": "さいしんぶ"},
+      {
+        "kanji": "最深部",
+        "reading": "さいしんぶ"
+      },
       "・・・"
     ],
     "english": "Here we are. The deepest level of Central Dogma."
@@ -400,7 +2462,10 @@
     "character": "カヲル",
     "segments": [
       "サードインパクトの",
-      {"kanji": "爆心地", "reading": "ばくしんち"},
+      {
+        "kanji": "爆心地",
+        "reading": "ばくしんち"
+      },
       "だ。"
     ],
     "english": "The epicenter of Third Impact."
@@ -426,7 +2491,10 @@
     "character": "カヲル",
     "segments": [
       "その",
-      {"kanji": "骸", "reading": "むくろ"},
+      {
+        "kanji": "骸",
+        "reading": "むくろ"
+      },
       "だよ。"
     ],
     "english": "Now, it is her corpse."
@@ -436,9 +2504,15 @@
     "character": "シンジ",
     "segments": [
       "・・・ミサトさん・・・",
-      {"kanji": "命", "reading": "いのち"},
+      {
+        "kanji": "命",
+        "reading": "いのち"
+      },
       "がけで",
-      {"kanji": "守", "reading": "まも"},
+      {
+        "kanji": "守",
+        "reading": "まも"
+      },
       "ってたのに。"
     ],
     "english": "Misato-san... even though we risked our lives to protect it..."
@@ -463,9 +2537,15 @@
     "time": "01:07:38",
     "character": "カヲル",
     "segments": [
-      {"kanji": "自立型", "reading": "じりつがた"},
+      {
+        "kanji": "自立型",
+        "reading": "じりつがた"
+      },
       "に",
-      {"kanji": "改造", "reading": "かいぞう"},
+      {
+        "kanji": "改造",
+        "reading": "かいぞう"
+      },
       "され、"
     ],
     "english": "Remodeled into an autonomous type,"
@@ -475,13 +2555,25 @@
     "character": "カヲル",
     "segments": [
       "リリンに",
-      {"kanji": "利用", "reading": "りよう"},
+      {
+        "kanji": "利用",
+        "reading": "りよう"
+      },
       "された",
-      {"kanji": "機体", "reading": "きたい"},
+      {
+        "kanji": "機体",
+        "reading": "きたい"
+      },
       "の",
-      {"kanji": "成", "reading": "な"},
+      {
+        "kanji": "成",
+        "reading": "な"
+      },
       "れの",
-      {"kanji": "果", "reading": "は"},
+      {
+        "kanji": "果",
+        "reading": "は"
+      },
       "てさ。"
     ],
     "english": "exploitation by the Lilin brought the unit to this state of ruin."
@@ -491,9 +2583,15 @@
     "character": "シンジ",
     "segments": [
       "あそこに",
-      {"kanji": "刺", "reading": "さ"},
+      {
+        "kanji": "刺",
+        "reading": "さ"
+      },
       "さってるのが、",
-      {"kanji": "目標物", "reading": "もくひょうぶつ"},
+      {
+        "kanji": "目標物",
+        "reading": "もくひょうぶつ"
+      },
       "？"
     ],
     "english": "The things that are piercing them... are our targets?"
@@ -511,17 +2609,35 @@
     "character": "カヲル",
     "segments": [
       "２",
-      {"kanji": "本", "reading": "ほん"},
+      {
+        "kanji": "本",
+        "reading": "ほん"
+      },
       "の",
-      {"kanji": "槍", "reading": "やり"},
+      {
+        "kanji": "槍",
+        "reading": "やり"
+      },
       "を",
-      {"kanji": "持", "reading": "も"},
+      {
+        "kanji": "持",
+        "reading": "も"
+      },
       "ち",
-      {"kanji": "帰", "reading": "かえ"},
+      {
+        "kanji": "帰",
+        "reading": "かえ"
+      },
       "るには、",
-      {"kanji": "魂", "reading": "たましい"},
+      {
+        "kanji": "魂",
+        "reading": "たましい"
+      },
       "が２つ",
-      {"kanji": "必要", "reading": "ひつよう"},
+      {
+        "kanji": "必要",
+        "reading": "ひつよう"
+      },
       "なんだ。"
     ],
     "english": "Wielding both requires two souls."
@@ -547,9 +2663,15 @@
     "character": "カヲル",
     "segments": [
       "いや、リリンの",
-      {"kanji": "模造品", "reading": "もぞうひん"},
+      {
+        "kanji": "模造品",
+        "reading": "もぞうひん"
+      },
       "では",
-      {"kanji": "無理", "reading": "むり"},
+      {
+        "kanji": "無理",
+        "reading": "むり"
+      },
       "だ。"
     ],
     "english": "No, a replica Lilin won't do."
@@ -558,11 +2680,20 @@
     "time": "01:08:10",
     "character": "カヲル",
     "segments": [
-      {"kanji": "魂", "reading": "たましい"},
+      {
+        "kanji": "魂",
+        "reading": "たましい"
+      },
       "の",
-      {"kanji": "場所", "reading": "ばしょ"},
+      {
+        "kanji": "場所",
+        "reading": "ばしょ"
+      },
       "が、",
-      {"kanji": "違", "reading": "ちが"},
+      {
+        "kanji": "違",
+        "reading": "ちが"
+      },
       "うからね。"
     ],
     "english": "Her soul is in the wrong place."
@@ -572,7 +2703,10 @@
     "character": "カヲル",
     "segments": [
       "さあ、",
-      {"kanji": "始", "reading": "はじ"},
+      {
+        "kanji": "始",
+        "reading": "はじ"
+      },
       "めるよ。"
     ],
     "english": "Well, let's begin."
@@ -582,7 +2716,10 @@
     "character": "カヲル",
     "segments": [
       "ちょっと",
-      {"kanji": "待", "reading": "ま"},
+      {
+        "kanji": "待",
+        "reading": "ま"
+      },
       "って。"
     ],
     "english": "Hold on."
@@ -591,7 +2728,10 @@
     "time": "01:08:25",
     "character": "カヲル",
     "segments": [
-      {"kanji": "変", "reading": "へん"},
+      {
+        "kanji": "変",
+        "reading": "へん"
+      },
       "だ・・・"
     ],
     "english": "Something's wrong."
@@ -601,7 +2741,10 @@
     "character": "シンジ",
     "segments": [
       "どうしたのカヲル",
-      {"kanji": "君", "reading": "くん"}
+      {
+        "kanji": "君",
+        "reading": "くん"
+      }
     ],
     "english": "What is it, Kaworu-kun?"
   },
@@ -618,11 +2761,20 @@
     "character": "カヲル",
     "segments": [
       "２",
-      {"kanji": "本", "reading": "ほん"},
+      {
+        "kanji": "本",
+        "reading": "ほん"
+      },
       "とも",
-      {"kanji": "形状", "reading": "けいじょう"},
+      {
+        "kanji": "形状",
+        "reading": "けいじょう"
+      },
       "が",
-      {"kanji": "変化", "reading": "へんか"},
+      {
+        "kanji": "変化",
+        "reading": "へんか"
+      },
       "して、そろっている。"
     ],
     "english": "Both Spears have morphed into the same shape."
@@ -631,11 +2783,20 @@
     "time": "01:08:36",
     "character": "シンジ",
     "segments": [
-      {"kanji": "早", "reading": "はや"},
+      {
+        "kanji": "早",
+        "reading": "はや"
+      },
       "く",
-      {"kanji": "槍", "reading": "やり"},
+      {
+        "kanji": "槍",
+        "reading": "やり"
+      },
       "を",
-      {"kanji": "抜", "reading": "ぬ"},
+      {
+        "kanji": "抜",
+        "reading": "ぬ"
+      },
       "こうよ。"
     ],
     "english": "We should hurry and pull the Spears out."
@@ -645,7 +2806,10 @@
     "character": "シンジ",
     "segments": [
       "そのためにエヴァに",
-      {"kanji": "乗", "reading": "の"},
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
       "ってきたんだから"
     ],
     "english": "It's the only reason I'm piloting this Eva."
@@ -654,7 +2818,10 @@
     "time": "01:08:44",
     "character": "シンジ",
     "segments": [
-      {"kanji": "何", "reading": "なん"},
+      {
+        "kanji": "何",
+        "reading": "なん"
+      },
       "だよコレ！？"
     ],
     "english": "What's going on?!"
@@ -664,7 +2831,10 @@
     "character": "シンジ",
     "segments": [
       "２",
-      {"kanji": "号機", "reading": "ごうき"},
+      {
+        "kanji": "号機",
+        "reading": "ごうき"
+      },
       "！！"
     ],
     "english": "Eva-02?"
@@ -681,7 +2851,10 @@
     "time": "01:09:00",
     "character": "シンジ",
     "segments": [
-      {"kanji": "何", "reading": "なに"},
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
       "すんだよ、アスカ！"
     ],
     "english": "What are you doing, Asuka?!"
@@ -699,7 +2872,10 @@
     "character": "アスカ",
     "segments": [
       "アンタまさか、エヴァに",
-      {"kanji": "乗", "reading": "の"},
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
       "ってんの？"
     ],
     "english": "You can't seriously be piloting an Eva?!"
@@ -717,11 +2893,20 @@
     "character": "シンジ",
     "segments": [
       "エヴァ",
-      {"kanji": "乗", "reading": "の"},
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
       "って",
-      {"kanji": "世界", "reading": "せかい"},
+      {
+        "kanji": "世界",
+        "reading": "せかい"
+      },
       "を",
-      {"kanji": "変", "reading": "か"},
+      {
+        "kanji": "変",
+        "reading": "か"
+      },
       "えるんだ"
     ],
     "english": "And I'm going to change the world doing it!"
@@ -739,7 +2924,10 @@
     "character": "アスカ",
     "segments": [
       "だったら　",
-      {"kanji": "乗", "reading": "の"},
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
       "るな！"
     ],
     "english": "If that's how it is, don't pilot!"
@@ -748,7 +2936,10 @@
     "time": "01:09:20",
     "character": "シンジ",
     "segments": [
-      {"kanji": "助", "reading": "たす"},
+      {
+        "kanji": "助",
+        "reading": "たす"
+      },
       "けてなかったんだ・・・"
     ],
     "english": "So, I didn't actually save her..."
@@ -757,9 +2948,15 @@
     "time": "01:09:25",
     "character": "アスカ",
     "segments": [
-      {"kanji": "援護射撃", "reading": "えんごしゃげき"},
+      {
+        "kanji": "援護射撃",
+        "reading": "えんごしゃげき"
+      },
       "　いっつも",
-      {"kanji": "遅", "reading": "おそ"},
+      {
+        "kanji": "遅",
+        "reading": "おそ"
+      },
       "いッ！！"
     ],
     "english": "Your support fire is always late!"
@@ -773,10 +2970,37 @@
     "english": "Sorry, sorry!"
   },
   {
+    "time": "01:09:26",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なん"
+      },
+      "もしないで。"
+    ],
+    "english": "Sorry, sorry!"
+  },
+  {
+    "time": "01:09:26",
+    "character": "声",
+    "segments": [
+      {
+        "kanji": "嫌",
+        "reading": "きら"
+      },
+      "い。バッカみたい。"
+    ],
+    "english": "Sorry, sorry!"
+  },
+  {
     "time": "01:09:27",
     "character": "声",
     "segments": [
-      {"kanji": "側", "reading": "そば"},
+      {
+        "kanji": "側",
+        "reading": "そば"
+      },
       "にいらないで。"
     ],
     "english": "Stay away from me."
@@ -786,8 +3010,42 @@
     "character": "マリ",
     "segments": [
       "アダムスの",
-      {"kanji": "器", "reading": "うつわ"},
+      {
+        "kanji": "器",
+        "reading": "うつわ"
+      },
       "さん"
+    ],
+    "english": "Adams' Vessel-san,"
+  },
+  {
+    "time": "01:09:28",
+    "character": "声",
+    "segments": [
+      "あんたのこと",
+      {
+        "kanji": "好",
+        "reading": "す"
+      },
+      "きになるハズないじゃない。"
+    ],
+    "english": "Adams' Vessel-san,"
+  },
+  {
+    "time": "01:09:28",
+    "character": "声",
+    "segments": [
+      "あんたなんか",
+      {
+        "kanji": "生",
+        "reading": "う"
+      },
+      "まれて",
+      {
+        "kanji": "来",
+        "reading": "き"
+      },
+      "れなきゃよかったのよ！"
     ],
     "english": "Adams' Vessel-san,"
   },
@@ -795,8 +3053,27 @@
     "time": "01:09:29",
     "character": "レイ",
     "segments": [
-      {"kanji": "知", "reading": "し"},
+      {
+        "kanji": "知",
+        "reading": "し"
+      },
       "らない。"
+    ],
+    "english": "I don't know."
+  },
+  {
+    "time": "01:09:29",
+    "character": "声",
+    "segments": [
+      "／There's no way I'd fall for you."
+    ],
+    "english": "I don't know."
+  },
+  {
+    "time": "01:09:29",
+    "character": "声",
+    "segments": [
+      "あんたさえ、いなけりゃいいのに。"
     ],
     "english": "I don't know."
   },
@@ -805,8 +3082,23 @@
     "character": "アスカ",
     "segments": [
       "あんたには",
-      {"kanji": "関係", "reading": "かんけい"},
+      {
+        "kanji": "関係",
+        "reading": "かんけい"
+      },
       "ない。"
+    ],
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:30",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "父",
+        "reading": "とう"
+      },
+      "さん・・・"
     ],
     "english": "None of your business."
   },
@@ -815,8 +3107,59 @@
     "character": "マリ",
     "segments": [
       "せめて",
-      {"kanji": "足止", "reading": "あしど"},
+      {
+        "kanji": "足止",
+        "reading": "あしど"
+      },
       "めはさせてもらうニャ！"
+    ],
+    "english": "at least I'll stop *you* in your tracks."
+  },
+  {
+    "time": "01:09:31",
+    "character": "声",
+    "segments": [
+      {
+        "kanji": "正直",
+        "reading": "しょうじき"
+      },
+      "、",
+      {
+        "kanji": "苦手",
+        "reading": "にがて"
+      },
+      "というより",
+      {
+        "kanji": "一番",
+        "reading": "いちばん"
+      },
+      "キライなタイプなのよ、あなたって。"
+    ],
+    "english": "at least I'll stop *you* in your tracks."
+  },
+  {
+    "time": "01:09:31",
+    "character": "声",
+    "segments": [
+      "もうあっち",
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "ってて。"
+    ],
+    "english": "at least I'll stop *you* in your tracks."
+  },
+  {
+    "time": "01:09:31",
+    "character": "アスカ",
+    "segments": [
+      "あんたには",
+      {
+        "kanji": "関係",
+        "reading": "かんけい"
+      },
+      "ない。"
     ],
     "english": "at least I'll stop *you* in your tracks."
   },
@@ -825,7 +3168,10 @@
     "character": "ゲンドウ",
     "segments": [
       "エヴァに",
-      {"kanji": "乗", "reading": "の"},
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
       "れ。"
     ],
     "english": "Pilot that Eva."
@@ -835,8 +3181,24 @@
     "character": "ゲンドウ",
     "segments": [
       "エヴァに",
-      {"kanji": "乗", "reading": "の"},
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
       "れ。"
+    ],
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "01:09:33",
+    "character": "アスカ",
+    "segments": [
+      "あんたには",
+      {
+        "kanji": "関係",
+        "reading": "かんけい"
+      },
+      "ない。"
     ],
     "english": "Pilot that Eva."
   },
@@ -845,9 +3207,15 @@
     "character": "サクラ",
     "segments": [
       "エヴァにだけは",
-      {"kanji": "乗", "reading": "の"},
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
       "らんで",
-      {"kanji": "下", "reading": "くだ"},
+      {
+        "kanji": "下",
+        "reading": "くだ"
+      },
       "さいよ！"
     ],
     "english": "Please just don't pilot an Eva!"
@@ -856,8 +3224,20 @@
     "time": "01:09:38",
     "character": "ミサト",
     "segments": [
-      {"kanji": "何", "reading": "なに"},
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
       "もしないで。"
+    ],
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:09:38",
+    "character": "シンジ",
+    "segments": [
+      "母",
+      "さん・・・"
     ],
     "english": "Do nothing."
   },
@@ -865,8 +3245,29 @@
     "time": "01:09:39",
     "character": "ミサト",
     "segments": [
-      {"kanji": "何", "reading": "なに"},
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
       "もしないで。"
+    ],
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:09:39",
+    "character": "サクラ",
+    "segments": [
+      "エヴァにだけは",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "らんで",
+      {
+        "kanji": "下",
+        "reading": "さ"
+      },
+      "さいよ！"
     ],
     "english": "Do nothing."
   },
@@ -875,8 +3276,24 @@
     "character": "ゲンドウ",
     "segments": [
       "エヴァに",
-      {"kanji": "乗", "reading": "の"},
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
       "れ。"
+    ],
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "01:09:41",
+    "character": "アスカ",
+    "segments": [
+      "あんたには",
+      {
+        "kanji": "関係",
+        "reading": "かんけい"
+      },
+      "ない。"
     ],
     "english": "Pilot that Eva."
   },
@@ -885,8 +3302,32 @@
     "character": "アスカ",
     "segments": [
       "あんたには",
-      {"kanji": "関係", "reading": "かんけい"},
+      {
+        "kanji": "関係",
+        "reading": "かんけい"
+      },
       "ない。"
+    ],
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:43",
+    "character": "声",
+    "segments": [
+      "／Your existence means nothing to me."
+    ],
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:43",
+    "character": "ゲンドウ",
+    "segments": [
+      "エヴァに",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "れ。"
     ],
     "english": "None of your business."
   },
@@ -895,7 +3336,10 @@
     "character": "ゲンドウ",
     "segments": [
       "エヴァに",
-      {"kanji": "乗", "reading": "の"},
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
       "れ。"
     ],
     "english": "Pilot that Eva."
@@ -905,10 +3349,48 @@
     "character": "サクラ",
     "segments": [
       "エヴァにだけは",
-      {"kanji": "乗", "reading": "の"},
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
       "らんで",
-      {"kanji": "下", "reading": "くだ"},
+      {
+        "kanji": "下",
+        "reading": "くだ"
+      },
       "さいよ！"
+    ],
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:09:45",
+    "character": "レイ",
+    "segments": [
+      {
+        "kanji": "知",
+        "reading": "し"
+      },
+      "らない。"
+    ],
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:09:45",
+    "character": "レイ",
+    "segments": [
+      {
+        "kanji": "知",
+        "reading": "し"
+      },
+      "らない。"
+    ],
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:09:45",
+    "character": "声",
+    "segments": [
+      "／Just disappear already."
     ],
     "english": "Please just don't pilot an Eva!"
   },
@@ -916,7 +3398,10 @@
     "time": "01:09:46",
     "character": "レイ",
     "segments": [
-      {"kanji": "知", "reading": "し"},
+      {
+        "kanji": "知",
+        "reading": "し"
+      },
       "らない。"
     ],
     "english": "I don't know."
@@ -926,10 +3411,24 @@
     "character": "サクラ",
     "segments": [
       "エヴァにだけは",
-      {"kanji": "乗", "reading": "の"},
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
       "らんで",
-      {"kanji": "下", "reading": "くだ"},
+      {
+        "kanji": "下",
+        "reading": "くだ"
+      },
       "さいよ！"
+    ],
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:09:47",
+    "character": "声",
+    "segments": [
+      "／You'd burden me as a friend."
     ],
     "english": "Please just don't pilot an Eva!"
   },
@@ -945,7 +3444,10 @@
     "time": "01:09:49",
     "character": "レイ",
     "segments": [
-      {"kanji": "知", "reading": "し"},
+      {
+        "kanji": "知",
+        "reading": "し"
+      },
       "らない。"
     ],
     "english": "I don't know."
@@ -955,8 +3457,36 @@
     "character": "ゲンドウ",
     "segments": [
       "エヴァに",
-      {"kanji": "乗", "reading": "の"},
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
       "れ。"
+    ],
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "01:09:50",
+    "character": "声",
+    "segments": [
+      "あんたのこと",
+      {
+        "kanji": "好",
+        "reading": "す"
+      },
+      "きになるハズないじゃない。"
+    ],
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "01:09:50",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なん"
+      },
+      "もしないで。"
     ],
     "english": "Pilot that Eva."
   },
@@ -965,7 +3495,10 @@
     "character": "アスカ",
     "segments": [
       "あんたには",
-      {"kanji": "関係", "reading": "かんけい"},
+      {
+        "kanji": "関係",
+        "reading": "かんけい"
+      },
       "ない。"
     ],
     "english": "None of your business."
@@ -975,10 +3508,38 @@
     "character": "サクラ",
     "segments": [
       "エヴァにだけは",
-      {"kanji": "乗", "reading": "の"},
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
       "らんで",
-      {"kanji": "下", "reading": "くだ"},
+      {
+        "kanji": "下",
+        "reading": "くだ"
+      },
       "さいよ！"
+    ],
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:09:52",
+    "character": "声",
+    "segments": [
+      {
+        "kanji": "正直",
+        "reading": "しょうじき"
+      },
+      "、",
+      {
+        "kanji": "苦手",
+        "reading": "にがて"
+      },
+      "というより",
+      {
+        "kanji": "一番",
+        "reading": "いちばん"
+      },
+      "キライなタイプなのよ、あなたって。"
     ],
     "english": "Please just don't pilot an Eva!"
   },
@@ -986,8 +3547,23 @@
     "time": "01:09:53",
     "character": "ミサト",
     "segments": [
-      {"kanji": "何", "reading": "なに"},
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
       "もしない。"
+    ],
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:09:53",
+    "character": "レイ",
+    "segments": [
+      {
+        "kanji": "知",
+        "reading": "し"
+      },
+      "らない。"
     ],
     "english": "Do nothing."
   },
@@ -996,8 +3572,24 @@
     "character": "シンジ",
     "segments": [
       "なんで",
-      {"kanji": "邪魔", "reading": "じゃま"},
+      {
+        "kanji": "邪魔",
+        "reading": "じゃま"
+      },
       "するんだ、アスカ！"
+    ],
+    "english": "Why are you getting in our way, Asuka?"
+  },
+  {
+    "time": "01:09:54",
+    "character": "ゲンドウ",
+    "segments": [
+      "エヴァに",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "れ。"
     ],
     "english": "Why are you getting in our way, Asuka?"
   },
@@ -1010,16 +3602,68 @@
     "english": "Bye-bye!"
   },
   {
+    "time": "01:09:55",
+    "character": "アスカ",
+    "segments": [
+      "あんたには",
+      {
+        "kanji": "関係",
+        "reading": "かんけい"
+      },
+      "ない。"
+    ],
+    "english": "Bye-bye!"
+  },
+  {
     "time": "01:09:56",
     "character": "シンジ",
     "segments": [
       "あれは",
-      {"kanji": "僕", "reading": "ぼく"},
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
       "たちの",
-      {"kanji": "希望", "reading": "きぼう"},
+      {
+        "kanji": "希望",
+        "reading": "きぼう"
+      },
       "の",
-      {"kanji": "槍", "reading": "やり"},
+      {
+        "kanji": "槍",
+        "reading": "やり"
+      },
       "なんだよ！"
+    ],
+    "english": "Those are our Spears of hope!"
+  },
+  {
+    "time": "01:09:56",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なん"
+      },
+      "もしないで。"
+    ],
+    "english": "Those are our Spears of hope!"
+  },
+  {
+    "time": "01:09:56",
+    "character": "サクラ",
+    "segments": [
+      "エヴァにだけは",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "らんで",
+      {
+        "kanji": "下",
+        "reading": "さ"
+      },
+      "さいよ！"
     ],
     "english": "Those are our Spears of hope!"
   },
@@ -1028,8 +3672,36 @@
     "character": "アスカ",
     "segments": [
       "あんたには",
-      {"kanji": "関係", "reading": "かんけい"},
+      {
+        "kanji": "関係",
+        "reading": "かんけい"
+      },
       "ない。"
+    ],
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:57",
+    "character": "レイ",
+    "segments": [
+      {
+        "kanji": "知",
+        "reading": "し"
+      },
+      "らない。"
+    ],
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:57",
+    "character": "ゲンドウ",
+    "segments": [
+      "エヴァに",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "れ。"
     ],
     "english": "None of your business."
   },
@@ -1037,8 +3709,42 @@
     "time": "01:09:58",
     "character": "ミサト",
     "segments": [
-      {"kanji": "何", "reading": "なに"},
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
       "もしないで。"
+    ],
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:09:58",
+    "character": "サクラ",
+    "segments": [
+      "エヴァにだけは",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "らんで",
+      {
+        "kanji": "下",
+        "reading": "さ"
+      },
+      "さいよ！"
+    ],
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:09:58",
+    "character": "アスカ",
+    "segments": [
+      "あんたには",
+      {
+        "kanji": "関係",
+        "reading": "かんけい"
+      },
+      "ない。"
     ],
     "english": "Do nothing."
   },
@@ -1047,8 +3753,23 @@
     "character": "ゲンドウ",
     "segments": [
       "エヴァに",
-      {"kanji": "乗", "reading": "の"},
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
       "れ。"
+    ],
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "01:09:59",
+    "character": "レイ",
+    "segments": [
+      {
+        "kanji": "知",
+        "reading": "し"
+      },
+      "らない。"
     ],
     "english": "Pilot that Eva."
   },
@@ -1056,8 +3777,29 @@
     "time": "01:10:00",
     "character": "ミサト",
     "segments": [
-      {"kanji": "何", "reading": "なに"},
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
       "もしないで。"
+    ],
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:10:00",
+    "character": "サクラ",
+    "segments": [
+      "エヴァにだけは",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "らんで",
+      {
+        "kanji": "下",
+        "reading": "さ"
+      },
+      "さいよ！"
     ],
     "english": "Do nothing."
   },
@@ -1066,1328 +3808,12 @@
     "character": "アスカ",
     "segments": [
       "あんたこそ　",
-      {"kanji": "余計", "reading": "よけい"},
+      {
+        "kanji": "余計",
+        "reading": "よけい"
+      },
       "なこと　するんじゃないわよ！"
     ],
     "english": "Stop!... looking!... for trouble!"
-  },
-  {
-    "time": "01:10:02",
-    "character": "ミサト",
-    "segments": [
-      {"kanji": "何", "reading": "なに"},
-      "もしないで。"
-    ],
-    "english": "Do nothing."
-  },
-  {
-    "time": "01:10:03",
-    "character": "アスカ",
-    "segments": [
-      "あんたには",
-      {"kanji": "関係", "reading": "かんけい"},
-      "ない。"
-    ],
-    "english": "None of your business."
-  },
-  {
-    "time": "01:10:04",
-    "character": "アスカ",
-    "segments": [
-      "ガキシンジ、"
-    ],
-    "english": "You brat, Shinji!"
-  },
-  {
-    "time": "01:10:05",
-    "character": "アスカ",
-    "segments": [
-      "またサードインパクトを",
-      {"kanji": "起", "reading": "お"},
-      "こすつもり？"
-    ],
-    "english": "Are you trying to cause Third Impact again?"
-  },
-  {
-    "time": "01:10:07",
-    "character": "シンジ",
-    "segments": [
-      "ちがう！"
-    ],
-    "english": "No I'm not!"
-  },
-  {
-    "time": "01:10:08",
-    "character": "ゲンドウ",
-    "segments": [
-      "エヴァに",
-      {"kanji": "乗", "reading": "の"},
-      "れ。"
-    ],
-    "english": "Pilot that Eva."
-  },
-  {
-    "time": "01:10:09",
-    "character": "シンジ",
-    "segments": [
-      {"kanji": "槍", "reading": "やり"},
-      "があれば",
-      {"kanji": "全部", "reading": "ぜんぶ"},
-      "やり",
-      {"kanji": "直", "reading": "なお"},
-      "せる"
-    ],
-    "english": "If I get the Spears, I can fix everything!"
-  },
-  {
-    "time": "01:10:12",
-    "character": "シンジ",
-    "segments": [
-      {"kanji": "世界", "reading": "せかい"},
-      "が",
-      {"kanji": "救", "reading": "すく"},
-      "えるんだ"
-    ],
-    "english": "I'm trying to save the world!"
-  },
-  {
-    "time": "01:10:16",
-    "character": "アスカ",
-    "segments": [
-      "・・・ホンっとにガキね。"
-    ],
-    "english": "You really *are* a little brat."
-  },
-  {
-    "time": "01:10:19",
-    "character": "シンジ",
-    "segments": [
-      "・・・わからずや！！"
-    ],
-    "english": "You just don't get it!"
-  },
-  {
-    "time": "01:10:30",
-    "character": "シンジ",
-    "segments": [
-      "カヲル",
-      {"kanji": "君", "reading": "くん"},
-      "も",
-      {"kanji": "手伝", "reading": "てつだ"},
-      "ってよ"
-    ],
-    "english": "Kaworu-kun, help me out here!"
-  },
-  {
-    "time": "01:10:34",
-    "character": "カヲル",
-    "segments": [
-      "カシウスとロンギヌス",
-      {"kanji": "対", "reading": "つい"},
-      "の",
-      {"kanji": "槍", "reading": "やり"},
-      "が",
-      {"kanji": "必要", "reading": "ひつよう"},
-      "なんだ。"
-    ],
-    "english": "Cassius and Longinus. Both of the Spears are needed."
-  },
-  {
-    "time": "01:10:39",
-    "character": "カヲル",
-    "segments": [
-      "なのに、ここには",
-      {"kanji": "同", "reading": "おな"},
-      "じが",
-      {"kanji": "槍", "reading": "やり"},
-      "が２",
-      {"kanji": "本", "reading": "ほん"},
-      "あるだけ・・・"
-    ],
-    "english": "But the only two Spears that are here are the same..."
-  },
-  {
-    "time": "01:10:43",
-    "character": "シンジ",
-    "segments": [
-      "カヲル",
-      {"kanji": "君", "reading": "くん"},
-      "！！"
-    ],
-    "english": "Kaworu-kun!"
-  },
-  {
-    "time": "01:10:44",
-    "character": "カヲル",
-    "segments": [
-      "そうか！"
-    ],
-    "english": "I see!"
-  },
-  {
-    "time": "01:10:46",
-    "character": "カヲル",
-    "segments": [
-      "そういうことか・・・"
-    ],
-    "english": "Now I understand,"
-  },
-  {
-    "time": "01:10:48",
-    "character": "カヲル",
-    "segments": [
-      "リリン！"
-    ],
-    "english": "Lilin!"
-  },
-  {
-    "time": "01:10:55",
-    "character": "マリ",
-    "segments": [
-      "ゼーレの",
-      {"kanji": "暫定", "reading": "ざんてい"},
-      "パイロットさん"
-    ],
-    "english": "Seele's fill-in pilot,"
-  },
-  {
-    "time": "01:10:58",
-    "character": "マリ",
-    "segments": [
-      {"kanji": "聞", "reading": "き"},
-      "こえてるでしょ"
-    ],
-    "english": "you can hear me, right?"
-  },
-  {
-    "time": "01:11:00",
-    "character": "マリ",
-    "segments": [
-      "アダムスの",
-      {"kanji": "器", "reading": "うつわ"},
-      "になる",
-      {"kanji": "前", "reading": "まえ"},
-      "に、そっから",
-      {"kanji": "出", "reading": "で"},
-      "た",
-      {"kanji": "方", "reading": "ほう"},
-      "がいいよ"
-    ],
-    "english": "You should get out of there before you turn into an Adams' Vessel."
-  },
-  {
-    "time": "01:11:04",
-    "character": "レイ",
-    "segments": [
-      "ダメ。それは",
-      {"kanji": "命令", "reading": "めいれい"},
-      "じゃない。"
-    ],
-    "english": "No. That is not what I was ordered."
-  },
-  {
-    "time": "01:11:07",
-    "character": "マリ",
-    "segments": [
-      "・・・",
-      {"kanji": "堅物", "reading": "かたぶつ"},
-      "だニャ"
-    ],
-    "english": "Talk about straightlaced."
-  },
-  {
-    "time": "01:11:09",
-    "character": "マリ",
-    "segments": [
-      "あんたのオリジナルはもっと",
-      {"kanji": "愛想", "reading": "あいそう"},
-      "があったよ"
-    ],
-    "english": "Your original was a lot friendlier, you know."
-  },
-  {
-    "time": "01:11:12",
-    "character": "レイ",
-    "segments": [
-      "オリジナル？"
-    ],
-    "english": "Original?"
-  },
-  {
-    "time": "01:11:14",
-    "character": "レイ",
-    "segments": [
-      {"kanji": "別", "reading": "べつ"},
-      "の",
-      {"kanji": "私", "reading": "わたし"},
-      "？"
-    ],
-    "english": "Another me?"
-  },
-  {
-    "time": "01:11:30",
-    "character": "シンジ",
-    "segments": [
-      "カヲル",
-      {"kanji": "君", "reading": "くん"},
-      "！どうしちゃったんだよ"
-    ],
-    "english": "Kaworu-kun, what happened to you?!"
-  },
-  {
-    "time": "01:11:45",
-    "character": "シンジ",
-    "segments": [
-      "アスカ！"
-    ],
-    "english": "Asuka!"
-  },
-  {
-    "time": "01:11:49",
-    "character": "アスカ",
-    "segments": [
-      "おとなしくやられろ！ガキシンジィ！"
-    ],
-    "english": "Go down already, bratty Shinji!"
-  },
-  {
-    "time": "01:11:57",
-    "character": "アスカ",
-    "segments": [
-      "こんなときにっ！"
-    ],
-    "english": "You're kidding me!"
-  },
-  {
-    "time": "01:11:58",
-    "character": "アスカ",
-    "segments": [
-      "コネメガネ！スペア"
-    ],
-    "english": "Hey, Glasses! Throw me a spare!"
-  },
-  {
-    "time": "01:12:07",
-    "character": "シンジ",
-    "segments": [
-      {"kanji": "今", "reading": "いま"},
-      "のうちに",
-      {"kanji": "槍", "reading": "やり"},
-      "を・・・"
-    ],
-    "english": "Now's our chance to grab the Spears!"
-  },
-  {
-    "time": "01:12:11",
-    "character": "アスカ",
-    "segments": [
-      {"kanji": "女", "reading": "おんな"},
-      "に",
-      {"kanji": "手", "reading": "て"},
-      "を",
-      {"kanji": "上", "reading": "あ"},
-      "げるなんて"
-    ],
-    "english": "I can't believe he'd hit a girl."
-  },
-  {
-    "time": "01:12:13",
-    "character": "アスカ",
-    "segments": [
-      "サイッテェ・・・"
-    ],
-    "english": "Bastard."
-  },
-  {
-    "time": "01:12:14",
-    "character": "マリ",
-    "segments": [
-      "スペア",
-      {"kanji": "行", "reading": "い"},
-      "くよ"
-    ],
-    "english": "Spare, incoming!"
-  },
-  {
-    "time": "01:12:28",
-    "character": "カヲル",
-    "segments": [
-      "・・・やめようシンジ",
-      {"kanji": "君", "reading": "くん"},
-      "。"
-    ],
-    "english": "Stop, Shinji-kun."
-  },
-  {
-    "time": "01:12:30",
-    "character": "カヲル",
-    "segments": [
-      "いやな",
-      {"kanji": "予感", "reading": "よかん"},
-      "がする。"
-    ],
-    "english": "I have a really bad feeling about this."
-  },
-  {
-    "time": "01:12:32",
-    "character": "シンジ",
-    "segments": [
-      "だめだよ。カヲル",
-      {"kanji": "君", "reading": "くん"},
-      "！"
-    ],
-    "english": "We can't stop now, Kaworu-kun!"
-  },
-  {
-    "time": "01:12:34",
-    "character": "シンジ",
-    "segments": [
-      {"kanji": "何", "reading": "なん"},
-      "のためにここまで",
-      {"kanji": "来", "reading": "き"},
-      "たんだよ！"
-    ],
-    "english": "Remember why we came all the way here?"
-  },
-  {
-    "time": "01:12:37",
-    "character": "カヲル",
-    "segments": [
-      "もういいんだ・・・"
-    ],
-    "english": "Don't do this!"
-  },
-  {
-    "time": "01:12:38",
-    "character": "カヲル",
-    "segments": [
-      "あれは",
-      {"kanji": "僕", "reading": "ぼく"},
-      "らの",
-      {"kanji": "槍", "reading": "やり"},
-      "じゃない"
-    ],
-    "english": "Those aren't the Spears we came for!"
-  },
-  {
-    "time": "01:12:41",
-    "character": "シンジ",
-    "segments": [
-      {"kanji": "僕", "reading": "ぼく"},
-      "らの",
-      {"kanji": "槍", "reading": "やり"},
-      "じゃないって・・・"
-    ],
-    "english": "Not... the Spears we came for?"
-  },
-  {
-    "time": "01:12:47",
-    "character": "シンジ",
-    "segments": [
-      {"kanji": "槍", "reading": "やり"},
-      "が",
-      {"kanji": "必要", "reading": "ひつよう"},
-      "だって",
-      {"kanji": "君", "reading": "きみ"},
-      "が",
-      {"kanji": "言", "reading": "い"},
-      "ったんだ"
-    ],
-    "english": "You're the one who said we need the Spears."
-  },
-  {
-    "time": "01:12:50",
-    "character": "シンジ",
-    "segments": [
-      "だから",
-      {"kanji": "僕", "reading": "ぼく"},
-      "は　エヴァに",
-      {"kanji": "乗", "reading": "の"},
-      "ったんだよっ！"
-    ],
-    "english": "That's why I got into this Eva!"
-  },
-  {
-    "time": "01:12:57",
-    "character": "カヲル",
-    "segments": [
-      {"kanji": "操作系", "reading": "そうさけい"},
-      "が・・・"
-    ],
-    "english": "The controls..."
-  },
-  {
-    "time": "01:13:02",
-    "character": "シンジ",
-    "segments": [
-      "カヲル",
-      {"kanji": "君", "reading": "くん"},
-      "のために"
-    ],
-    "english": "For Kaworu-kun,"
-  },
-  {
-    "time": "01:13:05",
-    "character": "シンジ",
-    "segments": [
-      "みんなのために",
-      {"kanji": "槍", "reading": "やり"},
-      "を",
-      {"kanji": "手", "reading": "て"},
-      "に",
-      {"kanji": "入", "reading": "い"},
-      "れる。"
-    ],
-    "english": "for everyone, I will get the Spears!"
-  },
-  {
-    "time": "01:13:07",
-    "character": "シンジ",
-    "segments": [
-      "そうすれば",
-      {"kanji": "世界", "reading": "せかい"},
-      "は",
-      {"kanji": "戻", "reading": "もど"},
-      "る。"
-    ],
-    "english": "Only then will the world go back to how it should be."
-  },
-  {
-    "time": "01:13:11",
-    "character": "シンジ",
-    "segments": [
-      "そうすれば　ミサトさんだって！"
-    ],
-    "english": "That way, even Misato-san would..."
-  },
-  {
-    "time": "01:13:15",
-    "character": "アスカ",
-    "segments": [
-      "やばい・・・"
-    ],
-    "english": "Crap!"
-  },
-  {
-    "time": "01:13:16",
-    "character": "アスカ",
-    "segments": [
-      "コネメガネ！",
-      {"kanji": "妨害物", "reading": "ぼうがいぶつ"},
-      "は、かたづいてる！"
-    ],
-    "english": "Glasses, I've lifted the block."
-  },
-  {
-    "time": "01:13:18",
-    "character": "アスカ",
-    "segments": [
-      "ＡＡ",
-      {"kanji": "弾", "reading": "だん"},
-      "の",
-      {"kanji": "使用", "reading": "しよう"},
-      "を",
-      {"kanji": "許可", "reading": "きょか"},
-      "！"
-    ],
-    "english": "You're cleared to use AA rounds!"
-  },
-  {
-    "time": "01:13:20",
-    "character": "マリ",
-    "segments": [
-      {"kanji": "待", "reading": "ま"},
-      "ってました"
-    ],
-    "english": "I've been waiting for this!"
-  },
-  {
-    "time": "01:13:22",
-    "character": "マリ",
-    "segments": [
-      {"kanji": "虎", "reading": "とら"},
-      "の",
-      {"kanji": "子", "reading": "こ"},
-      "よん"
-    ],
-    "english": "Check these babies out!"
-  },
-  {
-    "time": "01:13:30",
-    "character": "マリ",
-    "segments": [
-      "Ａ．Ｔ．フォールドがない？"
-    ],
-    "english": "There's no A.T. Field?"
-  },
-  {
-    "time": "01:13:32",
-    "character": "マリ",
-    "segments": [
-      "まさか、この",
-      {"kanji": "機体", "reading": "きたい"}
-    ],
-    "english": "Don't tell me that unit..."
-  },
-  {
-    "time": "01:13:46",
-    "character": "カヲル",
-    "segments": [
-      "だめだ、シンジ",
-      {"kanji": "君", "reading": "くん"},
-      "・・・！"
-    ],
-    "english": "Don't do it, Shinji-kun!"
-  },
-  {
-    "time": "01:13:48",
-    "character": "アスカ",
-    "segments": [
-      "やめろ！バカガキ！"
-    ],
-    "english": "Stop, you stupid brat!"
-  },
-  {
-    "time": "01:14:13",
-    "character": "ゲンドウ",
-    "segments": [
-      {"kanji": "始", "reading": "はじ"},
-      "めよう",
-      {"kanji": "冬月", "reading": "ふゆつき"},
-      "。"
-    ],
-    "english": "Let's begin, Fuyutsuki."
-  },
-  {
-    "time": "01:14:22",
-    "character": "シンジ",
-    "segments": [
-      "エヴァMark.06！"
-    ],
-    "english": "Eva Mark.06?"
-  },
-  {
-    "time": "01:14:25",
-    "character": "シンジ",
-    "segments": [
-      "パターン",
-      {"kanji": "青", "reading": "あお"},
-      "って、"
-    ],
-    "english": "Blood type blue?"
-  },
-  {
-    "time": "01:14:26",
-    "character": "シンジ",
-    "segments": [
-      "どういうことだよ"
-    ],
-    "english": "What's going on?"
-  },
-  {
-    "time": "01:14:30",
-    "character": "アスカ",
-    "segments": [
-      "まずいっ！"
-    ],
-    "english": "This is bad!"
-  },
-  {
-    "time": "01:14:32",
-    "character": "アスカ",
-    "segments": [
-      {"kanji": "第", "reading": "だい"},
-      "１２の",
-      {"kanji": "使徒", "reading": "しと"},
-      "がまだ",
-      {"kanji": "生", "reading": "い"},
-      "き",
-      {"kanji": "残", "reading": "のこ"},
-      "ってる！"
-    ],
-    "english": "The Twelfth Angel is still alive!"
-  },
-  {
-    "time": "01:14:35",
-    "character": "アスカ",
-    "segments": [
-      "コネメガネ！３",
-      {"kanji": "番", "reading": "ばん"},
-      "コンテナ！"
-    ],
-    "english": "Glasses! Container No.3!"
-  },
-  {
-    "time": "01:14:37",
-    "character": "マリ",
-    "segments": [
-      "あいよっ！"
-    ],
-    "english": "Aye, ma'am!"
-  },
-  {
-    "time": "01:14:40",
-    "character": "アスカ",
-    "segments": [
-      "サードインパクトの",
-      {"kanji": "続", "reading": "つづ"},
-      "きが",
-      {"kanji": "始", "reading": "はじ"},
-      "まる",
-      {"kanji": "前", "reading": "まえ"},
-      "に、こいつを！かたづける！"
-    ],
-    "english": "We'll take care of this before Third Impact starts up again!"
-  },
-  {
-    "time": "01:14:49",
-    "character": "レイ",
-    "segments": [
-      "これが",
-      {"kanji": "命令", "reading": "めいれい"},
-      "。"
-    ],
-    "english": "I was ordered to."
-  },
-  {
-    "time": "01:15:00",
-    "character": "シンジ",
-    "segments": [
-      {"kanji": "使徒", "reading": "しと"},
-      "！？"
-    ],
-    "english": "An Angel?!"
-  },
-  {
-    "time": "01:15:08",
-    "character": "アスカ",
-    "segments": [
-      "うぉおおおおおっ！！"
-    ],
-    "english": ""
-  },
-  {
-    "time": "01:15:10",
-    "character": "マリ",
-    "segments": [
-      "―――",
-      {"kanji": "姫", "reading": "ひめ"},
-      "。ムダ",
-      {"kanji": "弾", "reading": "だま"},
-      "は",
-      {"kanji": "止", "reading": "や"},
-      "めときなよ。"
-    ],
-    "english": "Princess, stop wasting your bullets."
-  },
-  {
-    "time": "01:15:14",
-    "character": "マリ",
-    "segments": [
-      "あれ",
-      {"kanji": "全部", "reading": "ぜんぶ"},
-      "、コアだから。"
-    ],
-    "english": "The whole thing is a core."
-  },
-  {
-    "time": "01:15:17",
-    "character": "マリ",
-    "segments": [
-      {"kanji": "私", "reading": "わたし"},
-      "らじゃ、",
-      {"kanji": "手", "reading": "て"},
-      "の",
-      {"kanji": "打", "reading": "う"},
-      "ちようがニャイよん。"
-    ],
-    "english": "There's nothing we can do about it now."
-  },
-  {
-    "time": "01:15:21",
-    "character": "マリ",
-    "segments": [
-      "それに、",
-      {"kanji": "最後", "reading": "さいご"},
-      "の",
-      {"kanji": "使徒", "reading": "しと"},
-      "を",
-      {"kanji": "倒", "reading": "たお"},
-      "したところで、",
-      {"kanji": "鬼", "reading": "おに"},
-      "が",
-      {"kanji": "出", "reading": "で"},
-      "るか、",
-      {"kanji": "蛇", "reading": "へび"},
-      "が",
-      {"kanji": "出", "reading": "で"},
-      "るか。"
-    ],
-    "english": "Plus, we don't know *what* might happen once the final Angel is defeated."
-  },
-  {
-    "time": "01:15:24",
-    "character": "マリ",
-    "segments": [
-      {"kanji": "気", "reading": "き"},
-      "になるジャ"
-    ],
-    "english": ""
-  },
-  {
-    "time": "01:15:32",
-    "character": "レイ",
-    "segments": [
-      "―――これは？"
-    ],
-    "english": "Is that..."
-  },
-  {
-    "time": "01:15:37",
-    "character": "レイ",
-    "segments": [
-      "―――これは、",
-      {"kanji": "私", "reading": "わたし"},
-      "？"
-    ],
-    "english": "Is that me?"
-  },
-  {
-    "time": "01:15:41",
-    "character": "レイ",
-    "segments": [
-      {"kanji": "私", "reading": "わたし"},
-      "は、",
-      {"kanji": "何", "reading": "なに"},
-      "？"
-    ],
-    "english": "What am I?"
-  },
-  {
-    "time": "01:15:46",
-    "character": "シンジ",
-    "segments": [
-      {"kanji": "操縦", "reading": "そうじゅう"},
-      "がきかない！"
-    ],
-    "english": "The controls aren't working!"
-  },
-  {
-    "time": "01:15:47",
-    "character": "シンジ",
-    "segments": [
-      "どうなっちゃったんだ？カヲル",
-      {"kanji": "君", "reading": "くん"}
-    ],
-    "english": "What's going on, Kaworu-kun?"
-  },
-  {
-    "time": "01:15:51",
-    "character": "シンジ",
-    "segments": [
-      "カヲル",
-      {"kanji": "君", "reading": "くん"},
-      "？"
-    ],
-    "english": "Kaworu-kun!"
-  },
-  {
-    "time": "01:15:53",
-    "character": "カヲル",
-    "segments": [
-      "まさか、",
-      {"kanji": "第", "reading": "だい"},
-      "１",
-      {"kanji": "使徒", "reading": "しと"},
-      "の",
-      {"kanji": "僕", "reading": "ぼく"},
-      "が、"
-    ],
-    "english": "I never thought that I, the First Angel,"
-  },
-  {
-    "time": "01:15:56",
-    "character": "カヲル",
-    "segments": [
-      "１３",
-      {"kanji": "番目", "reading": "ばんめ"},
-      "の",
-      {"kanji": "使徒", "reading": "しと"},
-      "に",
-      {"kanji": "堕", "reading": "お"},
-      "とされるとは・・・"
-    ],
-    "english": "would be cast down to the Thirteenth."
-  },
-  {
-    "time": "01:16:00",
-    "character": "シンジ",
-    "segments": [
-      {"kanji": "何", "reading": "なに"},
-      "を",
-      {"kanji": "云", "reading": "い"},
-      "ってるの？カヲル",
-      {"kanji": "君", "reading": "くん"},
-      "！？"
-    ],
-    "english": "What are you talking about, Kaworu-kun?!"
-  },
-  {
-    "time": "01:16:04",
-    "character": "カヲル",
-    "segments": [
-      {"kanji": "始", "reading": "はじ"},
-      "まりと",
-      {"kanji": "終", "reading": "お"},
-      "わりは",
-      {"kanji": "同", "reading": "おな"},
-      "じというわけか。"
-    ],
-    "english": "So the beginning and the end are the same."
-  },
-  {
-    "time": "01:16:08",
-    "character": "カヲル",
-    "segments": [
-      "さすが、リリンの",
-      {"kanji": "王", "reading": "おう"},
-      "、"
-    ],
-    "english": "I expected no less from the King of the Lilin,"
-  },
-  {
-    "time": "01:16:11",
-    "character": "カヲル",
-    "segments": [
-      "シンジ",
-      {"kanji": "君", "reading": "くん"},
-      "の",
-      {"kanji": "父上", "reading": "ちちうえ"},
-      "だ。"
-    ],
-    "english": "Shinji-kun's father!"
-  },
-  {
-    "time": "01:16:13",
-    "character": "マリ",
-    "segments": [
-      "ＤＳＳチョーカーにパターン",
-      {"kanji": "青", "reading": "あお"},
-      "？"
-    ],
-    "english": "Blood type blue from the DSS Choker?"
-  },
-  {
-    "time": "01:16:15",
-    "character": "マリ",
-    "segments": [
-      "ないハズの１３",
-      {"kanji": "番目", "reading": "ばんめ"},
-      "？"
-    ],
-    "english": "But there shouldn't *be* a Thirteenth!"
-  },
-  {
-    "time": "01:16:19",
-    "character": "マリ",
-    "segments": [
-      "ゲンドウ",
-      {"kanji": "君", "reading": "くん"},
-      "の",
-      {"kanji": "狙", "reading": "ねら"},
-      "いはコレか！"
-    ],
-    "english": "So this is what Gendo-kun was aiming for."
-  },
-  {
-    "time": "01:16:24",
-    "character": "ゲンドウ",
-    "segments": [
-      {"kanji": "死海文書", "reading": "しかいもんじょ"},
-      "の",
-      {"kanji": "契約改定", "reading": "けいやくかいてい"},
-      "の",
-      {"kanji": "時", "reading": "とき"},
-      "が",
-      {"kanji": "来", "reading": "き"},
-      "ました。"
-    ],
-    "english": "It is time to amend the Dead Sea Scrolls' contract."
-  },
-  {
-    "time": "01:16:29",
-    "character": "ゲンドウ",
-    "segments": [
-      "これでお",
-      {"kanji": "別", "reading": "わか"},
-      "れです。"
-    ],
-    "english": "This is farewell."
-  },
-  {
-    "time": "01:16:33",
-    "character": "ゲンドウ",
-    "segments": [
-      "あなた",
-      {"kanji": "方", "reading": "がた"},
-      "も",
-      {"kanji": "魂", "reading": "たましい"},
-      "の",
-      {"kanji": "形", "reading": "かたち"},
-      "を",
-      {"kanji": "変", "reading": "か"},
-      "えたとはいえ、"
-    ],
-    "english": "Though you have all changed the form of your souls,"
-  },
-  {
-    "time": "01:16:37",
-    "character": "ゲンドウ",
-    "segments": [
-      {"kanji": "知恵", "reading": "ちえ"},
-      "の",
-      {"kanji": "実", "reading": "み"},
-      "を",
-      {"kanji": "与", "reading": "あた"},
-      "えられた",
-      {"kanji": "生命体", "reading": "せいめいたい"},
-      "だ。"
-    ],
-    "english": "you are still creatures blessed with the Fruit of Knowledge."
-  },
-  {
-    "time": "01:16:41",
-    "character": "ゲンドウ",
-    "segments": [
-      {"kanji": "悠久", "reading": "ゆうきゅう"},
-      "の",
-      {"kanji": "時", "reading": "とき"},
-      "を",
-      {"kanji": "生", "reading": "い"},
-      "きることはできても、"
-    ],
-    "english": "Though you could have lived for an eternity,"
-  },
-  {
-    "time": "01:16:44",
-    "character": "ゲンドウ",
-    "segments": [
-      {"kanji": "我々", "reading": "われわれ"},
-      "と",
-      {"kanji": "同", "reading": "おな"},
-      "じく",
-      {"kanji": "訪", "reading": "おとず"},
-      "れる",
-      {"kanji": "死", "reading": "し"},
-      "からは",
-      {"kanji": "逃", "reading": "のが"},
-      "れられない。"
-    ],
-    "english": "you can escape the fate of death no more than us."
-  },
-  {
-    "time": "01:16:50",
-    "character": "ゲンドウ",
-    "segments": [
-      {"kanji": "死", "reading": "し"},
-      "を",
-      {"kanji": "背負", "reading": "せお"},
-      "った",
-      {"kanji": "群", "reading": "むれ"},
-      "の",
-      {"kanji": "進化", "reading": "しんか"},
-      "を",
-      {"kanji": "進", "reading": "すす"},
-      "めるために、あなた",
-      {"kanji": "方", "reading": "がた"},
-      "は",
-      {"kanji": "我々", "reading": "われわれ"},
-      "に",
-      {"kanji": "文明", "reading": "ぶんめい"},
-      "を",
-      {"kanji": "与", "reading": "あた"},
-      "えてくれた。"
-    ],
-    "english": "To advance the evolution of the flock burdened by death,"
-  },
-  {
-    "time": "01:17:00",
-    "character": "ゲンドウ",
-    "segments": [
-      {"kanji": "人類", "reading": "じんるい"},
-      "を",
-      {"kanji": "代表", "reading": "だいひょう"},
-      "し、",
-      {"kanji": "感謝", "reading": "かんしゃ"},
-      "します。"
-    ],
-    "english": "On behalf of humanity, I thank you."
-  },
-  {
-    "time": "01:17:04",
-    "character": "ゲンドウ",
-    "segments": [
-      {"kanji": "死", "reading": "し"},
-      "をもってあなた",
-      {"kanji": "方", "reading": "がた"},
-      "の",
-      {"kanji": "魂", "reading": "たましい"},
-      "をあるべきところへ",
-      {"kanji": "還", "reading": "かえ"},
-      "しましょう。"
-    ],
-    "english": "Let death return your souls to where they belong."
-  },
-  {
-    "time": "01:17:12",
-    "character": "ゲンドウ",
-    "segments": [
-      {"kanji": "宿願", "reading": "しゅくがん"},
-      "たる",
-      {"kanji": "人類補完計画", "reading": "じんるいほかんけいかく"},
-      "と"
-    ],
-    "english": "The long desired Human Instrumentality Project,"
-  },
-  {
-    "time": "01:17:15",
-    "character": "ゲンドウ",
-    "segments": [
-      {"kanji": "諦観", "reading": "ていかん"},
-      "された",
-      {"kanji": "神殺", "reading": "かみころ"},
-      "しは、",
-      {"kanji": "私", "reading": "わたし"},
-      "が",
-      {"kanji": "行", "reading": "おこな"},
-      "います。"
-    ],
-    "english": "and the inevitable deicide, will be completed by me."
-  },
-  {
-    "time": "01:17:19",
-    "character": "ゲンドウ",
-    "segments": [
-      "ご",
-      {"kanji": "安心", "reading": "あんしん"},
-      "を。"
-    ],
-    "english": "Rest assured."
-  },
-  {
-    "time": "01:17:21",
-    "character": "ゼーレ０１",
-    "segments": [
-      {"kanji": "我", "reading": "われ"},
-      "らの",
-      {"kanji": "願", "reading": "ねが"},
-      "いは、すでに",
-      {"kanji": "叶", "reading": "かな"},
-      "った。"
-    ],
-    "english": "Our wishes have come to fruition."
-  },
-  {
-    "time": "01:17:25",
-    "character": "ゼーレ０１",
-    "segments": [
-      "よい。"
-    ],
-    "english": "Good."
-  },
-  {
-    "time": "01:17:26",
-    "character": "ゼーレ０１",
-    "segments": [
-      {"kanji": "全", "reading": "すべ"},
-      "てこれでよい。"
-    ],
-    "english": "All is well now."
-  },
-  {
-    "time": "01:17:29",
-    "character": "ゼーレ０１",
-    "segments": [
-      {"kanji": "人類", "reading": "じんるい"},
-      "の",
-      {"kanji": "補完", "reading": "ほかん"},
-      "。"
-    ],
-    "english": "We wish for Human Instrumentality, the peaceful purification of all souls."
-  },
-  {
-    "time": "01:17:31",
-    "character": "ゼーレ０１",
-    "segments": [
-      {"kanji": "安", "reading": "やす"},
-      "らかな",
-      {"kanji": "魂", "reading": "たましい"},
-      "の",
-      {"kanji": "浄化", "reading": "じょうか"},
-      "を",
-      {"kanji": "願", "reading": "ねが"},
-      "う。"
-    ],
-    "english": ""
-  },
-  {
-    "time": "01:18:06",
-    "character": "アスカ",
-    "segments": [
-      "・・・こいつ"
-    ],
-    "english": "It's transcending its pseudo-evolved form!"
-  },
-  {
-    "time": "01:18:07",
-    "character": "アスカ",
-    "segments": [
-      {"kanji": "疑似", "reading": "ぎじ"},
-      "シン",
-      {"kanji": "化形態", "reading": "かけいたい"},
-      "を",
-      {"kanji": "超", "reading": "こ"},
-      "えている！"
-    ],
-    "english": ""
-  },
-  {
-    "time": "01:18:09",
-    "character": "マリ",
-    "segments": [
-      "―――",
-      {"kanji": "覚醒", "reading": "かくせい"},
-      "したみたいね"
-    ],
-    "english": "Guess it's Awakened..."
-  },
-  {
-    "time": "01:18:12",
-    "character": "マリ",
-    "segments": [
-      "アダムスの",
-      {"kanji": "生", "reading": "い"},
-      "き",
-      {"kanji": "残", "reading": "のこ"},
-      "りが！"
-    ],
-    "english": "It's one of the surviving Adams!"
-  },
-  {
-    "time": "01:18:49",
-    "character": "シンジ",
-    "segments": [
-      {"kanji": "何", "reading": "なん"},
-      "だ、これ？"
-    ],
-    "english": "What is this?"
-  },
-  {
-    "time": "01:19:04",
-    "character": "シンジ",
-    "segments": [
-      {"kanji": "何", "reading": "なん"},
-      "なんだよこれ？"
-    ],
-    "english": "What's going on?"
-  },
-  {
-    "time": "01:19:11",
-    "character": "シンジ",
-    "segments": [
-      {"kanji": "僕", "reading": "ぼく"},
-      "のせいなのか？"
-    ],
-    "english": "Is this all my fault?"
-  },
-  {
-    "time": "01:19:14",
-    "character": "シンジ",
-    "segments": [
-      {"kanji": "僕", "reading": "ぼく"},
-      "が",
-      {"kanji": "槍", "reading": "やり"},
-      "を",
-      {"kanji": "抜", "reading": "ぬ"},
-      "いたから・・・"
-    ],
-    "english": "Because I pulled out the Spears?"
-  },
-  {
-    "time": "01:19:22",
-    "character": "シンジ",
-    "segments": [
-      "これって・・・"
-    ],
-    "english": "This is...!"
-  },
-  {
-    "time": "01:19:24",
-    "character": "カヲル",
-    "segments": [
-      "フォースインパクト"
-    ],
-    "english": "Fourth Impact."
-  },
-  {
-    "time": "01:19:29",
-    "character": "カヲル",
-    "segments": [
-      "その",
-      {"kanji": "始", "reading": "はじ"},
-      "まりの",
-      {"kanji": "儀式", "reading": "ぎしき"},
-      "さ"
-    ],
-    "english": ""
-  },
-  {
-    "time": "01:19:45",
-    "character": "シンジ",
-    "segments": [
-      "カヲル",
-      {"kanji": "君", "reading": "くん"},
-      "！"
-    ],
-    "english": "Kaworu-kun..."
-  },
-  {
-    "time": "01:19:46",
-    "character": "シンジ",
-    "segments": [
-      {"kanji": "首輪", "reading": "くびわ"},
-      "が！"
-    ],
-    "english": "The choker!"
-  },
-  {
-    "time": "01:19:55",
-    "character": "シンジ",
-    "segments": [
-      "ミサトさん！？"
-    ],
-    "english": "Misato-san?!"
-  },
-  {
-    "time": "01:19:59",
-    "character": "ミサト",
-    "segments": [
-      "Ａ．Ｔ．フィールド",
-      {"kanji": "最大", "reading": "さいだい"},
-      "！"
-    ],
-    "english": "A.T. Field at maximum!"
-  },
-  {
-    "time": "01:20:01",
-    "character": "ミサト",
-    "segments": [
-      "このままエヴァを",
-      {"kanji": "封", "reading": "ふう"},
-      "じ",
-      {"kanji": "込", "reading": "こ"},
-      "めて！"
-    ],
-    "english": "Contain the Eva in its present state!"
   }
 ]
