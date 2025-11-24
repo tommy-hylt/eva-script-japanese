@@ -1,0 +1,2332 @@
+[
+  {
+    "time": "00:12:24",
+    "character": "女(無線)",
+    "japanese": "軌道最終修正、完了。"
+  },
+  {
+    "time": "00:12:27",
+    "character": "女(無線)",
+    "japanese": "１８０度回頭完了。"
+  },
+  {
+    "time": "00:12:28",
+    "character": "日向(無線)",
+    "japanese": "了解。"
+  },
+  {
+    "time": "00:12:29",
+    "character": "日向(無線)",
+    "japanese": "ポッドツーダッシュ、交差軌道への遷移スタート。"
+  },
+  {
+    "time": "00:12:32",
+    "character": "日向(無線)",
+    "japanese": "これより作戦行動に移る。"
+  },
+  {
+    "time": "00:12:34",
+    "character": "青葉(無線)",
+    "japanese": "現時点で全てのリモート誘導を切る。"
+  },
+  {
+    "time": "00:12:36",
+    "character": "青葉(無線)",
+    "japanese": "以後の制御はローカル。"
+  },
+  {
+    "time": "00:12:38",
+    "character": "日向(無線)",
+    "japanese": "グッドラック。"
+  },
+  {
+    "time": "00:02:32",
+    "character": "女(無線)",
+    "japanese": "目標との交差軌道に乗った。"
+  },
+  {
+    "time": "00:02:34",
+    "character": "女(無線)",
+    "japanese": "接触まであと８０(ハチマル)。"
+  },
+  {
+    "time": "00:02:37",
+    "character": "北上(無線)",
+    "japanese": "目標物を確認。"
+  },
+  {
+    "time": "00:02:38",
+    "character": "青葉(無線)",
+    "japanese": "接触地点に変更なし。"
+  },
+  {
+    "time": "00:02:40",
+    "character": "北上(無線)",
+    "japanese": "シフトエムを維持、問題なし。"
+  },
+  {
+    "time": "00:02:43",
+    "character": "ミサト(無線)",
+    "japanese": "ツーダッシュはランデブーを用意。"
+  },
+  {
+    "time": "00:02:45",
+    "character": "ミサト(無線)",
+    "japanese": "エイトは高度不足のため再突入までの９６秒間だけ援護可能。"
+  },
+  {
+    "time": "00:12:59",
+    "character": "ミサト(無線)",
+    "japanese": "それまでにケリをつけて"
+  },
+  {
+    "time": "00:13:01",
+    "character": "日向(無線)",
+    "japanese": "目標宙域に反射波あり。"
+  },
+  {
+    "time": "00:13:03",
+    "character": "日向(無線)",
+    "japanese": "妨害が入った。"
+  },
+  {
+    "time": "00:13:04",
+    "character": "青葉(無線)",
+    "japanese": "自動防衛システムの質量兵器だ。"
+  },
+  {
+    "time": "00:13:06",
+    "character": "青葉(無線)",
+    "japanese": "問題ない。"
+  },
+  {
+    "time": "00:13:10",
+    "character": "男(無線)",
+    "japanese": "爆散円発生！"
+  },
+  {
+    "time": "00:13:11",
+    "character": "男(無線)",
+    "japanese": "到達まで、３、２、１。"
+  },
+  {
+    "time": "00:13:14",
+    "character": "アスカ",
+    "japanese": "うっ！"
+  },
+  {
+    "time": "00:13:19",
+    "character": "青葉(無線)",
+    "japanese": "続いて第２波。パターン青。"
+  },
+  {
+    "time": "00:13:20",
+    "character": "青葉(無線)",
+    "japanese": "やっかいな連中だ。"
+  },
+  {
+    "time": "00:13:22",
+    "character": "男(無線)",
+    "japanese": "接近中の物体を識別。"
+  },
+  {
+    "time": "00:03:15",
+    "character": "男(無線)",
+    "japanese": "コード４Ａと確認。"
+  },
+  {
+    "time": "00:03:27",
+    "character": "アスカ",
+    "japanese": "アンチＡ．Ｔ．フィールド"
+  },
+  {
+    "time": "00:13:39",
+    "character": "アスカ",
+    "japanese": "ちっ、タチ悪いっ！"
+  },
+  {
+    "time": "00:03:31",
+    "character": "アスカ",
+    "japanese": "ええいやっぱり邪魔！"
+  },
+  {
+    "time": "00:03:37",
+    "character": "アスカ",
+    "japanese": "コネメガネ！いつまで唄ってんの！うっとうしい！"
+  },
+  {
+    "time": "00:13:52",
+    "character": "アスカ",
+    "japanese": "援護射撃、2秒おそい！"
+  },
+  {
+    "time": "00:13:58",
+    "character": "マリ",
+    "japanese": "そっちの位置････3秒早い"
+  },
+  {
+    "time": "00:14:00",
+    "character": "アスカ",
+    "japanese": "臨機応変。合わせなさいよっ"
+  },
+  {
+    "time": "00:14:03",
+    "character": "マリ",
+    "japanese": "仰せの通りに。"
+  },
+  {
+    "time": "00:14:05",
+    "character": "マリ",
+    "japanese": "お姫さまっ！"
+  },
+  {
+    "time": "00:14:14",
+    "character": "アスカ",
+    "japanese": "フラーレンシフトを抜けた。"
+  },
+  {
+    "time": "00:04:07",
+    "character": "アスカ",
+    "japanese": "最終防衛エリア８９を突破･･････"
+  },
+  {
+    "time": "00:04:09",
+    "character": "アスカ",
+    "japanese": "ハッ"
+  },
+  {
+    "time": "00:04:10",
+    "character": "アスカ",
+    "japanese": "目標物が移動してる"
+  },
+  {
+    "time": "00:04:16",
+    "character": "アスカ",
+    "japanese": "軌道修正が追いつかない。"
+  },
+  {
+    "time": "00:04:17",
+    "character": "アスカ",
+    "japanese": "このまま強行する"
+  },
+  {
+    "time": "00:04:40",
+    "character": "アスカ",
+    "japanese": "減速っ！"
+  },
+  {
+    "time": "00:04:47",
+    "character": "アスカ",
+    "japanese": "８、"
+  },
+  {
+    "time": "00:04:48",
+    "character": "アスカ",
+    "japanese": "７、"
+  },
+  {
+    "time": "00:04:49",
+    "character": "アスカ",
+    "japanese": "６、"
+  },
+  {
+    "time": "00:04:50",
+    "character": "アスカ",
+    "japanese": "５、"
+  },
+  {
+    "time": "00:04:51",
+    "character": "アスカ",
+    "japanese": "４、"
+  },
+  {
+    "time": "00:04:52",
+    "character": "アスカ",
+    "japanese": "３、"
+  },
+  {
+    "time": "00:04:53",
+    "character": "アスカ",
+    "japanese": "２、"
+  },
+  {
+    "time": "00:04:54",
+    "character": "アスカ",
+    "japanese": "１、"
+  },
+  {
+    "time": "00:04:55",
+    "character": "アスカ",
+    "japanese": "燃焼終了"
+  },
+  {
+    "time": "00:15:12",
+    "character": "北上(無線)",
+    "japanese": "ツーダッシュ、最終ブースターをジェットソン"
+  },
+  {
+    "time": "00:15:14",
+    "character": "北上(無線)",
+    "japanese": "再突入保安距離を確保"
+  },
+  {
+    "time": "00:15:16",
+    "character": "男(無線)",
+    "japanese": "軌道誤差は修正範囲内。突入角度を再計算"
+  },
+  {
+    "time": "00:05:09",
+    "character": "アスカ",
+    "japanese": "強奪成功。"
+  },
+  {
+    "time": "00:05:11",
+    "character": "アスカ",
+    "japanese": "帰投するわ"
+  },
+  {
+    "time": "00:05:13",
+    "character": "ミサト(無線)",
+    "japanese": "了解。"
+  },
+  {
+    "time": "00:05:14",
+    "character": "ミサト(無線)",
+    "japanese": "回収地点にて待つ。"
+  },
+  {
+    "time": "00:05:16",
+    "character": "ミサト(無線)",
+    "japanese": "合流コードはパターンV。"
+  },
+  {
+    "time": "00:05:17",
+    "character": "アスカ",
+    "japanese": "・・・・・・了解。"
+  },
+  {
+    "time": "00:05:19",
+    "character": "アスカ",
+    "japanese": "パターン青！？"
+  },
+  {
+    "time": "00:05:20",
+    "character": "アスカ",
+    "japanese": "どこにいるの！？"
+  },
+  {
+    "time": "00:05:25",
+    "character": "女(無線)",
+    "japanese": "妨害物はコード4B。"
+  },
+  {
+    "time": "00:05:27",
+    "character": "女(無線)",
+    "japanese": "フィールド反射膜を展開中。"
+  },
+  {
+    "time": "00:05:29",
+    "character": "アスカ",
+    "japanese": "チィッ！しゃらくさい！！"
+  },
+  {
+    "time": "00:05:30",
+    "character": "アスカ",
+    "japanese": "再突入直前だっちゅーの。"
+  },
+  {
+    "time": "00:05:33",
+    "character": "アスカ",
+    "japanese": "コネメガネ！　援護！"
+  },
+  {
+    "time": "00:05:35",
+    "character": "マリ(無線)",
+    "japanese": "めんご！"
+  },
+  {
+    "time": "00:05:37",
+    "character": "マリ(無線)",
+    "japanese": "高度不足でお先に！"
+  },
+  {
+    "time": "00:05:39",
+    "character": "マリ(無線)",
+    "japanese": "後はセルフサービスでよろしく～っ"
+  },
+  {
+    "time": "00:05:43",
+    "character": "アスカ",
+    "japanese": "チッ！役たたず！"
+  },
+  {
+    "time": "00:05:44",
+    "character": "アスカ",
+    "japanese": "もう・・・・・・しつこい！"
+  },
+  {
+    "time": "00:05:46",
+    "character": "アスカ",
+    "japanese": "こんなの聞いてないわよっ！"
+  },
+  {
+    "time": "00:05:52",
+    "character": "アスカ",
+    "japanese": "！？"
+  },
+  {
+    "time": "00:05:59",
+    "character": "アスカ",
+    "japanese": "何、この光！？"
+  },
+  {
+    "time": "00:06:01",
+    "character": "アスカ",
+    "japanese": "Ａ．Ｔ．フィールドが中和してない！！"
+  },
+  {
+    "time": "00:06:05",
+    "character": "アスカ",
+    "japanese": "コアブロックをやらないとっ！"
+  },
+  {
+    "time": "00:06:06",
+    "character": "アスカ",
+    "japanese": "逃げんなこらあぁぁぁ"
+  },
+  {
+    "time": "00:06:12",
+    "character": "アスカ",
+    "japanese": "やば・・・・・・降下角度が維持できない。"
+  },
+  {
+    "time": "00:06:12",
+    "character": "アスカ",
+    "japanese": "このままじゃ機体が分解する"
+  },
+  {
+    "time": "00:06:15",
+    "character": "ミサト(無線)",
+    "japanese": "ツーダッシュ！作戦遂行を最優先！"
+  },
+  {
+    "time": "00:06:18",
+    "character": "ミサト(無線)",
+    "japanese": "機体を捨てても目標物を離さないで"
+  },
+  {
+    "time": "00:06:21",
+    "character": "アスカ",
+    "japanese": "分かってるっつーの！！"
+  },
+  {
+    "time": "00:06:38",
+    "character": "アスカ",
+    "japanese": "ぐうう･･････"
+  },
+  {
+    "time": "00:06:41",
+    "character": "アスカ",
+    "japanese": "なんとかしなさいよ、バカシンジーっ！"
+  },
+  {
+    "time": "00:07:23",
+    "character": "カヲル",
+    "japanese": "･･････おかえり、碇シンジ君。"
+  },
+  {
+    "time": "00:07:23",
+    "character": "カヲル",
+    "japanese": "待っていたよ"
+  },
+  {
+    "time": "00:07:42",
+    "character": "サクラ",
+    "japanese": "心肺機能は正常です。"
+  },
+  {
+    "time": "00:07:44",
+    "character": "サクラ",
+    "japanese": "四肢の麻痺は認められません。"
+  },
+  {
+    "time": "00:07:46",
+    "character": "サクラ",
+    "japanese": "ハイ。目は開いてます。"
+  },
+  {
+    "time": "00:07:50",
+    "character": "サクラ",
+    "japanese": "私の言葉が理解できますか？"
+  },
+  {
+    "time": "00:07:55",
+    "character": "シンジ",
+    "japanese": "･･････ここ、どこですか？"
+  },
+  {
+    "time": "00:07:58",
+    "character": "サクラ",
+    "japanese": "言葉を話せます。"
+  },
+  {
+    "time": "00:07:59",
+    "character": "サクラ",
+    "japanese": "意識は戻ったようです。"
+  },
+  {
+    "time": "00:08:03",
+    "character": "シンジ",
+    "japanese": "･･････確か、綾波を助けて･･････"
+  },
+  {
+    "time": "00:08:06",
+    "character": "サクラ",
+    "japanese": "はい、どうやら、記憶の継続性も認められます。"
+  },
+  {
+    "time": "00:08:10",
+    "character": "シンジ",
+    "japanese": "あの、綾波は？"
+  },
+  {
+    "time": "00:08:13",
+    "character": "サクラ",
+    "japanese": "これは誰か、わかりますか？"
+  },
+  {
+    "time": "00:08:18",
+    "character": "シンジ",
+    "japanese": "･･･僕、ですけど。"
+  },
+  {
+    "time": "00:08:21",
+    "character": "サクラ",
+    "japanese": "自己認識もあります。"
+  },
+  {
+    "time": "00:08:22",
+    "character": "サクラ",
+    "japanese": "問題なさそうです。"
+  },
+  {
+    "time": "00:08:24",
+    "character": "シンジ",
+    "japanese": "なんだ、これ？"
+  },
+  {
+    "time": "00:18:32",
+    "character": "サクラ",
+    "japanese": "尿意や空腹感はありますか？"
+  },
+  {
+    "time": "00:18:36",
+    "character": "アナウンス",
+    "japanese": "補給作業、搬入リストの８６％までクリア"
+  },
+  {
+    "time": "00:18:38",
+    "character": "高雄",
+    "japanese": "稼働中のＮ２リアクターは、出力で９０％を維持。"
+  },
+  {
+    "time": "00:18:42",
+    "character": "北上",
+    "japanese": "半径１２００以内に艦影なし。"
+  },
+  {
+    "time": "00:18:42",
+    "character": "高雄",
+    "japanese": "圧力弁は手動で開放してくれ。"
+  },
+  {
+    "time": "00:18:44",
+    "character": "北上",
+    "japanese": "未確認飛行物体も認められず。"
+  },
+  {
+    "time": "00:18:45",
+    "character": "高雄",
+    "japanese": "コンデンサーは気にしなくていい"
+  },
+  {
+    "time": "00:18:46",
+    "character": "青葉",
+    "japanese": "乗員の移乗は、Ｄブロックの船を最優先。"
+  },
+  {
+    "time": "00:18:48",
+    "character": "日向",
+    "japanese": "食料搬入作業の人手がまるで足りない。"
+  },
+  {
+    "time": "00:18:50",
+    "character": "長良",
+    "japanese": "両舷３番５番ジャイロをチェック。"
+  },
+  {
+    "time": "00:18:51",
+    "character": "日向",
+    "japanese": "至急手当てしてくれ"
+  },
+  {
+    "time": "00:18:53",
+    "character": "長良",
+    "japanese": "計器にズレがある。修正願う"
+  },
+  {
+    "time": "00:18:54",
+    "character": "多摩",
+    "japanese": "艤装作業、ロードマップをチェック。"
+  },
+  {
+    "time": "00:18:56",
+    "character": "多摩",
+    "japanese": "武装関係が予定より３％遅れています"
+  },
+  {
+    "time": "00:08:53",
+    "character": "サクラ",
+    "japanese": "検体、BM０３、拘引しました。"
+  },
+  {
+    "time": "00:08:56",
+    "character": "ミサト",
+    "japanese": "了解。"
+  },
+  {
+    "time": "00:08:57",
+    "character": "ミサト",
+    "japanese": "拘束を解いて。"
+  },
+  {
+    "time": "00:09:00",
+    "character": "ミサト",
+    "japanese": "下がっていいわ。"
+  },
+  {
+    "time": "00:09:25",
+    "character": "シンジ",
+    "japanese": "ミサト・・・さん？"
+  },
+  {
+    "time": "00:09:28",
+    "character": "ミサト",
+    "japanese": "碇シンジ君。でいいのよね"
+  },
+  {
+    "time": "00:09:31",
+    "character": "リツコ",
+    "japanese": "そうね。"
+  },
+  {
+    "time": "00:09:32",
+    "character": "リツコ",
+    "japanese": "物理的情報では、コード第３の少年と完全に一致。"
+  },
+  {
+    "time": "00:09:37",
+    "character": "リツコ",
+    "japanese": "生後の歯の治療痕等身体組織は、ニアサー時を１００％再現しているわ。"
+  },
+  {
+    "time": "00:09:43",
+    "character": "リツコ",
+    "japanese": "なお、深層シンクロテストの結果は分析中。"
+  },
+  {
+    "time": "00:09:46",
+    "character": "ミサト",
+    "japanese": "頸部へのＤＳＳチョーカーは？"
+  },
+  {
+    "time": "00:09:49",
+    "character": "リツコ",
+    "japanese": "すでに装着済よ。葛城艦長"
+  },
+  {
+    "time": "00:09:52",
+    "character": "シンジ",
+    "japanese": "・・・葛城艦長？"
+  },
+  {
+    "time": "00:09:54",
+    "character": "シンジ",
+    "japanese": "やっぱりミサトさん？"
+  },
+  {
+    "time": "00:20:06",
+    "character": "シンジ",
+    "japanese": "あれ？"
+  },
+  {
+    "time": "00:10:03",
+    "character": "リツコ",
+    "japanese": "作動正常。"
+  },
+  {
+    "time": "00:10:04",
+    "character": "リツコ",
+    "japanese": "パスコードを艦長専用に。"
+  },
+  {
+    "time": "00:10:07",
+    "character": "ミサト",
+    "japanese": "了解。"
+  },
+  {
+    "time": "00:10:11",
+    "character": "シンジ",
+    "japanese": "何なんですか、これ？"
+  },
+  {
+    "time": "00:10:14",
+    "character": "シンジ",
+    "japanese": "外して下さいよ、もう！"
+  },
+  {
+    "time": "00:10:18",
+    "character": "サクラ",
+    "japanese": "絶対に、外しませんよ、それ。"
+  },
+  {
+    "time": "00:10:22",
+    "character": "ミサト",
+    "japanese": "面会終了。"
+  },
+  {
+    "time": "00:10:24",
+    "character": "ミサト",
+    "japanese": "彼を隔離室へ。"
+  },
+  {
+    "time": "00:10:28",
+    "character": "ミドリ",
+    "japanese": "デコイ０１（マルイチ）と０５（マルゴ）が消滅。"
+  },
+  {
+    "time": "00:10:30",
+    "character": "ミドリ",
+    "japanese": "波長も捕捉。"
+  },
+  {
+    "time": "00:10:31",
+    "character": "ミサト",
+    "japanese": "何だろう、これ。"
+  },
+  {
+    "time": "00:10:33",
+    "character": "日向",
+    "japanese": "パターン青だよ！"
+  },
+  {
+    "time": "00:10:34",
+    "character": "日向",
+    "japanese": "目標を識別。"
+  },
+  {
+    "time": "00:10:36",
+    "character": "日向",
+    "japanese": "コード４Ｃ。"
+  },
+  {
+    "time": "00:10:37",
+    "character": "日向",
+    "japanese": "ネーメジェスシリーズです。"
+  },
+  {
+    "time": "00:10:39",
+    "character": "ミサト",
+    "japanese": "―――また来たか。"
+  },
+  {
+    "time": "00:10:40",
+    "character": "北上(BG)",
+    "japanese": "目標は全て、コード４Ｃ。"
+  },
+  {
+    "time": "00:10:40",
+    "character": "リツコ",
+    "japanese": "進行が立体的よ。"
+  },
+  {
+    "time": "00:10:42",
+    "character": "リツコ",
+    "japanese": "まずは、私たちをここに封鎖するつもりよ。"
+  },
+  {
+    "time": "00:10:43",
+    "character": "北上(BG)",
+    "japanese": "/ デコイ02（マル二）、そして06（マルロク）が消滅確認。"
+  },
+  {
+    "time": "00:10:45",
+    "character": "ミサト",
+    "japanese": "まだここを動くわけにはいかない。"
+  },
+  {
+    "time": "00:10:48",
+    "character": "ミサト",
+    "japanese": "主機関連作業のみ続行。"
+  },
+  {
+    "time": "00:10:50",
+    "character": "ミサト",
+    "japanese": "全艦、第２種戦闘配置。"
+  },
+  {
+    "time": "00:10:53",
+    "character": "ミサト",
+    "japanese": "目標、全ネーメジェスシリーズ。"
+  },
+  {
+    "time": "00:10:55",
+    "character": "リツコ",
+    "japanese": "了解。"
+  },
+  {
+    "time": "00:10:56",
+    "character": "リツコ",
+    "japanese": "全艦、第２種戦闘配置。"
+  },
+  {
+    "time": "00:10:58",
+    "character": "日向",
+    "japanese": "対空、対水上及び水中戦、用意"
+  },
+  {
+    "time": "00:11:02",
+    "character": "青葉",
+    "japanese": "補給作業を中断。"
+  },
+  {
+    "time": "00:11:03",
+    "character": "青葉",
+    "japanese": "乗員移乗を最優先"
+  },
+  {
+    "time": "00:21:12",
+    "character": "女(無線)",
+    "japanese": "全艦、補給作業を中断。乗員移乗を最優先"
+  },
+  {
+    "time": "00:21:14",
+    "character": "男(無線)",
+    "japanese": "対空、対水上及び水中戦用意。"
+  },
+  {
+    "time": "00:21:16",
+    "character": "女(無線)",
+    "japanese": "主機関連作業は続行。"
+  },
+  {
+    "time": "00:21:17",
+    "character": "男(無線)",
+    "japanese": "遠隔式砲雷撃戦、用意"
+  },
+  {
+    "time": "00:21:18",
+    "character": "女(無線)",
+    "japanese": "各動力流入ラインの開閉を用意"
+  },
+  {
+    "time": "00:21:22",
+    "character": "女(無線)",
+    "japanese": "各航空機は現空域から直ちに離脱。"
+  },
+  {
+    "time": "00:21:25",
+    "character": "女(無線)",
+    "japanese": "第２集結ポイントへ速やかに移動願います。"
+  },
+  {
+    "time": "00:21:27",
+    "character": "男(無線)",
+    "japanese": "積み残しは置いていけ。"
+  },
+  {
+    "time": "00:21:28",
+    "character": "男(無線)",
+    "japanese": "乗組員の移動が最優先だ。"
+  },
+  {
+    "time": "00:21:30",
+    "character": "男(無線)",
+    "japanese": "艤装作業は続けろ！"
+  },
+  {
+    "time": "00:21:31",
+    "character": "男(無線)",
+    "japanese": "会敵ギリギリまで組立を頼む"
+  },
+  {
+    "time": "00:21:33",
+    "character": "男(無線)",
+    "japanese": "動力ラインを手伝える者は、内火艇に集合してくれ"
+  },
+  {
+    "time": "00:21:36",
+    "character": "女(無線)",
+    "japanese": "各砲塔、各個に発射準備。"
+  },
+  {
+    "time": "00:21:38",
+    "character": "女(無線)",
+    "japanese": "遠隔操作及び連動システムを起動。"
+  },
+  {
+    "time": "00:21:41",
+    "character": "女(無線)",
+    "japanese": "不意の交戦に備えてください"
+  },
+  {
+    "time": "00:21:42",
+    "character": "高雄",
+    "japanese": "主機伝導システムは注入作業を継続。"
+  },
+  {
+    "time": "00:21:45",
+    "character": "高雄",
+    "japanese": "急げよ！"
+  },
+  {
+    "time": "00:21:47",
+    "character": "男(無線)",
+    "japanese": "Ｎ２リアクター、出力９９％で稼働中。"
+  },
+  {
+    "time": "00:21:50",
+    "character": "女(無線)",
+    "japanese": "注入作業を続行。"
+  },
+  {
+    "time": "00:21:52",
+    "character": "女(無線)",
+    "japanese": "９０番までのバルブを開放。"
+  },
+  {
+    "time": "00:21:54",
+    "character": "女(無線)",
+    "japanese": "動力パイプ接続完了。"
+  },
+  {
+    "time": "00:21:56",
+    "character": "女(無線)",
+    "japanese": "左舷第３、第４ハブステーション異常なし。"
+  },
+  {
+    "time": "00:21:59",
+    "character": "男(無線)",
+    "japanese": "了解。"
+  },
+  {
+    "time": "00:22:00",
+    "character": "男(無線)",
+    "japanese": "９０番までの全バルブを開放。"
+  },
+  {
+    "time": "00:22:02",
+    "character": "男(無線)",
+    "japanese": "エネルギー流入開始。"
+  },
+  {
+    "time": "00:22:03",
+    "character": "女(無線)",
+    "japanese": "補機Ｎ２リアクターへの動力流入、順調なり。"
+  },
+  {
+    "time": "00:22:06",
+    "character": "アナウンス",
+    "japanese": "ＬＣＬ循環ポンプの点検中。"
+  },
+  {
+    "time": "00:22:09",
+    "character": "アナウンス",
+    "japanese": "濾過システムを確認。"
+  },
+  {
+    "time": "00:22:10",
+    "character": "伊吹",
+    "japanese": "戦闘配置よ！"
+  },
+  {
+    "time": "00:22:12",
+    "character": "伊吹",
+    "japanese": "さっさと、部署について。"
+  },
+  {
+    "time": "00:22:14",
+    "character": "伊吹",
+    "japanese": "そこ！グズグズしない！"
+  },
+  {
+    "time": "00:22:16",
+    "character": "整備",
+    "japanese": "ムリですよ、整備長。"
+  },
+  {
+    "time": "00:22:18",
+    "character": "整備",
+    "japanese": "なんせ、民間人も混じってる寄せ集め集団ですよぉ"
+  },
+  {
+    "time": "00:22:21",
+    "character": "伊吹",
+    "japanese": "言い訳無用！"
+  },
+  {
+    "time": "00:22:23",
+    "character": "伊吹",
+    "japanese": "さっさと手を動かせ！"
+  },
+  {
+    "time": "00:22:26",
+    "character": "伊吹",
+    "japanese": "チッ。コレだから、若い男は"
+  },
+  {
+    "time": "00:22:28",
+    "character": "多摩",
+    "japanese": "えっと、"
+  },
+  {
+    "time": "00:22:29",
+    "character": "多摩",
+    "japanese": "艤装作業はここで中断。"
+  },
+  {
+    "time": "00:22:32",
+    "character": "多摩",
+    "japanese": "隔壁の閉鎖を開始って、"
+  },
+  {
+    "time": "00:22:34",
+    "character": "多摩",
+    "japanese": "これか？"
+  },
+  {
+    "time": "00:12:27",
+    "character": "北上",
+    "japanese": "対空監視を厳として。ソナーの方位はこれ。"
+  },
+  {
+    "time": "00:12:31",
+    "character": "青葉",
+    "japanese": "北上。"
+  },
+  {
+    "time": "00:12:32",
+    "character": "青葉",
+    "japanese": "甲板作業の状況は？"
+  },
+  {
+    "time": "00:12:34",
+    "character": "北上",
+    "japanese": "それ、私の担当ですか？"
+  },
+  {
+    "time": "00:12:36",
+    "character": "青葉",
+    "japanese": "兼任だ。当然だろ！"
+  },
+  {
+    "time": "00:12:38",
+    "character": "北上",
+    "japanese": "ええ～～えっ！？マァジィィィ！？"
+  },
+  {
+    "time": "00:12:41",
+    "character": "サクラ",
+    "japanese": "よっこいしょと"
+  },
+  {
+    "time": "00:12:43",
+    "character": "サクラ",
+    "japanese": "移動は危険です。"
+  },
+  {
+    "time": "00:12:45",
+    "character": "サクラ",
+    "japanese": "ここにいましょう。"
+  },
+  {
+    "time": "00:12:46",
+    "character": "サクラ",
+    "japanese": "よっと――"
+  },
+  {
+    "time": "00:12:47",
+    "character": "女 (BG)",
+    "japanese": "全艦、対空防御、及び対空誘導弾、準備完了。"
+  },
+  {
+    "time": "00:12:49",
+    "character": "サクラ",
+    "japanese": "せやけど、艦橋での戦闘配置。"
+  },
+  {
+    "time": "00:12:52",
+    "character": "サクラ",
+    "japanese": "キンチョーするわぁ"
+  },
+  {
+    "time": "00:12:52",
+    "character": "ミサト",
+    "japanese": "了解。"
+  },
+  {
+    "time": "00:23:01",
+    "character": "ミサト",
+    "japanese": "各対空システムを連動。"
+  },
+  {
+    "time": "00:23:02",
+    "character": "ミサト",
+    "japanese": "初号機保護を最優先。"
+  },
+  {
+    "time": "00:12:57",
+    "character": "シンジ",
+    "japanese": "初号機？"
+  },
+  {
+    "time": "00:13:07",
+    "character": "北上",
+    "japanese": "来ました！"
+  },
+  {
+    "time": "00:13:08",
+    "character": "北上",
+    "japanese": "目標の光の柱を確認！"
+  },
+  {
+    "time": "00:13:10",
+    "character": "北上",
+    "japanese": "えっと、数が何だか増えてます！"
+  },
+  {
+    "time": "00:13:13",
+    "character": "青葉",
+    "japanese": "目標コアブロックは捕捉不能。"
+  },
+  {
+    "time": "00:13:15",
+    "character": "青葉",
+    "japanese": "おそらく擬製コクーン内に潜伏中と思われます。"
+  },
+  {
+    "time": "00:13:19",
+    "character": "リツコ",
+    "japanese": "マズイわね。このままだと飽和攻撃を浴びるわ。"
+  },
+  {
+    "time": "00:13:22",
+    "character": "北上",
+    "japanese": "接触まであと６００秒！"
+  },
+  {
+    "time": "00:13:24",
+    "character": "リツコ",
+    "japanese": "葛城艦長。艦隊の即時散開を提案します。"
+  },
+  {
+    "time": "00:13:29",
+    "character": "リツコ",
+    "japanese": "乗員の定数及び練度不足。"
+  },
+  {
+    "time": "00:13:32",
+    "character": "リツコ",
+    "japanese": "おまけに本艦は艤装途中の未完成。"
+  },
+  {
+    "time": "00:13:35",
+    "character": "リツコ",
+    "japanese": "とどめに攻撃目標たるコアブロックも捕捉できない。"
+  },
+  {
+    "time": "00:13:38",
+    "character": "リツコ",
+    "japanese": "つまり、現状での勝算はゼロです。"
+  },
+  {
+    "time": "00:13:41",
+    "character": "リツコ",
+    "japanese": "ここはいつも通り撤退を。"
+  },
+  {
+    "time": "00:13:43",
+    "character": "リツコ",
+    "japanese": "為す術がないのよ、"
+  },
+  {
+    "time": "00:13:45",
+    "character": "リツコ",
+    "japanese": "葛城艦長！"
+  },
+  {
+    "time": "00:13:47",
+    "character": "ミサト",
+    "japanese": "だからこそ、現状を変えて、後顧の憂いを断つ。"
+  },
+  {
+    "time": "00:13:52",
+    "character": "ミサト",
+    "japanese": "副長。飛ぶわよ。"
+  },
+  {
+    "time": "00:13:54",
+    "character": "リツコ",
+    "japanese": "とぶ？"
+  },
+  {
+    "time": "00:13:55",
+    "character": "リツコ",
+    "japanese": "まさか、主機を使う気！？"
+  },
+  {
+    "time": "00:24:05",
+    "character": "ミサト",
+    "japanese": "全艦、発進準備！"
+  },
+  {
+    "time": "00:24:07",
+    "character": "ミサト",
+    "japanese": "主機点火準備！"
+  },
+  {
+    "time": "00:24:09",
+    "character": "北上･多摩",
+    "japanese": "ええええっ！？"
+  },
+  {
+    "time": "00:24:11",
+    "character": "リツコ",
+    "japanese": "いきなり本艦での実戦は無茶よ、葛城艦長！"
+  },
+  {
+    "time": "00:14:06",
+    "character": "多摩",
+    "japanese": "同意します！"
+  },
+  {
+    "time": "00:14:13",
+    "character": "北上",
+    "japanese": "勝てない戦(いくさ)はなしがいいな。"
+  },
+  {
+    "time": "00:14:21",
+    "character": "北上",
+    "japanese": "えええ！年寄りなら慎重にいくもんでしょお！？"
+  },
+  {
+    "time": "00:14:30",
+    "character": "ミサト",
+    "japanese": "神殺しの力、見極めるだけよ。"
+  },
+  {
+    "time": "00:14:36",
+    "character": "リツコ",
+    "japanese": "まさか、エヴァを使う気？"
+  },
+  {
+    "time": "00:14:40",
+    "character": "マリ（無線）",
+    "japanese": "８号機まだムリ。"
+  },
+  {
+    "time": "00:14:42",
+    "character": "シンジ",
+    "japanese": "アスカ？"
+  },
+  {
+    "time": "00:15:07",
+    "character": "北上",
+    "japanese": "了解。"
+  },
+  {
+    "time": "00:15:08",
+    "character": "北上",
+    "japanese": "エヴァ改２号機発進中。"
+  },
+  {
+    "time": "00:15:09",
+    "character": "伊吹",
+    "japanese": "続いて、水中モーター及びレフトコンテナ１番を投下！"
+  },
+  {
+    "time": "00:15:43",
+    "character": "ミサト",
+    "japanese": "全艦、第一種戦闘配置"
+  },
+  {
+    "time": "00:15:46",
+    "character": "アナウンス",
+    "japanese": "全艦、第一種戦闘配置。"
+  },
+  {
+    "time": "00:15:48",
+    "character": "アナウンス",
+    "japanese": "繰り返す、全艦、第一種戦闘配置"
+  },
+  {
+    "time": "00:15:51",
+    "character": "リツコ",
+    "japanese": "戦闘指揮系統を移行。"
+  },
+  {
+    "time": "00:15:54",
+    "character": "リツコ",
+    "japanese": "主要員は戦闘艦橋へ。"
+  },
+  {
+    "time": "00:15:56",
+    "character": "ミサト",
+    "japanese": "重力バラスト、準備。"
+  },
+  {
+    "time": "00:15:58",
+    "character": "長良",
+    "japanese": "了解。"
+  },
+  {
+    "time": "00:15:58",
+    "character": "長良",
+    "japanese": "全ベントをチェック。"
+  },
+  {
+    "time": "00:16:00",
+    "character": "ミサト",
+    "japanese": "艦の主制御をアンカリングプラグへ集中。"
+  },
+  {
+    "time": "00:16:02",
+    "character": "高雄",
+    "japanese": "了解。"
+  },
+  {
+    "time": "00:16:03",
+    "character": "高雄",
+    "japanese": "ディセント準備。"
+  },
+  {
+    "time": "00:16:04",
+    "character": "高雄",
+    "japanese": "インジェクター確認。"
+  },
+  {
+    "time": "00:16:05",
+    "character": "高雄",
+    "japanese": "カウント入ります。"
+  },
+  {
+    "time": "00:26:15",
+    "character": "アナウンス",
+    "japanese": "ヒルムシュタムタワー移動準備"
+  },
+  {
+    "time": "00:16:16",
+    "character": "北上",
+    "japanese": "チッ"
+  },
+  {
+    "time": "00:26:28",
+    "character": "シンジ",
+    "japanese": "僕は乗らなくていいんですか？ミサトさん！！"
+  },
+  {
+    "time": "00:26:32",
+    "character": "アナウンス",
+    "japanese": "プラグ内、電荷用意。"
+  },
+  {
+    "time": "00:26:33",
+    "character": "アナウンス",
+    "japanese": "エントリーを準備"
+  },
+  {
+    "time": "00:26:34",
+    "character": "リツコ",
+    "japanese": "そうよ。"
+  },
+  {
+    "time": "00:26:34",
+    "character": "リツコ",
+    "japanese": "あなたがエヴァに乗る必要はありません。"
+  },
+  {
+    "time": "00:26:37",
+    "character": "アナウンス",
+    "japanese": "ヒルムスタムタワー、分離。"
+  },
+  {
+    "time": "00:26:39",
+    "character": "アナウンス",
+    "japanese": "起動開始。"
+  },
+  {
+    "time": "00:26:40",
+    "character": "女",
+    "japanese": "現在、指揮系統を戦闘艦橋へ移行中。"
+  },
+  {
+    "time": "00:26:44",
+    "character": "女",
+    "japanese": "繰り返す、指揮系統を戦闘艦橋へ移行中。"
+  },
+  {
+    "time": "00:26:44",
+    "character": "シンジ",
+    "japanese": "必要ないって"
+  },
+  {
+    "time": "00:26:46",
+    "character": "シンジ",
+    "japanese": "・・・・・・あの、"
+  },
+  {
+    "time": "00:26:47",
+    "character": "シンジ",
+    "japanese": "じゃあ、僕は何をすればいいんですか？"
+  },
+  {
+    "time": "00:17:08",
+    "character": "リツコ",
+    "japanese": "エントリースタート。"
+  },
+  {
+    "time": "00:17:10",
+    "character": "女(無線)",
+    "japanese": "ＬＣＬ電荷状態は正常。"
+  },
+  {
+    "time": "00:27:20",
+    "character": "女(無線)",
+    "japanese": "各演算総合システムをスタート。"
+  },
+  {
+    "time": "00:27:22",
+    "character": "ミサト",
+    "japanese": "状況は！？"
+  },
+  {
+    "time": "00:27:23",
+    "character": "北上",
+    "japanese": "総員点呼完了、"
+  },
+  {
+    "time": "00:27:24",
+    "character": "女(無線)",
+    "japanese": "／＃＃＃＃、問題なし。"
+  },
+  {
+    "time": "00:27:25",
+    "character": "北上",
+    "japanese": "移乗を確認。"
+  },
+  {
+    "time": "00:27:27",
+    "character": "女(無線)",
+    "japanese": "第一次リストをクリア。"
+  },
+  {
+    "time": "00:27:28",
+    "character": "多摩",
+    "japanese": "全隔壁の閉鎖を確認、"
+  },
+  {
+    "time": "00:27:30",
+    "character": "多摩",
+    "japanese": "耐圧チェックを終了。"
+  },
+  {
+    "time": "00:17:28",
+    "character": "高雄",
+    "japanese": "臨界まであと５％。"
+  },
+  {
+    "time": "00:17:30",
+    "character": "長良",
+    "japanese": "ジャイロコンパス始動。"
+  },
+  {
+    "time": "00:17:31",
+    "character": "長良",
+    "japanese": "スタビライザー問題無し"
+  },
+  {
+    "time": "00:17:33",
+    "character": "女(無線)",
+    "japanese": "視覚化情報処理を開始。"
+  },
+  {
+    "time": "00:17:35",
+    "character": "女(無線)",
+    "japanese": "主モニター、点灯します。"
+  },
+  {
+    "time": "00:17:41",
+    "character": "青葉",
+    "japanese": "改２号機　推進機を廃棄。"
+  },
+  {
+    "time": "00:17:43",
+    "character": "青葉",
+    "japanese": "左腕を換装中。"
+  },
+  {
+    "time": "00:18:12",
+    "character": "北上",
+    "japanese": "みるみるエネルギーが増大してます！"
+  },
+  {
+    "time": "00:18:18",
+    "character": "青葉",
+    "japanese": "味方巡洋艦蒸発！"
+  },
+  {
+    "time": "00:18:19",
+    "character": "リツコ",
+    "japanese": "飽和攻撃よ。"
+  },
+  {
+    "time": "00:18:24",
+    "character": "北上",
+    "japanese": "接触まであと、３６０秒！"
+  },
+  {
+    "time": "00:18:38",
+    "character": "青葉",
+    "japanese": "改２号機、作業開始。"
+  },
+  {
+    "time": "00:18:40",
+    "character": "男{無線)",
+    "japanese": "流入圧力　３００％！"
+  },
+  {
+    "time": "00:18:42",
+    "character": "高雄",
+    "japanese": "かまわん！"
+  },
+  {
+    "time": "00:18:43",
+    "character": "高雄",
+    "japanese": "フライホイールへ全てのエネルギーを回せ！"
+  },
+  {
+    "time": "00:18:45",
+    "character": "高雄",
+    "japanese": "最優先だ！"
+  },
+  {
+    "time": "00:18:57",
+    "character": "女(BG)",
+    "japanese": "/第８３＃＃＃炎上中、消火出来ません！"
+  },
+  {
+    "time": "00:18:57",
+    "character": "多摩",
+    "japanese": "第７コンバータ群爆発！"
+  },
+  {
+    "time": "00:18:59",
+    "character": "高雄",
+    "japanese": "ダウンしたラインにかまうな！"
+  },
+  {
+    "time": "00:19:01",
+    "character": "高雄",
+    "japanese": "強制注入を続けろ！"
+  },
+  {
+    "time": "00:19:03",
+    "character": "高雄",
+    "japanese": "圧力計は全て無視だ！"
+  },
+  {
+    "time": "00:19:05",
+    "character": "多摩",
+    "japanese": "フライホイール圧着板ロック解除。"
+  },
+  {
+    "time": "00:19:07",
+    "character": "多摩",
+    "japanese": "回転開始"
+  },
+  {
+    "time": "00:19:19",
+    "character": "多摩",
+    "japanese": "補機回転、出力８０％へ"
+  },
+  {
+    "time": "00:19:21",
+    "character": "高雄",
+    "japanese": "触媒を強制投入"
+  },
+  {
+    "time": "00:19:42",
+    "character": "北上",
+    "japanese": "あと３５秒！"
+  },
+  {
+    "time": "00:19:44",
+    "character": "アナウンス",
+    "japanese": "回転数上昇中。１万、１万２千"
+  },
+  {
+    "time": "00:19:46",
+    "character": "青葉",
+    "japanese": "改２号機、点火位置"
+  },
+  {
+    "time": "00:19:48",
+    "character": "多摩",
+    "japanese": "来ましたっ！"
+  },
+  {
+    "time": "00:19:52",
+    "character": "高雄",
+    "japanese": "始動、最終段階です。"
+  },
+  {
+    "time": "00:19:54",
+    "character": "ミサト",
+    "japanese": "了解。"
+  },
+  {
+    "time": "00:19:55",
+    "character": "ミサト",
+    "japanese": "操艦系を切り替え。"
+  },
+  {
+    "time": "00:19:56",
+    "character": "長良",
+    "japanese": "了解。"
+  },
+  {
+    "time": "00:19:57",
+    "character": "長良",
+    "japanese": "時空間制御を開始。"
+  },
+  {
+    "time": "00:19:58",
+    "character": "長良",
+    "japanese": "立体式操舵に移行します。"
+  },
+  {
+    "time": "00:20:02",
+    "character": "ミサト",
+    "japanese": "点火と同時にA.T.フィールドを展開。"
+  },
+  {
+    "time": "00:20:04",
+    "character": "多摩",
+    "japanese": "回転数3万6千！オールグリーン！"
+  },
+  {
+    "time": "00:20:07",
+    "character": "高雄",
+    "japanese": "コンタクト、行けます！"
+  },
+  {
+    "time": "00:20:09",
+    "character": "ミサト",
+    "japanese": "カウント省略。"
+  },
+  {
+    "time": "00:20:10",
+    "character": "ミサト",
+    "japanese": "メイン接続"
+  },
+  {
+    "time": "00:20:11",
+    "character": "高雄",
+    "japanese": "接続！"
+  },
+  {
+    "time": "00:20:16",
+    "character": "ミサト",
+    "japanese": "点火！"
+  },
+  {
+    "time": "00:20:34",
+    "character": "北上",
+    "japanese": "障害物、クリア。"
+  },
+  {
+    "time": "00:20:35",
+    "character": "リツコ",
+    "japanese": "各部確認。"
+  },
+  {
+    "time": "00:20:36",
+    "character": "リツコ",
+    "japanese": "僚艦は全て退避。"
+  },
+  {
+    "time": "00:21:30",
+    "character": "多摩",
+    "japanese": "主翼を貫通！損害不明！"
+  },
+  {
+    "time": "00:21:36",
+    "character": "長良",
+    "japanese": "ゴースターン、ようそろ！"
+  },
+  {
+    "time": "00:21:44",
+    "character": "ミサト",
+    "japanese": "このままコアブロックを　擬製コクーンから引きずり出す！"
+  },
+  {
+    "time": "00:21:53",
+    "character": "多摩",
+    "japanese": "主翼ビームに亀裂発生！"
+  },
+  {
+    "time": "00:21:55",
+    "character": "ミサト",
+    "japanese": "舵、そのまま！"
+  },
+  {
+    "time": "00:21:56",
+    "character": "ミサト",
+    "japanese": "主機、全力運転！"
+  },
+  {
+    "time": "00:21:58",
+    "character": "高雄",
+    "japanese": "両舷一杯！"
+  },
+  {
+    "time": "00:22:00",
+    "character": "長良",
+    "japanese": "最大戦速！"
+  },
+  {
+    "time": "00:22:28",
+    "character": "北上",
+    "japanese": "出た！コアブロックです！"
+  },
+  {
+    "time": "00:22:30",
+    "character": "ミサト",
+    "japanese": "今だ！"
+  },
+  {
+    "time": "00:22:31",
+    "character": "ミサト",
+    "japanese": "取り舵一杯！"
+  },
+  {
+    "time": "00:22:32",
+    "character": "ミサト",
+    "japanese": "振り回せ！！"
+  },
+  {
+    "time": "00:22:33",
+    "character": "長良",
+    "japanese": "りょーかい！"
+  },
+  {
+    "time": "00:23:00",
+    "character": "ミサト",
+    "japanese": "スラスター全開。"
+  },
+  {
+    "time": "00:23:01",
+    "character": "ミサト",
+    "japanese": "急制動！"
+  },
+  {
+    "time": "00:23:12",
+    "character": "青葉",
+    "japanese": "目標、沈黙！"
+  },
+  {
+    "time": "00:23:13",
+    "character": "ミサト",
+    "japanese": "主砲、発射準備！"
+  },
+  {
+    "time": "00:23:15",
+    "character": "ミサト",
+    "japanese": "エネルギー貫通弾を装填。"
+  },
+  {
+    "time": "00:23:17",
+    "character": "ミサト",
+    "japanese": "全砲塔に主機を直結。"
+  },
+  {
+    "time": "00:23:19",
+    "character": "ミサト",
+    "japanese": "給弾用回路開け"
+  },
+  {
+    "time": "00:23:20",
+    "character": "高雄",
+    "japanese": "了解。回路開きます。"
+  },
+  {
+    "time": "00:23:23",
+    "character": "北上",
+    "japanese": "測定誤差、ギリギリまで修正中！"
+  },
+  {
+    "time": "00:23:25",
+    "character": "女(無線)",
+    "japanese": "射撃盤、連動せず。"
+  },
+  {
+    "time": "00:23:27",
+    "character": "日向",
+    "japanese": "各砲直接照準及び手動追尾はいけます！"
+  },
+  {
+    "time": "00:23:30",
+    "character": "ミサト",
+    "japanese": "ならば結構。"
+  },
+  {
+    "time": "00:23:31",
+    "character": "ミサト",
+    "japanese": "撃てぇ！！"
+  },
+  {
+    "time": "00:23:56",
+    "character": "青葉",
+    "japanese": "目標、殲滅"
+  },
+  {
+    "time": "00:23:58",
+    "character": "ミサト",
+    "japanese": "全艦、第２種警戒態勢。"
+  },
+  {
+    "time": "00:24:00",
+    "character": "ミサト",
+    "japanese": "改２号機の回収用意。"
+  },
+  {
+    "time": "00:24:02",
+    "character": "ミサト",
+    "japanese": "主翼の応急処置を急いで。"
+  },
+  {
+    "time": "00:24:06",
+    "character": "多摩",
+    "japanese": "･･･すごい。"
+  },
+  {
+    "time": "00:24:07",
+    "character": "北上",
+    "japanese": "ホントに勝っちゃった。"
+  },
+  {
+    "time": "00:24:09",
+    "character": "高雄",
+    "japanese": "まったくムチャをする･･････"
+  },
+  {
+    "time": "00:24:12",
+    "character": "高雄",
+    "japanese": "加持の話より面白い艦長だ。"
+  },
+  {
+    "time": "00:24:15",
+    "character": "リツコ",
+    "japanese": "これが神殺しの力。"
+  },
+  {
+    "time": "00:24:17",
+    "character": "リツコ",
+    "japanese": "･･････ヴンダー。まさに希望の船ね。"
+  },
+  {
+    "time": "00:25:00",
+    "character": "サクラ",
+    "japanese": "検体ＢＭ０３。仮称碇シンジさん。"
+  },
+  {
+    "time": "00:25:03",
+    "character": "サクラ",
+    "japanese": "副長から説明があるそうです。"
+  },
+  {
+    "time": "00:25:06",
+    "character": "シンジ",
+    "japanese": "―――これが初号機？"
+  },
+  {
+    "time": "00:25:08",
+    "character": "リツコ",
+    "japanese": "ええ。初号機は現在本艦の主機として使用中。"
+  },
+  {
+    "time": "00:25:13",
+    "character": "リツコ",
+    "japanese": "ゆえにパイロットは不要です。"
+  },
+  {
+    "time": "00:25:16",
+    "character": "シンジ",
+    "japanese": "ホントに、いらないんですね"
+  },
+  {
+    "time": "00:25:19",
+    "character": "リツコ",
+    "japanese": "それと、あなたの深層シンクロテストの結果が出ました。"
+  },
+  {
+    "time": "00:25:23",
+    "character": "リツコ",
+    "japanese": "シンクロ率は０.００％。"
+  },
+  {
+    "time": "00:25:26",
+    "character": "リツコ",
+    "japanese": "仮にあなたがエヴァに搭乗しても起動しません"
+  },
+  {
+    "time": "00:25:30",
+    "character": "サクラ",
+    "japanese": "そっかあ。"
+  },
+  {
+    "time": "00:25:31",
+    "character": "サクラ",
+    "japanese": "よかったですね、碇さん"
+  },
+  {
+    "time": "00:25:33",
+    "character": "リツコ",
+    "japanese": "とはいえ、先に突如１２秒間も、覚醒状態と化した事実は看過できない。"
+  },
+  {
+    "time": "00:25:39",
+    "character": "リツコ",
+    "japanese": "故にあなたには　DSSチョーカーを装着させてあります。"
+  },
+  {
+    "time": "00:25:44",
+    "character": "シンジ",
+    "japanese": "何ですか、これ？"
+  },
+  {
+    "time": "00:25:45",
+    "character": "リツコ",
+    "japanese": "私たちへの保険。"
+  },
+  {
+    "time": "00:25:48",
+    "character": "リツコ",
+    "japanese": "覚醒回避のための物理的安全装置。"
+  },
+  {
+    "time": "00:25:51",
+    "character": "リツコ",
+    "japanese": "私たちの不信と　あなたへの罰の象徴です。"
+  },
+  {
+    "time": "00:25:55",
+    "character": "シンジ",
+    "japanese": "どういうことですか？"
+  },
+  {
+    "time": "00:25:56",
+    "character": "リツコ",
+    "japanese": "エヴァ搭乗時、自己の感情に飲み込まれ覚醒リスクを抑えられない事態に達した場合、"
+  },
+  {
+    "time": "00:26:04",
+    "character": "リツコ",
+    "japanese": "あなたの一命をもってせき止める、ということです。"
+  },
+  {
+    "time": "00:26:08",
+    "character": "シンジ",
+    "japanese": "それって・・・死ぬってことですか？"
+  },
+  {
+    "time": "00:26:13",
+    "character": "リツコ",
+    "japanese": "否定はしません。"
+  },
+  {
+    "time": "00:26:16",
+    "character": "シンジ",
+    "japanese": "そんな・・・。"
+  },
+  {
+    "time": "00:26:18",
+    "character": "シンジ",
+    "japanese": "ミサトさん・・・どういう事なんですか？死ぬって"
+  },
+  {
+    "time": "00:26:22",
+    "character": "シンジ",
+    "japanese": "変ですよ、ミサトさん！"
+  },
+  {
+    "time": "00:26:24",
+    "character": "シンジ",
+    "japanese": "急にこんなことになってて、ワケわかんないですよっ！！"
+  },
+  {
+    "time": "00:26:27",
+    "character": "リツコ",
+    "japanese": "混乱するのも無理ないわ。"
+  },
+  {
+    "time": "00:26:28",
+    "character": "リツコ",
+    "japanese": "少尉"
+  },
+  {
+    "time": "00:26:29",
+    "character": "サクラ",
+    "japanese": "あ、ハイ"
+  },
+  {
+    "time": "00:26:30",
+    "character": "リツコ",
+    "japanese": "彼に官姓名を。"
+  },
+  {
+    "time": "00:26:31",
+    "character": "サクラ",
+    "japanese": "ハイ"
+  },
+  {
+    "time": "00:26:33",
+    "character": "サクラ",
+    "japanese": "えっと、今更ですが、碇さんの管理担当医官、"
+  },
+  {
+    "time": "00:26:38",
+    "character": "サクラ",
+    "japanese": "鈴原サクラ少尉です。"
+  },
+  {
+    "time": "00:26:41",
+    "character": "サクラ",
+    "japanese": "よろしく、です！"
+  },
+  {
+    "time": "00:26:43",
+    "character": "シンジ",
+    "japanese": "あ、ハイ。"
+  },
+  {
+    "time": "00:26:46",
+    "character": "シンジ",
+    "japanese": "でも、スズハラって、"
+  },
+  {
+    "time": "00:26:48",
+    "character": "シンジ",
+    "japanese": "トウジの？"
+  },
+  {
+    "time": "00:26:50",
+    "character": "サクラ",
+    "japanese": "ハイ。"
+  },
+  {
+    "time": "00:26:51",
+    "character": "サクラ",
+    "japanese": "お兄ちゃんがお世話になりました。"
+  },
+  {
+    "time": "00:26:53",
+    "character": "サクラ",
+    "japanese": "妹のサクラです。"
+  },
+  {
+    "time": "00:26:55",
+    "character": "シンジ",
+    "japanese": "妹？"
+  },
+  {
+    "time": "00:26:56",
+    "character": "シンジ",
+    "japanese": "お姉さんじゃなくて？"
+  },
+  {
+    "time": "00:26:57",
+    "character": "サクラ",
+    "japanese": "ハイ。妹です！"
+  },
+  {
+    "time": "00:27:00",
+    "character": "サクラ",
+    "japanese": "テヘ"
+  },
+  {
+    "time": "00:27:01",
+    "character": "シンジ",
+    "japanese": "妹・・・何で？"
+  },
+  {
+    "time": "00:27:04",
+    "character": "アスカ",
+    "japanese": "あれから１４年経ってるってことよ。"
+  },
+  {
+    "time": "00:27:07",
+    "character": "アスカ",
+    "japanese": "バカシンジ。"
+  },
+  {
+    "time": "00:27:09",
+    "character": "シンジ",
+    "japanese": "え、あ、アスカ！？"
+  },
+  {
+    "time": "00:27:15",
+    "character": "シンジ",
+    "japanese": "良かった！"
+  },
+  {
+    "time": "00:27:16",
+    "character": "シンジ",
+    "japanese": "やっぱり無事だったんだね！アスカッ！"
+  },
+  {
+    "time": "00:27:20",
+    "character": "シンジ",
+    "japanese": "あはっ･･･"
+  },
+  {
+    "time": "00:27:23",
+    "character": "アスカ",
+    "japanese": "ダメね。"
+  },
+  {
+    "time": "00:27:25",
+    "character": "アスカ",
+    "japanese": "押えきれない。"
+  },
+  {
+    "time": "00:27:26",
+    "character": "アスカ",
+    "japanese": "ずーっとガマンしてたし。"
+  },
+  {
+    "time": "00:40:35",
+    "character": "多摩",
+    "japanese": "隔壁を緊急閉鎖"
+  },
+  {
+    "time": "00:40:36",
+    "character": "シンジ",
+    "japanese": "エヴァ？零号機？"
+  },
+  {
+    "time": "01:09:26",
+    "character": "ミサト",
+    "japanese": "何もしないで。"
+  },
+  {
+    "time": "01:09:26",
+    "character": "声",
+    "japanese": "嫌い。バッカみたい。"
+  },
+  {
+    "time": "01:09:28",
+    "character": "声",
+    "japanese": "あんたのこと好きになるハズないじゃない。"
+  },
+  {
+    "time": "01:09:28",
+    "character": "声",
+    "japanese": "あんたなんか生まれて来れなきゃよかったのよ！"
+  },
+  {
+    "time": "01:09:29",
+    "character": "声",
+    "japanese": "／There's no way I'd fall for you."
+  },
+  {
+    "time": "01:09:29",
+    "character": "声",
+    "japanese": "あんたさえ、いなけりゃいいのに。"
+  },
+  {
+    "time": "01:09:30",
+    "character": "シンジ",
+    "japanese": "父さん・・・"
+  },
+  {
+    "time": "01:09:31",
+    "character": "声",
+    "japanese": "正直、苦手というより一番キライなタイプなのよ、あなたって。"
+  },
+  {
+    "time": "01:09:31",
+    "character": "声",
+    "japanese": "もうあっち行ってて。"
+  },
+  {
+    "time": "01:09:31",
+    "character": "アスカ",
+    "japanese": "あんたには関係ない。"
+  },
+  {
+    "time": "01:09:33",
+    "character": "アスカ",
+    "japanese": "あんたには関係ない。"
+  },
+  {
+    "time": "01:09:38",
+    "character": "シンジ",
+    "japanese": "母さん・・・"
+  },
+  {
+    "time": "01:09:39",
+    "character": "サクラ",
+    "japanese": "エヴァにだけは乗らんで下さいよ！"
+  },
+  {
+    "time": "01:09:41",
+    "character": "アスカ",
+    "japanese": "あんたには関係ない。"
+  },
+  {
+    "time": "01:09:43",
+    "character": "声",
+    "japanese": "／Your existence means nothing to me."
+  },
+  {
+    "time": "01:09:43",
+    "character": "ゲンドウ",
+    "japanese": "エヴァに乗れ。"
+  },
+  {
+    "time": "01:09:45",
+    "character": "レイ",
+    "japanese": "知らない。"
+  },
+  {
+    "time": "01:09:45",
+    "character": "レイ",
+    "japanese": "知らない。"
+  },
+  {
+    "time": "01:09:45",
+    "character": "声",
+    "japanese": "／Just disappear already."
+  },
+  {
+    "time": "01:09:47",
+    "character": "声",
+    "japanese": "／You'd burden me as a friend."
+  },
+  {
+    "time": "01:09:50",
+    "character": "声",
+    "japanese": "あんたのこと好きになるハズないじゃない。"
+  },
+  {
+    "time": "01:09:50",
+    "character": "ミサト",
+    "japanese": "何もしないで。"
+  },
+  {
+    "time": "01:09:52",
+    "character": "声",
+    "japanese": "正直、苦手というより一番キライなタイプなのよ、あなたって。"
+  },
+  {
+    "time": "01:09:53",
+    "character": "レイ",
+    "japanese": "知らない。"
+  },
+  {
+    "time": "01:09:54",
+    "character": "ゲンドウ",
+    "japanese": "エヴァに乗れ。"
+  },
+  {
+    "time": "01:09:55",
+    "character": "アスカ",
+    "japanese": "あんたには関係ない。"
+  },
+  {
+    "time": "01:09:56",
+    "character": "ミサト",
+    "japanese": "何もしないで。"
+  },
+  {
+    "time": "01:09:56",
+    "character": "サクラ",
+    "japanese": "エヴァにだけは乗らんで下さいよ！"
+  },
+  {
+    "time": "01:09:57",
+    "character": "レイ",
+    "japanese": "知らない。"
+  },
+  {
+    "time": "01:09:57",
+    "character": "ゲンドウ",
+    "japanese": "エヴァに乗れ。"
+  },
+  {
+    "time": "01:09:58",
+    "character": "サクラ",
+    "japanese": "エヴァにだけは乗らんで下さいよ！"
+  },
+  {
+    "time": "01:09:58",
+    "character": "アスカ",
+    "japanese": "あんたには関係ない。"
+  },
+  {
+    "time": "01:09:59",
+    "character": "レイ",
+    "japanese": "知らない。"
+  },
+  {
+    "time": "01:10:00",
+    "character": "サクラ",
+    "japanese": "エヴァにだけは乗らんで下さいよ！"
+  },
+  {
+    "time": "01:10:05",
+    "character": "サクラ",
+    "japanese": "エヴァにだけは乗らんで下さいよ！"
+  },
+  {
+    "time": "01:10:07",
+    "character": "レイ",
+    "japanese": "知らない。"
+  },
+  {
+    "time": "01:10:16",
+    "character": "シンジ",
+    "japanese": "何してたんだ僕は・・・"
+  },
+  {
+    "time": "00:11:46",
+    "character": "シンジ",
+    "japanese": "お願いだから　邪魔しないでよ"
+  },
+  {
+    "time": "01:30:51",
+    "character": "多摩",
+    "japanese": "中央部さらに被弾！"
+  },
+  {
+    "time": "01:24:59",
+    "character": "カヲル",
+    "japanese": "ガフの扉は、僕が閉じる。"
+  },
+  {
+    "time": "01:35:34",
+    "character": "テロップ",
+    "japanese": "シン・エヴァンゲリオン劇場版：｜｜"
+  }
+]
