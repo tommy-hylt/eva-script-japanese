@@ -1,0 +1,3730 @@
+[
+  {
+    "time": "00:12:24",
+    "character": "女(無線)",
+    "segments": [
+      "軌道最終修正、完了。"
+    ],
+    "english": "Final orbit corrections complete."
+  },
+  {
+    "time": "00:12:27",
+    "character": "女(無線)",
+    "segments": [
+      "１８０度回頭完了。"
+    ],
+    "english": "180-degree rotation complete."
+  },
+  {
+    "time": "00:12:28",
+    "character": "日向(無線)",
+    "segments": [
+      "了解。"
+    ],
+    "english": "Roger."
+  },
+  {
+    "time": "00:12:29",
+    "character": "日向(無線)",
+    "segments": [
+      "ポッドツーダッシュ、交差軌道への遷移スタート。"
+    ],
+    "english": "Pod 02-Dash will start transitioning to the intercept orbit."
+  },
+  {
+    "time": "00:12:32",
+    "character": "日向(無線)",
+    "segments": [
+      "これより作戦行動に移る。"
+    ],
+    "english": "What's the status of the procedures on deck?"
+  },
+  {
+    "time": "00:12:34",
+    "character": "青葉(無線)",
+    "segments": [
+      "現時点で全てのリモート誘導を切る。"
+    ],
+    "english": "I'm in charge of that?"
+  },
+  {
+    "time": "00:12:36",
+    "character": "青葉(無線)",
+    "segments": [
+      "以後の制御はローカル。"
+    ],
+    "english": "Of course you are! Double jobs!"
+  },
+  {
+    "time": "00:12:38",
+    "character": "日向(無線)",
+    "segments": [
+      "グッドラック。"
+    ],
+    "english": "Huh? Seriously?"
+  },
+  {
+    "time": "00:02:32",
+    "character": "女(無線)",
+    "segments": [
+      "目標との交差軌道に乗った。"
+    ],
+    "english": "Unit is on intercept course with the target."
+  },
+  {
+    "time": "00:02:34",
+    "character": "女(無線)",
+    "segments": [
+      "接触まであと８０(ハチマル)。"
+    ],
+    "english": "Eighty measures until contact."
+  },
+  {
+    "time": "00:02:37",
+    "character": "北上(無線)",
+    "segments": [
+      "目標物を確認。"
+    ],
+    "english": "Confirming target."
+  },
+  {
+    "time": "00:02:38",
+    "character": "青葉(無線)",
+    "segments": [
+      "接触地点に変更なし。"
+    ],
+    "english": "Contact point is unchanged."
+  },
+  {
+    "time": "00:02:40",
+    "character": "北上(無線)",
+    "segments": [
+      "シフトエムを維持、問題なし。"
+    ],
+    "english": "Maintaining Shift-M. No problems."
+  },
+  {
+    "time": "00:02:43",
+    "character": "ミサト(無線)",
+    "segments": [
+      "ツーダッシュはランデブーを用意。"
+    ],
+    "english": "02-Dash, prepare to rendezvous."
+  },
+  {
+    "time": "00:02:45",
+    "character": "ミサト(無線)",
+    "segments": [
+      "エイトは高度不足のため再突入までの９６秒間だけ援護可能。"
+    ],
+    "english": "08 is lacking altitude, so it can only assist you in the ninety-six seconds until re-entry."
+  },
+  {
+    "time": "00:12:59",
+    "character": "ミサト(無線)",
+    "segments": [
+      "それまでにケリをつけて"
+    ],
+    "english": "Finish this by then."
+  },
+  {
+    "time": "00:13:01",
+    "character": "日向(無線)",
+    "segments": [
+      "目標宙域に反射波あり。"
+    ],
+    "english": "Reflective waves detected in target space."
+  },
+  {
+    "time": "00:13:03",
+    "character": "日向(無線)",
+    "segments": [
+      "妨害が入った。"
+    ],
+    "english": "It's jamming us!"
+  },
+  {
+    "time": "00:13:04",
+    "character": "青葉(無線)",
+    "segments": [
+      "自動防衛システムの質量兵器だ。"
+    ],
+    "english": "It's just the auto-defense system's mass weapon."
+  },
+  {
+    "time": "00:13:06",
+    "character": "青葉(無線)",
+    "segments": [
+      "問題ない。"
+    ],
+    "english": "No need to worry."
+  },
+  {
+    "time": "00:13:10",
+    "character": "男(無線)",
+    "segments": [
+      "爆散円発生！"
+    ],
+    "english": "Burst shockwaves emanating!"
+  },
+  {
+    "time": "00:13:11",
+    "character": "男(無線)",
+    "segments": [
+      "到達まで、３、２、１。"
+    ],
+    "english": "Incoming in three... two... one..."
+  },
+  {
+    "time": "00:13:14",
+    "character": "アスカ",
+    "segments": [
+      "うっ！"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:13:19",
+    "character": "青葉(無線)",
+    "segments": [
+      "続いて第２波。パターン青。"
+    ],
+    "english": "Second wave incoming. Blood type blue."
+  },
+  {
+    "time": "00:13:20",
+    "character": "青葉(無線)",
+    "segments": [
+      "やっかいな連中だ。"
+    ],
+    "english": "At this rate, we'll be on the receiving end of a saturated attack."
+  },
+  {
+    "time": "00:13:22",
+    "character": "男(無線)",
+    "segments": [
+      "接近中の物体を識別。"
+    ],
+    "english": "Six hundred seconds until contact!"
+  },
+  {
+    "time": "00:03:15",
+    "character": "男(無線)",
+    "segments": [
+      "コード４Ａと確認。"
+    ],
+    "english": "Confirmed to be Mk. 04A."
+  },
+  {
+    "time": "00:03:27",
+    "character": "アスカ",
+    "segments": [
+      "アンチＡ．Ｔ．フィールド"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:13:39",
+    "character": "アスカ",
+    "segments": [
+      "ちっ、タチ悪いっ！"
+    ],
+    "english": "This thing's useless!"
+  },
+  {
+    "time": "00:03:31",
+    "character": "アスカ",
+    "segments": [
+      "ええいやっぱり邪魔！"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:03:37",
+    "character": "アスカ",
+    "segments": [
+      "コネメガネ！いつまで唄ってんの！うっとうしい！"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:13:52",
+    "character": "アスカ",
+    "segments": [
+      "援護射撃、2秒おそい！"
+    ],
+    "english": "Vice Captain, we're going to fly."
+  },
+  {
+    "time": "00:13:58",
+    "character": "マリ",
+    "segments": [
+      "そっちの位置････3秒早い"
+    ],
+    "english": "And you're three seconds ahead of position."
+  },
+  {
+    "time": "00:14:00",
+    "character": "アスカ",
+    "segments": [
+      "臨機応変。合わせなさいよっ"
+    ],
+    "english": "It's called adapting to the situation. Keep up with me!"
+  },
+  {
+    "time": "00:14:03",
+    "character": "マリ",
+    "segments": [
+      "仰せの通りに。"
+    ],
+    "english": "As you command,"
+  },
+  {
+    "time": "00:14:05",
+    "character": "マリ",
+    "segments": [
+      "お姫さまっ！"
+    ],
+    "english": "Princess!"
+  },
+  {
+    "time": "00:14:14",
+    "character": "アスカ",
+    "segments": [
+      "フラーレンシフトを抜けた。"
+    ],
+    "english": "Got through the Fullerene Shift."
+  },
+  {
+    "time": "00:04:07",
+    "character": "アスカ",
+    "segments": [
+      "最終防衛エリア８９を突破･･････"
+    ],
+    "english": "Breaking into Final Defense Area 89."
+  },
+  {
+    "time": "00:04:09",
+    "character": "アスカ",
+    "segments": [
+      "ハッ"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:04:10",
+    "character": "アスカ",
+    "segments": [
+      "目標物が移動してる"
+    ],
+    "english": "The target is moving!"
+  },
+  {
+    "time": "00:04:16",
+    "character": "アスカ",
+    "segments": [
+      "軌道修正が追いつかない。"
+    ],
+    "english": "No time to correct my orbit!"
+  },
+  {
+    "time": "00:04:17",
+    "character": "アスカ",
+    "segments": [
+      "このまま強行する"
+    ],
+    "english": "I'll just have to brute this!"
+  },
+  {
+    "time": "00:04:40",
+    "character": "アスカ",
+    "segments": [
+      "減速っ！"
+    ],
+    "english": "Decelerate!"
+  },
+  {
+    "time": "00:04:47",
+    "character": "アスカ",
+    "segments": [
+      "８、"
+    ],
+    "english": "Seven!"
+  },
+  {
+    "time": "00:04:48",
+    "character": "アスカ",
+    "segments": [
+      "７、"
+    ],
+    "english": "Six!"
+  },
+  {
+    "time": "00:04:49",
+    "character": "アスカ",
+    "segments": [
+      "６、"
+    ],
+    "english": "Five!"
+  },
+  {
+    "time": "00:04:50",
+    "character": "アスカ",
+    "segments": [
+      "５、"
+    ],
+    "english": "Four!"
+  },
+  {
+    "time": "00:04:51",
+    "character": "アスカ",
+    "segments": [
+      "４、"
+    ],
+    "english": "Three!"
+  },
+  {
+    "time": "00:04:52",
+    "character": "アスカ",
+    "segments": [
+      "３、"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:04:53",
+    "character": "アスカ",
+    "segments": [
+      "２、"
+    ],
+    "english": "Two!"
+  },
+  {
+    "time": "00:04:54",
+    "character": "アスカ",
+    "segments": [
+      "１、"
+    ],
+    "english": "One!"
+  },
+  {
+    "time": "00:04:55",
+    "character": "アスカ",
+    "segments": [
+      "燃焼終了"
+    ],
+    "english": "Terminating combustion!"
+  },
+  {
+    "time": "00:15:12",
+    "character": "北上(無線)",
+    "segments": [
+      "ツーダッシュ、最終ブースターをジェットソン"
+    ],
+    "english": "02-Dash has jettisoned the last boosters."
+  },
+  {
+    "time": "00:15:14",
+    "character": "北上(無線)",
+    "segments": [
+      "再突入保安距離を確保"
+    ],
+    "english": "Ensuring safe distance for re-entry."
+  },
+  {
+    "time": "00:15:16",
+    "character": "男(無線)",
+    "segments": [
+      "軌道誤差は修正範囲内。突入角度を再計算"
+    ],
+    "english": "Orbital errors are within correctable ranges. Recalculating angle of entry."
+  },
+  {
+    "time": "00:05:09",
+    "character": "アスカ",
+    "segments": [
+      "強奪成功。"
+    ],
+    "english": "Successfully seized the target."
+  },
+  {
+    "time": "00:05:11",
+    "character": "アスカ",
+    "segments": [
+      "帰投するわ"
+    ],
+    "english": "Returning to base."
+  },
+  {
+    "time": "00:05:13",
+    "character": "ミサト(無線)",
+    "segments": [
+      "了解。"
+    ],
+    "english": "Roger."
+  },
+  {
+    "time": "00:05:14",
+    "character": "ミサト(無線)",
+    "segments": [
+      "回収地点にて待つ。"
+    ],
+    "english": "We'll be waiting at the retrieval point."
+  },
+  {
+    "time": "00:05:16",
+    "character": "ミサト(無線)",
+    "segments": [
+      "合流コードはパターンV。"
+    ],
+    "english": "The join code is Saturn V."
+  },
+  {
+    "time": "00:05:17",
+    "character": "アスカ",
+    "segments": [
+      "・・・・・・了解。"
+    ],
+    "english": "Roger."
+  },
+  {
+    "time": "00:05:19",
+    "character": "アスカ",
+    "segments": [
+      "パターン青！？"
+    ],
+    "english": "Blood type blue?"
+  },
+  {
+    "time": "00:05:20",
+    "character": "アスカ",
+    "segments": [
+      "どこにいるの！？"
+    ],
+    "english": "Where?!"
+  },
+  {
+    "time": "00:05:25",
+    "character": "女(無線)",
+    "segments": [
+      "妨害物はコード4B。"
+    ],
+    "english": "The interfering object is Mk. 04B."
+  },
+  {
+    "time": "00:05:27",
+    "character": "女(無線)",
+    "segments": [
+      "フィールド反射膜を展開中。"
+    ],
+    "english": "It is deploying a field-reflective coating."
+  },
+  {
+    "time": "00:05:29",
+    "character": "アスカ",
+    "segments": [
+      "チィッ！しゃらくさい！！"
+    ],
+    "english": "The nerve!"
+  },
+  {
+    "time": "00:05:30",
+    "character": "アスカ",
+    "segments": [
+      "再突入直前だっちゅーの。"
+    ],
+    "english": "Right before re-entry, too."
+  },
+  {
+    "time": "00:05:33",
+    "character": "アスカ",
+    "segments": [
+      "コネメガネ！　援護！"
+    ],
+    "english": "Glasses, back-up!"
+  },
+  {
+    "time": "00:05:35",
+    "character": "マリ(無線)",
+    "segments": [
+      "めんご！"
+    ],
+    "english": "Sorry!"
+  },
+  {
+    "time": "00:05:37",
+    "character": "マリ(無線)",
+    "segments": [
+      "高度不足でお先に！"
+    ],
+    "english": "I don't have enough altitude, so see ya!"
+  },
+  {
+    "time": "00:05:39",
+    "character": "マリ(無線)",
+    "segments": [
+      "後はセルフサービスでよろしく～っ"
+    ],
+    "english": "I'll leave the rest to y-..."
+  },
+  {
+    "time": "00:05:43",
+    "character": "アスカ",
+    "segments": [
+      "チッ！役たたず！"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:05:44",
+    "character": "アスカ",
+    "segments": [
+      "もう・・・・・・しつこい！"
+    ],
+    "english": "Damn, this thing's stubborn!"
+  },
+  {
+    "time": "00:05:46",
+    "character": "アスカ",
+    "segments": [
+      "こんなの聞いてないわよっ！"
+    ],
+    "english": "Nobody told me about this!"
+  },
+  {
+    "time": "00:05:52",
+    "character": "アスカ",
+    "segments": [
+      "！？"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:05:59",
+    "character": "アスカ",
+    "segments": [
+      "何、この光！？"
+    ],
+    "english": "What's with this light?!"
+  },
+  {
+    "time": "00:06:01",
+    "character": "アスカ",
+    "segments": [
+      "Ａ．Ｔ．フィールドが中和してない！！"
+    ],
+    "english": "The A.T. Field isn't neutralizing it!"
+  },
+  {
+    "time": "00:06:05",
+    "character": "アスカ",
+    "segments": [
+      "コアブロックをやらないとっ！"
+    ],
+    "english": "I gotta take out the core block!"
+  },
+  {
+    "time": "00:06:06",
+    "character": "アスカ",
+    "segments": [
+      "逃げんなこらあぁぁぁ"
+    ],
+    "english": "You're not getting away!"
+  },
+  {
+    "time": "00:06:12",
+    "character": "アスカ",
+    "segments": [
+      "やば・・・・・・降下角度が維持できない。"
+    ],
+    "english": "My unit'll fall apart at this rate!"
+  },
+  {
+    "time": "00:06:12",
+    "character": "アスカ",
+    "segments": [
+      "このままじゃ機体が分解する"
+    ],
+    "english": "My unit'll fall apart at this rate!"
+  },
+  {
+    "time": "00:06:15",
+    "character": "ミサト(無線)",
+    "segments": [
+      "ツーダッシュ！作戦遂行を最優先！"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:06:18",
+    "character": "ミサト(無線)",
+    "segments": [
+      "機体を捨てても目標物を離さないで"
+    ],
+    "english": "Don't let go of the target object, even if it means sacrificing the unit."
+  },
+  {
+    "time": "00:06:21",
+    "character": "アスカ",
+    "segments": [
+      "分かってるっつーの！！"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:06:38",
+    "character": "アスカ",
+    "segments": [
+      "ぐうう･･････"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:06:41",
+    "character": "アスカ",
+    "segments": [
+      "なんとかしなさいよ、バカシンジーっ！"
+    ],
+    "english": "Do something, stupid Shinji!"
+  },
+  {
+    "time": "00:07:23",
+    "character": "カヲル",
+    "segments": [
+      "･･････おかえり、碇シンジ君。"
+    ],
+    "english": "Welcome home, Ikari Shinji-kun."
+  },
+  {
+    "time": "00:07:23",
+    "character": "カヲル",
+    "segments": [
+      "待っていたよ"
+    ],
+    "english": "Welcome home, Ikari Shinji-kun."
+  },
+  {
+    "time": "00:07:42",
+    "character": "サクラ",
+    "segments": [
+      "心肺機能は正常です。"
+    ],
+    "english": "Cardiopulmonary function is nominal."
+  },
+  {
+    "time": "00:07:44",
+    "character": "サクラ",
+    "segments": [
+      "四肢の麻痺は認められません。"
+    ],
+    "english": "No discernible paralysis of the extremities."
+  },
+  {
+    "time": "00:07:46",
+    "character": "サクラ",
+    "segments": [
+      "ハイ。目は開いてます。"
+    ],
+    "english": "Yes. He has opened his eyes."
+  },
+  {
+    "time": "00:07:50",
+    "character": "サクラ",
+    "segments": [
+      "私の言葉が理解できますか？"
+    ],
+    "english": "Can you understand me?"
+  },
+  {
+    "time": "00:07:55",
+    "character": "シンジ",
+    "segments": [
+      "･･････ここ、どこですか？"
+    ],
+    "english": "What is this place?"
+  },
+  {
+    "time": "00:07:58",
+    "character": "サクラ",
+    "segments": [
+      "言葉を話せます。"
+    ],
+    "english": "He is capable of speech."
+  },
+  {
+    "time": "00:07:59",
+    "character": "サクラ",
+    "segments": [
+      "意識は戻ったようです。"
+    ],
+    "english": "He seems to have returned to a conscious state."
+  },
+  {
+    "time": "00:08:03",
+    "character": "シンジ",
+    "segments": [
+      "･･････確か、綾波を助けて･･････"
+    ],
+    "english": "I could've sworn I was saving Ayanami..."
+  },
+  {
+    "time": "00:08:06",
+    "character": "サクラ",
+    "segments": [
+      "はい、どうやら、記憶の継続性も認められます。"
+    ],
+    "english": "Yes, continuity of memory also seems acceptable."
+  },
+  {
+    "time": "00:08:10",
+    "character": "シンジ",
+    "segments": [
+      "あの、綾波は？"
+    ],
+    "english": "Um, where's Ayanami...?"
+  },
+  {
+    "time": "00:08:13",
+    "character": "サクラ",
+    "segments": [
+      "これは誰か、わかりますか？"
+    ],
+    "english": "Is this someone you know?"
+  },
+  {
+    "time": "00:08:18",
+    "character": "シンジ",
+    "segments": [
+      "･･･僕、ですけど。"
+    ],
+    "english": "It's... me."
+  },
+  {
+    "time": "00:08:21",
+    "character": "サクラ",
+    "segments": [
+      "自己認識もあります。"
+    ],
+    "english": "He is capable of self-recognition as well."
+  },
+  {
+    "time": "00:08:22",
+    "character": "サクラ",
+    "segments": [
+      "問題なさそうです。"
+    ],
+    "english": "No apparent problems."
+  },
+  {
+    "time": "00:08:24",
+    "character": "シンジ",
+    "segments": [
+      "なんだ、これ？"
+    ],
+    "english": "What's this?"
+  },
+  {
+    "time": "00:18:32",
+    "character": "サクラ",
+    "segments": [
+      "尿意や空腹感はありますか？"
+    ],
+    "english": "Do you need to urinate? Are you hungry?"
+  },
+  {
+    "time": "00:18:36",
+    "character": "アナウンス",
+    "segments": [
+      "補給作業、搬入リストの８６％までクリア"
+    ],
+    "english": "Delivery list for supplying operations cleared up to 86%."
+  },
+  {
+    "time": "00:18:38",
+    "character": "高雄",
+    "segments": [
+      "稼働中のＮ２リアクターは、出力で９０％を維持。"
+    ],
+    "english": "Eva-02' has commenced operations."
+  },
+  {
+    "time": "00:18:42",
+    "character": "北上",
+    "segments": [
+      "半径１２００以内に艦影なし。"
+    ],
+    "english": "Doesn't matter!"
+  },
+  {
+    "time": "00:18:42",
+    "character": "高雄",
+    "segments": [
+      "圧力弁は手動で開放してくれ。"
+    ],
+    "english": "Doesn't matter!"
+  },
+  {
+    "time": "00:18:44",
+    "character": "北上",
+    "segments": [
+      "未確認飛行物体も認められず。"
+    ],
+    "english": "No unidentified flying objects can be confirmed, either."
+  },
+  {
+    "time": "00:18:45",
+    "character": "高雄",
+    "segments": [
+      "コンデンサーは気にしなくていい"
+    ],
+    "english": "Make that top priority!"
+  },
+  {
+    "time": "00:18:46",
+    "character": "青葉",
+    "segments": [
+      "乗員の移乗は、Ｄブロックの船を最優先。"
+    ],
+    "english": "Prioritize ships in D Block for personnel transfer."
+  },
+  {
+    "time": "00:18:48",
+    "character": "日向",
+    "segments": [
+      "食料搬入作業の人手がまるで足りない。"
+    ],
+    "english": "Insufficient personnel for the ration transfer operation!"
+  },
+  {
+    "time": "00:18:50",
+    "character": "長良",
+    "segments": [
+      "両舷３番５番ジャイロをチェック。"
+    ],
+    "english": "Checking port and starboard gyrocompasses three and five."
+  },
+  {
+    "time": "00:18:51",
+    "character": "日向",
+    "segments": [
+      "至急手当てしてくれ"
+    ],
+    "english": "Expedite this, on the double!"
+  },
+  {
+    "time": "00:18:53",
+    "character": "長良",
+    "segments": [
+      "計器にズレがある。修正願う"
+    ],
+    "english": "The gauges are inaccurate. Requesting recalibration."
+  },
+  {
+    "time": "00:18:54",
+    "character": "多摩",
+    "segments": [
+      "艤装作業、ロードマップをチェック。"
+    ],
+    "english": "Checking the ships' outfitting and roadmaps."
+  },
+  {
+    "time": "00:18:56",
+    "character": "多摩",
+    "segments": [
+      "武装関係が予定より３％遅れています"
+    ],
+    "english": "Armament linkage is 3% behind schedule."
+  },
+  {
+    "time": "00:08:53",
+    "character": "サクラ",
+    "segments": [
+      "検体、BM０３、拘引しました。"
+    ],
+    "english": "Specimen BM03 is in our custody."
+  },
+  {
+    "time": "00:08:56",
+    "character": "ミサト",
+    "segments": [
+      "了解。"
+    ],
+    "english": "Understood."
+  },
+  {
+    "time": "00:08:57",
+    "character": "ミサト",
+    "segments": [
+      "拘束を解いて。"
+    ],
+    "english": "Release the restraints."
+  },
+  {
+    "time": "00:09:00",
+    "character": "ミサト",
+    "segments": [
+      "下がっていいわ。"
+    ],
+    "english": "You are all dismissed."
+  },
+  {
+    "time": "00:09:25",
+    "character": "シンジ",
+    "segments": [
+      "ミサト・・・さん？"
+    ],
+    "english": "Misato-san..."
+  },
+  {
+    "time": "00:09:28",
+    "character": "ミサト",
+    "segments": [
+      "碇シンジ君。でいいのよね"
+    ],
+    "english": "It is Ikari Shinji-kun, isn't it?"
+  },
+  {
+    "time": "00:09:31",
+    "character": "リツコ",
+    "segments": [
+      "そうね。"
+    ],
+    "english": "So it would seem."
+  },
+  {
+    "time": "00:09:32",
+    "character": "リツコ",
+    "segments": [
+      "物理的情報では、コード第３の少年と完全に一致。"
+    ],
+    "english": "His physical data is identical to Code Third Boy."
+  },
+  {
+    "time": "00:09:37",
+    "character": "リツコ",
+    "segments": [
+      "生後の歯の治療痕等身体組織は、ニアサー時を１００％再現しているわ。"
+    ],
+    "english": "Post-natal dental work and body composition perfectly match those from Near Third Impact."
+  },
+  {
+    "time": "00:09:43",
+    "character": "リツコ",
+    "segments": [
+      "なお、深層シンクロテストの結果は分析中。"
+    ],
+    "english": "We are now analyzing his deep level sync test results."
+  },
+  {
+    "time": "00:09:46",
+    "character": "ミサト",
+    "segments": [
+      "頸部へのＤＳＳチョーカーは？"
+    ],
+    "english": "And the DSS Choker on his neck?"
+  },
+  {
+    "time": "00:09:49",
+    "character": "リツコ",
+    "segments": [
+      "すでに装着済よ。葛城艦長"
+    ],
+    "english": "It has already been installed, Captain Katsuragi."
+  },
+  {
+    "time": "00:09:52",
+    "character": "シンジ",
+    "segments": [
+      "・・・葛城艦長？"
+    ],
+    "english": "Captain Katsuragi...?"
+  },
+  {
+    "time": "00:09:54",
+    "character": "シンジ",
+    "segments": [
+      "やっぱりミサトさん？"
+    ],
+    "english": "So it really is you, Misato-san?"
+  },
+  {
+    "time": "00:20:06",
+    "character": "シンジ",
+    "segments": [
+      "あれ？"
+    ],
+    "english": "Huh?"
+  },
+  {
+    "time": "00:10:03",
+    "character": "リツコ",
+    "segments": [
+      "作動正常。"
+    ],
+    "english": "Activation nominal."
+  },
+  {
+    "time": "00:10:04",
+    "character": "リツコ",
+    "segments": [
+      "パスコードを艦長専用に。"
+    ],
+    "english": "Passcode is set for your personal use, Captain."
+  },
+  {
+    "time": "00:10:07",
+    "character": "ミサト",
+    "segments": [
+      "了解。"
+    ],
+    "english": "Understood."
+  },
+  {
+    "time": "00:10:11",
+    "character": "シンジ",
+    "segments": [
+      "何なんですか、これ？"
+    ],
+    "english": "What is this thing?!"
+  },
+  {
+    "time": "00:10:14",
+    "character": "シンジ",
+    "segments": [
+      "外して下さいよ、もう！"
+    ],
+    "english": "Please, take it off already!"
+  },
+  {
+    "time": "00:10:18",
+    "character": "サクラ",
+    "segments": [
+      "絶対に、外しませんよ、それ。"
+    ],
+    "english": "There's no way that's ever coming off."
+  },
+  {
+    "time": "00:10:22",
+    "character": "ミサト",
+    "segments": [
+      "面会終了。"
+    ],
+    "english": "We're done with him."
+  },
+  {
+    "time": "00:10:24",
+    "character": "ミサト",
+    "segments": [
+      "彼を隔離室へ。"
+    ],
+    "english": "Take him to quarantine."
+  },
+  {
+    "time": "00:10:28",
+    "character": "ミドリ",
+    "segments": [
+      "デコイ０１（マルイチ）と０５（マルゴ）が消滅。"
+    ],
+    "english": "Decoys 01 and 05 destroyed."
+  },
+  {
+    "time": "00:10:30",
+    "character": "ミドリ",
+    "segments": [
+      "波長も捕捉。"
+    ],
+    "english": "Wavelength acquired."
+  },
+  {
+    "time": "00:10:31",
+    "character": "ミサト",
+    "segments": [
+      "何だろう、これ。"
+    ],
+    "english": "What could this be?"
+  },
+  {
+    "time": "00:10:33",
+    "character": "日向",
+    "segments": [
+      "パターン青だよ！"
+    ],
+    "english": "It's blood type blue."
+  },
+  {
+    "time": "00:10:34",
+    "character": "日向",
+    "segments": [
+      "目標を識別。"
+    ],
+    "english": "Target identified."
+  },
+  {
+    "time": "00:10:36",
+    "character": "日向",
+    "segments": [
+      "コード４Ｃ。"
+    ],
+    "english": "Mk. 4C."
+  },
+  {
+    "time": "00:10:37",
+    "character": "日向",
+    "segments": [
+      "ネーメジェスシリーズです。"
+    ],
+    "english": "It's the Nemesis Series."
+  },
+  {
+    "time": "00:10:39",
+    "character": "ミサト",
+    "segments": [
+      "―――また来たか。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:10:40",
+    "character": "北上(BG)",
+    "segments": [
+      "目標は全て、コード４Ｃ。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:10:40",
+    "character": "リツコ",
+    "segments": [
+      "進行が立体的よ。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:10:42",
+    "character": "リツコ",
+    "segments": [
+      "まずは、私たちをここに封鎖するつもりよ。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:10:43",
+    "character": "北上(BG)",
+    "segments": [
+      "/ デコイ02（マル二）、そして06（マルロク）が消滅確認。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:10:45",
+    "character": "ミサト",
+    "segments": [
+      "まだここを動くわけにはいかない。"
+    ],
+    "english": "We can't afford to move from here yet."
+  },
+  {
+    "time": "00:10:48",
+    "character": "ミサト",
+    "segments": [
+      "主機関連作業のみ続行。"
+    ],
+    "english": "Stop work on everything except the main engine."
+  },
+  {
+    "time": "00:10:50",
+    "character": "ミサト",
+    "segments": [
+      "全艦、第２種戦闘配置。"
+    ],
+    "english": "All ships to Battle Stations Two!"
+  },
+  {
+    "time": "00:10:53",
+    "character": "ミサト",
+    "segments": [
+      "目標、全ネーメジェスシリーズ。"
+    ],
+    "english": "Target the entire Nemesis Series!"
+  },
+  {
+    "time": "00:10:55",
+    "character": "リツコ",
+    "segments": [
+      "了解。"
+    ],
+    "english": "Roger."
+  },
+  {
+    "time": "00:10:56",
+    "character": "リツコ",
+    "segments": [
+      "全艦、第２種戦闘配置。"
+    ],
+    "english": "All ships to Battle Stations Two."
+  },
+  {
+    "time": "00:10:58",
+    "character": "日向",
+    "segments": [
+      "対空、対水上及び水中戦、用意"
+    ],
+    "english": "Prepare for aerial, sea, and underwater battle!"
+  },
+  {
+    "time": "00:11:02",
+    "character": "青葉",
+    "segments": [
+      "補給作業を中断。"
+    ],
+    "english": "Abandon transfer of supplies."
+  },
+  {
+    "time": "00:11:03",
+    "character": "青葉",
+    "segments": [
+      "乗員移乗を最優先"
+    ],
+    "english": "Pod 02-Dash has reached operation altitude."
+  },
+  {
+    "time": "00:21:12",
+    "character": "女(無線)",
+    "segments": [
+      "全艦、補給作業を中断。乗員移乗を最優先"
+    ],
+    "english": "All fleets, abandon transfer of supplies. Prioritize transfer of personnel."
+  },
+  {
+    "time": "00:21:14",
+    "character": "男(無線)",
+    "segments": [
+      "対空、対水上及び水中戦用意。"
+    ],
+    "english": "Prepare for aerial, sea, and underwater battle."
+  },
+  {
+    "time": "00:21:16",
+    "character": "女(無線)",
+    "segments": [
+      "主機関連作業は続行。"
+    ],
+    "english": "Continue work on the main engine."
+  },
+  {
+    "time": "00:21:17",
+    "character": "男(無線)",
+    "segments": [
+      "遠隔式砲雷撃戦、用意"
+    ],
+    "english": "Prepare long-range cannons for torpedo warfare."
+  },
+  {
+    "time": "00:21:18",
+    "character": "女(無線)",
+    "segments": [
+      "各動力流入ラインの開閉を用意"
+    ],
+    "english": "Prepare switching of all power supply lines."
+  },
+  {
+    "time": "00:21:22",
+    "character": "女(無線)",
+    "segments": [
+      "各航空機は現空域から直ちに離脱。"
+    ],
+    "english": "All aircraft are to withdraw from our current air space at once."
+  },
+  {
+    "time": "00:21:25",
+    "character": "女(無線)",
+    "segments": [
+      "第２集結ポイントへ速やかに移動願います。"
+    ],
+    "english": "Hurry to Meeting Point Two."
+  },
+  {
+    "time": "00:21:27",
+    "character": "男(無線)",
+    "segments": [
+      "積み残しは置いていけ。"
+    ],
+    "english": "Abandon all remaining cargo."
+  },
+  {
+    "time": "00:21:28",
+    "character": "男(無線)",
+    "segments": [
+      "乗組員の移動が最優先だ。"
+    ],
+    "english": "Transfer of personnel takes top priority."
+  },
+  {
+    "time": "00:21:30",
+    "character": "男(無線)",
+    "segments": [
+      "艤装作業は続けろ！"
+    ],
+    "english": "Main wings penetrated! Extent of damage unknown!"
+  },
+  {
+    "time": "00:21:31",
+    "character": "男(無線)",
+    "segments": [
+      "会敵ギリギリまで組立を頼む"
+    ],
+    "english": "Keep the work going until the very last minute!"
+  },
+  {
+    "time": "00:21:33",
+    "character": "男(無線)",
+    "segments": [
+      "動力ラインを手伝える者は、内火艇に集合してくれ"
+    ],
+    "english": "Prepare to eliminate the targets!"
+  },
+  {
+    "time": "00:21:36",
+    "character": "女(無線)",
+    "segments": [
+      "各砲塔、各個に発射準備。"
+    ],
+    "english": "Go astern! Keeping her steady!"
+  },
+  {
+    "time": "00:21:38",
+    "character": "女(無線)",
+    "segments": [
+      "遠隔操作及び連動システムを起動。"
+    ],
+    "english": "Activate all remote control and interlocking systems."
+  },
+  {
+    "time": "00:21:41",
+    "character": "女(無線)",
+    "segments": [
+      "不意の交戦に備えてください"
+    ],
+    "english": "Please be ready for unforeseen hostilities."
+  },
+  {
+    "time": "00:21:42",
+    "character": "高雄",
+    "segments": [
+      "主機伝導システムは注入作業を継続。"
+    ],
+    "english": "Keep working on the injection of the main engine transmission system."
+  },
+  {
+    "time": "00:21:45",
+    "character": "高雄",
+    "segments": [
+      "急げよ！"
+    ],
+    "english": "Hurry!"
+  },
+  {
+    "time": "00:21:47",
+    "character": "男(無線)",
+    "segments": [
+      "Ｎ２リアクター、出力９９％で稼働中。"
+    ],
+    "english": "N2 reactor operating at 99% output."
+  },
+  {
+    "time": "00:21:50",
+    "character": "女(無線)",
+    "segments": [
+      "注入作業を続行。"
+    ],
+    "english": "Resuming work on the injection."
+  },
+  {
+    "time": "00:21:52",
+    "character": "女(無線)",
+    "segments": [
+      "９０番までのバルブを開放。"
+    ],
+    "english": "Opening the first ninety valves."
+  },
+  {
+    "time": "00:21:54",
+    "character": "女(無線)",
+    "segments": [
+      "動力パイプ接続完了。"
+    ],
+    "english": "The power pipes have been connected."
+  },
+  {
+    "time": "00:21:56",
+    "character": "女(無線)",
+    "segments": [
+      "左舷第３、第４ハブステーション異常なし。"
+    ],
+    "english": "Run main engine at full power!"
+  },
+  {
+    "time": "00:21:59",
+    "character": "男(無線)",
+    "segments": [
+      "了解。"
+    ],
+    "english": "Roger."
+  },
+  {
+    "time": "00:22:00",
+    "character": "男(無線)",
+    "segments": [
+      "９０番までの全バルブを開放。"
+    ],
+    "english": "Full throttle!"
+  },
+  {
+    "time": "00:22:02",
+    "character": "男(無線)",
+    "segments": [
+      "エネルギー流入開始。"
+    ],
+    "english": "Starting energy influx."
+  },
+  {
+    "time": "00:22:03",
+    "character": "女(無線)",
+    "segments": [
+      "補機Ｎ２リアクターへの動力流入、順調なり。"
+    ],
+    "english": "Power influx to auxiliary N2 reactors is going smoothly."
+  },
+  {
+    "time": "00:22:06",
+    "character": "アナウンス",
+    "segments": [
+      "ＬＣＬ循環ポンプの点検中。"
+    ],
+    "english": "LCL circulation pumps are being inspected."
+  },
+  {
+    "time": "00:22:09",
+    "character": "アナウンス",
+    "segments": [
+      "濾過システムを確認。"
+    ],
+    "english": "Filtration system is go."
+  },
+  {
+    "time": "00:22:10",
+    "character": "伊吹",
+    "segments": [
+      "戦闘配置よ！"
+    ],
+    "english": "Battle stations!"
+  },
+  {
+    "time": "00:22:12",
+    "character": "伊吹",
+    "segments": [
+      "さっさと、部署について。"
+    ],
+    "english": "To your posts, quickly."
+  },
+  {
+    "time": "00:22:14",
+    "character": "伊吹",
+    "segments": [
+      "そこ！グズグズしない！"
+    ],
+    "english": "You there! Get a move on!"
+  },
+  {
+    "time": "00:22:16",
+    "character": "整備",
+    "segments": [
+      "ムリですよ、整備長。"
+    ],
+    "english": "You're asking the impossible, chief."
+  },
+  {
+    "time": "00:22:18",
+    "character": "整備",
+    "segments": [
+      "なんせ、民間人も混じってる寄せ集め集団ですよぉ"
+    ],
+    "english": "We're a motley crew with *civilians* among us."
+  },
+  {
+    "time": "00:22:21",
+    "character": "伊吹",
+    "segments": [
+      "言い訳無用！"
+    ],
+    "english": "No excuses!"
+  },
+  {
+    "time": "00:22:23",
+    "character": "伊吹",
+    "segments": [
+      "さっさと手を動かせ！"
+    ],
+    "english": "Get back to work!"
+  },
+  {
+    "time": "00:22:26",
+    "character": "伊吹",
+    "segments": [
+      "チッ。コレだから、若い男は"
+    ],
+    "english": "Ugh! This is why I can't stand younger men."
+  },
+  {
+    "time": "00:22:28",
+    "character": "多摩",
+    "segments": [
+      "えっと、"
+    ],
+    "english": "The core blocks are out!"
+  },
+  {
+    "time": "00:22:29",
+    "character": "多摩",
+    "segments": [
+      "艤装作業はここで中断。"
+    ],
+    "english": "Stop the outfitting work here."
+  },
+  {
+    "time": "00:22:32",
+    "character": "多摩",
+    "segments": [
+      "隔壁の閉鎖を開始って、"
+    ],
+    "english": "Swing her around!"
+  },
+  {
+    "time": "00:22:34",
+    "character": "多摩",
+    "segments": [
+      "これか？"
+    ],
+    "english": "Is this it?"
+  },
+  {
+    "time": "00:12:27",
+    "character": "北上",
+    "segments": [
+      "対空監視を厳として。ソナーの方位はこれ。"
+    ],
+    "english": "180-degree rotation complete."
+  },
+  {
+    "time": "00:12:31",
+    "character": "青葉",
+    "segments": [
+      "北上。"
+    ],
+    "english": "Kitakami!"
+  },
+  {
+    "time": "00:12:32",
+    "character": "青葉",
+    "segments": [
+      "甲板作業の状況は？"
+    ],
+    "english": "What's the status of the procedures on deck?"
+  },
+  {
+    "time": "00:12:34",
+    "character": "北上",
+    "segments": [
+      "それ、私の担当ですか？"
+    ],
+    "english": "I'm in charge of that?"
+  },
+  {
+    "time": "00:12:36",
+    "character": "青葉",
+    "segments": [
+      "兼任だ。当然だろ！"
+    ],
+    "english": "Of course you are! Double jobs!"
+  },
+  {
+    "time": "00:12:38",
+    "character": "北上",
+    "segments": [
+      "ええ～～えっ！？マァジィィィ！？"
+    ],
+    "english": "Huh? Seriously?"
+  },
+  {
+    "time": "00:12:41",
+    "character": "サクラ",
+    "segments": [
+      "よっこいしょと"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:12:43",
+    "character": "サクラ",
+    "segments": [
+      "移動は危険です。"
+    ],
+    "english": "It's dangerous to move around."
+  },
+  {
+    "time": "00:12:45",
+    "character": "サクラ",
+    "segments": [
+      "ここにいましょう。"
+    ],
+    "english": "You should stay here."
+  },
+  {
+    "time": "00:12:46",
+    "character": "サクラ",
+    "segments": [
+      "よっと――"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:12:47",
+    "character": "女 (BG)",
+    "segments": [
+      "全艦、対空防御、及び対空誘導弾、準備完了。"
+    ],
+    "english": "AA defenses and AA guided missiles ready on all ships."
+  },
+  {
+    "time": "00:12:49",
+    "character": "サクラ",
+    "segments": [
+      "せやけど、艦橋での戦闘配置。"
+    ],
+    "english": "I have to say, though, there's so much tension"
+  },
+  {
+    "time": "00:12:52",
+    "character": "サクラ",
+    "segments": [
+      "キンチョーするわぁ"
+    ],
+    "english": "Roger."
+  },
+  {
+    "time": "00:12:52",
+    "character": "ミサト",
+    "segments": [
+      "了解。"
+    ],
+    "english": "Roger."
+  },
+  {
+    "time": "00:23:01",
+    "character": "ミサト",
+    "segments": [
+      "各対空システムを連動。"
+    ],
+    "english": "Full-on brake!"
+  },
+  {
+    "time": "00:23:02",
+    "character": "ミサト",
+    "segments": [
+      "初号機保護を最優先。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:12:57",
+    "character": "シンジ",
+    "segments": [
+      "初号機？"
+    ],
+    "english": "...Eva-01?"
+  },
+  {
+    "time": "00:13:07",
+    "character": "北上",
+    "segments": [
+      "来ました！"
+    ],
+    "english": "They're here!"
+  },
+  {
+    "time": "00:13:08",
+    "character": "北上",
+    "segments": [
+      "目標の光の柱を確認！"
+    ],
+    "english": "Pillars of light from the targets confirmed!"
+  },
+  {
+    "time": "00:13:10",
+    "character": "北上",
+    "segments": [
+      "えっと、数が何だか増えてます！"
+    ],
+    "english": "Burst shockwaves emanating!"
+  },
+  {
+    "time": "00:13:13",
+    "character": "青葉",
+    "segments": [
+      "目標コアブロックは捕捉不能。"
+    ],
+    "english": "Identification of the targets' core blocks impossible."
+  },
+  {
+    "time": "00:13:15",
+    "character": "青葉",
+    "segments": [
+      "おそらく擬製コクーン内に潜伏中と思われます。"
+    ],
+    "english": "They may be hiding inside a cloaking cocoon."
+  },
+  {
+    "time": "00:13:19",
+    "character": "リツコ",
+    "segments": [
+      "マズイわね。このままだと飽和攻撃を浴びるわ。"
+    ],
+    "english": "Second wave incoming. Blood type blue."
+  },
+  {
+    "time": "00:13:22",
+    "character": "北上",
+    "segments": [
+      "接触まであと６００秒！"
+    ],
+    "english": "Six hundred seconds until contact!"
+  },
+  {
+    "time": "00:13:24",
+    "character": "リツコ",
+    "segments": [
+      "葛城艦長。艦隊の即時散開を提案します。"
+    ],
+    "english": "Captain Katsuragi,"
+  },
+  {
+    "time": "00:13:29",
+    "character": "リツコ",
+    "segments": [
+      "乗員の定数及び練度不足。"
+    ],
+    "english": "We have insufficient and unskilled personnel."
+  },
+  {
+    "time": "00:13:32",
+    "character": "リツコ",
+    "segments": [
+      "おまけに本艦は艤装途中の未完成。"
+    ],
+    "english": "Our ship is also in the process of being outfitted."
+  },
+  {
+    "time": "00:13:35",
+    "character": "リツコ",
+    "segments": [
+      "とどめに攻撃目標たるコアブロックも捕捉できない。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:13:38",
+    "character": "リツコ",
+    "segments": [
+      "つまり、現状での勝算はゼロです。"
+    ],
+    "english": "In other words, our chances for winning are zero."
+  },
+  {
+    "time": "00:13:41",
+    "character": "リツコ",
+    "segments": [
+      "ここはいつも通り撤退を。"
+    ],
+    "english": "At this point, we should retreat like we usually do."
+  },
+  {
+    "time": "00:13:43",
+    "character": "リツコ",
+    "segments": [
+      "為す術がないのよ、"
+    ],
+    "english": "There's no other option, Captain Katsuragi!"
+  },
+  {
+    "time": "00:13:45",
+    "character": "リツコ",
+    "segments": [
+      "葛城艦長！"
+    ],
+    "english": "Glasses, enough with the damn singing!"
+  },
+  {
+    "time": "00:13:47",
+    "character": "ミサト",
+    "segments": [
+      "だからこそ、現状を変えて、後顧の憂いを断つ。"
+    ],
+    "english": "And that's why I will change the status quo and bring our anxieties to an end."
+  },
+  {
+    "time": "00:13:52",
+    "character": "ミサト",
+    "segments": [
+      "副長。飛ぶわよ。"
+    ],
+    "english": "Vice Captain, we're going to fly."
+  },
+  {
+    "time": "00:13:54",
+    "character": "リツコ",
+    "segments": [
+      "とぶ？"
+    ],
+    "english": "Fly?!"
+  },
+  {
+    "time": "00:13:55",
+    "character": "リツコ",
+    "segments": [
+      "まさか、主機を使う気！？"
+    ],
+    "english": "You can't be thinking of using the main engine?!"
+  },
+  {
+    "time": "00:24:05",
+    "character": "ミサト",
+    "segments": [
+      "全艦、発進準備！"
+    ],
+    "english": "All ships, prepare to launch!"
+  },
+  {
+    "time": "00:24:07",
+    "character": "ミサト",
+    "segments": [
+      "主機点火準備！"
+    ],
+    "english": "We actually won."
+  },
+  {
+    "time": "00:24:09",
+    "character": "北上･多摩",
+    "segments": [
+      "ええええっ！？"
+    ],
+    "english": "She's brazen as you get."
+  },
+  {
+    "time": "00:24:11",
+    "character": "リツコ",
+    "segments": [
+      "いきなり本艦での実戦は無茶よ、葛城艦長！"
+    ],
+    "english": "Putting this ship into service now is insane, Captain Katsuragi!"
+  },
+  {
+    "time": "00:14:06",
+    "character": "多摩",
+    "segments": [
+      "同意します！"
+    ],
+    "english": "I agree!"
+  },
+  {
+    "time": "00:14:13",
+    "character": "北上",
+    "segments": [
+      "勝てない戦(いくさ)はなしがいいな。"
+    ],
+    "english": "I'd rather not fight a battle we can't win."
+  },
+  {
+    "time": "00:14:21",
+    "character": "北上",
+    "segments": [
+      "えええ！年寄りなら慎重にいくもんでしょお！？"
+    ],
+    "english": "Shouldn't you old folks watch out for yourselves?"
+  },
+  {
+    "time": "00:14:30",
+    "character": "ミサト",
+    "segments": [
+      "神殺しの力、見極めるだけよ。"
+    ],
+    "english": "The power to kill gods... I'll see what it can do."
+  },
+  {
+    "time": "00:14:36",
+    "character": "リツコ",
+    "segments": [
+      "まさか、エヴァを使う気？"
+    ],
+    "english": "Don't tell me you're going to use the Evas?"
+  },
+  {
+    "time": "00:14:40",
+    "character": "マリ（無線）",
+    "segments": [
+      "８号機まだムリ。"
+    ],
+    "english": "Eva-08 isn't ready yet."
+  },
+  {
+    "time": "00:14:42",
+    "character": "シンジ",
+    "segments": [
+      "アスカ？"
+    ],
+    "english": "Asuka?"
+  },
+  {
+    "time": "00:15:07",
+    "character": "北上",
+    "segments": [
+      "了解。"
+    ],
+    "english": "Roger."
+  },
+  {
+    "time": "00:15:08",
+    "character": "北上",
+    "segments": [
+      "エヴァ改２号機発進中。"
+    ],
+    "english": "Preparing Eva-02' for launch."
+  },
+  {
+    "time": "00:15:09",
+    "character": "伊吹",
+    "segments": [
+      "続いて、水中モーター及びレフトコンテナ１番を投下！"
+    ],
+    "english": "Also deploying the underwater motor and Left Container No. 1."
+  },
+  {
+    "time": "00:15:43",
+    "character": "ミサト",
+    "segments": [
+      "全艦、第一種戦闘配置"
+    ],
+    "english": "All ships to Battle Stations One."
+  },
+  {
+    "time": "00:15:46",
+    "character": "アナウンス",
+    "segments": [
+      "全艦、第一種戦闘配置。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:15:48",
+    "character": "アナウンス",
+    "segments": [
+      "繰り返す、全艦、第一種戦闘配置"
+    ],
+    "english": "Repeat, all ships to Battle Stations One."
+  },
+  {
+    "time": "00:15:51",
+    "character": "リツコ",
+    "segments": [
+      "戦闘指揮系統を移行。"
+    ],
+    "english": "Shifting to the battle command system."
+  },
+  {
+    "time": "00:15:54",
+    "character": "リツコ",
+    "segments": [
+      "主要員は戦闘艦橋へ。"
+    ],
+    "english": "All key personnel, head to the combat bridge."
+  },
+  {
+    "time": "00:15:56",
+    "character": "ミサト",
+    "segments": [
+      "重力バラスト、準備。"
+    ],
+    "english": "Prepare the gravity ballast."
+  },
+  {
+    "time": "00:15:58",
+    "character": "長良",
+    "segments": [
+      "了解。"
+    ],
+    "english": "Checking all vents."
+  },
+  {
+    "time": "00:15:58",
+    "character": "長良",
+    "segments": [
+      "全ベントをチェック。"
+    ],
+    "english": "Checking all vents."
+  },
+  {
+    "time": "00:16:00",
+    "character": "ミサト",
+    "segments": [
+      "艦の主制御をアンカリングプラグへ集中。"
+    ],
+    "english": "Focus all primary control of the ship to the anchoring plug."
+  },
+  {
+    "time": "00:16:02",
+    "character": "高雄",
+    "segments": [
+      "了解。"
+    ],
+    "english": "Roger."
+  },
+  {
+    "time": "00:16:03",
+    "character": "高雄",
+    "segments": [
+      "ディセント準備。"
+    ],
+    "english": "Preparing descent."
+  },
+  {
+    "time": "00:16:04",
+    "character": "高雄",
+    "segments": [
+      "インジェクター確認。"
+    ],
+    "english": "Confirming injector."
+  },
+  {
+    "time": "00:16:05",
+    "character": "高雄",
+    "segments": [
+      "カウント入ります。"
+    ],
+    "english": "Starting countdown."
+  },
+  {
+    "time": "00:26:15",
+    "character": "アナウンス",
+    "segments": [
+      "ヒルムシュタムタワー移動準備"
+    ],
+    "english": "Preparing to move the Hirnstamm Tower."
+  },
+  {
+    "time": "00:16:16",
+    "character": "北上",
+    "segments": [
+      "チッ"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:26:28",
+    "character": "シンジ",
+    "segments": [
+      "僕は乗らなくていいんですか？ミサトさん！！"
+    ],
+    "english": "Lieutenant?"
+  },
+  {
+    "time": "00:26:32",
+    "character": "アナウンス",
+    "segments": [
+      "プラグ内、電荷用意。"
+    ],
+    "english": "Readying the electric charge inside the plug."
+  },
+  {
+    "time": "00:26:33",
+    "character": "アナウンス",
+    "segments": [
+      "エントリーを準備"
+    ],
+    "english": "Um, I know this introduction comes late, but I'm your assigned medical officer,"
+  },
+  {
+    "time": "00:26:34",
+    "character": "リツコ",
+    "segments": [
+      "そうよ。"
+    ],
+    "english": "There's no need for you to pilot the Eva."
+  },
+  {
+    "time": "00:26:34",
+    "character": "リツコ",
+    "segments": [
+      "あなたがエヴァに乗る必要はありません。"
+    ],
+    "english": "There's no need for you to pilot the Eva."
+  },
+  {
+    "time": "00:26:37",
+    "character": "アナウンス",
+    "segments": [
+      "ヒルムスタムタワー、分離。"
+    ],
+    "english": "Separating the Hirnstamm Tower."
+  },
+  {
+    "time": "00:26:39",
+    "character": "アナウンス",
+    "segments": [
+      "起動開始。"
+    ],
+    "english": "Commencing start-up."
+  },
+  {
+    "time": "00:26:40",
+    "character": "女",
+    "segments": [
+      "現在、指揮系統を戦闘艦橋へ移行中。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:26:44",
+    "character": "女",
+    "segments": [
+      "繰り返す、指揮系統を戦闘艦橋へ移行中。"
+    ],
+    "english": "No need?"
+  },
+  {
+    "time": "00:26:44",
+    "character": "シンジ",
+    "segments": [
+      "必要ないって"
+    ],
+    "english": "No need?"
+  },
+  {
+    "time": "00:26:46",
+    "character": "シンジ",
+    "segments": [
+      "・・・・・・あの、"
+    ],
+    "english": "Wait, \"Suzuhara\"?"
+  },
+  {
+    "time": "00:26:47",
+    "character": "シンジ",
+    "segments": [
+      "じゃあ、僕は何をすればいいんですか？"
+    ],
+    "english": "Then, what should I do instead?"
+  },
+  {
+    "time": "00:17:08",
+    "character": "リツコ",
+    "segments": [
+      "エントリースタート。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:17:10",
+    "character": "女(無線)",
+    "segments": [
+      "ＬＣＬ電荷状態は正常。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:27:20",
+    "character": "女(無線)",
+    "segments": [
+      "各演算総合システムをスタート。"
+    ],
+    "english": "Starting all integrated processor systems."
+  },
+  {
+    "time": "00:27:22",
+    "character": "ミサト",
+    "segments": [
+      "状況は！？"
+    ],
+    "english": "What's our status?"
+  },
+  {
+    "time": "00:27:23",
+    "character": "北上",
+    "segments": [
+      "総員点呼完了、"
+    ],
+    "english": "It's no good. I can't stop myself."
+  },
+  {
+    "time": "00:27:24",
+    "character": "女(無線)",
+    "segments": [
+      "／＃＃＃＃、問題なし。"
+    ],
+    "english": "No problems with initial contact."
+  },
+  {
+    "time": "00:27:25",
+    "character": "北上",
+    "segments": [
+      "移乗を確認。"
+    ],
+    "english": "I've been holding it in all these years."
+  },
+  {
+    "time": "00:27:27",
+    "character": "女(無線)",
+    "segments": [
+      "第一次リストをクリア。"
+    ],
+    "english": "First list has cleared."
+  },
+  {
+    "time": "00:27:28",
+    "character": "多摩",
+    "segments": [
+      "全隔壁の閉鎖を確認、"
+    ],
+    "english": "Confirming the closure of all barrier walls."
+  },
+  {
+    "time": "00:27:30",
+    "character": "多摩",
+    "segments": [
+      "耐圧チェックを終了。"
+    ],
+    "english": "Terminating pressure resistance check."
+  },
+  {
+    "time": "00:17:28",
+    "character": "高雄",
+    "segments": [
+      "臨界まであと５％。"
+    ],
+    "english": "Another 5% until it hits critical."
+  },
+  {
+    "time": "00:17:30",
+    "character": "長良",
+    "segments": [
+      "ジャイロコンパス始動。"
+    ],
+    "english": "Initiating the gyrocompass."
+  },
+  {
+    "time": "00:17:31",
+    "character": "長良",
+    "segments": [
+      "スタビライザー問題無し"
+    ],
+    "english": "Stabilizer nominal."
+  },
+  {
+    "time": "00:17:33",
+    "character": "女(無線)",
+    "segments": [
+      "視覚化情報処理を開始。"
+    ],
+    "english": "Commencing visual data processing."
+  },
+  {
+    "time": "00:17:35",
+    "character": "女(無線)",
+    "segments": [
+      "主モニター、点灯します。"
+    ],
+    "english": "Turning on the main monitor."
+  },
+  {
+    "time": "00:17:41",
+    "character": "青葉",
+    "segments": [
+      "改２号機　推進機を廃棄。"
+    ],
+    "english": "Eva-02' discarding propellers."
+  },
+  {
+    "time": "00:17:43",
+    "character": "青葉",
+    "segments": [
+      "左腕を換装中。"
+    ],
+    "english": "Now switching out the left arm."
+  },
+  {
+    "time": "00:18:12",
+    "character": "北上",
+    "segments": [
+      "みるみるエネルギーが増大してます！"
+    ],
+    "english": "Their energy is skyrocketing!"
+  },
+  {
+    "time": "00:18:18",
+    "character": "青葉",
+    "segments": [
+      "味方巡洋艦蒸発！"
+    ],
+    "english": "Allied cruiser has been vaporized!"
+  },
+  {
+    "time": "00:18:19",
+    "character": "リツコ",
+    "segments": [
+      "飽和攻撃よ。"
+    ],
+    "english": "A saturated attack."
+  },
+  {
+    "time": "00:18:24",
+    "character": "北上",
+    "segments": [
+      "接触まであと、３６０秒！"
+    ],
+    "english": "Another 360 seconds until contact!"
+  },
+  {
+    "time": "00:18:38",
+    "character": "青葉",
+    "segments": [
+      "改２号機、作業開始。"
+    ],
+    "english": "Eva-02' has commenced operations."
+  },
+  {
+    "time": "00:18:40",
+    "character": "男{無線)",
+    "segments": [
+      "流入圧力　３００％！"
+    ],
+    "english": "Influent pressure at 300%!"
+  },
+  {
+    "time": "00:18:42",
+    "character": "高雄",
+    "segments": [
+      "かまわん！"
+    ],
+    "english": "Doesn't matter!"
+  },
+  {
+    "time": "00:18:43",
+    "character": "高雄",
+    "segments": [
+      "フライホイールへ全てのエネルギーを回せ！"
+    ],
+    "english": "Transfer all energy to the flywheel!"
+  },
+  {
+    "time": "00:18:45",
+    "character": "高雄",
+    "segments": [
+      "最優先だ！"
+    ],
+    "english": "Make that top priority!"
+  },
+  {
+    "time": "00:18:57",
+    "character": "女(BG)",
+    "segments": [
+      "/第８３＃＃＃炎上中、消火出来ません！"
+    ],
+    "english": "The 7th converter cluster has exploded!"
+  },
+  {
+    "time": "00:18:57",
+    "character": "多摩",
+    "segments": [
+      "第７コンバータ群爆発！"
+    ],
+    "english": "The 7th converter cluster has exploded!"
+  },
+  {
+    "time": "00:18:59",
+    "character": "高雄",
+    "segments": [
+      "ダウンしたラインにかまうな！"
+    ],
+    "english": "Disregard the broken lines!"
+  },
+  {
+    "time": "00:19:01",
+    "character": "高雄",
+    "segments": [
+      "強制注入を続けろ！"
+    ],
+    "english": "Proceed with the forced injection!"
+  },
+  {
+    "time": "00:19:03",
+    "character": "高雄",
+    "segments": [
+      "圧力計は全て無視だ！"
+    ],
+    "english": "Ignore all the pressure gauges!"
+  },
+  {
+    "time": "00:19:05",
+    "character": "多摩",
+    "segments": [
+      "フライホイール圧着板ロック解除。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:19:07",
+    "character": "多摩",
+    "segments": [
+      "回転開始"
+    ],
+    "english": "Beginning rotation!"
+  },
+  {
+    "time": "00:19:19",
+    "character": "多摩",
+    "segments": [
+      "補機回転、出力８０％へ"
+    ],
+    "english": "Auxiliary engine output has reached 80%!"
+  },
+  {
+    "time": "00:19:21",
+    "character": "高雄",
+    "segments": [
+      "触媒を強制投入"
+    ],
+    "english": "Force insert the catalyst!"
+  },
+  {
+    "time": "00:19:42",
+    "character": "北上",
+    "segments": [
+      "あと３５秒！"
+    ],
+    "english": "Thirty-five seconds remaining!"
+  },
+  {
+    "time": "00:19:44",
+    "character": "アナウンス",
+    "segments": [
+      "回転数上昇中。１万、１万２千"
+    ],
+    "english": "Rotational speed increasing!"
+  },
+  {
+    "time": "00:19:46",
+    "character": "青葉",
+    "segments": [
+      "改２号機、点火位置"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:19:48",
+    "character": "多摩",
+    "segments": [
+      "来ましたっ！"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:19:52",
+    "character": "高雄",
+    "segments": [
+      "始動、最終段階です。"
+    ],
+    "english": "We're in the final start-up phase!"
+  },
+  {
+    "time": "00:19:54",
+    "character": "ミサト",
+    "segments": [
+      "了解。"
+    ],
+    "english": "Roger."
+  },
+  {
+    "time": "00:19:55",
+    "character": "ミサト",
+    "segments": [
+      "操艦系を切り替え。"
+    ],
+    "english": "Switch to flight mode."
+  },
+  {
+    "time": "00:19:56",
+    "character": "長良",
+    "segments": [
+      "了解。"
+    ],
+    "english": "Roger."
+  },
+  {
+    "time": "00:19:57",
+    "character": "長良",
+    "segments": [
+      "時空間制御を開始。"
+    ],
+    "english": "Starting spatiotemporal control."
+  },
+  {
+    "time": "00:19:58",
+    "character": "長良",
+    "segments": [
+      "立体式操舵に移行します。"
+    ],
+    "english": "Transferring to 3D control of vessel."
+  },
+  {
+    "time": "00:20:02",
+    "character": "ミサト",
+    "segments": [
+      "点火と同時にA.T.フィールドを展開。"
+    ],
+    "english": "Deploy the A.T. Field at the moment of ignition."
+  },
+  {
+    "time": "00:20:04",
+    "character": "多摩",
+    "segments": [
+      "回転数3万6千！オールグリーン！"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:20:07",
+    "character": "高雄",
+    "segments": [
+      "コンタクト、行けます！"
+    ],
+    "english": "Contact imminent!"
+  },
+  {
+    "time": "00:20:09",
+    "character": "ミサト",
+    "segments": [
+      "カウント省略。"
+    ],
+    "english": "Skip the countdown!"
+  },
+  {
+    "time": "00:20:10",
+    "character": "ミサト",
+    "segments": [
+      "メイン接続"
+    ],
+    "english": "Connect the main engine!"
+  },
+  {
+    "time": "00:20:11",
+    "character": "高雄",
+    "segments": [
+      "接続！"
+    ],
+    "english": "Connecting!"
+  },
+  {
+    "time": "00:20:16",
+    "character": "ミサト",
+    "segments": [
+      "点火！"
+    ],
+    "english": "Ignite!"
+  },
+  {
+    "time": "00:20:34",
+    "character": "北上",
+    "segments": [
+      "障害物、クリア。"
+    ],
+    "english": "Obstacles cleared!"
+  },
+  {
+    "time": "00:20:35",
+    "character": "リツコ",
+    "segments": [
+      "各部確認。"
+    ],
+    "english": "Check every department!"
+  },
+  {
+    "time": "00:20:36",
+    "character": "リツコ",
+    "segments": [
+      "僚艦は全て退避。"
+    ],
+    "english": "Pull back all consort ships!"
+  },
+  {
+    "time": "00:21:30",
+    "character": "多摩",
+    "segments": [
+      "主翼を貫通！損害不明！"
+    ],
+    "english": "Main wings penetrated! Extent of damage unknown!"
+  },
+  {
+    "time": "00:21:36",
+    "character": "長良",
+    "segments": [
+      "ゴースターン、ようそろ！"
+    ],
+    "english": "Go astern! Keeping her steady!"
+  },
+  {
+    "time": "00:21:44",
+    "character": "ミサト",
+    "segments": [
+      "このままコアブロックを　擬製コクーンから引きずり出す！"
+    ],
+    "english": "Now drag the core blocks out of the cloaking cocoon!"
+  },
+  {
+    "time": "00:21:53",
+    "character": "多摩",
+    "segments": [
+      "主翼ビームに亀裂発生！"
+    ],
+    "english": "Cracks are appearing in the main wing beams!"
+  },
+  {
+    "time": "00:21:55",
+    "character": "ミサト",
+    "segments": [
+      "舵、そのまま！"
+    ],
+    "english": "Keep the rudder steady!"
+  },
+  {
+    "time": "00:21:56",
+    "character": "ミサト",
+    "segments": [
+      "主機、全力運転！"
+    ],
+    "english": "Run main engine at full power!"
+  },
+  {
+    "time": "00:21:58",
+    "character": "高雄",
+    "segments": [
+      "両舷一杯！"
+    ],
+    "english": "Maximum power to both sides!"
+  },
+  {
+    "time": "00:22:00",
+    "character": "長良",
+    "segments": [
+      "最大戦速！"
+    ],
+    "english": "Full throttle!"
+  },
+  {
+    "time": "00:22:28",
+    "character": "北上",
+    "segments": [
+      "出た！コアブロックです！"
+    ],
+    "english": "The core blocks are out!"
+  },
+  {
+    "time": "00:22:30",
+    "character": "ミサト",
+    "segments": [
+      "今だ！"
+    ],
+    "english": "Now!"
+  },
+  {
+    "time": "00:22:31",
+    "character": "ミサト",
+    "segments": [
+      "取り舵一杯！"
+    ],
+    "english": "Hard aport!"
+  },
+  {
+    "time": "00:22:32",
+    "character": "ミサト",
+    "segments": [
+      "振り回せ！！"
+    ],
+    "english": "Swing her around!"
+  },
+  {
+    "time": "00:22:33",
+    "character": "長良",
+    "segments": [
+      "りょーかい！"
+    ],
+    "english": "Roger!"
+  },
+  {
+    "time": "00:23:00",
+    "character": "ミサト",
+    "segments": [
+      "スラスター全開。"
+    ],
+    "english": "Thrusters at maximum!"
+  },
+  {
+    "time": "00:23:01",
+    "character": "ミサト",
+    "segments": [
+      "急制動！"
+    ],
+    "english": "Full-on brake!"
+  },
+  {
+    "time": "00:23:12",
+    "character": "青葉",
+    "segments": [
+      "目標、沈黙！"
+    ],
+    "english": "No signs of target activity!"
+  },
+  {
+    "time": "00:23:13",
+    "character": "ミサト",
+    "segments": [
+      "主砲、発射準備！"
+    ],
+    "english": "Main cannons, prepare to fire!"
+  },
+  {
+    "time": "00:23:15",
+    "character": "ミサト",
+    "segments": [
+      "エネルギー貫通弾を装填。"
+    ],
+    "english": "Load the energy-penetrating ammo!"
+  },
+  {
+    "time": "00:23:17",
+    "character": "ミサト",
+    "segments": [
+      "全砲塔に主機を直結。"
+    ],
+    "english": "Connect all gun turrets to the main engine."
+  },
+  {
+    "time": "00:23:19",
+    "character": "ミサト",
+    "segments": [
+      "給弾用回路開け"
+    ],
+    "english": "Open the ammo supply circuits!"
+  },
+  {
+    "time": "00:23:20",
+    "character": "高雄",
+    "segments": [
+      "了解。回路開きます。"
+    ],
+    "english": "Roger. Opening ammo supply circuits."
+  },
+  {
+    "time": "00:23:23",
+    "character": "北上",
+    "segments": [
+      "測定誤差、ギリギリまで修正中！"
+    ],
+    "english": "Applying last-minute corrections to measurement errors!"
+  },
+  {
+    "time": "00:23:25",
+    "character": "女(無線)",
+    "segments": [
+      "射撃盤、連動せず。"
+    ],
+    "english": "Artillery systems are unlinked!"
+  },
+  {
+    "time": "00:23:27",
+    "character": "日向",
+    "segments": [
+      "各砲直接照準及び手動追尾はいけます！"
+    ],
+    "english": "Direct aiming and manual tracking ready on all cannons!"
+  },
+  {
+    "time": "00:23:30",
+    "character": "ミサト",
+    "segments": [
+      "ならば結構。"
+    ],
+    "english": "Then we're all set."
+  },
+  {
+    "time": "00:23:31",
+    "character": "ミサト",
+    "segments": [
+      "撃てぇ！！"
+    ],
+    "english": "Fire!"
+  },
+  {
+    "time": "00:23:56",
+    "character": "青葉",
+    "segments": [
+      "目標、殲滅"
+    ],
+    "english": "Target destroyed!"
+  },
+  {
+    "time": "00:23:58",
+    "character": "ミサト",
+    "segments": [
+      "全艦、第２種警戒態勢。"
+    ],
+    "english": "All ships, go to secondary state of alert."
+  },
+  {
+    "time": "00:24:00",
+    "character": "ミサト",
+    "segments": [
+      "改２号機の回収用意。"
+    ],
+    "english": "Prepare to retrieve Eva-02'."
+  },
+  {
+    "time": "00:24:02",
+    "character": "ミサト",
+    "segments": [
+      "主翼の応急処置を急いで。"
+    ],
+    "english": "Start emergency repairs on the main wings with all haste."
+  },
+  {
+    "time": "00:24:06",
+    "character": "多摩",
+    "segments": [
+      "･･･すごい。"
+    ],
+    "english": "Wow..."
+  },
+  {
+    "time": "00:24:07",
+    "character": "北上",
+    "segments": [
+      "ホントに勝っちゃった。"
+    ],
+    "english": "We actually won."
+  },
+  {
+    "time": "00:24:09",
+    "character": "高雄",
+    "segments": [
+      "まったくムチャをする･･････"
+    ],
+    "english": "She's brazen as you get."
+  },
+  {
+    "time": "00:24:12",
+    "character": "高雄",
+    "segments": [
+      "加持の話より面白い艦長だ。"
+    ],
+    "english": "The captain's even more interesting than Kaji described."
+  },
+  {
+    "time": "00:24:15",
+    "character": "リツコ",
+    "segments": [
+      "これが神殺しの力。"
+    ],
+    "english": "So this is the power to kill gods."
+  },
+  {
+    "time": "00:24:17",
+    "character": "リツコ",
+    "segments": [
+      "･･････ヴンダー。まさに希望の船ね。"
+    ],
+    "english": "Wunder. Truly the ship of hope."
+  },
+  {
+    "time": "00:25:00",
+    "character": "サクラ",
+    "segments": [
+      "検体ＢＭ０３。仮称碇シンジさん。"
+    ],
+    "english": "Specimen BM03. Tentative Name: Ikari Shinji-san."
+  },
+  {
+    "time": "00:25:03",
+    "character": "サクラ",
+    "segments": [
+      "副長から説明があるそうです。"
+    ],
+    "english": "The vice-captain would like to speak with you."
+  },
+  {
+    "time": "00:25:06",
+    "character": "シンジ",
+    "segments": [
+      "―――これが初号機？"
+    ],
+    "english": "That's Eva-01...?"
+  },
+  {
+    "time": "00:25:08",
+    "character": "リツコ",
+    "segments": [
+      "ええ。初号機は現在本艦の主機として使用中。"
+    ],
+    "english": "Yes. Eva-01 is currently being used as the main engine of this ship."
+  },
+  {
+    "time": "00:25:13",
+    "character": "リツコ",
+    "segments": [
+      "ゆえにパイロットは不要です。"
+    ],
+    "english": "It follows that we don't need a pilot."
+  },
+  {
+    "time": "00:25:16",
+    "character": "シンジ",
+    "segments": [
+      "ホントに、いらないんですね"
+    ],
+    "english": "It really is true, then."
+  },
+  {
+    "time": "00:25:19",
+    "character": "リツコ",
+    "segments": [
+      "それと、あなたの深層シンクロテストの結果が出ました。"
+    ],
+    "english": "Also, your deep sync test results are in."
+  },
+  {
+    "time": "00:25:23",
+    "character": "リツコ",
+    "segments": [
+      "シンクロ率は０.００％。"
+    ],
+    "english": "Your sync rate is 0.00%."
+  },
+  {
+    "time": "00:25:26",
+    "character": "リツコ",
+    "segments": [
+      "仮にあなたがエヴァに搭乗しても起動しません"
+    ],
+    "english": "Even if you were to get in the Eva, it wouldn't activate."
+  },
+  {
+    "time": "00:25:30",
+    "character": "サクラ",
+    "segments": [
+      "そっかあ。"
+    ],
+    "english": "There we go!"
+  },
+  {
+    "time": "00:25:31",
+    "character": "サクラ",
+    "segments": [
+      "よかったですね、碇さん"
+    ],
+    "english": "Isn't that great, Ikari-san?"
+  },
+  {
+    "time": "00:25:33",
+    "character": "リツコ",
+    "segments": [
+      "とはいえ、先に突如１２秒間も、覚醒状態と化した事実は看過できない。"
+    ],
+    "english": "Still, we cannot overlook the fact that the unit suddenly entered an Awakened state for twelve seconds earlier."
+  },
+  {
+    "time": "00:25:39",
+    "character": "リツコ",
+    "segments": [
+      "故にあなたには　DSSチョーカーを装着させてあります。"
+    ],
+    "english": "As a result, we've installed the DSS Choker on you."
+  },
+  {
+    "time": "00:25:44",
+    "character": "シンジ",
+    "segments": [
+      "何ですか、これ？"
+    ],
+    "english": "What is this?"
+  },
+  {
+    "time": "00:25:45",
+    "character": "リツコ",
+    "segments": [
+      "私たちへの保険。"
+    ],
+    "english": "Insurance for us."
+  },
+  {
+    "time": "00:25:48",
+    "character": "リツコ",
+    "segments": [
+      "覚醒回避のための物理的安全装置。"
+    ],
+    "english": "It's a physical safety device that prevents Awakenings."
+  },
+  {
+    "time": "00:25:51",
+    "character": "リツコ",
+    "segments": [
+      "私たちの不信と　あなたへの罰の象徴です。"
+    ],
+    "english": "It symbolizes both your punishment, and our mistrust in you."
+  },
+  {
+    "time": "00:25:55",
+    "character": "シンジ",
+    "segments": [
+      "どういうことですか？"
+    ],
+    "english": "What do you mean?"
+  },
+  {
+    "time": "00:25:56",
+    "character": "リツコ",
+    "segments": [
+      "エヴァ搭乗時、自己の感情に飲み込まれ覚醒リスクを抑えられない事態に達した場合、"
+    ],
+    "english": "Should you succumb to your emotions while piloting an Eva, and the risk of Awakening becomes too great to avoid,"
+  },
+  {
+    "time": "00:26:04",
+    "character": "リツコ",
+    "segments": [
+      "あなたの一命をもってせき止める、ということです。"
+    ],
+    "english": "this will intervene by terminating your life."
+  },
+  {
+    "time": "00:26:08",
+    "character": "シンジ",
+    "segments": [
+      "それって・・・死ぬってことですか？"
+    ],
+    "english": "Does that mean... I'll die?"
+  },
+  {
+    "time": "00:26:13",
+    "character": "リツコ",
+    "segments": [
+      "否定はしません。"
+    ],
+    "english": "I won't deny that."
+  },
+  {
+    "time": "00:26:16",
+    "character": "シンジ",
+    "segments": [
+      "そんな・・・。"
+    ],
+    "english": "No way..."
+  },
+  {
+    "time": "00:26:18",
+    "character": "シンジ",
+    "segments": [
+      "ミサトさん・・・どういう事なんですか？死ぬって"
+    ],
+    "english": "Misato-san, what's the meaning of this? I'll die?"
+  },
+  {
+    "time": "00:26:22",
+    "character": "シンジ",
+    "segments": [
+      "変ですよ、ミサトさん！"
+    ],
+    "english": "It doesn't make sense, Misato-san!"
+  },
+  {
+    "time": "00:26:24",
+    "character": "シンジ",
+    "segments": [
+      "急にこんなことになってて、ワケわかんないですよっ！！"
+    ],
+    "english": "How'd things suddenly end up this way? It's ridiculous!"
+  },
+  {
+    "time": "00:26:27",
+    "character": "リツコ",
+    "segments": [
+      "混乱するのも無理ないわ。"
+    ],
+    "english": "It can't blame you for being confused."
+  },
+  {
+    "time": "00:26:28",
+    "character": "リツコ",
+    "segments": [
+      "少尉"
+    ],
+    "english": "Lieutenant?"
+  },
+  {
+    "time": "00:26:29",
+    "character": "サクラ",
+    "segments": [
+      "あ、ハイ"
+    ],
+    "english": "Yes, ma'am?"
+  },
+  {
+    "time": "00:26:30",
+    "character": "リツコ",
+    "segments": [
+      "彼に官姓名を。"
+    ],
+    "english": "Tell him your name and rank."
+  },
+  {
+    "time": "00:26:31",
+    "character": "サクラ",
+    "segments": [
+      "ハイ"
+    ],
+    "english": "Yes, ma'am!"
+  },
+  {
+    "time": "00:26:33",
+    "character": "サクラ",
+    "segments": [
+      "えっと、今更ですが、碇さんの管理担当医官、"
+    ],
+    "english": "Um, I know this introduction comes late, but I'm your assigned medical officer,"
+  },
+  {
+    "time": "00:26:38",
+    "character": "サクラ",
+    "segments": [
+      "鈴原サクラ少尉です。"
+    ],
+    "english": "Lt. Suzuhara Sakura."
+  },
+  {
+    "time": "00:26:41",
+    "character": "サクラ",
+    "segments": [
+      "よろしく、です！"
+    ],
+    "english": "Nice to meet you."
+  },
+  {
+    "time": "00:26:43",
+    "character": "シンジ",
+    "segments": [
+      "あ、ハイ。"
+    ],
+    "english": "Ah, same."
+  },
+  {
+    "time": "00:26:46",
+    "character": "シンジ",
+    "segments": [
+      "でも、スズハラって、"
+    ],
+    "english": "Wait, \"Suzuhara\"?"
+  },
+  {
+    "time": "00:26:48",
+    "character": "シンジ",
+    "segments": [
+      "トウジの？"
+    ],
+    "english": "Are you Toji's...?"
+  },
+  {
+    "time": "00:26:50",
+    "character": "サクラ",
+    "segments": [
+      "ハイ。"
+    ],
+    "english": "That's right."
+  },
+  {
+    "time": "00:26:51",
+    "character": "サクラ",
+    "segments": [
+      "お兄ちゃんがお世話になりました。"
+    ],
+    "english": "Thank you for being friends with my brother."
+  },
+  {
+    "time": "00:26:53",
+    "character": "サクラ",
+    "segments": [
+      "妹のサクラです。"
+    ],
+    "english": "I'm his younger sister, Sakura."
+  },
+  {
+    "time": "00:26:55",
+    "character": "シンジ",
+    "segments": [
+      "妹？"
+    ],
+    "english": "Younger sister?"
+  },
+  {
+    "time": "00:26:56",
+    "character": "シンジ",
+    "segments": [
+      "お姉さんじゃなくて？"
+    ],
+    "english": "Don't you mean older?"
+  },
+  {
+    "time": "00:26:57",
+    "character": "サクラ",
+    "segments": [
+      "ハイ。妹です！"
+    ],
+    "english": "No, younger."
+  },
+  {
+    "time": "00:27:00",
+    "character": "サクラ",
+    "segments": [
+      "テヘ"
+    ],
+    "english": "...you'll do nothing."
+  },
+  {
+    "time": "00:27:01",
+    "character": "シンジ",
+    "segments": [
+      "妹・・・何で？"
+    ],
+    "english": "Younger...? How?"
+  },
+  {
+    "time": "00:27:04",
+    "character": "アスカ",
+    "segments": [
+      "あれから１４年経ってるってことよ。"
+    ],
+    "english": "Fourteen years have passed since then."
+  },
+  {
+    "time": "00:27:07",
+    "character": "アスカ",
+    "segments": [
+      "バカシンジ。"
+    ],
+    "english": "Stupid Shinji."
+  },
+  {
+    "time": "00:27:09",
+    "character": "シンジ",
+    "segments": [
+      "え、あ、アスカ！？"
+    ],
+    "english": "Huh? A-Asuka!"
+  },
+  {
+    "time": "00:27:15",
+    "character": "シンジ",
+    "segments": [
+      "良かった！"
+    ],
+    "english": "Thank goodness!"
+  },
+  {
+    "time": "00:27:16",
+    "character": "シンジ",
+    "segments": [
+      "やっぱり無事だったんだね！アスカッ！"
+    ],
+    "english": "You really are okay, Asuka!"
+  },
+  {
+    "time": "00:27:20",
+    "character": "シンジ",
+    "segments": [
+      "あはっ･･･"
+    ],
+    "english": "Starting all integrated processor systems."
+  },
+  {
+    "time": "00:27:23",
+    "character": "アスカ",
+    "segments": [
+      "ダメね。"
+    ],
+    "english": "It's no good. I can't stop myself."
+  },
+  {
+    "time": "00:27:25",
+    "character": "アスカ",
+    "segments": [
+      "押えきれない。"
+    ],
+    "english": "I've been holding it in all these years."
+  },
+  {
+    "time": "00:27:26",
+    "character": "アスカ",
+    "segments": [
+      "ずーっとガマンしてたし。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:40:35",
+    "character": "多摩",
+    "segments": [
+      "隔壁を緊急閉鎖"
+    ],
+    "english": "Do nothing."
+  },
+  {
+    "time": "00:40:36",
+    "character": "シンジ",
+    "segments": [
+      "エヴァ？零号機？"
+    ],
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:26",
+    "character": "ミサト",
+    "segments": [
+      "何もしないで。"
+    ],
+    "english": "Sorry, sorry!"
+  },
+  {
+    "time": "01:09:26",
+    "character": "声",
+    "segments": [
+      "嫌い。バッカみたい。"
+    ],
+    "english": "Sorry, sorry!"
+  },
+  {
+    "time": "01:09:28",
+    "character": "声",
+    "segments": [
+      "あんたのこと好きになるハズないじゃない。"
+    ],
+    "english": "Adams' Vessel-san,"
+  },
+  {
+    "time": "01:09:28",
+    "character": "声",
+    "segments": [
+      "あんたなんか生まれて来れなきゃよかったのよ！"
+    ],
+    "english": "Adams' Vessel-san,"
+  },
+  {
+    "time": "01:09:29",
+    "character": "声",
+    "segments": [
+      "／There's no way I'd fall for you."
+    ],
+    "english": "I don't know."
+  },
+  {
+    "time": "01:09:29",
+    "character": "声",
+    "segments": [
+      "あんたさえ、いなけりゃいいのに。"
+    ],
+    "english": "I don't know."
+  },
+  {
+    "time": "01:09:30",
+    "character": "シンジ",
+    "segments": [
+      "父さん・・・"
+    ],
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:31",
+    "character": "声",
+    "segments": [
+      "正直、苦手というより一番キライなタイプなのよ、あなたって。"
+    ],
+    "english": "at least I'll stop *you* in your tracks."
+  },
+  {
+    "time": "01:09:31",
+    "character": "声",
+    "segments": [
+      "もうあっち行ってて。"
+    ],
+    "english": "at least I'll stop *you* in your tracks."
+  },
+  {
+    "time": "01:09:31",
+    "character": "アスカ",
+    "segments": [
+      "あんたには関係ない。"
+    ],
+    "english": "at least I'll stop *you* in your tracks."
+  },
+  {
+    "time": "01:09:33",
+    "character": "アスカ",
+    "segments": [
+      "あんたには関係ない。"
+    ],
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "01:09:38",
+    "character": "シンジ",
+    "segments": [
+      "母さん・・・"
+    ],
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:09:39",
+    "character": "サクラ",
+    "segments": [
+      "エヴァにだけは乗らんで下さいよ！"
+    ],
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:09:41",
+    "character": "アスカ",
+    "segments": [
+      "あんたには関係ない。"
+    ],
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "01:09:43",
+    "character": "声",
+    "segments": [
+      "／Your existence means nothing to me."
+    ],
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:43",
+    "character": "ゲンドウ",
+    "segments": [
+      "エヴァに乗れ。"
+    ],
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:45",
+    "character": "レイ",
+    "segments": [
+      "知らない。"
+    ],
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:09:45",
+    "character": "レイ",
+    "segments": [
+      "知らない。"
+    ],
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:09:45",
+    "character": "声",
+    "segments": [
+      "／Just disappear already."
+    ],
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:09:47",
+    "character": "声",
+    "segments": [
+      "／You'd burden me as a friend."
+    ],
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:09:50",
+    "character": "声",
+    "segments": [
+      "あんたのこと好きになるハズないじゃない。"
+    ],
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "01:09:50",
+    "character": "ミサト",
+    "segments": [
+      "何もしないで。"
+    ],
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "01:09:52",
+    "character": "声",
+    "segments": [
+      "正直、苦手というより一番キライなタイプなのよ、あなたって。"
+    ],
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:09:53",
+    "character": "レイ",
+    "segments": [
+      "知らない。"
+    ],
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:09:54",
+    "character": "ゲンドウ",
+    "segments": [
+      "エヴァに乗れ。"
+    ],
+    "english": "Why are you getting in our way, Asuka?"
+  },
+  {
+    "time": "01:09:55",
+    "character": "アスカ",
+    "segments": [
+      "あんたには関係ない。"
+    ],
+    "english": "Bye-bye!"
+  },
+  {
+    "time": "01:09:56",
+    "character": "ミサト",
+    "segments": [
+      "何もしないで。"
+    ],
+    "english": "Those are our Spears of hope!"
+  },
+  {
+    "time": "01:09:56",
+    "character": "サクラ",
+    "segments": [
+      "エヴァにだけは乗らんで下さいよ！"
+    ],
+    "english": "Those are our Spears of hope!"
+  },
+  {
+    "time": "01:09:57",
+    "character": "レイ",
+    "segments": [
+      "知らない。"
+    ],
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:57",
+    "character": "ゲンドウ",
+    "segments": [
+      "エヴァに乗れ。"
+    ],
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:58",
+    "character": "サクラ",
+    "segments": [
+      "エヴァにだけは乗らんで下さいよ！"
+    ],
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:09:58",
+    "character": "アスカ",
+    "segments": [
+      "あんたには関係ない。"
+    ],
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:09:59",
+    "character": "レイ",
+    "segments": [
+      "知らない。"
+    ],
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "01:10:00",
+    "character": "サクラ",
+    "segments": [
+      "エヴァにだけは乗らんで下さいよ！"
+    ],
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:10:05",
+    "character": "サクラ",
+    "segments": [
+      "エヴァにだけは乗らんで下さいよ！"
+    ],
+    "english": "Are you trying to cause Third Impact again?"
+  },
+  {
+    "time": "01:10:07",
+    "character": "レイ",
+    "segments": [
+      "知らない。"
+    ],
+    "english": "No I'm not!"
+  },
+  {
+    "time": "01:10:16",
+    "character": "シンジ",
+    "segments": [
+      "何してたんだ僕は・・・"
+    ],
+    "english": "You really *are* a little brat."
+  },
+  {
+    "time": "00:11:46",
+    "character": "シンジ",
+    "segments": [
+      "お願いだから　邪魔しないでよ"
+    ],
+    "english": "Inputting mass variation factors."
+  },
+  {
+    "time": "01:30:51",
+    "character": "多摩",
+    "segments": [
+      "中央部さらに被弾！"
+    ],
+    "english": "Severe damage to the third armor plate!"
+  },
+  {
+    "time": "01:24:59",
+    "character": "カヲル",
+    "segments": [
+      "ガフの扉は、僕が閉じる。"
+    ],
+    "english": "I'll close the Gates of Guf."
+  },
+  {
+    "time": "01:35:34",
+    "character": "テロップ",
+    "segments": [
+      "シン・エヴァンゲリオン劇場版：｜｜"
+    ],
+    "english": "There'll be plenty of fan service all the way to the end!"
+  }
+]

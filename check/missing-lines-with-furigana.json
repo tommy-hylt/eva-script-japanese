@@ -1,0 +1,7930 @@
+[
+  {
+    "time": "00:12:24",
+    "character": "女(無線)",
+    "segments": [
+      {
+        "kanji": "軌道",
+        "reading": "きどう"
+      },
+      {
+        "kanji": "最終",
+        "reading": "さいしゅう"
+      },
+      {
+        "kanji": "修正",
+        "reading": "しゅうせい"
+      },
+      "、",
+      {
+        "kanji": "完了",
+        "reading": "かんりょう"
+      },
+      "。"
+    ],
+    "english": "Final orbit corrections complete."
+  },
+  {
+    "time": "00:12:27",
+    "character": "女(無線)",
+    "segments": [
+      "１８０",
+      {
+        "kanji": "度",
+        "reading": "ど"
+      },
+      {
+        "kanji": "回頭",
+        "reading": "かいとう"
+      },
+      {
+        "kanji": "完了",
+        "reading": "かんりょう"
+      },
+      "。"
+    ],
+    "english": "180-degree rotation complete."
+  },
+  {
+    "time": "00:12:28",
+    "character": "日向(無線)",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      },
+      "。"
+    ],
+    "english": "Roger."
+  },
+  {
+    "time": "00:12:29",
+    "character": "日向(無線)",
+    "segments": [
+      "ポッドツーダッシュ、",
+      {
+        "kanji": "交差",
+        "reading": "こうさ"
+      },
+      {
+        "kanji": "軌道",
+        "reading": "きどう"
+      },
+      "への",
+      {
+        "kanji": "遷移",
+        "reading": "せんい"
+      },
+      "スタート。"
+    ],
+    "english": "Pod 02-Dash will start transitioning to the intercept orbit."
+  },
+  {
+    "time": "00:12:32",
+    "character": "日向(無線)",
+    "segments": [
+      "これより",
+      {
+        "kanji": "作戦",
+        "reading": "さくせん"
+      },
+      {
+        "kanji": "行動",
+        "reading": "こうどう"
+      },
+      "に",
+      {
+        "kanji": "移",
+        "reading": "うつ"
+      },
+      "る。"
+    ],
+    "english": "What's the status of the procedures on deck?"
+  },
+  {
+    "time": "00:12:34",
+    "character": "青葉(無線)",
+    "segments": [
+      {
+        "kanji": "現時点",
+        "reading": "げんじてん"
+      },
+      "で",
+      {
+        "kanji": "全",
+        "reading": "すべ"
+      },
+      "てのリモート",
+      {
+        "kanji": "誘導",
+        "reading": "ゆうどう"
+      },
+      "を",
+      {
+        "kanji": "切",
+        "reading": "き"
+      },
+      "る。"
+    ],
+    "english": "I'm in charge of that?"
+  },
+  {
+    "time": "00:12:36",
+    "character": "青葉(無線)",
+    "segments": [
+      {
+        "kanji": "以後",
+        "reading": "いご"
+      },
+      "の",
+      {
+        "kanji": "制御",
+        "reading": "せいぎょ"
+      },
+      "はローカル。"
+    ],
+    "english": "Of course you are! Double jobs!"
+  },
+  {
+    "time": "00:12:38",
+    "character": "日向(無線)",
+    "segments": [
+      "グッドラック。"
+    ],
+    "english": "Huh? Seriously?"
+  },
+  {
+    "time": "00:02:32",
+    "character": "女(無線)",
+    "segments": [
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      "との",
+      {
+        "kanji": "交差",
+        "reading": "こうさ"
+      },
+      {
+        "kanji": "軌道",
+        "reading": "きどう"
+      },
+      "に",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "った。"
+    ],
+    "english": "Unit is on intercept course with the target."
+  },
+  {
+    "time": "00:02:34",
+    "character": "女(無線)",
+    "segments": [
+      {
+        "kanji": "接触",
+        "reading": "せっしょく"
+      },
+      "まであと８０(ハチマル)。"
+    ],
+    "english": "Eighty measures until contact."
+  },
+  {
+    "time": "00:02:37",
+    "character": "北上(無線)",
+    "segments": [
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      "物",
+      "を",
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      },
+      "。"
+    ],
+    "english": "Confirming target."
+  },
+  {
+    "time": "00:02:38",
+    "character": "青葉(無線)",
+    "segments": [
+      {
+        "kanji": "接触",
+        "reading": "せっしょく"
+      },
+      {
+        "kanji": "地点",
+        "reading": "ちてん"
+      },
+      "に",
+      {
+        "kanji": "変更",
+        "reading": "へんこう"
+      },
+      "なし。"
+    ],
+    "english": "Contact point is unchanged."
+  },
+  {
+    "time": "00:02:40",
+    "character": "北上(無線)",
+    "segments": [
+      "シフトエムを",
+      {
+        "kanji": "維持",
+        "reading": "いじ"
+      },
+      "、",
+      {
+        "kanji": "問題",
+        "reading": "もんだい"
+      },
+      "なし。"
+    ],
+    "english": "Maintaining Shift-M. No problems."
+  },
+  {
+    "time": "00:02:43",
+    "character": "ミサト(無線)",
+    "segments": [
+      "ツーダッシュはランデブーを",
+      {
+        "kanji": "用意",
+        "reading": "ようい"
+      },
+      "。"
+    ],
+    "english": "02-Dash, prepare to rendezvous."
+  },
+  {
+    "time": "00:02:45",
+    "character": "ミサト(無線)",
+    "segments": [
+      "エイトは",
+      {
+        "kanji": "高度",
+        "reading": "こうど"
+      },
+      {
+        "kanji": "不足",
+        "reading": "ふそく"
+      },
+      "のため",
+      {
+        "kanji": "再突入",
+        "reading": "さいとつにゅう"
+      },
+      "までの９６",
+      {
+        "kanji": "秒間",
+        "reading": "びょうかん"
+      },
+      "だけ",
+      {
+        "kanji": "援護",
+        "reading": "えんご"
+      },
+      {
+        "kanji": "可能",
+        "reading": "かのう"
+      },
+      "。"
+    ],
+    "english": "08 is lacking altitude, so it can only assist you in the ninety-six seconds until re-entry."
+  },
+  {
+    "time": "00:12:59",
+    "character": "ミサト(無線)",
+    "segments": [
+      "それまでにケリをつけて"
+    ],
+    "english": "Finish this by then."
+  },
+  {
+    "time": "00:13:01",
+    "character": "日向(無線)",
+    "segments": [
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      {
+        "kanji": "宙域",
+        "reading": "ちゅういき"
+      },
+      "に",
+      {
+        "kanji": "反射波",
+        "reading": "はんしゃは"
+      },
+      "あり。"
+    ],
+    "english": "Reflective waves detected in target space."
+  },
+  {
+    "time": "00:13:03",
+    "character": "日向(無線)",
+    "segments": [
+      {
+        "kanji": "妨害",
+        "reading": "ぼうがい"
+      },
+      "が",
+      {
+        "kanji": "入",
+        "reading": "はい"
+      },
+      "った。"
+    ],
+    "english": "It's jamming us!"
+  },
+  {
+    "time": "00:13:04",
+    "character": "青葉(無線)",
+    "segments": [
+      {
+        "kanji": "自動",
+        "reading": "じどう"
+      },
+      {
+        "kanji": "防衛",
+        "reading": "ぼうえい"
+      },
+      "システムの",
+      {
+        "kanji": "質量",
+        "reading": "しつりょう"
+      },
+      {
+        "kanji": "兵器",
+        "reading": "へいき"
+      },
+      "だ。"
+    ],
+    "english": "It's just the auto-defense system's mass weapon."
+  },
+  {
+    "time": "00:13:06",
+    "character": "青葉(無線)",
+    "segments": [
+      {
+        "kanji": "問題",
+        "reading": "もんだい"
+      },
+      "ない。"
+    ],
+    "english": "No need to worry."
+  },
+  {
+    "time": "00:13:10",
+    "character": "男(無線)",
+    "segments": [
+      {
+        "kanji": "爆散円",
+        "reading": "ばくさんえん"
+      },
+      {
+        "kanji": "発生",
+        "reading": "はっせい"
+      },
+      "！"
+    ],
+    "english": "Burst shockwaves emanating!"
+  },
+  {
+    "time": "00:13:11",
+    "character": "男(無線)",
+    "segments": [
+      {
+        "kanji": "到達",
+        "reading": "とうたつ"
+      },
+      "まで、３、２、１。"
+    ],
+    "english": "Incoming in three... two... one..."
+  },
+  {
+    "time": "00:13:14",
+    "character": "アスカ",
+    "segments": [
+      "うっ！"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:13:19",
+    "character": "青葉(無線)",
+    "segments": [
+      {
+        "kanji": "続",
+        "reading": "つづ"
+      },
+      "いて",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "２",
+      {
+        "kanji": "波",
+        "reading": "は"
+      },
+      "。パターン",
+      "青",
+      "。"
+    ],
+    "english": "Second wave incoming. Blood type blue."
+  },
+  {
+    "time": "00:13:20",
+    "character": "青葉(無線)",
+    "segments": [
+      "やっかいな",
+      {
+        "kanji": "連中",
+        "reading": "れんちゅう"
+      },
+      "だ。"
+    ],
+    "english": "At this rate, we'll be on the receiving end of a saturated attack."
+  },
+  {
+    "time": "00:13:22",
+    "character": "男(無線)",
+    "segments": [
+      {
+        "kanji": "接近中",
+        "reading": "せっきんちゅう"
+      },
+      "の",
+      {
+        "kanji": "物体",
+        "reading": "ぶったい"
+      },
+      "を",
+      {
+        "kanji": "識別",
+        "reading": "しきべつ"
+      },
+      "。"
+    ],
+    "english": "Six hundred seconds until contact!"
+  },
+  {
+    "time": "00:03:15",
+    "character": "男(無線)",
+    "segments": [
+      "コード４Ａと",
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      },
+      "。"
+    ],
+    "english": "Confirmed to be Mk. 04A."
+  },
+  {
+    "time": "00:03:27",
+    "character": "アスカ",
+    "segments": [
+      "アンチＡ．Ｔ．フィールド"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:13:39",
+    "character": "アスカ",
+    "segments": [
+      "ちっ、タチ",
+      {
+        "kanji": "悪",
+        "reading": "わる"
+      },
+      "いっ！"
+    ],
+    "english": "This thing's useless!"
+  },
+  {
+    "time": "00:03:31",
+    "character": "アスカ",
+    "segments": [
+      "ええいやっぱり",
+      {
+        "kanji": "邪魔",
+        "reading": "じゃま"
+      },
+      "！"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:03:37",
+    "character": "アスカ",
+    "segments": [
+      "コネメガネ！いつまで",
+      {
+        "kanji": "唄",
+        "reading": "うた"
+      },
+      "ってんの！うっとうしい！"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:13:52",
+    "character": "アスカ",
+    "segments": [
+      {
+        "kanji": "援護",
+        "reading": "えんご"
+      },
+      {
+        "kanji": "射撃",
+        "reading": "しゃげき"
+      },
+      "、2",
+      {
+        "kanji": "秒",
+        "reading": "びょう"
+      },
+      "おそい！"
+    ],
+    "english": "Vice Captain, we're going to fly."
+  },
+  {
+    "time": "00:13:58",
+    "character": "マリ",
+    "segments": [
+      "そっちの",
+      {
+        "kanji": "位置",
+        "reading": "いち"
+      },
+      "････3",
+      {
+        "kanji": "秒",
+        "reading": "びょう"
+      },
+      {
+        "kanji": "早",
+        "reading": "はや"
+      },
+      "い"
+    ],
+    "english": "And you're three seconds ahead of position."
+  },
+  {
+    "time": "00:14:00",
+    "character": "アスカ",
+    "segments": [
+      {
+        "kanji": "臨機応変",
+        "reading": "りんきおうへん"
+      },
+      "。",
+      {
+        "kanji": "合",
+        "reading": "あ"
+      },
+      "わせなさいよっ"
+    ],
+    "english": "It's called adapting to the situation. Keep up with me!"
+  },
+  {
+    "time": "00:14:03",
+    "character": "マリ",
+    "segments": [
+      {
+        "kanji": "仰",
+        "reading": "おお"
+      },
+      "せの",
+      {
+        "kanji": "通",
+        "reading": "とお"
+      },
+      "りに。"
+    ],
+    "english": "As you command,"
+  },
+  {
+    "time": "00:14:05",
+    "character": "マリ",
+    "segments": [
+      "お",
+      {
+        "kanji": "姫",
+        "reading": "ひめ"
+      },
+      "さまっ！"
+    ],
+    "english": "Princess!"
+  },
+  {
+    "time": "00:14:14",
+    "character": "アスカ",
+    "segments": [
+      "フラーレンシフトを",
+      {
+        "kanji": "抜",
+        "reading": "ぬ"
+      },
+      "けた。"
+    ],
+    "english": "Got through the Fullerene Shift."
+  },
+  {
+    "time": "00:04:07",
+    "character": "アスカ",
+    "segments": [
+      {
+        "kanji": "最終",
+        "reading": "さいしゅう"
+      },
+      {
+        "kanji": "防衛",
+        "reading": "ぼうえい"
+      },
+      "エリア８９を",
+      {
+        "kanji": "突破",
+        "reading": "とっぱ"
+      },
+      "･･････"
+    ],
+    "english": "Breaking into Final Defense Area 89."
+  },
+  {
+    "time": "00:04:09",
+    "character": "アスカ",
+    "segments": [
+      "ハッ"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:04:10",
+    "character": "アスカ",
+    "segments": [
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      "物",
+      "が",
+      {
+        "kanji": "移動",
+        "reading": "いどう"
+      },
+      "してる"
+    ],
+    "english": "The target is moving!"
+  },
+  {
+    "time": "00:04:16",
+    "character": "アスカ",
+    "segments": [
+      {
+        "kanji": "軌道",
+        "reading": "きどう"
+      },
+      {
+        "kanji": "修正",
+        "reading": "しゅうせい"
+      },
+      "が",
+      {
+        "kanji": "追",
+        "reading": "お"
+      },
+      "いつかない。"
+    ],
+    "english": "No time to correct my orbit!"
+  },
+  {
+    "time": "00:04:17",
+    "character": "アスカ",
+    "segments": [
+      "このまま",
+      {
+        "kanji": "強行",
+        "reading": "きょうこう"
+      },
+      "する"
+    ],
+    "english": "I'll just have to brute this!"
+  },
+  {
+    "time": "00:04:40",
+    "character": "アスカ",
+    "segments": [
+      {
+        "kanji": "減速",
+        "reading": "げんそく"
+      },
+      "っ！"
+    ],
+    "english": "Decelerate!"
+  },
+  {
+    "time": "00:04:47",
+    "character": "アスカ",
+    "segments": [
+      "８、"
+    ],
+    "english": "Seven!"
+  },
+  {
+    "time": "00:04:48",
+    "character": "アスカ",
+    "segments": [
+      "７、"
+    ],
+    "english": "Six!"
+  },
+  {
+    "time": "00:04:49",
+    "character": "アスカ",
+    "segments": [
+      "６、"
+    ],
+    "english": "Five!"
+  },
+  {
+    "time": "00:04:50",
+    "character": "アスカ",
+    "segments": [
+      "５、"
+    ],
+    "english": "Four!"
+  },
+  {
+    "time": "00:04:51",
+    "character": "アスカ",
+    "segments": [
+      "４、"
+    ],
+    "english": "Three!"
+  },
+  {
+    "time": "00:04:52",
+    "character": "アスカ",
+    "segments": [
+      "３、"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:04:53",
+    "character": "アスカ",
+    "segments": [
+      "２、"
+    ],
+    "english": "Two!"
+  },
+  {
+    "time": "00:04:54",
+    "character": "アスカ",
+    "segments": [
+      "１、"
+    ],
+    "english": "One!"
+  },
+  {
+    "time": "00:04:55",
+    "character": "アスカ",
+    "segments": [
+      {
+        "kanji": "燃焼",
+        "reading": "ねんしょう"
+      },
+      {
+        "kanji": "終了",
+        "reading": "しゅうりょう"
+      }
+    ],
+    "english": "Terminating combustion!"
+  },
+  {
+    "time": "00:15:12",
+    "character": "北上(無線)",
+    "segments": [
+      "ツーダッシュ、",
+      {
+        "kanji": "最終",
+        "reading": "さいしゅう"
+      },
+      "ブースターをジェットソン"
+    ],
+    "english": "02-Dash has jettisoned the last boosters."
+  },
+  {
+    "time": "00:15:14",
+    "character": "北上(無線)",
+    "segments": [
+      {
+        "kanji": "再突入",
+        "reading": "さいとつにゅう"
+      },
+      {
+        "kanji": "保安",
+        "reading": "ほあん"
+      },
+      {
+        "kanji": "距離",
+        "reading": "きょり"
+      },
+      "を",
+      {
+        "kanji": "確保",
+        "reading": "かくほ"
+      }
+    ],
+    "english": "Ensuring safe distance for re-entry."
+  },
+  {
+    "time": "00:15:16",
+    "character": "男(無線)",
+    "segments": [
+      {
+        "kanji": "軌道",
+        "reading": "きどう"
+      },
+      {
+        "kanji": "誤差",
+        "reading": "ごさ"
+      },
+      "は",
+      {
+        "kanji": "修正",
+        "reading": "しゅうせい"
+      },
+      {
+        "kanji": "範囲内",
+        "reading": "はんいない"
+      },
+      "。",
+      {
+        "kanji": "突入",
+        "reading": "とつにゅう"
+      },
+      {
+        "kanji": "角度",
+        "reading": "かくど"
+      },
+      "を",
+      {
+        "kanji": "再計算",
+        "reading": "さいけいさん"
+      }
+    ],
+    "english": "Orbital errors are within correctable ranges. Recalculating angle of entry."
+  },
+  {
+    "time": "00:05:09",
+    "character": "アスカ",
+    "segments": [
+      {
+        "kanji": "強奪",
+        "reading": "ごうだつ"
+      },
+      {
+        "kanji": "成功",
+        "reading": "せいこう"
+      },
+      "。"
+    ],
+    "english": "Successfully seized the target."
+  },
+  {
+    "time": "00:05:11",
+    "character": "アスカ",
+    "segments": [
+      {
+        "kanji": "帰投",
+        "reading": "きとう"
+      },
+      "するわ"
+    ],
+    "english": "Returning to base."
+  },
+  {
+    "time": "00:05:13",
+    "character": "ミサト(無線)",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      },
+      "。"
+    ],
+    "english": "Roger."
+  },
+  {
+    "time": "00:05:14",
+    "character": "ミサト(無線)",
+    "segments": [
+      {
+        "kanji": "回収",
+        "reading": "かいしゅう"
+      },
+      {
+        "kanji": "地点",
+        "reading": "ちてん"
+      },
+      "にて",
+      {
+        "kanji": "待",
+        "reading": "ま"
+      },
+      "つ。"
+    ],
+    "english": "We'll be waiting at the retrieval point."
+  },
+  {
+    "time": "00:05:16",
+    "character": "ミサト(無線)",
+    "segments": [
+      {
+        "kanji": "合流",
+        "reading": "ごうりゅう"
+      },
+      "コードはパターンV。"
+    ],
+    "english": "The join code is Saturn V."
+  },
+  {
+    "time": "00:05:17",
+    "character": "アスカ",
+    "segments": [
+      "・・・・・・",
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      },
+      "。"
+    ],
+    "english": "Roger."
+  },
+  {
+    "time": "00:05:19",
+    "character": "アスカ",
+    "segments": [
+      "パターン",
+      "青",
+      "！？"
+    ],
+    "english": "Blood type blue?"
+  },
+  {
+    "time": "00:05:20",
+    "character": "アスカ",
+    "segments": [
+      "どこにいるの！？"
+    ],
+    "english": "Where?!"
+  },
+  {
+    "time": "00:05:25",
+    "character": "女(無線)",
+    "segments": [
+      {
+        "kanji": "妨害",
+        "reading": "ぼうがい"
+      },
+      "物",
+      "はコード4B。"
+    ],
+    "english": "The interfering object is Mk. 04B."
+  },
+  {
+    "time": "00:05:27",
+    "character": "女(無線)",
+    "segments": [
+      "フィールド",
+      "反",
+      "射",
+      {
+        "kanji": "膜",
+        "reading": "まく"
+      },
+      "を",
+      {
+        "kanji": "展開中",
+        "reading": "てんかいちゅう"
+      },
+      "。"
+    ],
+    "english": "It is deploying a field-reflective coating."
+  },
+  {
+    "time": "00:05:29",
+    "character": "アスカ",
+    "segments": [
+      "チィッ！しゃらくさい！！"
+    ],
+    "english": "The nerve!"
+  },
+  {
+    "time": "00:05:30",
+    "character": "アスカ",
+    "segments": [
+      {
+        "kanji": "再突入",
+        "reading": "さいとつにゅう"
+      },
+      {
+        "kanji": "直前",
+        "reading": "ちょくぜん"
+      },
+      "だっちゅーの。"
+    ],
+    "english": "Right before re-entry, too."
+  },
+  {
+    "time": "00:05:33",
+    "character": "アスカ",
+    "segments": [
+      "コネメガネ！　",
+      {
+        "kanji": "援護",
+        "reading": "えんご"
+      },
+      "！"
+    ],
+    "english": "Glasses, back-up!"
+  },
+  {
+    "time": "00:05:35",
+    "character": "マリ(無線)",
+    "segments": [
+      "めんご！"
+    ],
+    "english": "Sorry!"
+  },
+  {
+    "time": "00:05:37",
+    "character": "マリ(無線)",
+    "segments": [
+      {
+        "kanji": "高度",
+        "reading": "こうど"
+      },
+      {
+        "kanji": "不足",
+        "reading": "ふそく"
+      },
+      "でお",
+      {
+        "kanji": "先",
+        "reading": "さき"
+      },
+      "に！"
+    ],
+    "english": "I don't have enough altitude, so see ya!"
+  },
+  {
+    "time": "00:05:39",
+    "character": "マリ(無線)",
+    "segments": [
+      "後",
+      "はセルフサービスでよろしく～っ"
+    ],
+    "english": "I'll leave the rest to y-..."
+  },
+  {
+    "time": "00:05:43",
+    "character": "アスカ",
+    "segments": [
+      "チッ！",
+      "役",
+      "たたず！"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:05:44",
+    "character": "アスカ",
+    "segments": [
+      "もう・・・・・・しつこい！"
+    ],
+    "english": "Damn, this thing's stubborn!"
+  },
+  {
+    "time": "00:05:46",
+    "character": "アスカ",
+    "segments": [
+      "こんなの",
+      "聞",
+      "いてないわよっ！"
+    ],
+    "english": "Nobody told me about this!"
+  },
+  {
+    "time": "00:05:52",
+    "character": "アスカ",
+    "segments": [
+      "！？"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:05:59",
+    "character": "アスカ",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なん"
+      },
+      "、この",
+      {
+        "kanji": "光",
+        "reading": "ひかり"
+      },
+      "！？"
+    ],
+    "english": "What's with this light?!"
+  },
+  {
+    "time": "00:06:01",
+    "character": "アスカ",
+    "segments": [
+      "Ａ．Ｔ．フィールドが",
+      {
+        "kanji": "中和",
+        "reading": "ちゅうわ"
+      },
+      "してない！！"
+    ],
+    "english": "The A.T. Field isn't neutralizing it!"
+  },
+  {
+    "time": "00:06:05",
+    "character": "アスカ",
+    "segments": [
+      "コアブロックをやらないとっ！"
+    ],
+    "english": "I gotta take out the core block!"
+  },
+  {
+    "time": "00:06:06",
+    "character": "アスカ",
+    "segments": [
+      {
+        "kanji": "逃",
+        "reading": "に"
+      },
+      "げんなこらあぁぁぁ"
+    ],
+    "english": "You're not getting away!"
+  },
+  {
+    "time": "00:06:12",
+    "character": "アスカ",
+    "segments": [
+      "やば・・・・・・",
+      {
+        "kanji": "降下",
+        "reading": "こうか"
+      },
+      {
+        "kanji": "角度",
+        "reading": "かくど"
+      },
+      "が",
+      {
+        "kanji": "維持",
+        "reading": "いじ"
+      },
+      "できない。"
+    ],
+    "english": "My unit'll fall apart at this rate!"
+  },
+  {
+    "time": "00:06:12",
+    "character": "アスカ",
+    "segments": [
+      "このままじゃ",
+      {
+        "kanji": "機体",
+        "reading": "きたい"
+      },
+      "が",
+      {
+        "kanji": "分解",
+        "reading": "ぶんかい"
+      },
+      "する"
+    ],
+    "english": "My unit'll fall apart at this rate!"
+  },
+  {
+    "time": "00:06:15",
+    "character": "ミサト(無線)",
+    "segments": [
+      "ツーダッシュ！",
+      {
+        "kanji": "作戦",
+        "reading": "さくせん"
+      },
+      {
+        "kanji": "遂行",
+        "reading": "すいこう"
+      },
+      "を",
+      {
+        "kanji": "最優先",
+        "reading": "さいゆうせん"
+      },
+      "！"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:06:18",
+    "character": "ミサト(無線)",
+    "segments": [
+      {
+        "kanji": "機体",
+        "reading": "きたい"
+      },
+      "を",
+      {
+        "kanji": "捨",
+        "reading": "す"
+      },
+      "てても",
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      "物",
+      "を",
+      {
+        "kanji": "離",
+        "reading": "はな"
+      },
+      "さないで"
+    ],
+    "english": "Don't let go of the target object, even if it means sacrificing the unit."
+  },
+  {
+    "time": "00:06:21",
+    "character": "アスカ",
+    "segments": [
+      {
+        "kanji": "分",
+        "reading": "わ"
+      },
+      "かってるっつーの！！"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:06:38",
+    "character": "アスカ",
+    "segments": [
+      "ぐうう･･････"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:06:41",
+    "character": "アスカ",
+    "segments": [
+      "なんとかしなさいよ、バカシンジーっ！"
+    ],
+    "english": "Do something, stupid Shinji!"
+  },
+  {
+    "time": "00:07:23",
+    "character": "カヲル",
+    "segments": [
+      "･･････おかえり、",
+      "碇",
+      "シンジ",
+      {
+        "kanji": "君",
+        "reading": "くん"
+      },
+      "。"
+    ],
+    "english": "Welcome home, Ikari Shinji-kun."
+  },
+  {
+    "time": "00:07:23",
+    "character": "カヲル",
+    "segments": [
+      {
+        "kanji": "待",
+        "reading": "ま"
+      },
+      "っていたよ"
+    ],
+    "english": "Welcome home, Ikari Shinji-kun."
+  },
+  {
+    "time": "00:07:42",
+    "character": "サクラ",
+    "segments": [
+      {
+        "kanji": "心肺",
+        "reading": "しんぱい"
+      },
+      {
+        "kanji": "機能",
+        "reading": "きのう"
+      },
+      "は",
+      {
+        "kanji": "正常",
+        "reading": "せいじょう"
+      },
+      "です。"
+    ],
+    "english": "Cardiopulmonary function is nominal."
+  },
+  {
+    "time": "00:07:44",
+    "character": "サクラ",
+    "segments": [
+      {
+        "kanji": "四肢",
+        "reading": "しし"
+      },
+      "の",
+      {
+        "kanji": "麻痺",
+        "reading": "まひ"
+      },
+      "は",
+      {
+        "kanji": "認",
+        "reading": "みと"
+      },
+      "められません。"
+    ],
+    "english": "No discernible paralysis of the extremities."
+  },
+  {
+    "time": "00:07:46",
+    "character": "サクラ",
+    "segments": [
+      "ハイ。",
+      {
+        "kanji": "目",
+        "reading": "め"
+      },
+      "は",
+      {
+        "kanji": "開",
+        "reading": "ひら"
+      },
+      "いてます。"
+    ],
+    "english": "Yes. He has opened his eyes."
+  },
+  {
+    "time": "00:07:50",
+    "character": "サクラ",
+    "segments": [
+      {
+        "kanji": "私",
+        "reading": "わたし"
+      },
+      "の",
+      {
+        "kanji": "言葉",
+        "reading": "ことば"
+      },
+      "が",
+      {
+        "kanji": "理解",
+        "reading": "りかい"
+      },
+      "できますか？"
+    ],
+    "english": "Can you understand me?"
+  },
+  {
+    "time": "00:07:55",
+    "character": "シンジ",
+    "segments": [
+      "･･････ここ、どこですか？"
+    ],
+    "english": "What is this place?"
+  },
+  {
+    "time": "00:07:58",
+    "character": "サクラ",
+    "segments": [
+      {
+        "kanji": "言葉",
+        "reading": "ことば"
+      },
+      "を",
+      {
+        "kanji": "話",
+        "reading": "はなし"
+      },
+      "せます。"
+    ],
+    "english": "He is capable of speech."
+  },
+  {
+    "time": "00:07:59",
+    "character": "サクラ",
+    "segments": [
+      {
+        "kanji": "意識",
+        "reading": "いしき"
+      },
+      "は",
+      {
+        "kanji": "戻",
+        "reading": "もど"
+      },
+      "ったようです。"
+    ],
+    "english": "He seems to have returned to a conscious state."
+  },
+  {
+    "time": "00:08:03",
+    "character": "シンジ",
+    "segments": [
+      "･･････",
+      {
+        "kanji": "確",
+        "reading": "たし"
+      },
+      "か、",
+      "綾",
+      {
+        "kanji": "波",
+        "reading": "は"
+      },
+      "を",
+      {
+        "kanji": "助",
+        "reading": "たす"
+      },
+      "けて･･････"
+    ],
+    "english": "I could've sworn I was saving Ayanami..."
+  },
+  {
+    "time": "00:08:06",
+    "character": "サクラ",
+    "segments": [
+      "はい、どうやら、",
+      {
+        "kanji": "記憶",
+        "reading": "きおく"
+      },
+      "の",
+      {
+        "kanji": "継続性",
+        "reading": "けいぞくせい"
+      },
+      "も",
+      {
+        "kanji": "認",
+        "reading": "みと"
+      },
+      "められます。"
+    ],
+    "english": "Yes, continuity of memory also seems acceptable."
+  },
+  {
+    "time": "00:08:10",
+    "character": "シンジ",
+    "segments": [
+      "あの、",
+      "綾",
+      {
+        "kanji": "波",
+        "reading": "は"
+      },
+      "は？"
+    ],
+    "english": "Um, where's Ayanami...?"
+  },
+  {
+    "time": "00:08:13",
+    "character": "サクラ",
+    "segments": [
+      "これは",
+      {
+        "kanji": "誰",
+        "reading": "だれ"
+      },
+      "か、わかりますか？"
+    ],
+    "english": "Is this someone you know?"
+  },
+  {
+    "time": "00:08:18",
+    "character": "シンジ",
+    "segments": [
+      "･･･",
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
+      "、ですけど。"
+    ],
+    "english": "It's... me."
+  },
+  {
+    "time": "00:08:21",
+    "character": "サクラ",
+    "segments": [
+      {
+        "kanji": "自己",
+        "reading": "じこ"
+      },
+      {
+        "kanji": "認識",
+        "reading": "にんしき"
+      },
+      "もあります。"
+    ],
+    "english": "He is capable of self-recognition as well."
+  },
+  {
+    "time": "00:08:22",
+    "character": "サクラ",
+    "segments": [
+      {
+        "kanji": "問題",
+        "reading": "もんだい"
+      },
+      "なさそうです。"
+    ],
+    "english": "No apparent problems."
+  },
+  {
+    "time": "00:08:24",
+    "character": "シンジ",
+    "segments": [
+      "なんだ、これ？"
+    ],
+    "english": "What's this?"
+  },
+  {
+    "time": "00:18:32",
+    "character": "サクラ",
+    "segments": [
+      {
+        "kanji": "尿意",
+        "reading": "にょうい"
+      },
+      "や",
+      {
+        "kanji": "空腹感",
+        "reading": "くうふくかん"
+      },
+      "はありますか？"
+    ],
+    "english": "Do you need to urinate? Are you hungry?"
+  },
+  {
+    "time": "00:18:36",
+    "character": "アナウンス",
+    "segments": [
+      {
+        "kanji": "補給",
+        "reading": "ほきゅう"
+      },
+      "作",
+      "業",
+      "、",
+      {
+        "kanji": "搬入",
+        "reading": "はんにゅう"
+      },
+      "リストの８６％までクリア"
+    ],
+    "english": "Delivery list for supplying operations cleared up to 86%."
+  },
+  {
+    "time": "00:18:38",
+    "character": "高雄",
+    "segments": [
+      {
+        "kanji": "稼働中",
+        "reading": "かどうちゅう"
+      },
+      "のＮ２リアクターは、",
+      {
+        "kanji": "出力",
+        "reading": "しゅつりょく"
+      },
+      "で９０％を",
+      {
+        "kanji": "維持",
+        "reading": "いじ"
+      },
+      "。"
+    ],
+    "english": "Eva-02' has commenced operations."
+  },
+  {
+    "time": "00:18:42",
+    "character": "北上",
+    "segments": [
+      {
+        "kanji": "半径",
+        "reading": "はんけい"
+      },
+      "１２００",
+      {
+        "kanji": "以内",
+        "reading": "いない"
+      },
+      "に",
+      {
+        "kanji": "艦影",
+        "reading": "かんえい"
+      },
+      "なし。"
+    ],
+    "english": "Doesn't matter!"
+  },
+  {
+    "time": "00:18:42",
+    "character": "高雄",
+    "segments": [
+      {
+        "kanji": "圧力弁",
+        "reading": "あつりょくべん"
+      },
+      "は",
+      {
+        "kanji": "手動",
+        "reading": "しゅどう"
+      },
+      "で",
+      {
+        "kanji": "開放",
+        "reading": "かいほう"
+      },
+      "してくれ。"
+    ],
+    "english": "Doesn't matter!"
+  },
+  {
+    "time": "00:18:44",
+    "character": "北上",
+    "segments": [
+      {
+        "kanji": "未確認",
+        "reading": "みかくにん"
+      },
+      {
+        "kanji": "飛行",
+        "reading": "ひこう"
+      },
+      {
+        "kanji": "物体",
+        "reading": "ぶったい"
+      },
+      "も",
+      {
+        "kanji": "認",
+        "reading": "みと"
+      },
+      "められず。"
+    ],
+    "english": "No unidentified flying objects can be confirmed, either."
+  },
+  {
+    "time": "00:18:45",
+    "character": "高雄",
+    "segments": [
+      "コンデンサーは",
+      {
+        "kanji": "気",
+        "reading": "き"
+      },
+      "にしなくていい"
+    ],
+    "english": "Make that top priority!"
+  },
+  {
+    "time": "00:18:46",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "乗員",
+        "reading": "じょういん"
+      },
+      "の",
+      {
+        "kanji": "移乗",
+        "reading": "いじょう"
+      },
+      "は、Ｄブロックの",
+      {
+        "kanji": "船",
+        "reading": "ふね"
+      },
+      "を",
+      {
+        "kanji": "最優先",
+        "reading": "さいゆうせん"
+      },
+      "。"
+    ],
+    "english": "Prioritize ships in D Block for personnel transfer."
+  },
+  {
+    "time": "00:18:48",
+    "character": "日向",
+    "segments": [
+      {
+        "kanji": "食料",
+        "reading": "しょくりょう"
+      },
+      {
+        "kanji": "搬入",
+        "reading": "はんにゅう"
+      },
+      "作",
+      "業",
+      "の",
+      {
+        "kanji": "人手",
+        "reading": "ひとで"
+      },
+      "がまるで",
+      {
+        "kanji": "足",
+        "reading": "た"
+      },
+      "りない。"
+    ],
+    "english": "Insufficient personnel for the ration transfer operation!"
+  },
+  {
+    "time": "00:18:50",
+    "character": "長良",
+    "segments": [
+      {
+        "kanji": "両舷",
+        "reading": "りょうげん"
+      },
+      "３",
+      {
+        "kanji": "番",
+        "reading": "ばん"
+      },
+      "５",
+      {
+        "kanji": "番",
+        "reading": "ばん"
+      },
+      "ジャイロをチェック。"
+    ],
+    "english": "Checking port and starboard gyrocompasses three and five."
+  },
+  {
+    "time": "00:18:51",
+    "character": "日向",
+    "segments": [
+      {
+        "kanji": "至急",
+        "reading": "しきゅう"
+      },
+      {
+        "kanji": "手当",
+        "reading": "てあ"
+      },
+      "てしてくれ"
+    ],
+    "english": "Expedite this, on the double!"
+  },
+  {
+    "time": "00:18:53",
+    "character": "長良",
+    "segments": [
+      {
+        "kanji": "計器",
+        "reading": "けいき"
+      },
+      "にズレがある。",
+      {
+        "kanji": "修正",
+        "reading": "しゅうせい"
+      },
+      {
+        "kanji": "願",
+        "reading": "ねが"
+      },
+      "う"
+    ],
+    "english": "The gauges are inaccurate. Requesting recalibration."
+  },
+  {
+    "time": "00:18:54",
+    "character": "多摩",
+    "segments": [
+      {
+        "kanji": "艤装",
+        "reading": "ぎそう"
+      },
+      "作",
+      "業",
+      "、ロードマップをチェック。"
+    ],
+    "english": "Checking the ships' outfitting and roadmaps."
+  },
+  {
+    "time": "00:18:56",
+    "character": "多摩",
+    "segments": [
+      "武",
+      "装",
+      {
+        "kanji": "関係",
+        "reading": "かんけい"
+      },
+      "が",
+      {
+        "kanji": "予定",
+        "reading": "よてい"
+      },
+      "より３％",
+      {
+        "kanji": "遅",
+        "reading": "おく"
+      },
+      "れています"
+    ],
+    "english": "Armament linkage is 3% behind schedule."
+  },
+  {
+    "time": "00:08:53",
+    "character": "サクラ",
+    "segments": [
+      {
+        "kanji": "検体",
+        "reading": "けんたい"
+      },
+      "、BM０３、",
+      {
+        "kanji": "拘引",
+        "reading": "こういん"
+      },
+      "しました。"
+    ],
+    "english": "Specimen BM03 is in our custody."
+  },
+  {
+    "time": "00:08:56",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      },
+      "。"
+    ],
+    "english": "Understood."
+  },
+  {
+    "time": "00:08:57",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "拘束",
+        "reading": "こうそく"
+      },
+      "を",
+      {
+        "kanji": "解",
+        "reading": "と"
+      },
+      "いて。"
+    ],
+    "english": "Release the restraints."
+  },
+  {
+    "time": "00:09:00",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "下",
+        "reading": "さ"
+      },
+      "がっていいわ。"
+    ],
+    "english": "You are all dismissed."
+  },
+  {
+    "time": "00:09:25",
+    "character": "シンジ",
+    "segments": [
+      "ミサト・・・さん？"
+    ],
+    "english": "Misato-san..."
+  },
+  {
+    "time": "00:09:28",
+    "character": "ミサト",
+    "segments": [
+      "碇",
+      "シンジ",
+      {
+        "kanji": "君",
+        "reading": "くん"
+      },
+      "。でいいのよね"
+    ],
+    "english": "It is Ikari Shinji-kun, isn't it?"
+  },
+  {
+    "time": "00:09:31",
+    "character": "リツコ",
+    "segments": [
+      "そうね。"
+    ],
+    "english": "So it would seem."
+  },
+  {
+    "time": "00:09:32",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "物理的",
+        "reading": "ぶつりてき"
+      },
+      {
+        "kanji": "情報",
+        "reading": "じょうほう"
+      },
+      "では、コード",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "３の",
+      {
+        "kanji": "少年",
+        "reading": "しょうねん"
+      },
+      "と",
+      {
+        "kanji": "完全",
+        "reading": "かんぜん"
+      },
+      "に",
+      {
+        "kanji": "一致",
+        "reading": "いっち"
+      },
+      "。"
+    ],
+    "english": "His physical data is identical to Code Third Boy."
+  },
+  {
+    "time": "00:09:37",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "生後",
+        "reading": "せいご"
+      },
+      "の",
+      {
+        "kanji": "歯",
+        "reading": "は"
+      },
+      "の",
+      {
+        "kanji": "治療痕",
+        "reading": "ちりょうこん"
+      },
+      {
+        "kanji": "等",
+        "reading": "とう"
+      },
+      {
+        "kanji": "身体",
+        "reading": "しんたい"
+      },
+      {
+        "kanji": "組織",
+        "reading": "そしき"
+      },
+      "は、ニアサー",
+      {
+        "kanji": "時",
+        "reading": "じ"
+      },
+      "を１００％",
+      {
+        "kanji": "再現",
+        "reading": "さいげん"
+      },
+      "しているわ。"
+    ],
+    "english": "Post-natal dental work and body composition perfectly match those from Near Third Impact."
+  },
+  {
+    "time": "00:09:43",
+    "character": "リツコ",
+    "segments": [
+      "なお、",
+      {
+        "kanji": "深層",
+        "reading": "しんそう"
+      },
+      "シンクロテストの",
+      {
+        "kanji": "結果",
+        "reading": "けっか"
+      },
+      "は",
+      {
+        "kanji": "分析中",
+        "reading": "ぶんせきちゅう"
+      },
+      "。"
+    ],
+    "english": "We are now analyzing his deep level sync test results."
+  },
+  {
+    "time": "00:09:46",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "頸部",
+        "reading": "けいぶ"
+      },
+      "へのＤＳＳチョーカーは？"
+    ],
+    "english": "And the DSS Choker on his neck?"
+  },
+  {
+    "time": "00:09:49",
+    "character": "リツコ",
+    "segments": [
+      "すでに",
+      {
+        "kanji": "装着済",
+        "reading": "そうちゃくずみ"
+      },
+      "よ。",
+      "葛",
+      "城",
+      {
+        "kanji": "艦長",
+        "reading": "かんちょう"
+      }
+    ],
+    "english": "It has already been installed, Captain Katsuragi."
+  },
+  {
+    "time": "00:09:52",
+    "character": "シンジ",
+    "segments": [
+      "・・・",
+      "葛",
+      "城",
+      {
+        "kanji": "艦長",
+        "reading": "かんちょう"
+      },
+      "？"
+    ],
+    "english": "Captain Katsuragi...?"
+  },
+  {
+    "time": "00:09:54",
+    "character": "シンジ",
+    "segments": [
+      "やっぱりミサトさん？"
+    ],
+    "english": "So it really is you, Misato-san?"
+  },
+  {
+    "time": "00:20:06",
+    "character": "シンジ",
+    "segments": [
+      "あれ？"
+    ],
+    "english": "Huh?"
+  },
+  {
+    "time": "00:10:03",
+    "character": "リツコ",
+    "segments": [
+      "作",
+      {
+        "kanji": "動",
+        "reading": "うご"
+      },
+      {
+        "kanji": "正常",
+        "reading": "せいじょう"
+      },
+      "。"
+    ],
+    "english": "Activation nominal."
+  },
+  {
+    "time": "00:10:04",
+    "character": "リツコ",
+    "segments": [
+      "パスコードを",
+      {
+        "kanji": "艦長",
+        "reading": "かんちょう"
+      },
+      "専",
+      "用",
+      "に。"
+    ],
+    "english": "Passcode is set for your personal use, Captain."
+  },
+  {
+    "time": "00:10:07",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      },
+      "。"
+    ],
+    "english": "Understood."
+  },
+  {
+    "time": "00:10:11",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なん"
+      },
+      "なんですか、これ？"
+    ],
+    "english": "What is this thing?!"
+  },
+  {
+    "time": "00:10:14",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "外",
+        "reading": "はず"
+      },
+      "して",
+      {
+        "kanji": "下",
+        "reading": "さ"
+      },
+      "さいよ、もう！"
+    ],
+    "english": "Please, take it off already!"
+  },
+  {
+    "time": "00:10:18",
+    "character": "サクラ",
+    "segments": [
+      {
+        "kanji": "絶対",
+        "reading": "ぜったい"
+      },
+      "に、",
+      {
+        "kanji": "外",
+        "reading": "はず"
+      },
+      "しませんよ、それ。"
+    ],
+    "english": "There's no way that's ever coming off."
+  },
+  {
+    "time": "00:10:22",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "面会",
+        "reading": "めんかい"
+      },
+      {
+        "kanji": "終了",
+        "reading": "しゅうりょう"
+      },
+      "。"
+    ],
+    "english": "We're done with him."
+  },
+  {
+    "time": "00:10:24",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "彼",
+        "reading": "かれ"
+      },
+      "を",
+      {
+        "kanji": "隔離室",
+        "reading": "かくりしつ"
+      },
+      "へ。"
+    ],
+    "english": "Take him to quarantine."
+  },
+  {
+    "time": "00:10:28",
+    "character": "ミドリ",
+    "segments": [
+      "デコイ０１（マルイチ）と０５（マルゴ）が",
+      {
+        "kanji": "消滅",
+        "reading": "しょうめつ"
+      },
+      "。"
+    ],
+    "english": "Decoys 01 and 05 destroyed."
+  },
+  {
+    "time": "00:10:30",
+    "character": "ミドリ",
+    "segments": [
+      {
+        "kanji": "波長",
+        "reading": "はちょう"
+      },
+      "も",
+      {
+        "kanji": "捕捉",
+        "reading": "ほそく"
+      },
+      "。"
+    ],
+    "english": "Wavelength acquired."
+  },
+  {
+    "time": "00:10:31",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なん"
+      },
+      "だろう、これ。"
+    ],
+    "english": "What could this be?"
+  },
+  {
+    "time": "00:10:33",
+    "character": "日向",
+    "segments": [
+      "パターン",
+      "青",
+      "だよ！"
+    ],
+    "english": "It's blood type blue."
+  },
+  {
+    "time": "00:10:34",
+    "character": "日向",
+    "segments": [
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      "を",
+      {
+        "kanji": "識別",
+        "reading": "しきべつ"
+      },
+      "。"
+    ],
+    "english": "Target identified."
+  },
+  {
+    "time": "00:10:36",
+    "character": "日向",
+    "segments": [
+      "コード４Ｃ。"
+    ],
+    "english": "Mk. 4C."
+  },
+  {
+    "time": "00:10:37",
+    "character": "日向",
+    "segments": [
+      "ネーメジェスシリーズです。"
+    ],
+    "english": "It's the Nemesis Series."
+  },
+  {
+    "time": "00:10:39",
+    "character": "ミサト",
+    "segments": [
+      "―――また",
+      {
+        "kanji": "来",
+        "reading": "き"
+      },
+      "たか。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:10:40",
+    "character": "北上(BG)",
+    "segments": [
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      "は",
+      {
+        "kanji": "全",
+        "reading": "すべ"
+      },
+      "て、コード４Ｃ。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:10:40",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "進行",
+        "reading": "しんこう"
+      },
+      "が",
+      {
+        "kanji": "立体的",
+        "reading": "りったいてき"
+      },
+      "よ。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:10:42",
+    "character": "リツコ",
+    "segments": [
+      "まずは、",
+      {
+        "kanji": "私",
+        "reading": "わたし"
+      },
+      "たちをここに",
+      {
+        "kanji": "封鎖",
+        "reading": "ふうさ"
+      },
+      "するつもりよ。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:10:43",
+    "character": "北上(BG)",
+    "segments": [
+      "/ デコイ02（マル",
+      "二",
+      "）、そして06（マルロク）が",
+      {
+        "kanji": "消滅",
+        "reading": "しょうめつ"
+      },
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      },
+      "。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:10:45",
+    "character": "ミサト",
+    "segments": [
+      "まだここを",
+      {
+        "kanji": "動",
+        "reading": "うご"
+      },
+      "くわけにはいかない。"
+    ],
+    "english": "We can't afford to move from here yet."
+  },
+  {
+    "time": "00:10:48",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "主機",
+        "reading": "しゅき"
+      },
+      {
+        "kanji": "関連",
+        "reading": "かんれん"
+      },
+      "作",
+      "業",
+      "のみ",
+      {
+        "kanji": "続行",
+        "reading": "ぞっこう"
+      },
+      "。"
+    ],
+    "english": "Stop work on everything except the main engine."
+  },
+  {
+    "time": "00:10:50",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "全艦",
+        "reading": "ぜんかん"
+      },
+      "、",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "２",
+      {
+        "kanji": "種",
+        "reading": "しゅ"
+      },
+      {
+        "kanji": "戦闘",
+        "reading": "せんとう"
+      },
+      {
+        "kanji": "配置",
+        "reading": "はいち"
+      },
+      "。"
+    ],
+    "english": "All ships to Battle Stations Two!"
+  },
+  {
+    "time": "00:10:53",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      "、",
+      {
+        "kanji": "全",
+        "reading": "すべ"
+      },
+      "ネーメジェスシリーズ。"
+    ],
+    "english": "Target the entire Nemesis Series!"
+  },
+  {
+    "time": "00:10:55",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      },
+      "。"
+    ],
+    "english": "Roger."
+  },
+  {
+    "time": "00:10:56",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "全艦",
+        "reading": "ぜんかん"
+      },
+      "、",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "２",
+      {
+        "kanji": "種",
+        "reading": "しゅ"
+      },
+      {
+        "kanji": "戦闘",
+        "reading": "せんとう"
+      },
+      {
+        "kanji": "配置",
+        "reading": "はいち"
+      },
+      "。"
+    ],
+    "english": "All ships to Battle Stations Two."
+  },
+  {
+    "time": "00:10:58",
+    "character": "日向",
+    "segments": [
+      {
+        "kanji": "対空",
+        "reading": "たいくう"
+      },
+      "、",
+      {
+        "kanji": "対水上",
+        "reading": "たいすいじょう"
+      },
+      "及",
+      "び",
+      {
+        "kanji": "水中戦",
+        "reading": "すいちゅうせん"
+      },
+      "、",
+      {
+        "kanji": "用意",
+        "reading": "ようい"
+      }
+    ],
+    "english": "Prepare for aerial, sea, and underwater battle!"
+  },
+  {
+    "time": "00:11:02",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "補給",
+        "reading": "ほきゅう"
+      },
+      "作",
+      "業",
+      "を",
+      {
+        "kanji": "中断",
+        "reading": "ちゅうだん"
+      },
+      "。"
+    ],
+    "english": "Abandon transfer of supplies."
+  },
+  {
+    "time": "00:11:03",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "乗員",
+        "reading": "じょういん"
+      },
+      {
+        "kanji": "移乗",
+        "reading": "いじょう"
+      },
+      "を",
+      {
+        "kanji": "最優先",
+        "reading": "さいゆうせん"
+      }
+    ],
+    "english": "Pod 02-Dash has reached operation altitude."
+  },
+  {
+    "time": "00:21:12",
+    "character": "女(無線)",
+    "segments": [
+      {
+        "kanji": "全艦",
+        "reading": "ぜんかん"
+      },
+      "、",
+      {
+        "kanji": "補給",
+        "reading": "ほきゅう"
+      },
+      "作",
+      "業",
+      "を",
+      {
+        "kanji": "中断",
+        "reading": "ちゅうだん"
+      },
+      "。",
+      {
+        "kanji": "乗員",
+        "reading": "じょういん"
+      },
+      {
+        "kanji": "移乗",
+        "reading": "いじょう"
+      },
+      "を",
+      {
+        "kanji": "最優先",
+        "reading": "さいゆうせん"
+      }
+    ],
+    "english": "All fleets, abandon transfer of supplies. Prioritize transfer of personnel."
+  },
+  {
+    "time": "00:21:14",
+    "character": "男(無線)",
+    "segments": [
+      {
+        "kanji": "対空",
+        "reading": "たいくう"
+      },
+      "、",
+      {
+        "kanji": "対水上",
+        "reading": "たいすいじょう"
+      },
+      "及",
+      "び",
+      {
+        "kanji": "水中戦",
+        "reading": "すいちゅうせん"
+      },
+      {
+        "kanji": "用意",
+        "reading": "ようい"
+      },
+      "。"
+    ],
+    "english": "Prepare for aerial, sea, and underwater battle."
+  },
+  {
+    "time": "00:21:16",
+    "character": "女(無線)",
+    "segments": [
+      {
+        "kanji": "主機",
+        "reading": "しゅき"
+      },
+      {
+        "kanji": "関連",
+        "reading": "かんれん"
+      },
+      "作",
+      "業",
+      "は",
+      {
+        "kanji": "続行",
+        "reading": "ぞっこう"
+      },
+      "。"
+    ],
+    "english": "Continue work on the main engine."
+  },
+  {
+    "time": "00:21:17",
+    "character": "男(無線)",
+    "segments": [
+      {
+        "kanji": "遠隔",
+        "reading": "えんかく"
+      },
+      "式",
+      "砲",
+      "雷",
+      {
+        "kanji": "撃",
+        "reading": "う"
+      },
+      {
+        "kanji": "戦",
+        "reading": "いくさ"
+      },
+      "、",
+      {
+        "kanji": "用意",
+        "reading": "ようい"
+      }
+    ],
+    "english": "Prepare long-range cannons for torpedo warfare."
+  },
+  {
+    "time": "00:21:18",
+    "character": "女(無線)",
+    "segments": [
+      {
+        "kanji": "各",
+        "reading": "かく"
+      },
+      {
+        "kanji": "動力",
+        "reading": "どうりょく"
+      },
+      {
+        "kanji": "流入",
+        "reading": "りゅうにゅう"
+      },
+      "ラインの",
+      {
+        "kanji": "開",
+        "reading": "ひら"
+      },
+      {
+        "kanji": "閉",
+        "reading": "と"
+      },
+      "を",
+      {
+        "kanji": "用意",
+        "reading": "ようい"
+      }
+    ],
+    "english": "Prepare switching of all power supply lines."
+  },
+  {
+    "time": "00:21:22",
+    "character": "女(無線)",
+    "segments": [
+      {
+        "kanji": "各",
+        "reading": "かく"
+      },
+      "航",
+      "空",
+      "機",
+      "は",
+      {
+        "kanji": "現空域",
+        "reading": "げんくういき"
+      },
+      "から",
+      {
+        "kanji": "直",
+        "reading": "ただ"
+      },
+      "ちに",
+      {
+        "kanji": "離脱",
+        "reading": "りだつ"
+      },
+      "。"
+    ],
+    "english": "All aircraft are to withdraw from our current air space at once."
+  },
+  {
+    "time": "00:21:25",
+    "character": "女(無線)",
+    "segments": [
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "２",
+      {
+        "kanji": "集結",
+        "reading": "しゅうけつ"
+      },
+      "ポイントへ",
+      {
+        "kanji": "速",
+        "reading": "すみ"
+      },
+      "やかに",
+      {
+        "kanji": "移動",
+        "reading": "いどう"
+      },
+      {
+        "kanji": "願",
+        "reading": "ねが"
+      },
+      "います。"
+    ],
+    "english": "Hurry to Meeting Point Two."
+  },
+  {
+    "time": "00:21:27",
+    "character": "男(無線)",
+    "segments": [
+      {
+        "kanji": "積",
+        "reading": "つ"
+      },
+      "み",
+      {
+        "kanji": "残",
+        "reading": "のこ"
+      },
+      "しは",
+      {
+        "kanji": "置",
+        "reading": "お"
+      },
+      "いていけ。"
+    ],
+    "english": "Abandon all remaining cargo."
+  },
+  {
+    "time": "00:21:28",
+    "character": "男(無線)",
+    "segments": [
+      {
+        "kanji": "乗組員",
+        "reading": "のりくみいん"
+      },
+      "の",
+      {
+        "kanji": "移動",
+        "reading": "いどう"
+      },
+      "が",
+      {
+        "kanji": "最優先",
+        "reading": "さいゆうせん"
+      },
+      "だ。"
+    ],
+    "english": "Transfer of personnel takes top priority."
+  },
+  {
+    "time": "00:21:30",
+    "character": "男(無線)",
+    "segments": [
+      {
+        "kanji": "艤装",
+        "reading": "ぎそう"
+      },
+      "作",
+      "業",
+      "は",
+      {
+        "kanji": "続",
+        "reading": "つづ"
+      },
+      "けろ！"
+    ],
+    "english": "Main wings penetrated! Extent of damage unknown!"
+  },
+  {
+    "time": "00:21:31",
+    "character": "男(無線)",
+    "segments": [
+      {
+        "kanji": "会敵",
+        "reading": "かいてき"
+      },
+      "ギリギリまで",
+      {
+        "kanji": "組立",
+        "reading": "くみたて"
+      },
+      "を",
+      {
+        "kanji": "頼",
+        "reading": "たの"
+      },
+      "む"
+    ],
+    "english": "Keep the work going until the very last minute!"
+  },
+  {
+    "time": "00:21:33",
+    "character": "男(無線)",
+    "segments": [
+      {
+        "kanji": "動力",
+        "reading": "どうりょく"
+      },
+      "ラインを",
+      {
+        "kanji": "手伝",
+        "reading": "てつだ"
+      },
+      "える",
+      {
+        "kanji": "者",
+        "reading": "もの"
+      },
+      "は、",
+      {
+        "kanji": "内火艇",
+        "reading": "ないかてい"
+      },
+      "に",
+      {
+        "kanji": "集合",
+        "reading": "しゅうごう"
+      },
+      "してくれ"
+    ],
+    "english": "Prepare to eliminate the targets!"
+  },
+  {
+    "time": "00:21:36",
+    "character": "女(無線)",
+    "segments": [
+      {
+        "kanji": "各",
+        "reading": "かく"
+      },
+      {
+        "kanji": "砲塔",
+        "reading": "ほうとう"
+      },
+      "、",
+      {
+        "kanji": "各",
+        "reading": "かく"
+      },
+      {
+        "kanji": "個",
+        "reading": "こ"
+      },
+      "に",
+      {
+        "kanji": "発射",
+        "reading": "はっしゃ"
+      },
+      {
+        "kanji": "準備",
+        "reading": "じゅんび"
+      },
+      "。"
+    ],
+    "english": "Go astern! Keeping her steady!"
+  },
+  {
+    "time": "00:21:38",
+    "character": "女(無線)",
+    "segments": [
+      {
+        "kanji": "遠隔",
+        "reading": "えんかく"
+      },
+      {
+        "kanji": "操作",
+        "reading": "そうさ"
+      },
+      "及",
+      "び",
+      {
+        "kanji": "連動",
+        "reading": "れんどう"
+      },
+      "システムを",
+      {
+        "kanji": "起動",
+        "reading": "きどう"
+      },
+      "。"
+    ],
+    "english": "Activate all remote control and interlocking systems."
+  },
+  {
+    "time": "00:21:41",
+    "character": "女(無線)",
+    "segments": [
+      {
+        "kanji": "不意",
+        "reading": "ふい"
+      },
+      "の",
+      {
+        "kanji": "交戦",
+        "reading": "こうせん"
+      },
+      "に",
+      {
+        "kanji": "備",
+        "reading": "そな"
+      },
+      "えてください"
+    ],
+    "english": "Please be ready for unforeseen hostilities."
+  },
+  {
+    "time": "00:21:42",
+    "character": "高雄",
+    "segments": [
+      {
+        "kanji": "主機",
+        "reading": "しゅき"
+      },
+      {
+        "kanji": "伝導",
+        "reading": "でんどう"
+      },
+      "システムは",
+      {
+        "kanji": "注入",
+        "reading": "ちゅうにゅう"
+      },
+      "作",
+      "業",
+      "を",
+      {
+        "kanji": "継続",
+        "reading": "けいぞく"
+      },
+      "。"
+    ],
+    "english": "Keep working on the injection of the main engine transmission system."
+  },
+  {
+    "time": "00:21:45",
+    "character": "高雄",
+    "segments": [
+      {
+        "kanji": "急",
+        "reading": "きゅう"
+      },
+      "げよ！"
+    ],
+    "english": "Hurry!"
+  },
+  {
+    "time": "00:21:47",
+    "character": "男(無線)",
+    "segments": [
+      "Ｎ２リアクター、",
+      {
+        "kanji": "出力",
+        "reading": "しゅつりょく"
+      },
+      "９９％で",
+      {
+        "kanji": "稼働中",
+        "reading": "かどうちゅう"
+      },
+      "。"
+    ],
+    "english": "N2 reactor operating at 99% output."
+  },
+  {
+    "time": "00:21:50",
+    "character": "女(無線)",
+    "segments": [
+      {
+        "kanji": "注入",
+        "reading": "ちゅうにゅう"
+      },
+      "作",
+      "業",
+      "を",
+      {
+        "kanji": "続行",
+        "reading": "ぞっこう"
+      },
+      "。"
+    ],
+    "english": "Resuming work on the injection."
+  },
+  {
+    "time": "00:21:52",
+    "character": "女(無線)",
+    "segments": [
+      "９０",
+      {
+        "kanji": "番",
+        "reading": "ばん"
+      },
+      "までのバルブを",
+      {
+        "kanji": "開放",
+        "reading": "かいほう"
+      },
+      "。"
+    ],
+    "english": "Opening the first ninety valves."
+  },
+  {
+    "time": "00:21:54",
+    "character": "女(無線)",
+    "segments": [
+      {
+        "kanji": "動力",
+        "reading": "どうりょく"
+      },
+      "パイプ",
+      {
+        "kanji": "接続",
+        "reading": "せつぞく"
+      },
+      {
+        "kanji": "完了",
+        "reading": "かんりょう"
+      },
+      "。"
+    ],
+    "english": "The power pipes have been connected."
+  },
+  {
+    "time": "00:21:56",
+    "character": "女(無線)",
+    "segments": [
+      "左",
+      "舷",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "３、",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "４ハブステーション",
+      "異",
+      "常",
+      "なし。"
+    ],
+    "english": "Run main engine at full power!"
+  },
+  {
+    "time": "00:21:59",
+    "character": "男(無線)",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      },
+      "。"
+    ],
+    "english": "Roger."
+  },
+  {
+    "time": "00:22:00",
+    "character": "男(無線)",
+    "segments": [
+      "９０",
+      {
+        "kanji": "番",
+        "reading": "ばん"
+      },
+      "までの",
+      {
+        "kanji": "全",
+        "reading": "すべ"
+      },
+      "バルブを",
+      {
+        "kanji": "開放",
+        "reading": "かいほう"
+      },
+      "。"
+    ],
+    "english": "Full throttle!"
+  },
+  {
+    "time": "00:22:02",
+    "character": "男(無線)",
+    "segments": [
+      "エネルギー",
+      {
+        "kanji": "流入",
+        "reading": "りゅうにゅう"
+      },
+      {
+        "kanji": "開始",
+        "reading": "かいし"
+      },
+      "。"
+    ],
+    "english": "Starting energy influx."
+  },
+  {
+    "time": "00:22:03",
+    "character": "女(無線)",
+    "segments": [
+      {
+        "kanji": "補機",
+        "reading": "ほき"
+      },
+      "Ｎ２リアクターへの",
+      {
+        "kanji": "動力",
+        "reading": "どうりょく"
+      },
+      {
+        "kanji": "流入",
+        "reading": "りゅうにゅう"
+      },
+      "、",
+      "順",
+      "調",
+      "なり。"
+    ],
+    "english": "Power influx to auxiliary N2 reactors is going smoothly."
+  },
+  {
+    "time": "00:22:06",
+    "character": "アナウンス",
+    "segments": [
+      "ＬＣＬ",
+      {
+        "kanji": "循環",
+        "reading": "じゅんかん"
+      },
+      "ポンプの",
+      {
+        "kanji": "点検中",
+        "reading": "てんけんちゅう"
+      },
+      "。"
+    ],
+    "english": "LCL circulation pumps are being inspected."
+  },
+  {
+    "time": "00:22:09",
+    "character": "アナウンス",
+    "segments": [
+      {
+        "kanji": "濾過",
+        "reading": "ろか"
+      },
+      "システムを",
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      },
+      "。"
+    ],
+    "english": "Filtration system is go."
+  },
+  {
+    "time": "00:22:10",
+    "character": "伊吹",
+    "segments": [
+      {
+        "kanji": "戦闘",
+        "reading": "せんとう"
+      },
+      {
+        "kanji": "配置",
+        "reading": "はいち"
+      },
+      "よ！"
+    ],
+    "english": "Battle stations!"
+  },
+  {
+    "time": "00:22:12",
+    "character": "伊吹",
+    "segments": [
+      "さっさと、",
+      {
+        "kanji": "部署",
+        "reading": "ぶしょ"
+      },
+      "について。"
+    ],
+    "english": "To your posts, quickly."
+  },
+  {
+    "time": "00:22:14",
+    "character": "伊吹",
+    "segments": [
+      "そこ！グズグズしない！"
+    ],
+    "english": "You there! Get a move on!"
+  },
+  {
+    "time": "00:22:16",
+    "character": "整備",
+    "segments": [
+      "ムリですよ、",
+      "整",
+      {
+        "kanji": "備",
+        "reading": "そな"
+      },
+      "長",
+      "。"
+    ],
+    "english": "You're asking the impossible, chief."
+  },
+  {
+    "time": "00:22:18",
+    "character": "整備",
+    "segments": [
+      "なんせ、",
+      {
+        "kanji": "民間人",
+        "reading": "みんかんじん"
+      },
+      "も",
+      {
+        "kanji": "混",
+        "reading": "ま"
+      },
+      "じってる",
+      {
+        "kanji": "寄",
+        "reading": "よ"
+      },
+      "せ",
+      {
+        "kanji": "集",
+        "reading": "あつ"
+      },
+      "め",
+      {
+        "kanji": "集",
+        "reading": "あつ"
+      },
+      {
+        "kanji": "団",
+        "reading": "だん"
+      },
+      "ですよぉ"
+    ],
+    "english": "We're a motley crew with *civilians* among us."
+  },
+  {
+    "time": "00:22:21",
+    "character": "伊吹",
+    "segments": [
+      {
+        "kanji": "言",
+        "reading": "い"
+      },
+      "い",
+      {
+        "kanji": "訳",
+        "reading": "わけ"
+      },
+      {
+        "kanji": "無用",
+        "reading": "むよう"
+      },
+      "！"
+    ],
+    "english": "No excuses!"
+  },
+  {
+    "time": "00:22:23",
+    "character": "伊吹",
+    "segments": [
+      "さっさと",
+      {
+        "kanji": "手",
+        "reading": "て"
+      },
+      "を",
+      {
+        "kanji": "動",
+        "reading": "うご"
+      },
+      "かせ！"
+    ],
+    "english": "Get back to work!"
+  },
+  {
+    "time": "00:22:26",
+    "character": "伊吹",
+    "segments": [
+      "チッ。コレだから、",
+      {
+        "kanji": "若",
+        "reading": "わか"
+      },
+      "い",
+      {
+        "kanji": "男",
+        "reading": "おとこ"
+      },
+      "は"
+    ],
+    "english": "Ugh! This is why I can't stand younger men."
+  },
+  {
+    "time": "00:22:28",
+    "character": "多摩",
+    "segments": [
+      "えっと、"
+    ],
+    "english": "The core blocks are out!"
+  },
+  {
+    "time": "00:22:29",
+    "character": "多摩",
+    "segments": [
+      {
+        "kanji": "艤装",
+        "reading": "ぎそう"
+      },
+      "作",
+      "業",
+      "はここで",
+      {
+        "kanji": "中断",
+        "reading": "ちゅうだん"
+      },
+      "。"
+    ],
+    "english": "Stop the outfitting work here."
+  },
+  {
+    "time": "00:22:32",
+    "character": "多摩",
+    "segments": [
+      "隔",
+      "壁",
+      "の",
+      {
+        "kanji": "閉鎖",
+        "reading": "へいさ"
+      },
+      "を",
+      {
+        "kanji": "開始",
+        "reading": "かいし"
+      },
+      "って、"
+    ],
+    "english": "Swing her around!"
+  },
+  {
+    "time": "00:22:34",
+    "character": "多摩",
+    "segments": [
+      "これか？"
+    ],
+    "english": "Is this it?"
+  },
+  {
+    "time": "00:12:27",
+    "character": "北上",
+    "segments": [
+      {
+        "kanji": "対空",
+        "reading": "たいくう"
+      },
+      {
+        "kanji": "監視",
+        "reading": "かんし"
+      },
+      "を",
+      {
+        "kanji": "厳",
+        "reading": "げん"
+      },
+      "として。ソナーの",
+      {
+        "kanji": "方位",
+        "reading": "ほうい"
+      },
+      "はこれ。"
+    ],
+    "english": "180-degree rotation complete."
+  },
+  {
+    "time": "00:12:31",
+    "character": "青葉",
+    "segments": [
+      "北",
+      "上",
+      "。"
+    ],
+    "english": "Kitakami!"
+  },
+  {
+    "time": "00:12:32",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "甲板",
+        "reading": "こうはん"
+      },
+      "作",
+      "業",
+      "の",
+      {
+        "kanji": "状況",
+        "reading": "じょうきょう"
+      },
+      "は？"
+    ],
+    "english": "What's the status of the procedures on deck?"
+  },
+  {
+    "time": "00:12:34",
+    "character": "北上",
+    "segments": [
+      "それ、",
+      {
+        "kanji": "私",
+        "reading": "わたし"
+      },
+      "の",
+      {
+        "kanji": "担当",
+        "reading": "たんとう"
+      },
+      "ですか？"
+    ],
+    "english": "I'm in charge of that?"
+  },
+  {
+    "time": "00:12:36",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "兼任",
+        "reading": "けんにん"
+      },
+      "だ。",
+      {
+        "kanji": "当然",
+        "reading": "とうぜん"
+      },
+      "だろ！"
+    ],
+    "english": "Of course you are! Double jobs!"
+  },
+  {
+    "time": "00:12:38",
+    "character": "北上",
+    "segments": [
+      "ええ～～えっ！？マァジィィィ！？"
+    ],
+    "english": "Huh? Seriously?"
+  },
+  {
+    "time": "00:12:41",
+    "character": "サクラ",
+    "segments": [
+      "よっこいしょと"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:12:43",
+    "character": "サクラ",
+    "segments": [
+      {
+        "kanji": "移動",
+        "reading": "いどう"
+      },
+      "は",
+      {
+        "kanji": "危険",
+        "reading": "きけん"
+      },
+      "です。"
+    ],
+    "english": "It's dangerous to move around."
+  },
+  {
+    "time": "00:12:45",
+    "character": "サクラ",
+    "segments": [
+      "ここにいましょう。"
+    ],
+    "english": "You should stay here."
+  },
+  {
+    "time": "00:12:46",
+    "character": "サクラ",
+    "segments": [
+      "よっと――"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:12:47",
+    "character": "女 (BG)",
+    "segments": [
+      {
+        "kanji": "全艦",
+        "reading": "ぜんかん"
+      },
+      "、",
+      {
+        "kanji": "対空",
+        "reading": "たいくう"
+      },
+      {
+        "kanji": "防御",
+        "reading": "ぼうぎょ"
+      },
+      "、",
+      "及",
+      "び",
+      {
+        "kanji": "対空",
+        "reading": "たいくう"
+      },
+      {
+        "kanji": "誘導弾",
+        "reading": "ゆうどうだん"
+      },
+      "、",
+      {
+        "kanji": "準備",
+        "reading": "じゅんび"
+      },
+      {
+        "kanji": "完了",
+        "reading": "かんりょう"
+      },
+      "。"
+    ],
+    "english": "AA defenses and AA guided missiles ready on all ships."
+  },
+  {
+    "time": "00:12:49",
+    "character": "サクラ",
+    "segments": [
+      "せやけど、",
+      {
+        "kanji": "艦橋",
+        "reading": "かんきょう"
+      },
+      "での",
+      {
+        "kanji": "戦闘",
+        "reading": "せんとう"
+      },
+      {
+        "kanji": "配置",
+        "reading": "はいち"
+      },
+      "。"
+    ],
+    "english": "I have to say, though, there's so much tension"
+  },
+  {
+    "time": "00:12:52",
+    "character": "サクラ",
+    "segments": [
+      "キンチョーするわぁ"
+    ],
+    "english": "Roger."
+  },
+  {
+    "time": "00:12:52",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      },
+      "。"
+    ],
+    "english": "Roger."
+  },
+  {
+    "time": "00:23:01",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "各",
+        "reading": "かく"
+      },
+      {
+        "kanji": "対空",
+        "reading": "たいくう"
+      },
+      "システムを",
+      {
+        "kanji": "連動",
+        "reading": "れんどう"
+      },
+      "。"
+    ],
+    "english": "Full-on brake!"
+  },
+  {
+    "time": "00:23:02",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "初号機",
+        "reading": "しょごうき"
+      },
+      {
+        "kanji": "保護",
+        "reading": "ほご"
+      },
+      "を",
+      {
+        "kanji": "最優先",
+        "reading": "さいゆうせん"
+      },
+      "。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:12:57",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "初号機",
+        "reading": "しょごうき"
+      },
+      "？"
+    ],
+    "english": "...Eva-01?"
+  },
+  {
+    "time": "00:13:07",
+    "character": "北上",
+    "segments": [
+      {
+        "kanji": "来",
+        "reading": "き"
+      },
+      "ました！"
+    ],
+    "english": "They're here!"
+  },
+  {
+    "time": "00:13:08",
+    "character": "北上",
+    "segments": [
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      "の",
+      {
+        "kanji": "光",
+        "reading": "ひかり"
+      },
+      "の",
+      {
+        "kanji": "柱",
+        "reading": "はしら"
+      },
+      "を",
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      },
+      "！"
+    ],
+    "english": "Pillars of light from the targets confirmed!"
+  },
+  {
+    "time": "00:13:10",
+    "character": "北上",
+    "segments": [
+      "えっと、",
+      {
+        "kanji": "数",
+        "reading": "かず"
+      },
+      "が",
+      {
+        "kanji": "何",
+        "reading": "なん"
+      },
+      "だか",
+      {
+        "kanji": "増",
+        "reading": "ふ"
+      },
+      "えてます！"
+    ],
+    "english": "Burst shockwaves emanating!"
+  },
+  {
+    "time": "00:13:13",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      "コアブロックは",
+      {
+        "kanji": "捕捉不能",
+        "reading": "ほそくふのう"
+      },
+      "。"
+    ],
+    "english": "Identification of the targets' core blocks impossible."
+  },
+  {
+    "time": "00:13:15",
+    "character": "青葉",
+    "segments": [
+      "おそらく",
+      {
+        "kanji": "擬製",
+        "reading": "ぎせい"
+      },
+      "コクーン",
+      {
+        "kanji": "内",
+        "reading": "ない"
+      },
+      "に",
+      {
+        "kanji": "潜伏中",
+        "reading": "せんぷくちゅう"
+      },
+      "と",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "われます。"
+    ],
+    "english": "They may be hiding inside a cloaking cocoon."
+  },
+  {
+    "time": "00:13:19",
+    "character": "リツコ",
+    "segments": [
+      "マズイわね。このままだと",
+      {
+        "kanji": "飽和",
+        "reading": "ほうわ"
+      },
+      {
+        "kanji": "攻撃",
+        "reading": "こうげき"
+      },
+      "を",
+      {
+        "kanji": "浴",
+        "reading": "あ"
+      },
+      "びるわ。"
+    ],
+    "english": "Second wave incoming. Blood type blue."
+  },
+  {
+    "time": "00:13:22",
+    "character": "北上",
+    "segments": [
+      {
+        "kanji": "接触",
+        "reading": "せっしょく"
+      },
+      "まであと６００",
+      {
+        "kanji": "秒",
+        "reading": "びょう"
+      },
+      "！"
+    ],
+    "english": "Six hundred seconds until contact!"
+  },
+  {
+    "time": "00:13:24",
+    "character": "リツコ",
+    "segments": [
+      "葛",
+      "城",
+      {
+        "kanji": "艦長",
+        "reading": "かんちょう"
+      },
+      "。",
+      {
+        "kanji": "艦隊",
+        "reading": "かんたい"
+      },
+      "の",
+      {
+        "kanji": "即時",
+        "reading": "そくじ"
+      },
+      {
+        "kanji": "散開",
+        "reading": "さんかい"
+      },
+      "を",
+      {
+        "kanji": "提案",
+        "reading": "ていあん"
+      },
+      "します。"
+    ],
+    "english": "Captain Katsuragi,"
+  },
+  {
+    "time": "00:13:29",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "乗員",
+        "reading": "じょういん"
+      },
+      "の",
+      {
+        "kanji": "定数",
+        "reading": "ていすう"
+      },
+      "及",
+      "び",
+      {
+        "kanji": "練度",
+        "reading": "れんど"
+      },
+      {
+        "kanji": "不足",
+        "reading": "ふそく"
+      },
+      "。"
+    ],
+    "english": "We have insufficient and unskilled personnel."
+  },
+  {
+    "time": "00:13:32",
+    "character": "リツコ",
+    "segments": [
+      "おまけに",
+      {
+        "kanji": "本艦",
+        "reading": "ほんかん"
+      },
+      "は",
+      {
+        "kanji": "艤装",
+        "reading": "ぎそう"
+      },
+      {
+        "kanji": "途中",
+        "reading": "とちゅう"
+      },
+      "の",
+      {
+        "kanji": "未完成",
+        "reading": "みかんせい"
+      },
+      "。"
+    ],
+    "english": "Our ship is also in the process of being outfitted."
+  },
+  {
+    "time": "00:13:35",
+    "character": "リツコ",
+    "segments": [
+      "とどめに",
+      {
+        "kanji": "攻撃",
+        "reading": "こうげき"
+      },
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      "たるコアブロックも",
+      {
+        "kanji": "捕捉",
+        "reading": "ほそく"
+      },
+      "できない。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:13:38",
+    "character": "リツコ",
+    "segments": [
+      "つまり、",
+      {
+        "kanji": "現状",
+        "reading": "げんじょう"
+      },
+      "での",
+      {
+        "kanji": "勝算",
+        "reading": "しょうさん"
+      },
+      "はゼロです。"
+    ],
+    "english": "In other words, our chances for winning are zero."
+  },
+  {
+    "time": "00:13:41",
+    "character": "リツコ",
+    "segments": [
+      "ここはいつも",
+      {
+        "kanji": "通",
+        "reading": "とお"
+      },
+      "り",
+      {
+        "kanji": "撤退",
+        "reading": "てったい"
+      },
+      "を。"
+    ],
+    "english": "At this point, we should retreat like we usually do."
+  },
+  {
+    "time": "00:13:43",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "為",
+        "reading": "な"
+      },
+      "す",
+      {
+        "kanji": "術",
+        "reading": "すべ"
+      },
+      "がないのよ、"
+    ],
+    "english": "There's no other option, Captain Katsuragi!"
+  },
+  {
+    "time": "00:13:45",
+    "character": "リツコ",
+    "segments": [
+      "葛",
+      "城",
+      {
+        "kanji": "艦長",
+        "reading": "かんちょう"
+      },
+      "！"
+    ],
+    "english": "Glasses, enough with the damn singing!"
+  },
+  {
+    "time": "00:13:47",
+    "character": "ミサト",
+    "segments": [
+      "だからこそ、",
+      {
+        "kanji": "現状",
+        "reading": "げんじょう"
+      },
+      "を",
+      {
+        "kanji": "変",
+        "reading": "へん"
+      },
+      "えて、",
+      {
+        "kanji": "後顧",
+        "reading": "こうこ"
+      },
+      "の",
+      {
+        "kanji": "憂",
+        "reading": "うれ"
+      },
+      "いを",
+      {
+        "kanji": "断",
+        "reading": "た"
+      },
+      "つ。"
+    ],
+    "english": "And that's why I will change the status quo and bring our anxieties to an end."
+  },
+  {
+    "time": "00:13:52",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "副長",
+        "reading": "ふくちょう"
+      },
+      "。",
+      {
+        "kanji": "飛",
+        "reading": "と"
+      },
+      "ぶわよ。"
+    ],
+    "english": "Vice Captain, we're going to fly."
+  },
+  {
+    "time": "00:13:54",
+    "character": "リツコ",
+    "segments": [
+      "とぶ？"
+    ],
+    "english": "Fly?!"
+  },
+  {
+    "time": "00:13:55",
+    "character": "リツコ",
+    "segments": [
+      "まさか、",
+      {
+        "kanji": "主機",
+        "reading": "しゅき"
+      },
+      "を",
+      {
+        "kanji": "使",
+        "reading": "つか"
+      },
+      "う",
+      {
+        "kanji": "気",
+        "reading": "き"
+      },
+      "！？"
+    ],
+    "english": "You can't be thinking of using the main engine?!"
+  },
+  {
+    "time": "00:24:05",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "全艦",
+        "reading": "ぜんかん"
+      },
+      "、",
+      {
+        "kanji": "発進",
+        "reading": "はっしん"
+      },
+      {
+        "kanji": "準備",
+        "reading": "じゅんび"
+      },
+      "！"
+    ],
+    "english": "All ships, prepare to launch!"
+  },
+  {
+    "time": "00:24:07",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "主機",
+        "reading": "しゅき"
+      },
+      {
+        "kanji": "点火",
+        "reading": "てんか"
+      },
+      {
+        "kanji": "準備",
+        "reading": "じゅんび"
+      },
+      "！"
+    ],
+    "english": "We actually won."
+  },
+  {
+    "time": "00:24:09",
+    "character": "北上･多摩",
+    "segments": [
+      "ええええっ！？"
+    ],
+    "english": "She's brazen as you get."
+  },
+  {
+    "time": "00:24:11",
+    "character": "リツコ",
+    "segments": [
+      "いきなり",
+      {
+        "kanji": "本艦",
+        "reading": "ほんかん"
+      },
+      "での",
+      {
+        "kanji": "実戦",
+        "reading": "じっせん"
+      },
+      "は",
+      {
+        "kanji": "無茶",
+        "reading": "むちゃ"
+      },
+      "よ、",
+      "葛",
+      "城",
+      {
+        "kanji": "艦長",
+        "reading": "かんちょう"
+      },
+      "！"
+    ],
+    "english": "Putting this ship into service now is insane, Captain Katsuragi!"
+  },
+  {
+    "time": "00:14:06",
+    "character": "多摩",
+    "segments": [
+      {
+        "kanji": "同意",
+        "reading": "どうい"
+      },
+      "します！"
+    ],
+    "english": "I agree!"
+  },
+  {
+    "time": "00:14:13",
+    "character": "北上",
+    "segments": [
+      {
+        "kanji": "勝",
+        "reading": "か"
+      },
+      "てない",
+      {
+        "kanji": "戦",
+        "reading": "いくさ"
+      },
+      "(いくさ)はなしがいいな。"
+    ],
+    "english": "I'd rather not fight a battle we can't win."
+  },
+  {
+    "time": "00:14:21",
+    "character": "北上",
+    "segments": [
+      "えええ！",
+      {
+        "kanji": "年寄",
+        "reading": "としよ"
+      },
+      "りなら",
+      {
+        "kanji": "慎重",
+        "reading": "しんちょう"
+      },
+      "にいくもんでしょお！？"
+    ],
+    "english": "Shouldn't you old folks watch out for yourselves?"
+  },
+  {
+    "time": "00:14:30",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "神殺",
+        "reading": "かみごろ"
+      },
+      "しの",
+      {
+        "kanji": "力",
+        "reading": "ちから"
+      },
+      "、",
+      {
+        "kanji": "見極",
+        "reading": "みきわ"
+      },
+      "めるだけよ。"
+    ],
+    "english": "The power to kill gods... I'll see what it can do."
+  },
+  {
+    "time": "00:14:36",
+    "character": "リツコ",
+    "segments": [
+      "まさか、エヴァを",
+      {
+        "kanji": "使",
+        "reading": "つか"
+      },
+      "う",
+      {
+        "kanji": "気",
+        "reading": "き"
+      },
+      "？"
+    ],
+    "english": "Don't tell me you're going to use the Evas?"
+  },
+  {
+    "time": "00:14:40",
+    "character": "マリ（無線）",
+    "segments": [
+      "８",
+      {
+        "kanji": "号機",
+        "reading": "ごうき"
+      },
+      "まだムリ。"
+    ],
+    "english": "Eva-08 isn't ready yet."
+  },
+  {
+    "time": "00:14:42",
+    "character": "シンジ",
+    "segments": [
+      "アスカ？"
+    ],
+    "english": "Asuka?"
+  },
+  {
+    "time": "00:15:07",
+    "character": "北上",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      },
+      "。"
+    ],
+    "english": "Roger."
+  },
+  {
+    "time": "00:15:08",
+    "character": "北上",
+    "segments": [
+      "エヴァ",
+      {
+        "kanji": "改",
+        "reading": "かい"
+      },
+      "２",
+      {
+        "kanji": "号機",
+        "reading": "ごうき"
+      },
+      {
+        "kanji": "発進",
+        "reading": "はっしん"
+      },
+      {
+        "kanji": "中",
+        "reading": "ちゅう"
+      },
+      "。"
+    ],
+    "english": "Preparing Eva-02' for launch."
+  },
+  {
+    "time": "00:15:09",
+    "character": "伊吹",
+    "segments": [
+      {
+        "kanji": "続",
+        "reading": "つづ"
+      },
+      "いて、",
+      {
+        "kanji": "水中",
+        "reading": "すいちゅう"
+      },
+      "モーター",
+      "及",
+      "びレフトコンテナ１",
+      {
+        "kanji": "番",
+        "reading": "ばん"
+      },
+      "を",
+      {
+        "kanji": "投下",
+        "reading": "とうか"
+      },
+      "！"
+    ],
+    "english": "Also deploying the underwater motor and Left Container No. 1."
+  },
+  {
+    "time": "00:15:43",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "全艦",
+        "reading": "ぜんかん"
+      },
+      "、",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      {
+        "kanji": "一種",
+        "reading": "いっしゅ"
+      },
+      {
+        "kanji": "戦闘",
+        "reading": "せんとう"
+      },
+      {
+        "kanji": "配置",
+        "reading": "はいち"
+      }
+    ],
+    "english": "All ships to Battle Stations One."
+  },
+  {
+    "time": "00:15:46",
+    "character": "アナウンス",
+    "segments": [
+      {
+        "kanji": "全艦",
+        "reading": "ぜんかん"
+      },
+      "、",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      {
+        "kanji": "一種",
+        "reading": "いっしゅ"
+      },
+      {
+        "kanji": "戦闘",
+        "reading": "せんとう"
+      },
+      {
+        "kanji": "配置",
+        "reading": "はいち"
+      },
+      "。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:15:48",
+    "character": "アナウンス",
+    "segments": [
+      {
+        "kanji": "繰",
+        "reading": "く"
+      },
+      "り",
+      {
+        "kanji": "返",
+        "reading": "かえ"
+      },
+      "す、",
+      {
+        "kanji": "全艦",
+        "reading": "ぜんかん"
+      },
+      "、",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      {
+        "kanji": "一種",
+        "reading": "いっしゅ"
+      },
+      {
+        "kanji": "戦闘",
+        "reading": "せんとう"
+      },
+      {
+        "kanji": "配置",
+        "reading": "はいち"
+      }
+    ],
+    "english": "Repeat, all ships to Battle Stations One."
+  },
+  {
+    "time": "00:15:51",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "戦闘",
+        "reading": "せんとう"
+      },
+      {
+        "kanji": "指揮",
+        "reading": "しき"
+      },
+      {
+        "kanji": "系統",
+        "reading": "けいとう"
+      },
+      "を",
+      {
+        "kanji": "移行",
+        "reading": "いこう"
+      },
+      "。"
+    ],
+    "english": "Shifting to the battle command system."
+  },
+  {
+    "time": "00:15:54",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "主要員",
+        "reading": "しゅようういん"
+      },
+      "は",
+      {
+        "kanji": "戦闘",
+        "reading": "せんとう"
+      },
+      {
+        "kanji": "艦橋",
+        "reading": "かんきょう"
+      },
+      "へ。"
+    ],
+    "english": "All key personnel, head to the combat bridge."
+  },
+  {
+    "time": "00:15:56",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "重力",
+        "reading": "じゅうりょく"
+      },
+      "バラスト、",
+      {
+        "kanji": "準備",
+        "reading": "じゅんび"
+      },
+      "。"
+    ],
+    "english": "Prepare the gravity ballast."
+  },
+  {
+    "time": "00:15:58",
+    "character": "長良",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      },
+      "。"
+    ],
+    "english": "Checking all vents."
+  },
+  {
+    "time": "00:15:58",
+    "character": "長良",
+    "segments": [
+      {
+        "kanji": "全",
+        "reading": "すべ"
+      },
+      "ベントをチェック。"
+    ],
+    "english": "Checking all vents."
+  },
+  {
+    "time": "00:16:00",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "艦",
+        "reading": "かん"
+      },
+      "の",
+      {
+        "kanji": "主制御",
+        "reading": "しゅせいぎょ"
+      },
+      "をアンカリングプラグへ",
+      {
+        "kanji": "集中",
+        "reading": "しゅうちゅう"
+      },
+      "。"
+    ],
+    "english": "Focus all primary control of the ship to the anchoring plug."
+  },
+  {
+    "time": "00:16:02",
+    "character": "高雄",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      },
+      "。"
+    ],
+    "english": "Roger."
+  },
+  {
+    "time": "00:16:03",
+    "character": "高雄",
+    "segments": [
+      "ディセント",
+      {
+        "kanji": "準備",
+        "reading": "じゅんび"
+      },
+      "。"
+    ],
+    "english": "Preparing descent."
+  },
+  {
+    "time": "00:16:04",
+    "character": "高雄",
+    "segments": [
+      "インジェクター",
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      },
+      "。"
+    ],
+    "english": "Confirming injector."
+  },
+  {
+    "time": "00:16:05",
+    "character": "高雄",
+    "segments": [
+      "カウント",
+      {
+        "kanji": "入",
+        "reading": "はい"
+      },
+      "ります。"
+    ],
+    "english": "Starting countdown."
+  },
+  {
+    "time": "00:26:15",
+    "character": "アナウンス",
+    "segments": [
+      "ヒルムシュタムタワー",
+      {
+        "kanji": "移動",
+        "reading": "いどう"
+      },
+      {
+        "kanji": "準備",
+        "reading": "じゅんび"
+      }
+    ],
+    "english": "Preparing to move the Hirnstamm Tower."
+  },
+  {
+    "time": "00:16:16",
+    "character": "北上",
+    "segments": [
+      "チッ"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:26:28",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
+      "は",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "らなくていいんですか？ミサトさん！！"
+    ],
+    "english": "Lieutenant?"
+  },
+  {
+    "time": "00:26:32",
+    "character": "アナウンス",
+    "segments": [
+      "プラグ",
+      {
+        "kanji": "内",
+        "reading": "ない"
+      },
+      "、",
+      "電",
+      "荷",
+      {
+        "kanji": "用意",
+        "reading": "ようい"
+      },
+      "。"
+    ],
+    "english": "Readying the electric charge inside the plug."
+  },
+  {
+    "time": "00:26:33",
+    "character": "アナウンス",
+    "segments": [
+      "エントリーを",
+      {
+        "kanji": "準備",
+        "reading": "じゅんび"
+      }
+    ],
+    "english": "Um, I know this introduction comes late, but I'm your assigned medical officer,"
+  },
+  {
+    "time": "00:26:34",
+    "character": "リツコ",
+    "segments": [
+      "そうよ。"
+    ],
+    "english": "There's no need for you to pilot the Eva."
+  },
+  {
+    "time": "00:26:34",
+    "character": "リツコ",
+    "segments": [
+      "あなたがエヴァに",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "る",
+      "必",
+      "要",
+      "はありません。"
+    ],
+    "english": "There's no need for you to pilot the Eva."
+  },
+  {
+    "time": "00:26:37",
+    "character": "アナウンス",
+    "segments": [
+      "ヒルムスタムタワー、",
+      {
+        "kanji": "分",
+        "reading": "わ"
+      },
+      {
+        "kanji": "離",
+        "reading": "はな"
+      },
+      "。"
+    ],
+    "english": "Separating the Hirnstamm Tower."
+  },
+  {
+    "time": "00:26:39",
+    "character": "アナウンス",
+    "segments": [
+      {
+        "kanji": "起動",
+        "reading": "きどう"
+      },
+      {
+        "kanji": "開始",
+        "reading": "かいし"
+      },
+      "。"
+    ],
+    "english": "Commencing start-up."
+  },
+  {
+    "time": "00:26:40",
+    "character": "女",
+    "segments": [
+      {
+        "kanji": "現在",
+        "reading": "げんざい"
+      },
+      "、",
+      {
+        "kanji": "指揮",
+        "reading": "しき"
+      },
+      {
+        "kanji": "系統",
+        "reading": "けいとう"
+      },
+      "を",
+      {
+        "kanji": "戦闘",
+        "reading": "せんとう"
+      },
+      {
+        "kanji": "艦橋",
+        "reading": "かんきょう"
+      },
+      "へ",
+      {
+        "kanji": "移行",
+        "reading": "いこう"
+      },
+      {
+        "kanji": "中",
+        "reading": "ちゅう"
+      },
+      "。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:26:44",
+    "character": "女",
+    "segments": [
+      {
+        "kanji": "繰",
+        "reading": "く"
+      },
+      "り",
+      {
+        "kanji": "返",
+        "reading": "かえ"
+      },
+      "す、",
+      {
+        "kanji": "指揮",
+        "reading": "しき"
+      },
+      {
+        "kanji": "系統",
+        "reading": "けいとう"
+      },
+      "を",
+      {
+        "kanji": "戦闘",
+        "reading": "せんとう"
+      },
+      {
+        "kanji": "艦橋",
+        "reading": "かんきょう"
+      },
+      "へ",
+      {
+        "kanji": "移行",
+        "reading": "いこう"
+      },
+      {
+        "kanji": "中",
+        "reading": "ちゅう"
+      },
+      "。"
+    ],
+    "english": "No need?"
+  },
+  {
+    "time": "00:26:44",
+    "character": "シンジ",
+    "segments": [
+      "必",
+      "要",
+      "ないって"
+    ],
+    "english": "No need?"
+  },
+  {
+    "time": "00:26:46",
+    "character": "シンジ",
+    "segments": [
+      "・・・・・・あの、"
+    ],
+    "english": "Wait, \"Suzuhara\"?"
+  },
+  {
+    "time": "00:26:47",
+    "character": "シンジ",
+    "segments": [
+      "じゃあ、",
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
+      "は",
+      {
+        "kanji": "何",
+        "reading": "なん"
+      },
+      "をすればいいんですか？"
+    ],
+    "english": "Then, what should I do instead?"
+  },
+  {
+    "time": "00:17:08",
+    "character": "リツコ",
+    "segments": [
+      "エントリースタート。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:17:10",
+    "character": "女(無線)",
+    "segments": [
+      "ＬＣＬ",
+      "電",
+      "荷",
+      {
+        "kanji": "状態",
+        "reading": "じょうたい"
+      },
+      "は",
+      {
+        "kanji": "正常",
+        "reading": "せいじょう"
+      },
+      "。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:27:20",
+    "character": "女(無線)",
+    "segments": [
+      {
+        "kanji": "各",
+        "reading": "かく"
+      },
+      "演",
+      "算",
+      "総",
+      {
+        "kanji": "合",
+        "reading": "あ"
+      },
+      "システムをスタート。"
+    ],
+    "english": "Starting all integrated processor systems."
+  },
+  {
+    "time": "00:27:22",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "状況",
+        "reading": "じょうきょう"
+      },
+      "は！？"
+    ],
+    "english": "What's our status?"
+  },
+  {
+    "time": "00:27:23",
+    "character": "北上",
+    "segments": [
+      "総",
+      "員",
+      "点",
+      "呼",
+      {
+        "kanji": "完了",
+        "reading": "かんりょう"
+      },
+      "、"
+    ],
+    "english": "It's no good. I can't stop myself."
+  },
+  {
+    "time": "00:27:24",
+    "character": "女(無線)",
+    "segments": [
+      "／＃＃＃＃、",
+      {
+        "kanji": "問題",
+        "reading": "もんだい"
+      },
+      "なし。"
+    ],
+    "english": "No problems with initial contact."
+  },
+  {
+    "time": "00:27:25",
+    "character": "北上",
+    "segments": [
+      {
+        "kanji": "移乗",
+        "reading": "いじょう"
+      },
+      "を",
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      },
+      "。"
+    ],
+    "english": "I've been holding it in all these years."
+  },
+  {
+    "time": "00:27:27",
+    "character": "女(無線)",
+    "segments": [
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "一",
+      "次",
+      "リストをクリア。"
+    ],
+    "english": "First list has cleared."
+  },
+  {
+    "time": "00:27:28",
+    "character": "多摩",
+    "segments": [
+      {
+        "kanji": "全",
+        "reading": "すべ"
+      },
+      "隔",
+      "壁",
+      "の",
+      {
+        "kanji": "閉鎖",
+        "reading": "へいさ"
+      },
+      "を",
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      },
+      "、"
+    ],
+    "english": "Confirming the closure of all barrier walls."
+  },
+  {
+    "time": "00:27:30",
+    "character": "多摩",
+    "segments": [
+      "耐",
+      "圧",
+      "チェックを",
+      {
+        "kanji": "終了",
+        "reading": "しゅうりょう"
+      },
+      "。"
+    ],
+    "english": "Terminating pressure resistance check."
+  },
+  {
+    "time": "00:17:28",
+    "character": "高雄",
+    "segments": [
+      {
+        "kanji": "臨界",
+        "reading": "りんかい"
+      },
+      "まであと５％。"
+    ],
+    "english": "Another 5% until it hits critical."
+  },
+  {
+    "time": "00:17:30",
+    "character": "長良",
+    "segments": [
+      "ジャイロコンパス",
+      {
+        "kanji": "始動",
+        "reading": "しどう"
+      },
+      "。"
+    ],
+    "english": "Initiating the gyrocompass."
+  },
+  {
+    "time": "00:17:31",
+    "character": "長良",
+    "segments": [
+      "スタビライザー",
+      {
+        "kanji": "問題",
+        "reading": "もんだい"
+      },
+      {
+        "kanji": "無",
+        "reading": "な"
+      },
+      "し"
+    ],
+    "english": "Stabilizer nominal."
+  },
+  {
+    "time": "00:17:33",
+    "character": "女(無線)",
+    "segments": [
+      {
+        "kanji": "視覚化",
+        "reading": "しかくか"
+      },
+      {
+        "kanji": "情報",
+        "reading": "じょうほう"
+      },
+      {
+        "kanji": "処理",
+        "reading": "しょり"
+      },
+      "を",
+      {
+        "kanji": "開始",
+        "reading": "かいし"
+      },
+      "。"
+    ],
+    "english": "Commencing visual data processing."
+  },
+  {
+    "time": "00:17:35",
+    "character": "女(無線)",
+    "segments": [
+      "主",
+      "モニター、",
+      {
+        "kanji": "点灯",
+        "reading": "てんとう"
+      },
+      "します。"
+    ],
+    "english": "Turning on the main monitor."
+  },
+  {
+    "time": "00:17:41",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "改",
+        "reading": "かい"
+      },
+      "２",
+      {
+        "kanji": "号機",
+        "reading": "ごうき"
+      },
+      "　",
+      {
+        "kanji": "推進機",
+        "reading": "すいしんき"
+      },
+      "を",
+      {
+        "kanji": "廃棄",
+        "reading": "はいき"
+      },
+      "。"
+    ],
+    "english": "Eva-02' discarding propellers."
+  },
+  {
+    "time": "00:17:43",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "左腕",
+        "reading": "ひだりうで"
+      },
+      "を",
+      {
+        "kanji": "換装",
+        "reading": "かんそう"
+      },
+      {
+        "kanji": "中",
+        "reading": "ちゅう"
+      },
+      "。"
+    ],
+    "english": "Now switching out the left arm."
+  },
+  {
+    "time": "00:18:12",
+    "character": "北上",
+    "segments": [
+      "みるみるエネルギーが",
+      {
+        "kanji": "増大",
+        "reading": "ぞうだい"
+      },
+      "してます！"
+    ],
+    "english": "Their energy is skyrocketing!"
+  },
+  {
+    "time": "00:18:18",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "味方",
+        "reading": "みかた"
+      },
+      {
+        "kanji": "巡洋艦",
+        "reading": "じゅんようかん"
+      },
+      {
+        "kanji": "蒸発",
+        "reading": "じょうはつ"
+      },
+      "！"
+    ],
+    "english": "Allied cruiser has been vaporized!"
+  },
+  {
+    "time": "00:18:19",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "飽和",
+        "reading": "ほうわ"
+      },
+      {
+        "kanji": "攻撃",
+        "reading": "こうげき"
+      },
+      "よ。"
+    ],
+    "english": "A saturated attack."
+  },
+  {
+    "time": "00:18:24",
+    "character": "北上",
+    "segments": [
+      {
+        "kanji": "接触",
+        "reading": "せっしょく"
+      },
+      "まであと、３６０",
+      {
+        "kanji": "秒",
+        "reading": "びょう"
+      },
+      "！"
+    ],
+    "english": "Another 360 seconds until contact!"
+  },
+  {
+    "time": "00:18:38",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "改",
+        "reading": "かい"
+      },
+      "２",
+      {
+        "kanji": "号機",
+        "reading": "ごうき"
+      },
+      "、",
+      "作",
+      "業",
+      {
+        "kanji": "開始",
+        "reading": "かいし"
+      },
+      "。"
+    ],
+    "english": "Eva-02' has commenced operations."
+  },
+  {
+    "time": "00:18:40",
+    "character": "男{無線)",
+    "segments": [
+      {
+        "kanji": "流入",
+        "reading": "りゅうにゅう"
+      },
+      "圧",
+      {
+        "kanji": "力",
+        "reading": "ちから"
+      },
+      "　３００％！"
+    ],
+    "english": "Influent pressure at 300%!"
+  },
+  {
+    "time": "00:18:42",
+    "character": "高雄",
+    "segments": [
+      "かまわん！"
+    ],
+    "english": "Doesn't matter!"
+  },
+  {
+    "time": "00:18:43",
+    "character": "高雄",
+    "segments": [
+      "フライホイールへ",
+      {
+        "kanji": "全",
+        "reading": "すべ"
+      },
+      "てのエネルギーを",
+      {
+        "kanji": "回",
+        "reading": "まわ"
+      },
+      "せ！"
+    ],
+    "english": "Transfer all energy to the flywheel!"
+  },
+  {
+    "time": "00:18:45",
+    "character": "高雄",
+    "segments": [
+      {
+        "kanji": "最優先",
+        "reading": "さいゆうせん"
+      },
+      "だ！"
+    ],
+    "english": "Make that top priority!"
+  },
+  {
+    "time": "00:18:57",
+    "character": "女(BG)",
+    "segments": [
+      "/",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "８３＃＃＃",
+      {
+        "kanji": "炎上",
+        "reading": "えんじょう"
+      },
+      {
+        "kanji": "中",
+        "reading": "ちゅう"
+      },
+      "、",
+      {
+        "kanji": "消火",
+        "reading": "しょうか"
+      },
+      {
+        "kanji": "出来",
+        "reading": "でき"
+      },
+      "ません！"
+    ],
+    "english": "The 7th converter cluster has exploded!"
+  },
+  {
+    "time": "00:18:57",
+    "character": "多摩",
+    "segments": [
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "７コンバータ",
+      {
+        "kanji": "群",
+        "reading": "ぐん"
+      },
+      "爆",
+      "発",
+      "！"
+    ],
+    "english": "The 7th converter cluster has exploded!"
+  },
+  {
+    "time": "00:18:59",
+    "character": "高雄",
+    "segments": [
+      "ダウンしたラインにかまうな！"
+    ],
+    "english": "Disregard the broken lines!"
+  },
+  {
+    "time": "00:19:01",
+    "character": "高雄",
+    "segments": [
+      {
+        "kanji": "強制",
+        "reading": "きょうせい"
+      },
+      {
+        "kanji": "注入",
+        "reading": "ちゅうにゅう"
+      },
+      "を",
+      {
+        "kanji": "続",
+        "reading": "つづ"
+      },
+      "けろ！"
+    ],
+    "english": "Proceed with the forced injection!"
+  },
+  {
+    "time": "00:19:03",
+    "character": "高雄",
+    "segments": [
+      "圧",
+      {
+        "kanji": "力",
+        "reading": "ちから"
+      },
+      "計",
+      "は",
+      {
+        "kanji": "全",
+        "reading": "すべ"
+      },
+      "て",
+      {
+        "kanji": "無視",
+        "reading": "むし"
+      },
+      "だ！"
+    ],
+    "english": "Ignore all the pressure gauges!"
+  },
+  {
+    "time": "00:19:05",
+    "character": "多摩",
+    "segments": [
+      "フライホイール",
+      {
+        "kanji": "圧着板",
+        "reading": "あっちゃくばん"
+      },
+      "ロック",
+      {
+        "kanji": "解除",
+        "reading": "かいじょ"
+      },
+      "。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:19:07",
+    "character": "多摩",
+    "segments": [
+      {
+        "kanji": "回転",
+        "reading": "かいてん"
+      },
+      {
+        "kanji": "開始",
+        "reading": "かいし"
+      }
+    ],
+    "english": "Beginning rotation!"
+  },
+  {
+    "time": "00:19:19",
+    "character": "多摩",
+    "segments": [
+      {
+        "kanji": "補機",
+        "reading": "ほき"
+      },
+      {
+        "kanji": "回転",
+        "reading": "かいてん"
+      },
+      "、",
+      {
+        "kanji": "出力",
+        "reading": "しゅつりょく"
+      },
+      "８０％へ"
+    ],
+    "english": "Auxiliary engine output has reached 80%!"
+  },
+  {
+    "time": "00:19:21",
+    "character": "高雄",
+    "segments": [
+      {
+        "kanji": "触媒",
+        "reading": "しょくばい"
+      },
+      "を",
+      {
+        "kanji": "強制",
+        "reading": "きょうせい"
+      },
+      {
+        "kanji": "投入",
+        "reading": "とうにゅう"
+      }
+    ],
+    "english": "Force insert the catalyst!"
+  },
+  {
+    "time": "00:19:42",
+    "character": "北上",
+    "segments": [
+      "あと３５",
+      {
+        "kanji": "秒",
+        "reading": "びょう"
+      },
+      "！"
+    ],
+    "english": "Thirty-five seconds remaining!"
+  },
+  {
+    "time": "00:19:44",
+    "character": "アナウンス",
+    "segments": [
+      {
+        "kanji": "回転数",
+        "reading": "かいてんすう"
+      },
+      {
+        "kanji": "上昇",
+        "reading": "じょうしょう"
+      },
+      {
+        "kanji": "中",
+        "reading": "ちゅう"
+      },
+      "。１",
+      {
+        "kanji": "万",
+        "reading": "まん"
+      },
+      "、１",
+      {
+        "kanji": "万",
+        "reading": "まん"
+      },
+      "２",
+      {
+        "kanji": "千",
+        "reading": "せん"
+      }
+    ],
+    "english": "Rotational speed increasing!"
+  },
+  {
+    "time": "00:19:46",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "改",
+        "reading": "かい"
+      },
+      "２",
+      {
+        "kanji": "号機",
+        "reading": "ごうき"
+      },
+      "、",
+      {
+        "kanji": "点火",
+        "reading": "てんか"
+      },
+      {
+        "kanji": "位置",
+        "reading": "いち"
+      }
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:19:48",
+    "character": "多摩",
+    "segments": [
+      {
+        "kanji": "来",
+        "reading": "き"
+      },
+      "ましたっ！"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:19:52",
+    "character": "高雄",
+    "segments": [
+      {
+        "kanji": "始動",
+        "reading": "しどう"
+      },
+      "、",
+      {
+        "kanji": "最終",
+        "reading": "さいしゅう"
+      },
+      {
+        "kanji": "段階",
+        "reading": "だんかい"
+      },
+      "です。"
+    ],
+    "english": "We're in the final start-up phase!"
+  },
+  {
+    "time": "00:19:54",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      },
+      "。"
+    ],
+    "english": "Roger."
+  },
+  {
+    "time": "00:19:55",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "操艦系",
+        "reading": "そうかんけい"
+      },
+      "を",
+      {
+        "kanji": "切",
+        "reading": "き"
+      },
+      "り",
+      {
+        "kanji": "替",
+        "reading": "か"
+      },
+      "え。"
+    ],
+    "english": "Switch to flight mode."
+  },
+  {
+    "time": "00:19:56",
+    "character": "長良",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      },
+      "。"
+    ],
+    "english": "Roger."
+  },
+  {
+    "time": "00:19:57",
+    "character": "長良",
+    "segments": [
+      {
+        "kanji": "時空間",
+        "reading": "じくうかん"
+      },
+      {
+        "kanji": "制御",
+        "reading": "せいぎょ"
+      },
+      "を",
+      {
+        "kanji": "開始",
+        "reading": "かいし"
+      },
+      "。"
+    ],
+    "english": "Starting spatiotemporal control."
+  },
+  {
+    "time": "00:19:58",
+    "character": "長良",
+    "segments": [
+      {
+        "kanji": "立体式",
+        "reading": "りったいしき"
+      },
+      {
+        "kanji": "操舵",
+        "reading": "そうだ"
+      },
+      "に",
+      {
+        "kanji": "移行",
+        "reading": "いこう"
+      },
+      "します。"
+    ],
+    "english": "Transferring to 3D control of vessel."
+  },
+  {
+    "time": "00:20:02",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "点火",
+        "reading": "てんか"
+      },
+      "と",
+      {
+        "kanji": "同時",
+        "reading": "どうじ"
+      },
+      "にA.T.フィールドを",
+      {
+        "kanji": "展開",
+        "reading": "てんかい"
+      },
+      "。"
+    ],
+    "english": "Deploy the A.T. Field at the moment of ignition."
+  },
+  {
+    "time": "00:20:04",
+    "character": "多摩",
+    "segments": [
+      {
+        "kanji": "回転数",
+        "reading": "かいてんすう"
+      },
+      "3",
+      {
+        "kanji": "万",
+        "reading": "まん"
+      },
+      "6",
+      {
+        "kanji": "千",
+        "reading": "せん"
+      },
+      "！オールグリーン！"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:20:07",
+    "character": "高雄",
+    "segments": [
+      "コンタクト、",
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "けます！"
+    ],
+    "english": "Contact imminent!"
+  },
+  {
+    "time": "00:20:09",
+    "character": "ミサト",
+    "segments": [
+      "カウント",
+      {
+        "kanji": "省略",
+        "reading": "しょうりゃく"
+      },
+      "。"
+    ],
+    "english": "Skip the countdown!"
+  },
+  {
+    "time": "00:20:10",
+    "character": "ミサト",
+    "segments": [
+      "メイン",
+      {
+        "kanji": "接続",
+        "reading": "せつぞく"
+      }
+    ],
+    "english": "Connect the main engine!"
+  },
+  {
+    "time": "00:20:11",
+    "character": "高雄",
+    "segments": [
+      {
+        "kanji": "接続",
+        "reading": "せつぞく"
+      },
+      "！"
+    ],
+    "english": "Connecting!"
+  },
+  {
+    "time": "00:20:16",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "点火",
+        "reading": "てんか"
+      },
+      "！"
+    ],
+    "english": "Ignite!"
+  },
+  {
+    "time": "00:20:34",
+    "character": "北上",
+    "segments": [
+      {
+        "kanji": "障害物",
+        "reading": "しょうがいぶつ"
+      },
+      "、クリア。"
+    ],
+    "english": "Obstacles cleared!"
+  },
+  {
+    "time": "00:20:35",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "各部",
+        "reading": "かくぶ"
+      },
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      },
+      "。"
+    ],
+    "english": "Check every department!"
+  },
+  {
+    "time": "00:20:36",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "僚艦",
+        "reading": "りょうかん"
+      },
+      "は",
+      {
+        "kanji": "全",
+        "reading": "すべ"
+      },
+      "て",
+      {
+        "kanji": "退避",
+        "reading": "たいひ"
+      },
+      "。"
+    ],
+    "english": "Pull back all consort ships!"
+  },
+  {
+    "time": "00:21:30",
+    "character": "多摩",
+    "segments": [
+      {
+        "kanji": "主翼",
+        "reading": "しゅよく"
+      },
+      "を",
+      {
+        "kanji": "貫通",
+        "reading": "かんつう"
+      },
+      "！",
+      {
+        "kanji": "損害",
+        "reading": "そんがい"
+      },
+      {
+        "kanji": "不明",
+        "reading": "ふめい"
+      },
+      "！"
+    ],
+    "english": "Main wings penetrated! Extent of damage unknown!"
+  },
+  {
+    "time": "00:21:36",
+    "character": "長良",
+    "segments": [
+      "ゴースターン、ようそろ！"
+    ],
+    "english": "Go astern! Keeping her steady!"
+  },
+  {
+    "time": "00:21:44",
+    "character": "ミサト",
+    "segments": [
+      "このままコアブロックを　",
+      {
+        "kanji": "擬製",
+        "reading": "ぎせい"
+      },
+      "コクーンから",
+      {
+        "kanji": "引",
+        "reading": "ひ"
+      },
+      "きずり",
+      {
+        "kanji": "出",
+        "reading": "だ"
+      },
+      "す！"
+    ],
+    "english": "Now drag the core blocks out of the cloaking cocoon!"
+  },
+  {
+    "time": "00:21:53",
+    "character": "多摩",
+    "segments": [
+      {
+        "kanji": "主翼",
+        "reading": "しゅよく"
+      },
+      "ビームに",
+      {
+        "kanji": "亀裂",
+        "reading": "きれつ"
+      },
+      {
+        "kanji": "発生",
+        "reading": "はっせい"
+      },
+      "！"
+    ],
+    "english": "Cracks are appearing in the main wing beams!"
+  },
+  {
+    "time": "00:21:55",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "舵",
+        "reading": "かじ"
+      },
+      "、そのまま！"
+    ],
+    "english": "Keep the rudder steady!"
+  },
+  {
+    "time": "00:21:56",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "主機",
+        "reading": "しゅき"
+      },
+      "、",
+      {
+        "kanji": "全力",
+        "reading": "ぜんりょく"
+      },
+      {
+        "kanji": "運転",
+        "reading": "うんてん"
+      },
+      "！"
+    ],
+    "english": "Run main engine at full power!"
+  },
+  {
+    "time": "00:21:58",
+    "character": "高雄",
+    "segments": [
+      {
+        "kanji": "両舷",
+        "reading": "りょうげん"
+      },
+      {
+        "kanji": "一杯",
+        "reading": "いっぱい"
+      },
+      "！"
+    ],
+    "english": "Maximum power to both sides!"
+  },
+  {
+    "time": "00:22:00",
+    "character": "長良",
+    "segments": [
+      "最",
+      "大",
+      {
+        "kanji": "戦速",
+        "reading": "せんそく"
+      },
+      "！"
+    ],
+    "english": "Full throttle!"
+  },
+  {
+    "time": "00:22:28",
+    "character": "北上",
+    "segments": [
+      {
+        "kanji": "出",
+        "reading": "だ"
+      },
+      "た！コアブロックです！"
+    ],
+    "english": "The core blocks are out!"
+  },
+  {
+    "time": "00:22:30",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      "だ！"
+    ],
+    "english": "Now!"
+  },
+  {
+    "time": "00:22:31",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "取",
+        "reading": "と"
+      },
+      "り",
+      {
+        "kanji": "舵",
+        "reading": "かじ"
+      },
+      {
+        "kanji": "一杯",
+        "reading": "いっぱい"
+      },
+      "！"
+    ],
+    "english": "Hard aport!"
+  },
+  {
+    "time": "00:22:32",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "振",
+        "reading": "ふ"
+      },
+      "り",
+      {
+        "kanji": "回",
+        "reading": "まわ"
+      },
+      "せ！！"
+    ],
+    "english": "Swing her around!"
+  },
+  {
+    "time": "00:22:33",
+    "character": "長良",
+    "segments": [
+      "りょーかい！"
+    ],
+    "english": "Roger!"
+  },
+  {
+    "time": "00:23:00",
+    "character": "ミサト",
+    "segments": [
+      "スラスター",
+      {
+        "kanji": "全",
+        "reading": "すべ"
+      },
+      {
+        "kanji": "開",
+        "reading": "ひら"
+      },
+      "。"
+    ],
+    "english": "Thrusters at maximum!"
+  },
+  {
+    "time": "00:23:01",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "急",
+        "reading": "きゅう"
+      },
+      {
+        "kanji": "制動",
+        "reading": "せいどう"
+      },
+      "！"
+    ],
+    "english": "Full-on brake!"
+  },
+  {
+    "time": "00:23:12",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      "、",
+      {
+        "kanji": "沈黙",
+        "reading": "ちんもく"
+      },
+      "！"
+    ],
+    "english": "No signs of target activity!"
+  },
+  {
+    "time": "00:23:13",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "主砲",
+        "reading": "しゅほう"
+      },
+      "、",
+      {
+        "kanji": "発射",
+        "reading": "はっしゃ"
+      },
+      {
+        "kanji": "準備",
+        "reading": "じゅんび"
+      },
+      "！"
+    ],
+    "english": "Main cannons, prepare to fire!"
+  },
+  {
+    "time": "00:23:15",
+    "character": "ミサト",
+    "segments": [
+      "エネルギー",
+      {
+        "kanji": "貫通弾",
+        "reading": "かんつうだん"
+      },
+      "を",
+      {
+        "kanji": "装填",
+        "reading": "そうてん"
+      },
+      "。"
+    ],
+    "english": "Load the energy-penetrating ammo!"
+  },
+  {
+    "time": "00:23:17",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "全",
+        "reading": "すべ"
+      },
+      {
+        "kanji": "砲塔",
+        "reading": "ほうとう"
+      },
+      "に",
+      {
+        "kanji": "主機",
+        "reading": "しゅき"
+      },
+      "を",
+      {
+        "kanji": "直結",
+        "reading": "ちょっけつ"
+      },
+      "。"
+    ],
+    "english": "Connect all gun turrets to the main engine."
+  },
+  {
+    "time": "00:23:19",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "給弾用",
+        "reading": "きゅうだんよう"
+      },
+      {
+        "kanji": "回路",
+        "reading": "かいろ"
+      },
+      {
+        "kanji": "開",
+        "reading": "ひら"
+      },
+      "け"
+    ],
+    "english": "Open the ammo supply circuits!"
+  },
+  {
+    "time": "00:23:20",
+    "character": "高雄",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      },
+      "。",
+      {
+        "kanji": "回路",
+        "reading": "かいろ"
+      },
+      {
+        "kanji": "開",
+        "reading": "ひら"
+      },
+      "きます。"
+    ],
+    "english": "Roger. Opening ammo supply circuits."
+  },
+  {
+    "time": "00:23:23",
+    "character": "北上",
+    "segments": [
+      {
+        "kanji": "測定",
+        "reading": "そくてい"
+      },
+      {
+        "kanji": "誤差",
+        "reading": "ごさ"
+      },
+      "、ギリギリまで",
+      {
+        "kanji": "修正",
+        "reading": "しゅうせい"
+      },
+      {
+        "kanji": "中",
+        "reading": "ちゅう"
+      },
+      "！"
+    ],
+    "english": "Applying last-minute corrections to measurement errors!"
+  },
+  {
+    "time": "00:23:25",
+    "character": "女(無線)",
+    "segments": [
+      {
+        "kanji": "射撃盤",
+        "reading": "しゃげきばん"
+      },
+      "、",
+      {
+        "kanji": "連動",
+        "reading": "れんどう"
+      },
+      "せず。"
+    ],
+    "english": "Artillery systems are unlinked!"
+  },
+  {
+    "time": "00:23:27",
+    "character": "日向",
+    "segments": [
+      {
+        "kanji": "各",
+        "reading": "かく"
+      },
+      "砲",
+      {
+        "kanji": "直接",
+        "reading": "ちょくせつ"
+      },
+      {
+        "kanji": "照準",
+        "reading": "しょうじゅん"
+      },
+      "及",
+      "び",
+      {
+        "kanji": "手動",
+        "reading": "しゅどう"
+      },
+      {
+        "kanji": "追尾",
+        "reading": "ついび"
+      },
+      "はいけます！"
+    ],
+    "english": "Direct aiming and manual tracking ready on all cannons!"
+  },
+  {
+    "time": "00:23:30",
+    "character": "ミサト",
+    "segments": [
+      "ならば",
+      {
+        "kanji": "結構",
+        "reading": "けっこう"
+      },
+      "。"
+    ],
+    "english": "Then we're all set."
+  },
+  {
+    "time": "00:23:31",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "撃",
+        "reading": "う"
+      },
+      "てぇ！！"
+    ],
+    "english": "Fire!"
+  },
+  {
+    "time": "00:23:56",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      "、",
+      {
+        "kanji": "殲滅",
+        "reading": "せんめつ"
+      }
+    ],
+    "english": "Target destroyed!"
+  },
+  {
+    "time": "00:23:58",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "全艦",
+        "reading": "ぜんかん"
+      },
+      "、",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "２",
+      {
+        "kanji": "種",
+        "reading": "しゅ"
+      },
+      {
+        "kanji": "警戒",
+        "reading": "けいかい"
+      },
+      {
+        "kanji": "態勢",
+        "reading": "たいせい"
+      },
+      "。"
+    ],
+    "english": "All ships, go to secondary state of alert."
+  },
+  {
+    "time": "00:24:00",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "改",
+        "reading": "かい"
+      },
+      "２",
+      {
+        "kanji": "号機",
+        "reading": "ごうき"
+      },
+      "の",
+      {
+        "kanji": "回収",
+        "reading": "かいしゅう"
+      },
+      {
+        "kanji": "用意",
+        "reading": "ようい"
+      },
+      "。"
+    ],
+    "english": "Prepare to retrieve Eva-02'."
+  },
+  {
+    "time": "00:24:02",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "主翼",
+        "reading": "しゅよく"
+      },
+      "の",
+      {
+        "kanji": "応急",
+        "reading": "おうきゅう"
+      },
+      {
+        "kanji": "処置",
+        "reading": "しょち"
+      },
+      "を",
+      {
+        "kanji": "急",
+        "reading": "きゅう"
+      },
+      "いで。"
+    ],
+    "english": "Start emergency repairs on the main wings with all haste."
+  },
+  {
+    "time": "00:24:06",
+    "character": "多摩",
+    "segments": [
+      "･･･すごい。"
+    ],
+    "english": "Wow..."
+  },
+  {
+    "time": "00:24:07",
+    "character": "北上",
+    "segments": [
+      "ホントに",
+      {
+        "kanji": "勝",
+        "reading": "か"
+      },
+      "っちゃった。"
+    ],
+    "english": "We actually won."
+  },
+  {
+    "time": "00:24:09",
+    "character": "高雄",
+    "segments": [
+      "まったくムチャをする･･････"
+    ],
+    "english": "She's brazen as you get."
+  },
+  {
+    "time": "00:24:12",
+    "character": "高雄",
+    "segments": [
+      {
+        "kanji": "加持",
+        "reading": "かじ"
+      },
+      "の",
+      {
+        "kanji": "話",
+        "reading": "はなし"
+      },
+      "より",
+      {
+        "kanji": "面白",
+        "reading": "おもしろ"
+      },
+      "い",
+      {
+        "kanji": "艦長",
+        "reading": "かんちょう"
+      },
+      "だ。"
+    ],
+    "english": "The captain's even more interesting than Kaji described."
+  },
+  {
+    "time": "00:24:15",
+    "character": "リツコ",
+    "segments": [
+      "これが",
+      {
+        "kanji": "神殺",
+        "reading": "かみごろ"
+      },
+      "しの",
+      {
+        "kanji": "力",
+        "reading": "ちから"
+      },
+      "。"
+    ],
+    "english": "So this is the power to kill gods."
+  },
+  {
+    "time": "00:24:17",
+    "character": "リツコ",
+    "segments": [
+      "･･････ヴンダー。まさに",
+      {
+        "kanji": "希望",
+        "reading": "きぼう"
+      },
+      "の",
+      {
+        "kanji": "船",
+        "reading": "ふね"
+      },
+      "ね。"
+    ],
+    "english": "Wunder. Truly the ship of hope."
+  },
+  {
+    "time": "00:25:00",
+    "character": "サクラ",
+    "segments": [
+      {
+        "kanji": "検体",
+        "reading": "けんたい"
+      },
+      "ＢＭ０３。",
+      {
+        "kanji": "仮称",
+        "reading": "かしょう"
+      },
+      "碇",
+      "シンジさん。"
+    ],
+    "english": "Specimen BM03. Tentative Name: Ikari Shinji-san."
+  },
+  {
+    "time": "00:25:03",
+    "character": "サクラ",
+    "segments": [
+      {
+        "kanji": "副長",
+        "reading": "ふくちょう"
+      },
+      "から",
+      {
+        "kanji": "説明",
+        "reading": "せつめい"
+      },
+      "があるそうです。"
+    ],
+    "english": "The vice-captain would like to speak with you."
+  },
+  {
+    "time": "00:25:06",
+    "character": "シンジ",
+    "segments": [
+      "―――これが",
+      {
+        "kanji": "初号機",
+        "reading": "しょごうき"
+      },
+      "？"
+    ],
+    "english": "That's Eva-01...?"
+  },
+  {
+    "time": "00:25:08",
+    "character": "リツコ",
+    "segments": [
+      "ええ。",
+      {
+        "kanji": "初号機",
+        "reading": "しょごうき"
+      },
+      "は",
+      {
+        "kanji": "現在",
+        "reading": "げんざい"
+      },
+      {
+        "kanji": "本艦",
+        "reading": "ほんかん"
+      },
+      "の",
+      {
+        "kanji": "主機",
+        "reading": "しゅき"
+      },
+      "として",
+      {
+        "kanji": "使",
+        "reading": "つか"
+      },
+      "用",
+      {
+        "kanji": "中",
+        "reading": "ちゅう"
+      },
+      "。"
+    ],
+    "english": "Yes. Eva-01 is currently being used as the main engine of this ship."
+  },
+  {
+    "time": "00:25:13",
+    "character": "リツコ",
+    "segments": [
+      "ゆえにパイロットは",
+      {
+        "kanji": "不要",
+        "reading": "ふよう"
+      },
+      "です。"
+    ],
+    "english": "It follows that we don't need a pilot."
+  },
+  {
+    "time": "00:25:16",
+    "character": "シンジ",
+    "segments": [
+      "ホントに、いらないんですね"
+    ],
+    "english": "It really is true, then."
+  },
+  {
+    "time": "00:25:19",
+    "character": "リツコ",
+    "segments": [
+      "それと、あなたの",
+      {
+        "kanji": "深層",
+        "reading": "しんそう"
+      },
+      "シンクロテストの",
+      {
+        "kanji": "結果",
+        "reading": "けっか"
+      },
+      "が",
+      {
+        "kanji": "出",
+        "reading": "だ"
+      },
+      "ました。"
+    ],
+    "english": "Also, your deep sync test results are in."
+  },
+  {
+    "time": "00:25:23",
+    "character": "リツコ",
+    "segments": [
+      "シンクロ",
+      {
+        "kanji": "率",
+        "reading": "りつ"
+      },
+      "は０.００％。"
+    ],
+    "english": "Your sync rate is 0.00%."
+  },
+  {
+    "time": "00:25:26",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "仮",
+        "reading": "かり"
+      },
+      "にあなたがエヴァに",
+      {
+        "kanji": "搭乗",
+        "reading": "とうじょう"
+      },
+      "しても",
+      {
+        "kanji": "起動",
+        "reading": "きどう"
+      },
+      "しません"
+    ],
+    "english": "Even if you were to get in the Eva, it wouldn't activate."
+  },
+  {
+    "time": "00:25:30",
+    "character": "サクラ",
+    "segments": [
+      "そっかあ。"
+    ],
+    "english": "There we go!"
+  },
+  {
+    "time": "00:25:31",
+    "character": "サクラ",
+    "segments": [
+      "よかったですね、",
+      "碇",
+      "さん"
+    ],
+    "english": "Isn't that great, Ikari-san?"
+  },
+  {
+    "time": "00:25:33",
+    "character": "リツコ",
+    "segments": [
+      "とはいえ、",
+      {
+        "kanji": "先",
+        "reading": "さき"
+      },
+      "に",
+      {
+        "kanji": "突如",
+        "reading": "とつじょ"
+      },
+      "１２",
+      {
+        "kanji": "秒間",
+        "reading": "びょうかん"
+      },
+      "も、",
+      {
+        "kanji": "覚醒",
+        "reading": "かくせい"
+      },
+      {
+        "kanji": "状態",
+        "reading": "じょうたい"
+      },
+      "と",
+      {
+        "kanji": "化",
+        "reading": "か"
+      },
+      "した",
+      {
+        "kanji": "事実",
+        "reading": "じじつ"
+      },
+      "は",
+      {
+        "kanji": "看過",
+        "reading": "かんか"
+      },
+      "できない。"
+    ],
+    "english": "Still, we cannot overlook the fact that the unit suddenly entered an Awakened state for twelve seconds earlier."
+  },
+  {
+    "time": "00:25:39",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "故",
+        "reading": "ゆえ"
+      },
+      "にあなたには　DSSチョーカーを",
+      "装",
+      "着",
+      "させてあります。"
+    ],
+    "english": "As a result, we've installed the DSS Choker on you."
+  },
+  {
+    "time": "00:25:44",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なん"
+      },
+      "ですか、これ？"
+    ],
+    "english": "What is this?"
+  },
+  {
+    "time": "00:25:45",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "私",
+        "reading": "わたし"
+      },
+      "たちへの",
+      {
+        "kanji": "保険",
+        "reading": "ほけん"
+      },
+      "。"
+    ],
+    "english": "Insurance for us."
+  },
+  {
+    "time": "00:25:48",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "覚醒",
+        "reading": "かくせい"
+      },
+      {
+        "kanji": "回避",
+        "reading": "かいひ"
+      },
+      "のための",
+      {
+        "kanji": "物理的",
+        "reading": "ぶつりてき"
+      },
+      {
+        "kanji": "安全",
+        "reading": "あんぜん"
+      },
+      {
+        "kanji": "装置",
+        "reading": "そうち"
+      },
+      "。"
+    ],
+    "english": "It's a physical safety device that prevents Awakenings."
+  },
+  {
+    "time": "00:25:51",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "私",
+        "reading": "わたし"
+      },
+      "たちの",
+      {
+        "kanji": "不信",
+        "reading": "ふしん"
+      },
+      "と　あなたへの",
+      {
+        "kanji": "罰",
+        "reading": "ばつ"
+      },
+      "の",
+      {
+        "kanji": "象徴",
+        "reading": "しょうちょう"
+      },
+      "です。"
+    ],
+    "english": "It symbolizes both your punishment, and our mistrust in you."
+  },
+  {
+    "time": "00:25:55",
+    "character": "シンジ",
+    "segments": [
+      "どういうことですか？"
+    ],
+    "english": "What do you mean?"
+  },
+  {
+    "time": "00:25:56",
+    "character": "リツコ",
+    "segments": [
+      "エヴァ",
+      {
+        "kanji": "搭乗",
+        "reading": "とうじょう"
+      },
+      {
+        "kanji": "時",
+        "reading": "じ"
+      },
+      "、",
+      {
+        "kanji": "自己",
+        "reading": "じこ"
+      },
+      "の",
+      {
+        "kanji": "感情",
+        "reading": "かんじょう"
+      },
+      "に",
+      {
+        "kanji": "飲",
+        "reading": "の"
+      },
+      "み",
+      {
+        "kanji": "込",
+        "reading": "こ"
+      },
+      "まれ",
+      {
+        "kanji": "覚醒",
+        "reading": "かくせい"
+      },
+      "リスクを",
+      {
+        "kanji": "抑",
+        "reading": "おさ"
+      },
+      "えられない",
+      {
+        "kanji": "事態",
+        "reading": "じたい"
+      },
+      "に",
+      {
+        "kanji": "達",
+        "reading": "たっ"
+      },
+      "した",
+      {
+        "kanji": "場合",
+        "reading": "ばあい"
+      },
+      "、"
+    ],
+    "english": "Should you succumb to your emotions while piloting an Eva, and the risk of Awakening becomes too great to avoid,"
+  },
+  {
+    "time": "00:26:04",
+    "character": "リツコ",
+    "segments": [
+      "あなたの",
+      {
+        "kanji": "一命",
+        "reading": "いちめい"
+      },
+      "をもってせき",
+      {
+        "kanji": "止",
+        "reading": "と"
+      },
+      "める、ということです。"
+    ],
+    "english": "this will intervene by terminating your life."
+  },
+  {
+    "time": "00:26:08",
+    "character": "シンジ",
+    "segments": [
+      "それって・・・",
+      {
+        "kanji": "死",
+        "reading": "し"
+      },
+      "ぬってことですか？"
+    ],
+    "english": "Does that mean... I'll die?"
+  },
+  {
+    "time": "00:26:13",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "否定",
+        "reading": "ひてい"
+      },
+      "はしません。"
+    ],
+    "english": "I won't deny that."
+  },
+  {
+    "time": "00:26:16",
+    "character": "シンジ",
+    "segments": [
+      "そんな・・・。"
+    ],
+    "english": "No way..."
+  },
+  {
+    "time": "00:26:18",
+    "character": "シンジ",
+    "segments": [
+      "ミサトさん・・・どういう",
+      {
+        "kanji": "事",
+        "reading": "こと"
+      },
+      "なんですか？",
+      {
+        "kanji": "死",
+        "reading": "し"
+      },
+      "ぬって"
+    ],
+    "english": "Misato-san, what's the meaning of this? I'll die?"
+  },
+  {
+    "time": "00:26:22",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "変",
+        "reading": "へん"
+      },
+      "ですよ、ミサトさん！"
+    ],
+    "english": "It doesn't make sense, Misato-san!"
+  },
+  {
+    "time": "00:26:24",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "急",
+        "reading": "きゅう"
+      },
+      "にこんなことになってて、ワケわかんないですよっ！！"
+    ],
+    "english": "How'd things suddenly end up this way? It's ridiculous!"
+  },
+  {
+    "time": "00:26:27",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "混乱",
+        "reading": "こんらん"
+      },
+      "するのも",
+      {
+        "kanji": "無理",
+        "reading": "むり"
+      },
+      "ないわ。"
+    ],
+    "english": "It can't blame you for being confused."
+  },
+  {
+    "time": "00:26:28",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "少尉",
+        "reading": "しょうい"
+      }
+    ],
+    "english": "Lieutenant?"
+  },
+  {
+    "time": "00:26:29",
+    "character": "サクラ",
+    "segments": [
+      "あ、ハイ"
+    ],
+    "english": "Yes, ma'am?"
+  },
+  {
+    "time": "00:26:30",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "彼",
+        "reading": "かれ"
+      },
+      "に",
+      {
+        "kanji": "官姓名",
+        "reading": "かんせいめい"
+      },
+      "を。"
+    ],
+    "english": "Tell him your name and rank."
+  },
+  {
+    "time": "00:26:31",
+    "character": "サクラ",
+    "segments": [
+      "ハイ"
+    ],
+    "english": "Yes, ma'am!"
+  },
+  {
+    "time": "00:26:33",
+    "character": "サクラ",
+    "segments": [
+      "えっと、",
+      {
+        "kanji": "今更",
+        "reading": "いまさら"
+      },
+      "ですが、",
+      "碇",
+      "さんの",
+      {
+        "kanji": "管理",
+        "reading": "かんり"
+      },
+      {
+        "kanji": "担当",
+        "reading": "たんとう"
+      },
+      {
+        "kanji": "医官",
+        "reading": "いかん"
+      },
+      "、"
+    ],
+    "english": "Um, I know this introduction comes late, but I'm your assigned medical officer,"
+  },
+  {
+    "time": "00:26:38",
+    "character": "サクラ",
+    "segments": [
+      "鈴",
+      "原",
+      "サクラ",
+      {
+        "kanji": "少尉",
+        "reading": "しょうい"
+      },
+      "です。"
+    ],
+    "english": "Lt. Suzuhara Sakura."
+  },
+  {
+    "time": "00:26:41",
+    "character": "サクラ",
+    "segments": [
+      "よろしく、です！"
+    ],
+    "english": "Nice to meet you."
+  },
+  {
+    "time": "00:26:43",
+    "character": "シンジ",
+    "segments": [
+      "あ、ハイ。"
+    ],
+    "english": "Ah, same."
+  },
+  {
+    "time": "00:26:46",
+    "character": "シンジ",
+    "segments": [
+      "でも、スズハラって、"
+    ],
+    "english": "Wait, \"Suzuhara\"?"
+  },
+  {
+    "time": "00:26:48",
+    "character": "シンジ",
+    "segments": [
+      "トウジの？"
+    ],
+    "english": "Are you Toji's...?"
+  },
+  {
+    "time": "00:26:50",
+    "character": "サクラ",
+    "segments": [
+      "ハイ。"
+    ],
+    "english": "That's right."
+  },
+  {
+    "time": "00:26:51",
+    "character": "サクラ",
+    "segments": [
+      "お",
+      "兄",
+      "ちゃんがお",
+      {
+        "kanji": "世話",
+        "reading": "せわ"
+      },
+      "になりました。"
+    ],
+    "english": "Thank you for being friends with my brother."
+  },
+  {
+    "time": "00:26:53",
+    "character": "サクラ",
+    "segments": [
+      {
+        "kanji": "妹",
+        "reading": "いもうと"
+      },
+      "のサクラです。"
+    ],
+    "english": "I'm his younger sister, Sakura."
+  },
+  {
+    "time": "00:26:55",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "妹",
+        "reading": "いもうと"
+      },
+      "？"
+    ],
+    "english": "Younger sister?"
+  },
+  {
+    "time": "00:26:56",
+    "character": "シンジ",
+    "segments": [
+      "お",
+      {
+        "kanji": "姉",
+        "reading": "あね"
+      },
+      "さんじゃなくて？"
+    ],
+    "english": "Don't you mean older?"
+  },
+  {
+    "time": "00:26:57",
+    "character": "サクラ",
+    "segments": [
+      "ハイ。",
+      {
+        "kanji": "妹",
+        "reading": "いもうと"
+      },
+      "です！"
+    ],
+    "english": "No, younger."
+  },
+  {
+    "time": "00:27:00",
+    "character": "サクラ",
+    "segments": [
+      "テヘ"
+    ],
+    "english": "...you'll do nothing."
+  },
+  {
+    "time": "00:27:01",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "妹",
+        "reading": "いもうと"
+      },
+      "・・・",
+      {
+        "kanji": "何",
+        "reading": "なん"
+      },
+      "で？"
+    ],
+    "english": "Younger...? How?"
+  },
+  {
+    "time": "00:27:04",
+    "character": "アスカ",
+    "segments": [
+      "あれから１４",
+      {
+        "kanji": "年",
+        "reading": "ねん"
+      },
+      {
+        "kanji": "経",
+        "reading": "た"
+      },
+      "ってるってことよ。"
+    ],
+    "english": "Fourteen years have passed since then."
+  },
+  {
+    "time": "00:27:07",
+    "character": "アスカ",
+    "segments": [
+      "バカシンジ。"
+    ],
+    "english": "Stupid Shinji."
+  },
+  {
+    "time": "00:27:09",
+    "character": "シンジ",
+    "segments": [
+      "え、あ、アスカ！？"
+    ],
+    "english": "Huh? A-Asuka!"
+  },
+  {
+    "time": "00:27:15",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "良",
+        "reading": "よ"
+      },
+      "かった！"
+    ],
+    "english": "Thank goodness!"
+  },
+  {
+    "time": "00:27:16",
+    "character": "シンジ",
+    "segments": [
+      "やっぱり",
+      {
+        "kanji": "無事",
+        "reading": "ぶじ"
+      },
+      "だったんだね！アスカッ！"
+    ],
+    "english": "You really are okay, Asuka!"
+  },
+  {
+    "time": "00:27:20",
+    "character": "シンジ",
+    "segments": [
+      "あはっ･･･"
+    ],
+    "english": "Starting all integrated processor systems."
+  },
+  {
+    "time": "00:27:23",
+    "character": "アスカ",
+    "segments": [
+      "ダメね。"
+    ],
+    "english": "It's no good. I can't stop myself."
+  },
+  {
+    "time": "00:27:25",
+    "character": "アスカ",
+    "segments": [
+      {
+        "kanji": "押",
+        "reading": "おさ"
+      },
+      "えきれない。"
+    ],
+    "english": "I've been holding it in all these years."
+  },
+  {
+    "time": "00:27:26",
+    "character": "アスカ",
+    "segments": [
+      "ずーっとガマンしてたし。"
+    ],
+    "english": ""
+  },
+  {
+    "time": "00:40:35",
+    "character": "多摩",
+    "segments": [
+      "隔",
+      "壁",
+      "を",
+      {
+        "kanji": "緊急",
+        "reading": "きんきゅう"
+      },
+      {
+        "kanji": "閉鎖",
+        "reading": "へいさ"
+      }
+    ],
+    "english": "Do nothing."
+  },
+  {
+    "time": "00:40:36",
+    "character": "シンジ",
+    "segments": [
+      "エヴァ？",
+      {
+        "kanji": "零号機",
+        "reading": "れいごうき"
+      },
+      "？"
+    ],
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:26",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なん"
+      },
+      "もしないで。"
+    ],
+    "english": "Sorry, sorry!"
+  },
+  {
+    "time": "01:09:26",
+    "character": "声",
+    "segments": [
+      {
+        "kanji": "嫌",
+        "reading": "きら"
+      },
+      "い。バッカみたい。"
+    ],
+    "english": "Sorry, sorry!"
+  },
+  {
+    "time": "01:09:28",
+    "character": "声",
+    "segments": [
+      "あんたのこと",
+      {
+        "kanji": "好",
+        "reading": "す"
+      },
+      "きになるハズないじゃない。"
+    ],
+    "english": "Adams' Vessel-san,"
+  },
+  {
+    "time": "01:09:28",
+    "character": "声",
+    "segments": [
+      "あんたなんか",
+      {
+        "kanji": "生",
+        "reading": "う"
+      },
+      "まれて",
+      {
+        "kanji": "来",
+        "reading": "き"
+      },
+      "れなきゃよかったのよ！"
+    ],
+    "english": "Adams' Vessel-san,"
+  },
+  {
+    "time": "01:09:29",
+    "character": "声",
+    "segments": [
+      "／There's no way I'd fall for you."
+    ],
+    "english": "I don't know."
+  },
+  {
+    "time": "01:09:29",
+    "character": "声",
+    "segments": [
+      "あんたさえ、いなけりゃいいのに。"
+    ],
+    "english": "I don't know."
+  },
+  {
+    "time": "01:09:30",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "父",
+        "reading": "とう"
+      },
+      "さん・・・"
+    ],
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:31",
+    "character": "声",
+    "segments": [
+      {
+        "kanji": "正直",
+        "reading": "しょうじき"
+      },
+      "、",
+      {
+        "kanji": "苦手",
+        "reading": "にがて"
+      },
+      "というより",
+      {
+        "kanji": "一番",
+        "reading": "いちばん"
+      },
+      "キライなタイプなのよ、あなたって。"
+    ],
+    "english": "at least I'll stop *you* in your tracks."
+  },
+  {
+    "time": "01:09:31",
+    "character": "声",
+    "segments": [
+      "もうあっち",
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "ってて。"
+    ],
+    "english": "at least I'll stop *you* in your tracks."
+  },
+  {
+    "time": "01:09:31",
+    "character": "アスカ",
+    "segments": [
+      "あんたには",
+      {
+        "kanji": "関係",
+        "reading": "かんけい"
+      },
+      "ない。"
+    ],
+    "english": "at least I'll stop *you* in your tracks."
+  },
+  {
+    "time": "01:09:33",
+    "character": "アスカ",
+    "segments": [
+      "あんたには",
+      {
+        "kanji": "関係",
+        "reading": "かんけい"
+      },
+      "ない。"
+    ],
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "01:09:38",
+    "character": "シンジ",
+    "segments": [
+      "母",
+      "さん・・・"
+    ],
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:09:39",
+    "character": "サクラ",
+    "segments": [
+      "エヴァにだけは",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "らんで",
+      {
+        "kanji": "下",
+        "reading": "さ"
+      },
+      "さいよ！"
+    ],
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:09:41",
+    "character": "アスカ",
+    "segments": [
+      "あんたには",
+      {
+        "kanji": "関係",
+        "reading": "かんけい"
+      },
+      "ない。"
+    ],
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "01:09:43",
+    "character": "声",
+    "segments": [
+      "／Your existence means nothing to me."
+    ],
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:43",
+    "character": "ゲンドウ",
+    "segments": [
+      "エヴァに",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "れ。"
+    ],
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:45",
+    "character": "レイ",
+    "segments": [
+      {
+        "kanji": "知",
+        "reading": "し"
+      },
+      "らない。"
+    ],
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:09:45",
+    "character": "レイ",
+    "segments": [
+      {
+        "kanji": "知",
+        "reading": "し"
+      },
+      "らない。"
+    ],
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:09:45",
+    "character": "声",
+    "segments": [
+      "／Just disappear already."
+    ],
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:09:47",
+    "character": "声",
+    "segments": [
+      "／You'd burden me as a friend."
+    ],
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:09:50",
+    "character": "声",
+    "segments": [
+      "あんたのこと",
+      {
+        "kanji": "好",
+        "reading": "す"
+      },
+      "きになるハズないじゃない。"
+    ],
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "01:09:50",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なん"
+      },
+      "もしないで。"
+    ],
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "01:09:52",
+    "character": "声",
+    "segments": [
+      {
+        "kanji": "正直",
+        "reading": "しょうじき"
+      },
+      "、",
+      {
+        "kanji": "苦手",
+        "reading": "にがて"
+      },
+      "というより",
+      {
+        "kanji": "一番",
+        "reading": "いちばん"
+      },
+      "キライなタイプなのよ、あなたって。"
+    ],
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:09:53",
+    "character": "レイ",
+    "segments": [
+      {
+        "kanji": "知",
+        "reading": "し"
+      },
+      "らない。"
+    ],
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:09:54",
+    "character": "ゲンドウ",
+    "segments": [
+      "エヴァに",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "れ。"
+    ],
+    "english": "Why are you getting in our way, Asuka?"
+  },
+  {
+    "time": "01:09:55",
+    "character": "アスカ",
+    "segments": [
+      "あんたには",
+      {
+        "kanji": "関係",
+        "reading": "かんけい"
+      },
+      "ない。"
+    ],
+    "english": "Bye-bye!"
+  },
+  {
+    "time": "01:09:56",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なん"
+      },
+      "もしないで。"
+    ],
+    "english": "Those are our Spears of hope!"
+  },
+  {
+    "time": "01:09:56",
+    "character": "サクラ",
+    "segments": [
+      "エヴァにだけは",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "らんで",
+      {
+        "kanji": "下",
+        "reading": "さ"
+      },
+      "さいよ！"
+    ],
+    "english": "Those are our Spears of hope!"
+  },
+  {
+    "time": "01:09:57",
+    "character": "レイ",
+    "segments": [
+      {
+        "kanji": "知",
+        "reading": "し"
+      },
+      "らない。"
+    ],
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:57",
+    "character": "ゲンドウ",
+    "segments": [
+      "エヴァに",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "れ。"
+    ],
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:58",
+    "character": "サクラ",
+    "segments": [
+      "エヴァにだけは",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "らんで",
+      {
+        "kanji": "下",
+        "reading": "さ"
+      },
+      "さいよ！"
+    ],
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:09:58",
+    "character": "アスカ",
+    "segments": [
+      "あんたには",
+      {
+        "kanji": "関係",
+        "reading": "かんけい"
+      },
+      "ない。"
+    ],
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:09:59",
+    "character": "レイ",
+    "segments": [
+      {
+        "kanji": "知",
+        "reading": "し"
+      },
+      "らない。"
+    ],
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "01:10:00",
+    "character": "サクラ",
+    "segments": [
+      "エヴァにだけは",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "らんで",
+      {
+        "kanji": "下",
+        "reading": "さ"
+      },
+      "さいよ！"
+    ],
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:10:05",
+    "character": "サクラ",
+    "segments": [
+      "エヴァにだけは",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "らんで",
+      {
+        "kanji": "下",
+        "reading": "さ"
+      },
+      "さいよ！"
+    ],
+    "english": "Are you trying to cause Third Impact again?"
+  },
+  {
+    "time": "01:10:07",
+    "character": "レイ",
+    "segments": [
+      {
+        "kanji": "知",
+        "reading": "し"
+      },
+      "らない。"
+    ],
+    "english": "No I'm not!"
+  },
+  {
+    "time": "01:10:16",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なん"
+      },
+      "してたんだ",
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
+      "は・・・"
+    ],
+    "english": "You really *are* a little brat."
+  },
+  {
+    "time": "00:11:46",
+    "character": "シンジ",
+    "segments": [
+      "お",
+      {
+        "kanji": "願",
+        "reading": "ねが"
+      },
+      "いだから　",
+      {
+        "kanji": "邪魔",
+        "reading": "じゃま"
+      },
+      "しないでよ"
+    ],
+    "english": "Inputting mass variation factors."
+  },
+  {
+    "time": "01:30:51",
+    "character": "多摩",
+    "segments": [
+      {
+        "kanji": "中",
+        "reading": "ちゅう"
+      },
+      "央",
+      "部",
+      "さらに",
+      "被",
+      "弾",
+      "！"
+    ],
+    "english": "Severe damage to the third armor plate!"
+  },
+  {
+    "time": "01:24:59",
+    "character": "カヲル",
+    "segments": [
+      "ガフの",
+      {
+        "kanji": "扉",
+        "reading": "とびら"
+      },
+      "は、",
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
+      "が",
+      {
+        "kanji": "閉",
+        "reading": "と"
+      },
+      "じる。"
+    ],
+    "english": "I'll close the Gates of Guf."
+  },
+  {
+    "time": "01:35:34",
+    "character": "テロップ",
+    "segments": [
+      "シン・エヴァンゲリオン",
+      {
+        "kanji": "劇場版",
+        "reading": "げきじょうばん"
+      },
+      "：｜｜"
+    ],
+    "english": "There'll be plenty of fan service all the way to the end!"
+  }
+]
