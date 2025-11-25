@@ -165,7 +165,7 @@
     "segments": [
       "アンチＡ．Ｔ．フィールド"
     ],
-    "english": "Anti A.T. Field"
+    "english": "An Anti-A.T. Field!"
   },
   {
     "time": "00:03:31",
@@ -335,7 +335,7 @@
     "segments": [
       "３、"
     ],
-    "english": "3..."
+    "english": "Three!"
   },
   {
     "time": "00:04:53",
@@ -747,7 +747,7 @@
       },
       "！"
     ],
-    "english": "02-Dash! Mission takes priority!"
+    "english": "02-Dash, completing the mission takes top priority!"
   },
   {
     "time": "00:06:18",
@@ -790,7 +790,7 @@
       },
       "かってるっつーの！！"
     ],
-    "english": "I know that!"
+    "english": "I already know that!"
   },
   {
     "time": "00:06:38",
@@ -2399,7 +2399,7 @@
         "reading": "はいき"
       }
     ],
-    "english": "Opening drain valves. Discarding propellant."
+    "english": "Opening drain valves. Discarding propellant. #Not in UTW#"
   },
   {
     "time": "00:11:54",
@@ -2580,7 +2580,7 @@
         "reading": "かくにん"
       }
     ],
-    "english": "Separation of all units confirmed."
+    "english": "Separation of all units confirmed. #Not in UTW#"
   },
   {
     "time": "00:12:10",
@@ -2619,7 +2619,7 @@
         "reading": "はいき"
       }
     ],
-    "english": "Opening drain valves. Discarding propellant."
+    "english": "Opening drain valves. Discarding propellant. #Not in UTW#"
   },
   {
     "time": "00:12:13",
@@ -2917,7 +2917,7 @@
       },
       "る。"
     ],
-    "english": "What's the status of the procedures on deck?"
+    "english": "Now commencing the operation."
   },
   {
     "time": "00:12:32",
@@ -2969,7 +2969,7 @@
       },
       "る。"
     ],
-    "english": "I'm in charge of that?"
+    "english": "All remote guiding will now be cut."
   },
   {
     "time": "00:12:34",
@@ -3004,7 +3004,7 @@
       },
       "はローカル。"
     ],
-    "english": "Of course you are! Double jobs!"
+    "english": "Unit will be controlled manually."
   },
   {
     "time": "00:12:36",
@@ -3021,7 +3021,7 @@
       },
       "だろ！"
     ],
-    "english": "Of course you are! Double jobs!"
+    "english": "Unit will be controlled manually."
   },
   {
     "time": "00:12:38",
@@ -3029,7 +3029,7 @@
     "segments": [
       "グッドラック。"
     ],
-    "english": "Huh? Seriously?"
+    "english": "Good luck."
   },
   {
     "time": "00:12:38",
@@ -3152,7 +3152,7 @@
     "segments": [
       "キンチョーするわぁ"
     ],
-    "english": "Roger."
+    "english": "around the bridge during battle stations!"
   },
   {
     "time": "00:12:52",
@@ -3464,7 +3464,7 @@
       },
       "だ。"
     ],
-    "english": "At this rate, we'll be on the receiving end of a saturated attack."
+    "english": "They're a pesky bunch."
   },
   {
     "time": "00:13:22",
@@ -3486,7 +3486,7 @@
       },
       "。"
     ],
-    "english": "Six hundred seconds until contact!"
+    "english": "Identifying the approaching body..."
   },
   {
     "time": "00:13:22",
@@ -3621,7 +3621,7 @@
       },
       "できない。"
     ],
-    "english": "And worst of all, we can't even locate the core block target."
+    "english": "Worst of all, we cannot isolate the attacking targets' core blocks."
   },
   {
     "time": "00:13:38",
@@ -3761,7 +3761,7 @@
       },
       "おそい！"
     ],
-    "english": "Vice Captain, we're going to fly."
+    "english": "Support fire was two seconds late!"
   },
   {
     "time": "00:13:52",
@@ -4000,7 +4000,7 @@
       },
       "にたくないです。"
     ],
-    "english": "I don't want to die yet."
+    "english": "I don't wanna die just yet."
   },
   {
     "time": "00:14:17",
@@ -4022,7 +4022,7 @@
       },
       "ぬ。そんだけだ。"
     ],
-    "english": "We'll die when we die. That's all there is to it."
+    "english": "You'll die when it's time. Simple as that."
   },
   {
     "time": "00:14:19",
@@ -4044,7 +4044,7 @@
       },
       "うな。"
     ],
-    "english": "Stop nitpicking, kid."
+    "english": "You kids should stop complaining so much."
   },
   {
     "time": "00:14:21",

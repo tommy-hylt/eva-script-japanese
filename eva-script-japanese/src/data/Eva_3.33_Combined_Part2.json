@@ -40,7 +40,7 @@
       },
       "。"
     ],
-    "english": "I know this is reckless."
+    "english": "I know it's reckless!"
   },
   {
     "time": "00:14:27",
@@ -62,7 +62,7 @@
       },
       "きずりだします。"
     ],
-    "english": "We'll use this ship as bait to lure out the target."
+    "english": "We'll use this ship as bait and draw the targets out."
   },
   {
     "time": "00:14:30",
@@ -129,7 +129,7 @@
       },
       "なのよ。"
     ],
-    "english": "But the ignition system hasn't been installed yet."
+    "english": "But the crucial ignition system hasn't been installed yet."
   },
   {
     "time": "00:14:36",
@@ -207,7 +207,7 @@
     "segments": [
       "アスカ..."
     ],
-    "english": "Asuka..."
+    "english": "Asuka?"
   },
   {
     "time": "00:14:42",
@@ -231,7 +231,7 @@
     "segments": [
       "もうやってる。"
     ],
-    "english": "Already on it."
+    "english": "I'm already on it!"
   },
   {
     "time": "00:14:47",
@@ -253,7 +253,7 @@
       },
       "みゃいいんでしょ。"
     ],
-    "english": "I just need to shove in the igniter, right?"
+    "english": "I just have to shove the igniter in, right?"
   },
   {
     "time": "00:14:50",
@@ -266,7 +266,7 @@
       },
       "むわ。"
     ],
-    "english": "Please do."
+    "english": "I'm counting on you."
   },
   {
     "time": "00:14:51",
@@ -289,7 +289,7 @@
       },
       "が―――。"
     ],
-    "english": "But there's the issue of the barrier density around the main engine..."
+    "english": "But there's a problem with the barrier density around the main engine."
   },
   {
     "time": "00:14:54",
@@ -302,7 +302,7 @@
       },
       "でしょ。"
     ],
-    "english": "And it's still being retrofitted."
+    "english": "And parts are currently being exchanged, aren't they?"
   },
   {
     "time": "00:14:56",
@@ -325,7 +325,7 @@
       },
       "のモットーだしね。"
     ],
-    "english": "Well, mission first. Disregarding lives is the Colonel's motto."
+    "english": "Well, the captain's motto is \"prioritize the objective over human life\"."
   },
   {
     "time": "00:15:00",
@@ -342,7 +342,7 @@
       },
       "るわよ。"
     ],
-    "english": "Don't worry about it. I'm launching."
+    "english": "I'm going all out!"
   },
   {
     "time": "00:15:01",
@@ -365,7 +365,7 @@
       },
       "！"
     ],
-    "english": "Evangelion Unit 02 Kai, activate!"
+    "english": "Eva Unit 02', activate!"
   },
   {
     "time": "00:15:06",
@@ -387,7 +387,7 @@
       },
       "。"
     ],
-    "english": "Unit 02 Kai, launch."
+    "english": "Launch Eva-02'."
   },
   {
     "time": "00:15:07",
@@ -612,7 +612,7 @@
       },
       "な"
     ],
-    "english": "Damn, this new style is so plain..."
+    "english": "What a lame way for my unit to debut after its makeover."
   },
   {
     "time": "00:15:31",
@@ -638,7 +638,7 @@
       },
       "だったんだ。アスカ。"
     ],
-    "english": "I'm glad you're safe, Asuka."
+    "english": "Thank goodness. You're alright, Asuka."
   },
   {
     "time": "00:15:40",
@@ -651,7 +651,7 @@
       },
       "は？"
     ],
-    "english": "Misato-san... what about me?"
+    "english": "Misato-san, what about me?"
   },
   {
     "time": "00:15:43",
@@ -741,7 +741,7 @@
       },
       "。"
     ],
-    "english": "All ships, first-grade battle stations."
+    "english": "All ships, Battle Stations One."
   },
   {
     "time": "00:15:48",
@@ -1133,7 +1133,7 @@
       },
       "、ここにあるんでしょ！"
     ],
-    "english": "Unit 01 is here, isn't it?!"
+    "english": "Eva-01 is here, isn't it?"
   },
   {
     "time": "00:16:14",
@@ -1150,7 +1150,7 @@
       },
       "ります！"
     ],
-    "english": "Let me pilot it too!"
+    "english": "I'll pilot, too!"
   },
   {
     "time": "00:16:15",
@@ -1497,7 +1497,7 @@
       },
       "･････！！"
     ],
-    "english": "Target still approaching!!"
+    "english": "Targets are still closing in."
   },
   {
     "time": "00:17:39",
@@ -1509,7 +1509,7 @@
       },
       "をとりつつあり！"
     ],
-    "english": "Taking encirclement formation!"
+    "english": "Currently taking on an encircling formation."
   },
   {
     "time": "00:17:41",
@@ -1609,7 +1609,7 @@
     "segments": [
       "あーらよっと。"
     ],
-    "english": "Here we go."
+    "english": "Here we go!"
   },
   {
     "time": "00:17:54",
@@ -1617,7 +1617,7 @@
     "segments": [
       "―――さてと。"
     ],
-    "english": "Now then."
+    "english": "Now then..."
   },
   {
     "time": "00:17:56",
@@ -1625,7 +1625,7 @@
     "segments": [
       "―――やるか"
     ],
-    "english": "Let's do this."
+    "english": "Let's do this!"
   },
   {
     "time": "00:18:04",
@@ -1638,7 +1638,7 @@
       },
       "。"
     ],
-    "english": "A.T. Field, deploy."
+    "english": "Deploy A.T. Field."
   },
   {
     "time": "00:18:09",
@@ -1660,7 +1660,7 @@
       },
       "！"
     ],
-    "english": "Transforming into pillars of light!"
+    "english": "The pillars of light are changing!"
   },
   {
     "time": "00:18:12",
@@ -1708,7 +1708,7 @@
       },
       "。"
     ],
-    "english": "The whole thing is starting to move."
+    "english": "All targets are mobilizing."
   },
   {
     "time": "00:18:18",
@@ -1785,7 +1785,7 @@
       },
       "すね。"
     ],
-    "english": "If they latch onto this ship, we're finished."
+    "english": "If it hits this ship, we're done for."
   },
   {
     "time": "00:18:24",
@@ -1844,7 +1844,7 @@
     "segments": [
       "せえぇえのっ！！"
     ],
-    "english": "Hnngh!!"
+    "english": "Here we go! #not in UTW#"
   },
   {
     "time": "00:18:36",
@@ -1913,7 +1913,7 @@
       },
       "。"
     ],
-    "english": "Eva-02' has commenced operations."
+    "english": "Maintain the power output of the online N2 reactors at 90%."
   },
   {
     "time": "00:18:38",
@@ -2005,7 +2005,7 @@
       },
       "なし。"
     ],
-    "english": "Doesn't matter!"
+    "english": "No ships visible within a radius of twelve hundred."
   },
   {
     "time": "00:18:42",
@@ -2027,7 +2027,7 @@
       },
       "してくれ。"
     ],
-    "english": "Doesn't matter!"
+    "english": "Open the pressure valves manually."
   },
   {
     "time": "00:18:42",
@@ -2035,7 +2035,7 @@
     "segments": [
       "かまわん！"
     ],
-    "english": "Doesn't matter!"
+    "english": "Open the pressure valves manually."
   },
   {
     "time": "00:18:43",
@@ -2121,7 +2121,7 @@
       },
       "にしなくていい"
     ],
-    "english": "Make that top priority!"
+    "english": "Don't worry about the condenser."
   },
   {
     "time": "00:18:45",
@@ -2133,7 +2133,7 @@
       },
       "だ！"
     ],
-    "english": "Make that top priority!"
+    "english": "Don't worry about the condenser."
   },
   {
     "time": "00:18:46",
@@ -2351,7 +2351,7 @@
       },
       "ません！"
     ],
-    "english": "The 7th converter cluster has exploded!"
+    "english": "The 83rd line is ablaze! Extinguishing the fire is impossible!"
   },
   {
     "time": "00:18:57",
@@ -2518,7 +2518,7 @@
       },
       "。"
     ],
-    "english": "Flywheel pressure plate lock released."
+    "english": "Releasing locks on the flywheel crimp."
   },
   {
     "time": "00:19:07",
@@ -2560,7 +2560,7 @@
         "reading": "うんてんかいし"
       }
     ],
-    "english": "Main engine energy pump starting."
+    "english": "Main engine's energy pump has been initiated."
   },
   {
     "time": "00:19:19",
@@ -2650,7 +2650,7 @@
     "segments": [
       "あとは―――"
     ],
-    "english": "Now..."
+    "english": "Next up..."
   },
   {
     "time": "00:19:42",
@@ -3265,7 +3265,7 @@
     "segments": [
       "でぇえいっ！！"
     ],
-    "english": "Haaah!!"
+    "english": "Ignite!"
   },
   {
     "time": "00:20:34",
@@ -3369,7 +3369,7 @@
     "segments": [
       "ゆくわよ。"
     ],
-    "english": "Let's go."
+    "english": "Here we go."
   },
   {
     "time": "00:20:39",
@@ -3714,7 +3714,7 @@
       },
       "けろ！"
     ],
-    "english": "Main wings penetrated! Extent of damage unknown!"
+    "english": "Continue outfitting the ships!"
   },
   {
     "time": "00:21:30",
@@ -3774,7 +3774,7 @@
       },
       "うな！"
     ],
-    "english": "Never mind!"
+    "english": "Don't sweat it!"
   },
   {
     "time": "00:21:33",
@@ -3791,7 +3791,7 @@
       },
       "！"
     ],
-    "english": "Prepare for annihilation battle!"
+    "english": "Prepare to eliminate the targets!"
   },
   {
     "time": "00:21:33",
@@ -3823,7 +3823,7 @@
       },
       "してくれ"
     ],
-    "english": "Prepare to eliminate the targets!"
+    "english": "All who can help with the power lines, assemble during launch."
   },
   {
     "time": "00:21:34",
@@ -3840,7 +3840,7 @@
       },
       "。"
     ],
-    "english": "Invert ship."
+    "english": "Upend the ship!"
   },
   {
     "time": "00:21:35",
@@ -3882,7 +3882,7 @@
       },
       "。"
     ],
-    "english": "Go astern! Keeping her steady!"
+    "english": "Prepare all gun turrets for individual firing."
   },
   {
     "time": "00:21:36",
@@ -4160,7 +4160,7 @@
       },
       "なし。"
     ],
-    "english": "Run main engine at full power!"
+    "english": "No irregularities with 3rd and 4th hub stations to port."
   },
   {
     "time": "00:21:56",
@@ -4232,7 +4232,7 @@
       },
       "。"
     ],
-    "english": "Full throttle!"
+    "english": "Opening the first ninety valves."
   },
   {
     "time": "00:22:00",
