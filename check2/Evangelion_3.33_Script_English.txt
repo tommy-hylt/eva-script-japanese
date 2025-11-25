@@ -1,0 +1,1346 @@
+00:11:00 {Aoba}        Tracking team, report on both units' current positions.
+00:11:03 {Woman}       Pod 02-Dash has reached operation altitude.
+00:11:07 {Woman}       It has settled into the targeted orbit.
+00:11:08 {Man}         Due to insufficient altitude, Pod 08 was unable to breach target orbital range.
+00:11:13 {Aoba}        Copy that.
+00:11:14 {Aoba}        02-Dash will conduct a solo operation.
+00:11:16 {Man}         Roger.
+00:11:17 {Man}         Pod 08 will act as support.
+00:11:19 {Man}         Transition shift to seven.
+00:11:21 {Ritsuko}     Pod 02-Dash has passed the point of no return.
+00:11:24 {Ritsuko}     It is entering Area 88.
+00:11:25 {Misato}      Roger.
+00:11:26 {Misato}      Commence Operation US.
+00:11:29 {Woman}       Roger.
+00:11:30 {Woman}       Pod 02-Dash is entering the final operation orbit.
+00:11:33 {Midori}      Tuning RCS. Activation confirmed.
+00:11:34 {Woman}       Switching to deceleration.
+00:11:35 {Man}         Igniting all engines, stage one.
+00:11:36 {Midori}      Orientation controls are nominal.
+00:11:37 {Man}         Beginning combustion.
+00:11:42 {Midori}      Contact ring ready for separation.
+00:11:42 {Woman}       S-1C combustion complete.
+00:11:44 {Midori}      RCS tuning confirmed.
+00:11:45 {Woman}       Deceleration confirmed.
+00:11:46 {Man}         Jettisoning booster unit, stage one.
+00:11:46 {Midori}      Inputting mass variation factors.
+00:11:50 {Midori}      Separation confirmed.
+00:11:51 {Midori}      Checking power systems. No problems detected.
+00:11:51 {Man}         Opening drain valves. Discarding propellant. #Not in UTW#
+00:11:54 {Man}         Roger.
+00:11:55 {Man}         Automating ignition timing.
+00:11:56 {Man}         Igniting all engines, stage two.
+00:12:02 {Woman}       S-1C combustion complete.
+00:12:02 {Midori}      Second contact ring ready for separation.
+00:12:03 {Woman}       Closing pressure valves.
+00:12:05 {Midori}      RCS tuning reconfirmed.
+00:12:05 {Tama}        Jettisoning booster unit, stage 2.
+00:12:09 {Woman}       Deceleration complete.
+00:12:10 {Midori}      Separation of all units confirmed. #Not in UTW#
+00:12:10 {Man}         Preparing to enter final operation orbit.
+00:12:12 {Woman}       Opening drain valves. Discarding propellant. #Not in UTW#
+00:12:13 {Man}         Flipping unit head.
+00:12:14 {Man}         Commencing rotation.
+00:12:16 {Man}         Descent angle confirmed to be within error ranges.
+00:12:18 {Man}         No changes in contact airspace. 
+00:12:18 {Woman}       Recalculating relative velocity.
+00:12:19 {Man}         Timetable requires no correction.
+00:12:19 {Woman}       Reconfirming coordinate altitude.
+00:12:22 {Woman}       No problems.
+00:12:22 {Man}         Values reconfirmed, all clear.
+00:12:?? {Midori}      Orbital corrections and drops in power pose no problems.
+00:12:24 {Woman}       Final orbit corrections complete.
+00:12:27 {Woman}       180-degree rotation complete.
+00:12:28 {Hyuga}       Roger.
+00:12:29 {Hyuga}       Pod 02-Dash will start transitioning to the intercept orbit.
+00:12:32 {Hyuga}       Now commencing the operation.
+00:12:34 {Aoba}        All remote guiding will now be cut.
+00:12:36 {Aoba}        Unit will be controlled manually.
+00:12:38 {Hyuga}       Good luck.
+00:02:32 {Woman}       Unit is on intercept course with the target.
+00:02:34 {Woman}       Eighty measures until contact.
+00:02:37 {Woman}       Confirming target.
+00:02:38 {Man}         Contact point is unchanged.
+00:02:40 {Woman}       Maintaining Shift-M. No problems.
+00:02:43 {Misato}      02-Dash, prepare to rendezvous.
+00:02:45 {Misato}      08 is lacking altitude, so it can only assist you in the ninety-six seconds until re-entry.
+00:12:59 {Misato}      Finish this by then.
+00:13:01 {Hyuga}       Reflective waves detected in target space.
+00:13:03 {Hyuga}       It's jamming us!
+00:13:04 {Aoba}        It's just the auto-defense system's mass weapon.
+00:13:06 {Aoba}        No need to worry.
+00:13:10 {Man}         Burst shockwaves emanating!
+00:13:11 {Man}         Incoming in three... two... one...
+00:13:19 {Aoba}        Second wave incoming. Blood type blue.
+00:13:20 {Aoba}        They're a pesky bunch.
+00:13:22 {Man}         Identifying the approaching body...
+00:03:15 {Man}         Confirmed to be Mk. 04A.
+00:03:25 {Asuka}       An Anti-A.T. Field!
+00:13:39 {Asuka}       This thing's useless!
+00:03:34 {Asuka}       It's just getting in my way!
+00:13:45 {Asuka}       Glasses, enough with the damn singing!
+00:13:48 {Asuka}       It's annoying as hell!
+00:13:52 {Asuka}       Support fire was two seconds late!
+00:13:58 {Mari}        And you're three seconds ahead of position.
+00:14:00 {Asuka}       It's called adapting to the situation. Keep up with me!
+00:14:03 {Mari}        As you command,
+00:14:05 {Mari}        Princess!
+00:14:14 {Asuka}       Got through the Fullerene Shift.
+00:04:07 {Asuka}       Breaking into Final Defense Area 89.
+00:04:10 {Asuka}       The target is moving!
+00:04:16 {Asuka}       No time to correct my orbit!
+00:04:17 {Asuka}       I'll just have to brute this!
+00:04:40 {Asuka}       Decelerate!
+00:04:46 {Asuka}       Eight!
+00:04:47 {Asuka}       Seven!
+00:04:48 {Asuka}       Six!
+00:04:49 {Asuka}       Five!
+00:04:50 {Asuka}       Four!
+00:04:51 {Asuka}       Three!
+00:04:53 {Asuka}       Two!
+00:04:54 {Asuka}       One!
+00:04:55 {Asuka}       Terminating combustion!
+00:15:12 {Midori}      02-Dash has jettisoned the last boosters.
+00:15:14 {Midori}      Ensuring safe distance for re-entry.
+00:15:16 {Man}         Orbital errors are within correctable ranges. Recalculating angle of entry.
+00:05:09 {Asuka}       Successfully seized the target.
+00:05:11 {Asuka}       Returning to base.
+00:05:13 {Misato}      Roger.
+00:05:14 {Misato}      We'll be waiting at the retrieval point.
+00:05:16 {Misato}      The join code is Saturn V.
+00:05:17 {Asuka}       Roger.
+00:05:19 {Asuka}       Blood type blue?
+00:05:20 {Asuka}       Where?!
+00:05:25 {Woman}       The interfering object is Mk. 04B.
+00:05:27 {Woman}       It is deploying a field-reflective coating.
+00:05:29 {Asuka}       The nerve!
+00:05:30 {Asuka}       Right before re-entry, too.
+00:05:33 {Asuka}       Glasses, back-up!
+00:05:35 {Mari}        Sorry!
+00:05:37 {Mari}        I don't have enough altitude, so see ya!
+00:05:39 {Mari}        I'll leave the rest to y-...
+00:05:42 {Asuka}       Ugh! She's useless!
+00:05:44 {Asuka}       Damn, this thing's stubborn!
+00:05:46 {Asuka}       Nobody told me about this!
+00:05:59 {Asuka}       What's with this light?!
+00:06:01 {Asuka}       The A.T. Field isn't neutralizing it!
+00:06:05 {Asuka}       I gotta take out the core block!
+00:06:06 {Asuka}       You're not getting away!
+00:06:10 {Asuka}       Crap! I can't maintain my descent angle!
+00:06:12 {Asuka}       My unit'll fall apart at this rate!
+00:06:14 {Misato}      02-Dash, completing the mission takes top priority!
+00:06:18 {Misato}      Don't let go of the target object, even if it means sacrificing the unit.
+00:06:20 {Asuka}       I already know that!
+00:06:41 {Asuka}       Do something, stupid Shinji!
+00:07:23 {Kaworu}      Welcome home, Ikari Shinji-kun.
+00:07:26 {Kaworu}      I've been waiting for you.
+00:07:42 {Sakura}      Cardiopulmonary function is nominal.
+00:07:44 {Sakura}      No discernible paralysis of the extremities.
+00:07:46 {Sakura}      Yes. He has opened his eyes.
+00:07:50 {Sakura}      Can you understand me?
+00:07:55 {Shinji}      What is this place?
+00:07:58 {Sakura}      He is capable of speech.
+00:07:59 {Sakura}      He seems to have returned to a conscious state.
+00:08:03 {Shinji}      I could've sworn I was saving Ayanami...
+00:08:06 {Sakura}      Yes, continuity of memory also seems acceptable.
+00:08:10 {Shinji}      Um, where's Ayanami...?
+00:08:13 {Sakura}      Is this someone you know?
+00:08:18 {Shinji}      It's... me.
+00:08:21 {Sakura}      He is capable of self-recognition as well.
+00:08:22 {Sakura}      No apparent problems.
+00:08:24 {Shinji}      What's this?
+00:18:32 {Sakura}      Do you need to urinate? Are you hungry?
+00:18:36 {Woman}       Delivery list for supplying operations cleared up to 86%.
+00:18:38 {Koji}        Maintain the power output of the online N2 reactors at 90%.
+00:18:42 {Midori}      No ships visible within a radius of twelve hundred.
+00:18:42 {Koji}        Open the pressure valves manually.
+00:18:44 {Midori}      No unidentified flying objects can be confirmed, either.
+00:18:45 {Koji}        Don't worry about the condenser.
+00:18:46 {Aoba}        Prioritize ships in D Block for personnel transfer.
+00:18:48 {Hyuga}       Insufficient personnel for the ration transfer operation! 
+00:18:50 {Sumire}      Checking port and starboard gyrocompasses three and five.
+00:18:51 {Hyuga}       Expedite this, on the double!
+00:18:53 {Sumire}      The gauges are inaccurate. Requesting recalibration.
+00:18:54 {Tama}        Checking the ships' outfitting and roadmaps.
+00:18:56 {Tama}        Armament linkage is 3% behind schedule.
+00:08:53 {Sakura}      Specimen BM03 is in our custody.
+00:08:56 {Misato}      Understood.
+00:08:57 {Misato}      Release the restraints.
+00:09:00 {Misato}      You are all dismissed.
+00:09:25 {Shinji}      Misato-san...
+00:09:28 {Misato}      It is Ikari Shinji-kun, isn't it?
+00:09:31 {Ritsuko}     So it would seem.
+00:09:32 {Ritsuko}     His physical data is identical to Code Third Boy.
+00:09:37 {Ritsuko}     Post-natal dental work and body composition perfectly match those from Near Third Impact.
+00:09:43 {Ritsuko}     We are now analyzing his deep level sync test results.
+00:09:46 {Misato}      And the DSS Choker on his neck?
+00:09:49 {Ritsuko}     It has already been installed, Captain Katsuragi.
+00:09:52 {Shinji}      Captain Katsuragi...?
+00:09:54 {Shinji}      So it really is you, Misato-san?
+00:20:06 {Shinji}      Huh?
+00:10:03 {Ritsuko}     Activation nominal.
+00:10:04 {Ritsuko}     Passcode is set for your personal use, Captain.
+00:10:07 {Misato}      Understood.
+00:10:11 {Shinji}      What is this thing?!
+00:10:14 {Shinji}      Please, take it off already!
+00:10:18 {Sakura}      There's no way that's ever coming off.
+00:10:22 {Misato}      We're done with him.
+00:10:24 {Misato}      Take him to quarantine.
+00:10:28 {Midori}      Decoys 01 and 05 destroyed.
+00:10:30 {Midori}      Wavelength acquired.
+00:10:31 {Midori}      What could this be?
+00:10:33 {Hyuga}       It's blood type blue.
+00:10:34 {Hyuga}       Target identified.
+00:10:36 {Hyuga}       Mk. 4C.
+00:10:37 {Hyuga}       It's the Nemesis Series.
+00:20:47 {Misato}      They're back...
+00:20:48 {Midori (BG)} Targets identified as Mk. 04C.
+00:20:48 {Ritsuko}     They're advancing on all sides.
+00:20:50 {Ritsuko}     They intend to cordon us here, to start with.
+00:20:51 {Midori (BG)} Destruction of decoys 02 and 06 confirmed. #not in UTW#
+00:10:45 {Misato}      We can't afford to move from here yet.
+00:10:48 {Misato}      Stop work on everything except the main engine.
+00:10:50 {Misato}      All ships to Battle Stations Two!
+00:10:53 {Misato}      Target the entire Nemesis Series!
+00:10:55 {Ritsuko}     Roger.
+00:10:56 {Ritsuko}     All ships to Battle Stations Two.
+00:10:58 {Hyuga}       Prepare for aerial, sea, and underwater battle!
+00:11:02 {Aoba}        Abandon transfer of supplies.
+00:21:11 {Aoba}        Prioritize transfer of personnel!
+00:21:12 {Woman}       All fleets, abandon transfer of supplies. Prioritize transfer of personnel.
+00:21:14 {Man}         Prepare for aerial, sea, and underwater battle.
+00:21:16 {Woman}       Continue work on the main engine.
+00:21:17 {Man}         Prepare long-range cannons for torpedo warfare.
+00:21:18 {Man}         Prepare switching of all power supply lines.
+00:21:22 {Woman}       All aircraft are to withdraw from our current air space at once.
+00:21:25 {Woman}       Hurry to Meeting Point Two.
+00:21:27 {Man}         Abandon all remaining cargo.
+00:21:28 {Man}         Transfer of personnel takes top priority.
+00:21:30 {Man}         Continue outfitting the ships!
+00:21:31 {Man}         Keep the work going until the very last minute!
+00:21:33 {Man}         All who can help with the power lines, assemble during launch.
+00:21:36 {Woman}       Prepare all gun turrets for individual firing.
+00:21:38 {Woman}       Activate all remote control and interlocking systems.
+00:21:41 {Woman}       Please be ready for unforeseen hostilities. 
+00:21:42 {Koji}        Keep working on the injection of the main engine transmission system.
+00:21:45 {Koji}        Hurry!
+00:21:47 {Man}         N2 reactor operating at 99% output.
+00:21:50 {Woman}       Resuming work on the injection. 
+00:21:52 {Woman}       Opening the first ninety valves.
+00:21:54 {Woman}       The power pipes have been connected.
+00:21:56 {Woman}       No irregularities with 3rd and 4th hub stations to port.
+00:21:59 {Man}         Roger.
+00:22:00 {Man}         Opening the first ninety valves.
+00:22:02 {Man}         Starting energy influx.
+00:22:03 {Woman}       Power influx to auxiliary N2 reactors is going smoothly.
+00:22:06 {Woman}       LCL circulation pumps are being inspected. 
+00:22:09 {Woman}       Filtration system is go.
+00:22:10 {Maya}        Battle stations!
+00:22:12 {Maya}        To your posts, quickly.
+00:22:14 {Maya}        You there! Get a move on!
+00:22:16 {Worker}      You're asking the impossible, chief.
+00:22:18 {Worker}      We're a motley crew with *civilians* among us.
+00:22:21 {Maya}        No excuses!
+00:22:23 {Maya}        Get back to work!
+00:22:26 {Maya}        Ugh! This is why I can't stand younger men.
+00:22:28 {Tama}        Let's see... 
+00:22:29 {Tama}        Stop the outfitting work here.
+00:22:32 {Tama}        Start the closure of the barrier walls... 
+00:22:34 {Tama}        Is this it?
+00:22:35 {Midori}      Put anti-air surveillance on its toes.
+00:22:37 {Midori}      This is the sonar's bearing azimuth.
+00:12:31 {Aoba}        Kitakami! 
+00:12:32 {Aoba}        What's the status of the procedures on deck?
+00:12:34 {Midori}      I'm in charge of that?
+00:12:36 {Aoba}        Of course you are! Double jobs!
+00:12:38 {Midori}      Huh? Seriously?
+00:12:43 {Sakura}      It's dangerous to move around.
+00:12:45 {Sakura}      You should stay here.
+00:12:47 {Woman (BG)}  AA defenses and AA guided missiles ready on all ships. 
+00:12:49 {Sakura}      I have to say, though, there's so much tension
+00:12:52 {Sakura}      around the bridge during battle stations!
+00:12:52 {Misato}      Roger.
+00:12:53 {Misato}      Link the anti-air systems together.
+00:12:55 {Misato}      Protecting Eva-01 is our top priority.
+00:12:57 {Shinji}      ...Eva-01?
+00:13:07 {Midori}      They're here!
+00:13:08 {Midori}      Pillars of light from the targets confirmed!
+00:23:18 {Midori}      Um...
+00:23:19 {Midori}      Their numbers are somehow increasing!
+00:13:13 {Aoba}        Identification of the targets' core blocks impossible.
+00:13:15 {Aoba}        They may be hiding inside a cloaking cocoon.
+00:13:18 {Ritsuko}     This is bad.
+00:13:20 {Ritsuko}     At this rate, we'll be on the receiving end of a saturated attack.
+00:13:22 {Midori}      Six hundred seconds until contact!
+00:13:24 {Ritsuko}     Captain Katsuragi,
+00:13:25 {Ritsuko}     I propose an immediate dispersal of the fleet.
+00:13:29 {Ritsuko}     We have insufficient and unskilled personnel.
+00:13:32 {Ritsuko}     Our ship is also in the process of being outfitted.
+00:13:34 {Ritsuko}     Worst of all, we cannot isolate the attacking targets' core blocks.
+00:13:38 {Ritsuko}     In other words, our chances for winning are zero.
+00:13:41 {Ritsuko}     At this point, we should retreat like we usually do. 
+00:13:43 {Ritsuko}     There's no other option, Captain Katsuragi!
+00:13:47 {Misato}      And that's why I will change the status quo and bring our anxieties to an end.
+00:13:52 {Misato}      Vice Captain, we're going to fly.
+00:13:54 {Ritsuko}     Fly?! 
+00:13:55 {Ritsuko}     You can't be thinking of using the main engine?!
+00:24:05 {Misato}      All ships, prepare to launch! 
+00:24:07 {Misato}      Prepare to ignite the main engine!
+00:24:09 {Midori/Tama} What?!
+00:24:11 {Ritsuko}     Putting this ship into service now is insane, Captain Katsuragi!
+00:14:06 {Tama}        I agree! 
+00:14:07 {Tama}        We've never performed a single test flight! It's too dangerous!
+00:14:09 {Sumire}      I have no experience controlling the gravity.
+00:14:11 {Sumire}      I doubt I can do it. 
+00:14:13 {Midori}      I'd rather not fight a battle we can't win.
+00:14:15 {Midori}      I don't wanna die just yet.
+00:14:17 {Koji}        You'll die when it's time. Simple as that.
+00:14:19 {Koji}        You kids should stop complaining so much.
+00:14:21 {Midori}      Shouldn't you old folks watch out for yourselves?
+00:14:25 {Misato}      I know it's reckless!
+00:14:27 {Misato}      We'll use this ship as bait and draw the targets out.
+00:14:30 {Misato}      The power to kill gods... I'll see what it can do.
+00:14:33 {Ritsuko}     But the crucial ignition system hasn't been installed yet. 
+00:14:36 {Ritsuko}     Don't tell me you're going to use the Evas?
+00:14:39 {Misato}      Mari?
+00:14:40 {Mari}        Eva-08 isn't ready yet.
+00:14:41 {Misato}      Asuka?
+00:14:42 {Shinji}      Asuka?
+00:14:46 {Asuka}       I'm already on it! 
+00:14:47 {Asuka}       I just have to shove the igniter in, right?
+00:14:50 {Misato}      I'm counting on you.
+00:14:51 {Ritsuko}     But there's a problem with the barrier density around the main engine. 
+00:14:54 {Ritsuko}     And parts are currently being exchanged, aren't they?
+00:14:56 {Asuka}       Well, the captain's motto is "prioritize the objective over human life".
+00:15:00 {Asuka}       I'm going all out! 
+00:15:01 {Asuka}       Eva Unit 02', activate!
+00:15:06 {Maya}        Launch Eva-02'.
+00:15:07 {Midori}      Roger.
+00:15:08 {Midori}      Preparing Eva-02' for launch.
+00:15:09 {Maya}        Also deploying the underwater motor and Left Container No. 1.
+00:15:20 {Asuka}       What a lame way for my unit to debut after its makeover.
+00:15:32 {Shinji}      It really is Eva Unit 02. 
+00:15:33 {Shinji}      Thank goodness. You're alright, Asuka.
+00:15:40 {Shinji}      Misato-san, what about me?
+00:15:43 {Misato}      All ships to Battle Stations One.
+00:15:47 {Man}         All ships, Battle Stations One. 
+00:15:48 {Man}         Repeat, all ships to Battle Stations One.
+00:15:51 {Ritsuko}     Shifting to the battle command system. 
+00:15:54 {Ritsuko}     All key personnel, head to the combat bridge.
+00:15:56 {Misato}      Prepare the gravity ballast.
+00:15:57 {Sumire}      Roger. 
+00:15:58 {Sumire}      Checking all vents.
+00:16:00 {Misato}      Focus all primary control of the ship to the anchoring plug.
+00:16:02 {Koji}        Roger. 
+00:16:03 {Koji}        Preparing descent.
+00:16:04 {Koji}        Confirming injector.
+00:16:05 {Koji}        Starting countdown.
+00:26:15 {Woman}       Preparing to move the Hirnstamm Tower.
+00:16:09 {Shinji}      Misato-san! 
+00:16:11 {Shinji}      Eva-01 is here, isn't it? 
+00:16:14 {Shinji}      I'll pilot, too! 
+00:16:15 {Shinji}      I'll help Asuka!
+00:26:28 {Shinji}      Are you sure you don't need me to pilot?
+00:16:23 {Shinji}      Misato-san?!
+00:26:32 {Woman}　     Readying the electric charge inside the plug. 
+00:26:33 {Woman}       Preparing entry. 
+00:26:34 {Ritsuko}     That's correct. 
+00:26:34 {Ritsuko}     There's no need for you to pilot the Eva.
+00:26:37 {Woman}       Separating the Hirnstamm Tower. 
+00:26:39 {Woman}       Commencing start-up. 
+00:16:32 {Woman}       Command system is currently being transferred to the combat bridge. 
+00:26:44 {Woman}       Repeat, command system is currently being transferred to the combat bridge.
+00:26:44 {Shinji}      No need? 
+00:26:46 {Shinji}      Uh...
+00:26:47 {Shinji}      Then, what should I do instead? 
+00:26:51 {Shinji}      Misato-san!
+00:26:54 {Misato}      Ikari Shinji-kun...
+00:26:58 {Misato}      From now on... 
+00:27:00 {Misato}      ...you'll do nothing.
+00:27:13 {Man (BG)}    Saturating LCL with gas.
+00:27:15 {Man (BG)}    Electrification density has been cleared.
+00:27:16 {Ritsuko}     Begin entry.
+00:27:17 {Woman (BG)}  LCL charge status is nominal.
+00:27:20 {Woman (BG)}  Starting all integrated processor systems.
+00:27:22 {Misato}      What's our status?
+00:27:23 {Midori}      Personnel roll-call complete. 
+00:27:24 {Woman (BG)}  No problems with initial contact.
+00:27:25 {Midori}      Confirming stations.
+00:27:27 {Woman (BG)}  First list has cleared.
+00:27:28 {Tama}        Confirming the closure of all barrier walls.
+00:27:30 {Tama}        Terminating pressure resistance check.
+00:27:31 {Woman (BG)}  Auxiliary engine output currently climbing.
+00:17:25 {Koji}        Now infusing power for ignition of the main engine system.
+00:17:28 {Koji}        Another 5% until it hits critical.
+00:17:30 {Sumire}      Initiating the gyrocompass.
+00:17:31 {Sumire}      Stabilizer nominal.
+00:17:33 {Woman (BG)}  Commencing visual data processing.
+00:17:35 {Woman (BG)}  Turning on the main monitor.
+00:17:37 {Hyuga}       Targets are still closing in.
+00:17:39 {Hyuga}       Currently taking on an encircling formation.
+00:17:41 {Aoba}        Eva-02' discarding propellers.
+00:17:43 {Aoba}        Now switching out the left arm.
+00:17:45 {Asuka}       Here we go!
+00:28:01 {Asuka}       Yep.
+00:17:54 {Asuka}       Now then...
+00:17:56 {Asuka}       Let's do this!
+00:18:04 {Asuka}       Deploy A.T. Field.
+00:18:09 {Aoba}        The pillars of light are changing!
+00:18:12 {Midori}      Their energy is skyrocketing!
+00:18:13 {Hyuga}       All targets are mobilizing.
+00:18:18 {Aoba}        Allied cruiser has been vaporized!
+00:18:19 {Ritsuko}     A saturated attack.
+00:18:21 {Ritsuko}     If it hits this ship, we're done for.
+00:18:24 {Midori (BG)} Another 360 seconds until contact!
+00:18:34 {Asuka}       Here we go! #not in UTW#
+00:18:38 {Aoba}        Eva-02' has commenced operations. 
+00:18:40 {Man (BG)}    Influent pressure at 300%!
+00:18:42 {Koji}        Doesn't matter! 
+00:18:43 {Koji}        Transfer all energy to the flywheel! 
+00:18:45 {Koji}        Make that top priority!
+00:18:57 {Woman (BG)}  The 83rd line is ablaze! Extinguishing the fire is impossible!
+00:18:57 {Tama}        The 7th converter cluster has exploded!
+00:18:59 {Koji}        Disregard the broken lines! 
+00:19:01 {Koji}        Proceed with the forced injection! 
+00:19:03 {Koji}        Ignore all the pressure gauges!
+00:19:04 {Tama}        Releasing locks on the flywheel crimp.
+00:19:07 {Tama}        Beginning rotation!
+00:19:16 {Man (BG)}    Main engine's energy pump has been initiated.
+00:19:19 {Tama}        Auxiliary engine output has reached 80%!
+00:19:21 {Koji}        Force insert the catalyst!
+00:19:39 {Asuka}       Next up...
+00:19:42 {Midori}      Thirty-five seconds remaining!
+00:19:44 {Man (BG)}    Rotational speed increasing!
+00:29:54 {Aoba}        Eva-02' in place for ignition. #not in UTW#
+00:29:54 {Woman (BG)}  10,000 turns... 12,000 turns...
+00:29:56 {Tama}        We're there! 
+00:29:57 {Tama}        Fly wheel 102% charged! 
+00:29:59 {Tama}        Critical point exceeded!
+00:19:52 {Koji}        We're in the final start-up phase!
+00:19:54 {Misato}      Roger. 
+00:19:55 {Misato}      Switch to flight mode.
+00:19:56 {Sumire}      Roger. 
+00:19:57 {Sumire}      Starting spatiotemporal control.
+00:19:58 {Sumire}      Transferring to 3D control of vessel.
+00:20:02 {Misato}      Deploy the A.T. Field at the moment of ignition.
+00:30:12 {Tama}        Rotational speed at 36,000 turns! 
+00:30:14 {Tama}        All parameters are green!
+00:20:07 {Koji}        Contact imminent!
+00:20:09 {Misato}      Skip the countdown!
+00:20:10 {Misato}      Connect the main engine!
+00:20:11 {Koji}        Connecting!
+00:20:16 {Misato}      Ignite!
+00:20:34 {Midori}      Obstacles cleared!
+00:20:35 {Ritsuko}     Check every department!
+00:20:36 {Ritsuko}     Pull back all consort ships!
+00:20:38 {Misato}      Here we go.
+00:20:39 {Misato}      Wunder, launch!
+00:21:30 {Tama}        Main wings penetrated! Extent of damage unknown!
+00:21:32 {Misato}      Don't sweat it!
+00:21:33 {Misato}      Prepare to eliminate the targets!
+00:21:34 {Misato}      Upend the ship!
+00:21:35 {Misato}      Go astern!
+00:21:36 {Sumire}      Go astern! Keeping her steady!
+00:21:44 {Misato}      Now drag the core blocks out of the cloaking cocoon!
+00:21:53 {Tama}        Cracks are appearing in the main wing beams!
+00:21:55 {Misato}      Keep the rudder steady!
+00:21:56 {Misato}      Run main engine at full power!
+00:21:58 {Koji}        Maximum power to both sides! 
+00:22:00 {Sumire}      Full throttle!
+00:22:28 {Midori}      The core blocks are out!
+00:22:30 {Misato}      Now! 
+00:22:31 {Misato}      Hard aport!
+00:22:32 {Misato}      Swing her around!
+00:22:33 {Sumire}      Roger!
+00:23:00 {Misato}      Thrusters at maximum! 
+00:23:01 {Misato}      Full-on brake!
+00:23:12 {Aoba}        No signs of target activity!
+00:23:13 {Misato}      Main cannons, prepare to fire! 
+00:23:15 {Misato}      Load the energy-penetrating ammo!
+00:23:17 {Misato}      Connect all gun turrets to the main engine.
+00:23:19 {Misato}      Open the ammo supply circuits!
+00:23:20 {Koji}        Roger. Opening ammo supply circuits.
+00:23:23 {Midori}      Applying last-minute corrections to measurement errors! 
+00:23:25 {Woman (BG)}  Artillery systems are unlinked!
+00:23:27 {Hyuga}       Direct aiming and manual tracking ready on all cannons!
+00:23:30 {Misato}      Then we're all set.
+00:23:31 {Misato}      Fire!
+00:23:56 {Aoba}        Target destroyed!
+00:23:58 {Misato}      All ships, go to secondary state of alert. 
+00:24:00 {Misato}      Prepare to retrieve Eva-02'. 
+00:24:02 {Misato}      Start emergency repairs on the main wings with all haste.
+00:24:06 {Tama}        Wow...
+00:24:07 {Midori}      We actually won.
+00:24:09 {Koji}        She's brazen as you get.
+00:24:12 {Koji}        The captain's even more interesting than Kaji described.
+00:24:15 {Ritsuko}     So this is the power to kill gods. 
+00:24:17 {Ritsuko}     Wunder. Truly the ship of hope.
+00:25:00 {Sakura}      Specimen BM03. Tentative Name: Ikari Shinji-san.
+00:25:03 {Sakura}      The vice-captain would like to speak with you.
+00:25:06 {Shinji}      That's Eva-01...?
+00:25:08 {Ritsuko}     Yes. Eva-01 is currently being used as the main engine of this ship. 
+00:25:13 {Ritsuko}     It follows that we don't need a pilot.
+00:25:16 {Shinji}      It really is true, then.
+00:25:19 {Ritsuko}     Also, your deep sync test results are in. 
+00:25:23 {Ritsuko}     Your sync rate is 0.00%.
+00:25:26 {Ritsuko}     Even if you were to get in the Eva, it wouldn't activate.
+00:25:30 {Sakura}      There we go!
+00:25:31 {Sakura}      Isn't that great, Ikari-san? 
+00:25:33 {Ritsuko}     Still, we cannot overlook the fact that the unit suddenly entered an Awakened state for twelve seconds earlier.
+00:25:39 {Ritsuko}     As a result, we've installed the DSS Choker on you.
+00:25:44 {Shinji}      What is this?
+00:25:45 {Ritsuko}     Insurance for us. 
+00:25:48 {Ritsuko}     It's a physical safety device that prevents Awakenings. 
+00:25:51 {Ritsuko}     It symbolizes both your punishment, and our mistrust in you. 
+00:25:55 {Shinji}      What do you mean?
+00:25:56 {Ritsuko}     Should you succumb to your emotions while piloting an Eva, and the risk of Awakening becomes too great to avoid,
+00:26:04 {Ritsuko}     this will intervene by terminating your life.
+00:26:08 {Shinji}      Does that mean... I'll die?
+00:26:13 {Ritsuko}     I won't deny that.
+00:26:16 {Shinji}      No way...
+00:26:18 {Shinji}      Misato-san, what's the meaning of this? I'll die?
+00:26:22 {Shinji}      It doesn't make sense, Misato-san! 
+00:26:24 {Shinji}      How'd things suddenly end up this way? It's ridiculous!
+00:26:27 {Ritsuko}     It can't blame you for being confused.
+00:26:28 {Ritsuko}     Lieutenant?
+00:26:29 {Sakura}      Yes, ma'am?
+00:26:30 {Ritsuko}     Tell him your name and rank.
+00:26:31 {Sakura}      Yes, ma'am!
+00:26:33 {Sakura}      Um, I know this introduction comes late, but I'm your assigned medical officer,
+00:26:38 {Sakura}      Lt. Suzuhara Sakura.
+00:26:41 {Sakura}      Nice to meet you.
+00:26:43 {Shinji}      Ah, same.
+00:26:46 {Shinji}      Wait, "Suzuhara"?
+00:26:48 {Shinji}      Are you Toji's...?
+00:26:50 {Sakura}      That's right.
+00:26:51 {Sakura}      Thank you for being friends with my brother.
+00:26:53 {Sakura}      I'm his younger sister, Sakura.
+00:26:55 {Shinji}      Younger sister?
+00:26:56 {Shinji}      Don't you mean older?
+00:26:57 {Sakura}      No, younger.
+00:27:01 {Shinji}      Younger...? How?
+00:27:04 {Asuka}       Fourteen years have passed since then. 
+00:27:07 {Asuka}       Stupid Shinji.
+00:27:09 {Shinji}      Huh? A-Asuka!
+00:27:15 {Shinji}      Thank goodness! 
+00:27:16 {Shinji}      You really are okay, Asuka!
+00:27:23 {Asuka}       It's no good. I can't stop myself.
+00:27:25 {Asuka}       I've been holding it in all these years.
+00:27:34 {Shinji}      What was that for?
+00:27:36 {Asuka}       Pent-up anger and grief.
+00:27:39 {Shinji}      What do you mean...? 
+00:27:41 {Shinji}      Uh, Asuka, your left eye...?
+00:27:44 {Asuka}       None of your business.
+00:27:46 {Shinji}      Asuka, you said it's been fourteen years,
+00:27:49 {Shinji}      but nothing about you has changed aside from that eyepatch.
+00:27:52 {Asuka}       Right. It's the curse of Eva.
+00:27:55 {Shinji}      A curse?
+00:27:59 {Shinji}      Wait! 
+00:28:00 {Shinji}      Asuka, maybe you know! 
+00:28:02 {Shinji}      Where's Ayanami?!
+00:28:05 {Asuka}       No idea.
+00:28:06 {Shinji}      No idea? 
+00:28:08 {Shinji}      But I saved her!
+00:28:10 {Asuka}       All this fuss over just one person.
+00:28:12 {Asuka}       In this world, we don't have the luxury of worrying about such things. 
+00:28:16 {Asuka}       Isn't that right, Captain Katsuragi?
+00:28:22 {Shinji}      Asuka!
+00:28:23 {Shinji}      Misato-san, where's Ayanami?! 
+00:28:26 {Shinji}      Tell me, please!
+00:28:27 {Misato}      Shinji-kun, Ayanami Rei doesn't exist anymore.
+00:28:31 {Shinji}      No way! I saved her, I know I did!
+00:28:34 {Shinji}      She must still be in Eva-01's plug!
+00:28:37 {Shinji}      Please look for her!
+00:28:38 {Ritsuko}     We already searched the inside of Eva-01 thoroughly. 
+00:28:42 {Ritsuko}     All we found was you, and...
+00:28:45 {Ritsuko}     For some reason, this was restored.
+00:28:48 {Ritsuko}     The inspection yielded no problems, so you can have it back.
+00:28:52 {Shinji}      My father's...
+00:28:55 {Shinji}      Ayanami was holding it then.
+00:28:58 {Shinji}      So I *must* have saved her.
+00:29:01 {Shinji}      What's that?!
+00:29:04 {Misato}      It's me.
+00:29:06 {Hyuga}       Target on the rear deck! 
+00:29:07 {Hyuga}       It attacked us out of the blue!
+00:29:09 {Misato}      So the champion has arrived... 
+00:29:10 {Misato}      All ships to Battle Stations One. 
+00:29:12 {Misato}      Protecting Eva-01 is top priority!
+00:29:14 {Asuka}       Eva-08, you're good to go, right?
+00:29:16 {Mari}        But of course!
+00:29:18 {Mari}        I'm right on top of it, Princess. 
+00:29:19 {Mari}        By the way, how was Puppy Boy?
+00:29:22 {Mari}        Did he sit and behave?
+00:29:24 {Asuka}       He hasn't changed at all. He still has that stupid lowly face.
+00:29:28 {Mari}        So you went there *just* to see his face, did you?
+00:29:31 {Asuka}       No!
+00:29:32 {Asuka}       I went there just to punch it!
+00:29:34 {Asuka}       Now I feel so much better!
+00:29:35 {Shinji}      Misato-san! Ritsuko-san!
+00:29:37 {Shinji}      What the heck is out there?
+00:29:39 {Shinji}      Is it a new Angel?
+00:29:41 {Rei}         Ikari-kun, where are you?
+00:29:44 {Shinji}      Ayanami?
+00:29:46 {Shinji}      Wasn't that Ayanami's voice just now, Misa-
+00:29:53 {Shinji}      Oh, come on!
+00:29:55 {Sakura}      We're ready!
+00:29:56 {Sakura}      Ikari-san, this way!
+00:29:58 {Rei}         Ikari-kun, where are you?
+00:30:01 {Shinji}      It really *is* Ayanami.
+00:30:04 {Shinji}      It's Ayanami!
+00:30:06 {Sakura}      Ikari-san! Quickly!
+00:30:11 {Shinji}      Enough.
+00:30:13 {Shinji}      Ayanami! I'm right here!
+00:40:30 {Man}         Damage sustained on starboard midsection!
+00:40:31 {Man}         Fissure occurring in armor plate two!
+00:40:33 {Tama}        Pressure drop detected in the provisional quarantine visiting room!
+00:40:35 {Tama}        Emergency closure of barrier walls!
+00:30:28 {Shinji}      Eva... Unit 00?
+00:30:30 {Rei}         Ikari-kun...
+00:30:32 {Rei}         Come this way.
+00:30:35 {Misato}      Don't do it, Shinji-kun.
+00:30:37 {Misato}      Just stay right here.
+00:30:38 {Shinji}      What was that, Misato-san?
+00:30:41 {Shinji}      Weren't you just saying that you didn't need me?!
+00:30:43 {Misato}      Even so, you're to be kept in our protection.
+00:30:45 {Shinji}      What about how *I* feel?!
+00:30:53 {Shinji}      Please stop! 
+00:50:53 {Shinji}      You're firing at an Eva!
+00:30:55 {Misato}      That's precisely why.
+00:30:57 {Misato}      We will destroy all of Nerv's Evas.
+00:30:59 {Shinji}      Nerv's...?
+00:31:01 {Shinji}      Isn't this Nerv, too?
+00:31:02 {Misato}      We are Wille, an organization dedicated to Nerv's annihilation.
+00:31:07 {Shinji}      That's... 
+00:31:09 {Shinji}      But wait, Ayanami's piloting it!
+00:31:12 {Misato}      It's not her! 
+00:31:13 {Misato}      Rei's no more, Shinji-kun.
+00:31:15 {Shinji}      Liar! 
+00:31:16 {Shinji}      I mean, she's right there, isn't she?!
+00:31:18 {Shinji}      Misato-san, you're clueless!
+00:31:20 {Shinji}      I'm done here!
+00:31:24 {Sakura}      Ikari-san!
+00:31:27 {Sakura}      Do whatever you want, but...
+00:31:29 {Sakura}      Please just don't pilot an Eva!
+00:31:31 {Sakura}      Seriously, give us a break.
+00:31:43 {Asuka}       Glasses, don't let them get away!
+00:31:44 {Mari}        Loud and clear!
+00:41:57 {Woman}       Eva Unit 08 launching!
+00:31:48 {Mari}        ♪ When you take aim ♪ 
+00:31:50 {Mari}        ♪ Be careful that you don't miss your mark ♪
+00:31:55 {Mari}        Hey, c'mon!
+00:32:02 {Mari}        Gotcha!
+00:32:09 {Mari}        Couldn't be... an Adams' Vessel?
+00:32:17 {Mari}        At least say hi, damn it!
+00:32:22 {Ritsuko}     If they prioritized taking him over Eva-01, 
+00:32:25 {Ritsuko}     it means he still has the potential to be a trigger!
+00:32:27 {Ritsuko}     Misato! Use the DSS Choker!
+00:32:44 {Ritsuko}     This is the vice-captain.
+00:32:46 {Ritsuko}     No need to pursue.
+00:32:47 {Ritsuko}     All personnel, tend to the emergency repairs and resume outfitting the ship.
+00:32:51 {Man}         Roger. 
+00:32:52 {Man}         No need to pursue.
+00:43:02 {Asuka}       Hmph.
+00:43:03 {Man}         All personnel, tend to the emergency repairs and resume outfitting the ship.
+00:43:04 {Asuka}       What do you know. 
+00:43:05 {Asuka}       He's not even an idiot. 
+00:43:06 {Asuka}       He's just a brat!
+00:32:58 {Title}       Evangelion New Theatrical Edition: Quickening
+00:33:16 {Shinji}      I did save her after all. 
+00:33:18 {Shinji}      Misato-san lied to me.
+00:33:21 {Rei}         This way.
+00:33:31 {Shinji}      U-Um...
+00:33:48 {Shinji}      This is the Geofront, but we can still see the sky?
+00:34:00 {Shinji}      Is that... Nerv Headquarters? 
+00:34:04 {Shinji}      What happened?
+00:34:36 {Shinji}      It really has been fourteen years.
+00:35:15 {Rei}         Here.
+00:35:19 {Shinji}      What's this? 
+00:35:22 {Shinji}      An Eva?
+00:35:23 {Gendo}       That's right.
+00:35:28 {Shinji}      Father...
+00:35:30 {Gendo}       Evangelion 13,
+00:35:32 {Gendo}       a unit for you and that pilot.
+00:35:37 {Shinji}      The one on the piano earlier?
+00:35:40 {Gendo}       When the time comes, pilot this Eva with him. 
+00:35:45 {Gendo}       That will be all.
+00:35:48 {Shinji}      Wait a second, Father! 
+00:35:49 {Shinji}      I still have a lot of questions, a lot I want to talk about! 
+00:35:53 {Shinji}      Father!
+00:36:04 {Shinji}      It doesn't even have a dial tone.
+00:36:06 {Shinji}      Guess I can't call anyone from here.
+00:36:29 {Shinji}      I should go thank her.
+00:36:42 {Shinji}      Ayanami!
+00:36:46 {Shinji}      Where are you, Ayanami?
+00:36:50 {Shinji}      Ayanami!
+00:37:26 {Shinji}      What is this place?
+00:37:30 {Shinji}      Ayanami?!
+00:37:31 {Shinji}      There you are!
+00:37:35 {Shinji}      Ayanami,
+00:37:36 {Shinji}      I've been looking for you！
+00:37:37 {Shinji}      Ah, wait!
+00:37:40 {Shinji}      Clothes! Put some clothes on!
+00:37:44 {Rei}         Only if it is an order.
+00:37:48 {Shinji}      I'm coming in.
+00:37:53 {Shinji}      Um... Ayanami, thank you for this. 
+00:57:59 {Shinji}      I've been wanting to thank you for a while now.
+00:38:09 {Shinji}      You got a new plugsuit, huh? 
+00:38:12 {Shinji}      It looks good on you, but I dunno about the black.
+00:38:21 {Shinji}      Nerv HQ has really changed a lot, hasn't it?
+00:38:28 {Shinji}      Why is Misato-san fighting Nerv instead of the Angels?
+00:38:33 {Shinji}      What is Father trying to do here? 
+00:38:36 {Shinji}      What happened to everyone?
+00:38:38 {Shinji}      Hey, Ayanami, do you know anything?
+00:38:42 {Rei}         I do not.
+00:38:43 {Shinji}      I see... 
+00:38:46 {Shinji}      Yeah, no surprise, I guess. 
+00:38:49 {Shinji}      Say, when did you return from Eva-01?
+00:38:59 {Shinji}      This place isn't much of a room.
+00:39:03 {Shinji}      It's just like you to be living here, but still...
+00:39:06 {Shinji}      It doesn't look like you have school, so what do you do all the time?
+00:39:10 {Rei}         Wait for orders.
+00:39:15 {Shinji}      I don't see any books here.
+00:39:17 {Shinji}      You're not reading at all?
+00:39:19 {Rei}         Read?
+00:39:21 {Rei}         Would Ayanami Rei do that?
+00:39:24 {Shinji}      Yeah. You used to read a lot.
+00:39:27 {Shinji}      There were books in your room, too.
+00:39:29 {Rei}         I see.
+00:39:30 {Shinji}      I know!
+00:39:31 {Shinji}      I'll go look in the library here and bring you some.
+00:39:34 {Shinji}      Um, English books are good, right? 
+00:39:37 {Shinji}      You always had one on you, so I guess you liked them.
+00:39:40 {Rei}         Liked?
+00:39:41 {Shinji}      Yeah. At least, I think so.
+00:39:44 {Rei}         What is "liked"?
+00:39:56 {Fuyutsuki}   So Seele are still keeping their silence?
+00:40:00 {Gendo}       The Human Instrumentality Project will be carried out according to the Dead Sea Scrolls.
+00:40:05 {Gendo}       They no longer need to talk with us.
+00:40:09 {Fuyutsuki}   Ikari, do you intend to use Eva-13 this time?
+00:40:15 {Fuyutsuki}   Very well. I'll go along with your plan.
+00:40:21 {Fuyutsuki}   For Yui-kun's sake, as well.
+00:40:25 {Shinji}      It's no use. It just won't work. 
+00:40:35 {Misato}      Do nothing.
+00:40:36 {Asuka}       None of your business.
+00:40:38 {Sakura}      Please just don't pilot an Eva!
+00:40:40 {Gendo}       Pilot that Eva.
+00:40:41 {Rei}         I don't know.
+00:41:37 {Kaworu}      Come down here, Ikari-kun. 
+00:41:39 {Kaworu}      Let's talk.
+00:41:46 {Shinji}      U-Uh... Weren't we going to talk?
+00:41:49 {Kaworu}      A piano duet is a musical dialogue, you could say. 
+00:41:52 {Kaworu}      Why don't you try it?
+00:41:56 {Shinji}      I'll pass. I can't play.
+00:41:58 {Kaworu}      If you want to live well, you have to change and try new things.
+00:42:08 {Kaworu}      Look, it's easy. 
+00:42:09 {Kaworu}      You just need to press the keys here.
+00:42:27 {Kaworu}      Now, try playing that.
+00:42:53 {Kaworu}      Very nice! 
+00:42:55 {Kaworu}      We sound good together. 
+00:43:32 {Kaworu}      Music is fun.
+00:43:35 {Kaworu}      It's amazing what two people can achieve.
+00:43:42 {Shinji}      Thanks. 
+00:44:44 {Shinji}      It's been ages since I've had this much fun.
+00:43:46 {Kaworu}      Same here. 
+00:43:48 {Kaworu}      We'll have to do this again. 
+00:43:49 {Kaworu}      Stop by anytime, Ikari Shinji-kun.
+00:43:52 {Shinji}      Sure. 
+00:43:53 {Shinji}      Oh, you are...?
+00:43:55 {Kaworu}      I'm Kaworu. Nagisa Kaworu. 
+00:43:59 {Kaworu}      I'm a child bound by fate, the same as you.
+00:44:08 {Shinji}      She's gone again. 
+00:44:11 {Shinji}      She hasn't touched the books, either.
+00:44:29 {Kaworu}      Good morning, Ikari Shinji-kun. 
+00:44:33 {Kaworu}      You're here early today.
+00:44:35 {Shinji}      I didn't have anything else to do.
+00:45:07 {Shinji}      How can I get better at playing piano?
+00:45:10 {Kaworu}      You don't have to be good at it. 
+00:45:13 {Kaworu}      Just make music that feels good.
+00:45:17 {Shinji}      Well, how do I make music that sounds even better?
+00:45:21 {Kaworu}      Practice and more practice.
+00:55:32 {Kaworu}      Do the same thing over and over. 
+00:55:34 {Kaworu}      Keep going until you're happy with it.
+00:55:38 {Kaworu}      That's the only way.
+00:46:02 {Kaworu}      Sure, leave it to me. 
+00:46:03 {Kaworu}      I just need to get it working again, right?
+00:46:05 {Shinji}      Yeah. Thank you. 
+00:46:07 {Shinji}      Sorry for asking so much of you.
+00:46:10 {Kaworu}      Don't need to worry about it. 
+00:46:12 {Kaworu}      We're friends, after all.
+00:46:18 {Kaworu}      It's getting dark.
+00:46:20 {Kaworu}      Let's call it a day.
+00:46:23 {Shinji}      Hey, why don't we stay here a little longer?
+00:45:26 {Shinji}      We could watch the stars from here.
+00:46:28 {Kaworu}      The stars?
+00:46:31 {Kaworu}      So you like the stars?
+00:46:34 {Shinji}      Yeah. 
+00:46:36 {Shinji}      Whenever I think about how vast the universe is,
+00:46:39 {Shinji}      it's always put my mind completely at ease, ever since I was little.
+00:46:44 {Shinji}      I guess I'm happy that it hasn't changed at all these past fourteen years. 
+00:46:49 {Shinji}      It makes me feel like I can stop worrying about myself and really calm down.
+00:46:55 {Shinji}      Uh, it's hard to put into words.
+00:46:58 {Kaworu}      Your feelings came through.
+00:47:01 {Kaworu}      Instead of seeking change, you prefer a void, merciless abyss of a world.
+00:47:06 {Kaworu}      It's just like you.
+00:47:09 {Kaworu}      Lying here together is nice.
+00:47:12 {Kaworu}      I didn't know it would feel so good.
+00:47:15 {Kaworu}      Thanks for inviting me.
+00:47:18 {Shinji}      Oh, it's no big deal.
+00:47:20 {Shinji}      I just thought it'd be fun to watch the stars with you, and—
+00:47:27 {Kaworu}      It is fun.
+00:47:30 {Kaworu}      I really was born to meet you.
+00:47:44 {Shinji}      Hm?
+00:47:50 {Shinji}      This one's a little big.
+00:47:53 {Shinji}      Huh?
+00:47:55 {Tag}         Suzuhara Toji
+00:48:00 {Kaworu}      Here, it should work just fine now.
+00:48:03 {Shinji}      Thanks. 
+00:48:04 {Shinji}      You're amazing, Nagisa-kun. 
+00:48:06 {Shinji}      There's nothing you can't do.
+00:48:08 {Kaworu}      Knowledge is all this is. 
+00:48:10 {Kaworu}      It's only because I've been in this world a little longer than you have.
+00:48:14 {Shinji}      You're still amazing, though.
+00:48:18 {Kaworu}      You seem down.
+00:48:20 {Kaworu}      What's wrong?
+00:48:25 {Shinji}      I'm worried about my friends.
+00:48:29 {Kaworu}      Your friends?
+00:48:30 {Shinji}      Yeah. 
+00:48:32 {Shinji}      There was a city above Nerv HQ. 
+00:48:35 {Shinji}      We all used to live there.
+00:48:37 {Shinji}      Toji, Kensuke. 
+00:48:38 {Shinji}      The class rep, my other classmates...
+00:48:41 {Shinji}      Apparently I slept in Eva-01 for fourteen years.
+00:48:45 {Shinji}      So much has changed since then.
+00:48:50 {Kaworu}      More change than you can bear at once is painful.
+00:48:54 {Shinji}      I'm kind of scared.
+00:48:57 {Shinji}      I don't know... what happened to the city and everyone.
+00:49:02 {Shinji}      Nothing makes sense, and it scares me.
+00:49:04 {Shinji}      That's right! I'm scared!
+00:49:15 {Kaworu}      Do you want to know?
+00:49:44 {Shinji}      Nagisa-kun?
+00:49:46 {Shinji}      Nagisa-kun!
+00:50:03 {Kaworu}      Just a little further now.
+00:50:22 {Kaworu}      The clouds will soon disperse, 
+00:50:24 {Kaworu}      and you will see the truth you desire.
+00:50:36 {Shinji}      What is this...?
+00:50:42 {Kaworu}      The outcome of Third Impact, which came to pass while you were merged with Eva-01.
+00:50:51 {Shinji}      But then... 
+00:50:53 {Shinji}      What happened to everyone in the city?
+00:50:55 {Kaworu}      Mass extinctions are not unusual on this planet.
+00:50:58 {Kaworu}      In fact, they help drive evolution.
+00:51:02 {Kaworu}      Life has always changed itself to adapt to the world around it.
+00:51:08 {Kaworu}      However, Lilin change not themselves, but the world.
+00:51:15 {Kaworu}      So they brought the rite of artificial evolution unto themselves.
+00:51:21 {Kaworu}      Old life is offered in sacrifice, 
+00:51:23 {Kaworu}      so that new beings blessed with the Fruit of Life may be created.
+00:51:29 {Kaworu}      All this is an act of extinction that has been programmed since time immemorial.
+00:51:33 {Kaworu}      Nerv call it the Human Instrumentality Project.
+00:51:38 {Shinji}      This is Nerv's...
+00:51:43 {Shinji}      This is what my father was doing.
+00:51:48 {Kaworu}      Ikari Shinji-kun, 
+00:51:50 {Kaworu}      once Awakened, Eva-01 opened the Gates of Guf 
+00:51:55 {Kaworu}      and became the trigger for Third Impact.
+00:51:58 {Kaworu}      Lilin call it Near Third Impact. 
+00:52:02 {Kaworu}      It was all initiated by you.
+00:52:09 {Shinji}      You're wrong! 
+00:52:10 {Shinji}      All I wanted to do was save Ayanami!
+00:52:16 {Kaworu}      True. But that caused everything else. 
+00:52:21 {Shinji}      No...
+00:52:25 {Shinji}      This can't be right!
+00:52:27 {Shinji}      You're telling me all of this so fast, 
+00:52:29 {Shinji}      and there's nothing I can do about it!
+00:52:30 {Kaworu}      Indeed. 
+00:52:31 {Kaworu}      There's nothing you can do about your past.
+00:52:35 {Kaworu}      This is the truth you desired to know.
+00:52:38 {Kaworu}      As a result, the Lilin are letting you pay for your sin.
+00:52:43 {Kaworu}      That's what the thing on your neck is, no?
+00:52:48 {Shinji}      What sin? 
+00:52:50 {Shinji}      I didn't do anything!
+00:52:52 {Shinji}      I had nothing to do with it!
+00:52:54 {Kaworu}      You may deny it, but humanity thinks otherwise.
+00:52:58 {Kaworu}      However, no sin is beyond redemption.
+00:53:02 {Kaworu}      There is always hope. 
+00:53:04 {Kaworu}      Always.
+00:53:23 {Fuyutsuki}   Seele's boy has contacted the Third Boy.
+00:53:27 {Fuyutsuki}   He showed him the conditions outside, it seems.
+00:53:30 {Fuyutsuki}   I wonder how he'll cope with it.
+00:53:33 {Fuyutsuki}   Are you sure about this, Ikari?
+00:53:35 {Gendo}       We'll rewrite Seele's scenario.
+00:53:39 {Gendo}       Everything in existence is but a tool for that purpose.
+00:53:42 {Fuyutsuki}   So you're saying that your son wouldn't benefit from seeing how you live?
+00:53:48 {Fuyutsuki}   I'll have to disagree.
+00:53:53 {Shinji}      I don't get it.
+00:53:56 {Shinji}      How did everything end up this way?
+00:54:03 {Shinji}      Right... I saved Ayanami.
+00:54:06 {Shinji}      Isn't that good enough?
+00:54:32 {Shinji}      She's gone again. 
+00:54:34 {Shinji}      She still hasn't touched the books.
+00:54:38 {Shinji}      What's going on? 
+00:54:40 {Shinji}      What's wrong with Ayanami?!
+00:54:53 {Fuyutsuki}   Third Boy, do you play shogi?
+00:54:57 {Shinji}      Eh... I only know the rules.
+00:55:00 {Fuyutsuki}   Good enough. Let's have a game.
+00:55:03 {Fuyutsuki}   I'll start without a castle, bishop, and golden generals.
+00:55:12 {Fuyutsuki}   Let your mind be still.
+00:55:16 {Fuyutsuki}   It's the only way to achieve victory.
+00:55:19 {Fuyutsuki}   You'll lose in another thirty-one moves.
+00:55:24 {Fuyutsuki}   Hmm... 
+00:55:31 {Fuyutsuki}   Is it more fun for you this way?
+00:55:35 {Fuyutsuki}   Thank you for indulging an old man his hobby.
+00:55:43 {Fuyutsuki}   I'm a coward too, you know. 
+00:55:45 {Fuyutsuki}   I used this game as a pretext to talk to you.
+00:55:50 {Fuyutsuki}   Do you remember your mother?
+00:55:54 {Shinji}      No. I was very young. 
+00:55:58 {Shinji}      Father got rid of everything that was hers.
+00:56:07 {Shinji}      Is this... 
+00:56:10 {Shinji}      ...Ayanami?
+00:56:13 {Fuyutsuki}   Your mother. 
+00:56:14 {Fuyutsuki}   Maiden name, Ayanami Yui.
+00:56:16 {Fuyutsuki}   She was my student at the university.
+00:56:20 {Fuyutsuki}   Now, she is the control system of Eva Unit 01.
+00:56:27 {Fuyutsuki}   Hm. The power's finally back.
+00:56:33 {Fuyutsuki}   That is a very early prototype of the Eva control system.
+00:56:37 {Fuyutsuki}   Here, Yui-kun proposed direct entry into cores,
+00:56:41 {Fuyutsuki}   and tested it using herself as the subject.
+00:56:45 {Fuyutsuki}   You were watching, too, but your memories have been erased.
+00:56:55 {Fuyutsuki}   In the end, Yui-kun vanished here,
+00:56:59 {Fuyutsuki}   and only her data was left behind for the Ayanami Series.
+00:57:03 {Fuyutsuki}   The Ayanami Rei you know is one of Yui-kun's clones.
+00:57:08 {Fuyutsuki}   She is preserved within Eva-01, the same as your mother.
+00:57:13 {Fuyutsuki}   It is all part of Ikari's plan.
+00:57:17 {Shinji}      No way...
+00:57:20 {Fuyutsuki}   Destroying the world is a simple matter.
+00:57:24 {Fuyutsuki}   But rebuilding it, that isn't so easy.
+00:57:28 {Fuyutsuki}   The world can be reversed no more than time.
+00:57:32 {Fuyutsuki}   Nor can the human heart.
+00:57:35 {Fuyutsuki}   And thus, so that his wish might be granted,
+00:57:38 {Fuyutsuki}   Ikari is paying every price there is.
+00:57:41 {Fuyutsuki}   Including his very soul.
+00:57:44 {Fuyutsuki}   I just wanted to tell you some of the truth,
+00:57:47 {Fuyutsuki}   and about your father.
+00:58:01 {Fuyutsuki}   'Tis a wretched role I'm playing.
+00:58:04 {Fuyutsuki}   Yui-kun, I hope this will suffice.
+00:58:15 {Gendo}       The time of the final contract is upon us.
+00:58:20 {Gendo}       We will soon meet again, Yui.
+00:58:31 {Shinji}      Why aren't you reading the books?
+00:58:36 {Rei}         Because I wasn't ordered to.
+00:58:38 {Shinji}      "Ordered", huh?
+00:58:40 {Shinji}      Alright, I've had enough!
+00:58:45 {Shinji}      You are Ayanami, right?
+00:58:48 {Rei}         Yes, Ayanami Rei.
+00:58:51 {Shinji}      Then I did save you, didn't I?
+00:58:55 {Rei}         I don't know.
+00:59:04 {Rei}         Ikari-kun...?
+01:09:20 {Shinji}      So, I didn't actually save her...
+01:09:24 {Shinji}      Ayanami...
+01:09:26 {Misato}      Do nothing.
+01:09:26 {Voice}       What an idiot. I hate you.
+01:09:27 {Voice}       Stay away from me.
+01:09:28 {Voice}       To be honest, I don't just dislike you.
+01:09:28 {Voice}       I wish you didn't exist.
+01:09:29 {Voice}       There's no way I'd fall for you.
+01:09:29 {Voice}       Have a good think.
+01:09:29 {Rei}         I don't know.
+01:09:30 {Shinji}      Father...
+01:09:30 {Asuka}       None of your business.
+01:09:31 {Voice}       I hate people like you the most.
+01:09:31 {Voice}       Just get lost.
+01:09:31 {Asuka}       None of your business.
+01:09:32 {Gendo}       Pilot that Eva.
+01:09:33 {Asuka}       None of your business.
+01:09:33 {Gendo}       Pilot that Eva.
+01:09:35 {Sakura}      Please just don't pilot an Eva!
+01:09:38 {Misato}      Do nothing.
+01:09:38 {Shinji}      Mother...
+01:09:38 {Misato}      Do nothing.
+01:09:39 {Sakura}      Please just don't pilot an Eva!
+01:09:39 {Misato}      Do nothing.
+01:09:41 {Asuka}       None of your business.
+01:09:41 {Gendo}       Pilot that Eva.
+01:09:43 {Voice}       Your existence means nothing to me.
+01:09:43 {Gendo}       Pilot that Eva.
+01:09:43 {Asuka}       None of your business.
+01:09:44 {Gendo}       Pilot that Eva.
+01:09:45 {Rei}         I don't know.
+01:09:45 {Sakura}      Please just don't pilot an Eva!
+01:09:45 {Rei}         I don't know.
+01:09:45 {Voice}       Just disappear already.
+01:09:45 {Sakura}      Please just don't pilot an Eva!
+01:09:46 {Rei}         I don't know.
+01:09:47 {Sakura}      Please just don't pilot an Eva!
+01:09:47 {Voice}       You'd burden me as a friend.
+01:09:47 {Sakura}      Please just don't pilot an Eva!
+01:09:48 {Shinji}      Misato-san...
+01:09:49 {Rei}         I don't know.
+01:09:50 {Voice}       To be honest, I don't just dislike you.
+01:09:50 {Misato}      Do nothing.
+01:09:50 {Gendo}       Pilot that Eva.
+01:09:51 {Asuka}       None of your business.
+01:09:52 {Voice}       I hate people like you the most.
+01:09:52 {Sakura}      Please just don't pilot an Eva!
+01:09:53 {Rei}         I don't know.
+01:09:53 {Misato}      Do nothing.
+01:09:54 {Gendo}       Pilot that Eva.
+01:09:55 {Asuka}       None of your business.
+01:09:55 {Voice}　　　 Bye-bye!
+01:09:56 {Misato}      Do nothing.
+01:09:56 {Sakura}      Please just don't pilot an Eva!
+01:09:57 {Rei}         I don't know.
+01:09:57 {Gendo}       Pilot that Eva.
+01:09:57 {Asuka}       None of your business.
+01:09:58 {Sakura}      Please just don't pilot an Eva!
+01:09:58 {Asuka}       None of your business.
+01:09:58 {Misato}      Do nothing.
+01:09:59 {Rei}         I don't know.
+01:09:59 {Gendo}       Pilot that Eva.
+01:10:00 {Sakura}      Please just don't pilot an Eva!
+01:10:00 {Misato}      Do nothing.
+01:10:01 {Asuka}       None of your business.
+01:10:02 {Misato}      Do nothing.
+01:10:03 {Asuka}       None of your business.
+01:10:05 {Sakura}      Please just don't pilot an Eva!
+01:10:07 {Rei}         I don't know.
+01:10:08 {Gendo}       Pilot that Eva.
+01:10:16 {Shinji}      What was I doing?
+01:00:47 {Fuyutsuki}   The final executor is complete at last.
+01:00:50 {Gendo}       Yes. Everything we need is right here.
+01:00:56 {Kaworu}      The time has come.
+01:00:59 {Kaworu}      This is it, Ikari Shinji-kun.
+01:01:02 {Shinji}      No!
+01:01:05 {Shinji}      I never want to pilot an Eva again!
+01:01:07 {Shinji}      I didn't save Ayanami after all!
+01:01:10 {Shinji}      Nothing good ever came out of piloting an Eva!
+01:01:13 {Shinji}      I've had enough! I don't want to do anything!
+01:01:16 {Kaworu}      And nothing good comes from replaying your painful memories either.
+01:01:24 {Shinji}      Nothing is ever good!
+01:01:26 {Shinji}      You showed me it yourself, Nagisa-kun.
+01:01:29 {Shinji}      The blood-red world I can't do anything about...
+01:01:32 {Kaworu}      That which was changed by Eva can be restored by Eva in turn.
+01:11:45 {Shinji}      You say that, but my father, Evas, Misato-san...
+01:11:48 {Shinji}      I can't believe in anyone, or anything!
+01:01:43 {Kaworu}      Still, I want you to believe in me.
+01:01:46 {Shinji}      I can't!
+01:01:49 {Shinji}      Misato-san had this thing put on me.
+01:01:53 {Shinji}      They told me to never pilot an Eva again.
+01:01:55 {Shinji}      They said that I'd die if I did.
+01:01:59 {Shinji}      I don't care about Evas anymore.
+01:02:09 {Kaworu}      I understand.
+01:02:10 {Kaworu}      I will shoulder the burden of the Lilin's curse and the risk of Eva's Awakening.
+01:02:21 {Shinji}      Nagisa-kun...
+01:02:24 {Kaworu}      No need to worry.
+01:02:26 {Kaworu}      The Lilin originally created this due to their fear of me.
+01:02:29 {Kaworu}      I intended to take it from you at some point.
+01:02:34 {Kaworu}      Ikari Shinji-kun, your only hope lies with the two Spears left at the Impact epicenter in Dogma.
+01:02:41 {Kaworu}      They are the keys to invoking the Instrumentality Project.
+01:02:45 {Kaworu}      We should take those Spears for ourselves.
+01:02:48 {Kaworu}      That way, Nerv can no longer trigger the Fourth Impact,
+01:02:52 {Kaworu}      And if we use them together with Eva-13, we can even repair the world.
+01:02:58 {Shinji}      I guess so.
+01:03:03 {Shinji}      Yeah, I'm sure you can do it.
+01:03:05 {Kaworu}      *We* can do it, you mean.
+01:03:07 {Kaworu}      Eva-13 uses a double entry system.
+01:03:11 {Kaworu}      Let's become the hope of Lilin together.
+01:03:15 {Kaworu}      What you need most of all right now is hope,
+01:03:19 {Kaworu}      along with atonement and serenity.
+01:03:25 {Shinji}      You're amazing. You know everything.
+01:03:30 {Kaworu}      Only because I'm always thinking about you.
+01:03:35 {Shinji}      Thank you, Nagisa-kun.
+01:03:38 {Kaworu}      Just call me Kaworu.
+01:03:40 {Shinji}      Well, uh...
+01:03:43 {Shinji}      You can call me Shinji, then. 
+01:03:49 {Kaworu}      It's the same as playing piano. 
+01:03:50 {Kaworu}      Good things will happen if we're together, Shinji-kun.
+01:14:03 {Shinji}      Yeah.
+01:03:56 {Shinji}      Let's go, Kaworu-kun.
+01:04:38 {Both}        Evangelion 13, start up!
+01:04:43 {Aoba}        Signal detected!
+01:04:44 {Aoba}        Activation of a new Eva confirmed!
+01:05:06 {Shinji}      We're not alone.
+01:05:08 {Kaworu}      You mean the Mark.09? 
+01:05:08 {Kaworu}      It's here as our backup.
+01:05:12 {Kaworu}      It'll look out for any signs of Wille activity.
+01:05:15 {Shinji}      Just the two of us would've been enough.
+01:05:18 {Shinji}      She's not Ayanami anyway...
+01:05:22 {Rei}         Not... Ayanami?
+01:05:28 {Shinji}      The walls are...
+01:05:30 {Kaworu}      Yes, all failures of infinity.
+01:05:38 {Kaworu}      Don't let them weigh upon your mind.
+01:05:42 {Kaworu}      We're nearly at Lilith's barrier.
+01:05:45 {Kaworu}      The Main Shaft is completely blocked,
+01:05:47 {Kaworu}      keeping anyone from intruding over the past fourteen years.
+01:05:56 {Shinji}      It's just like a huge lid.
+01:06:00 {Kaworu}      Don't worry. Eva-13 was designed to break through it.
+01:06:03 {Kaworu}      We can do it together.
+01:16:14 {Shinji}      Right.
+01:06:15 {Kaworu}      Try to join tempos. 
+01:06:17 {Kaworu}      Think about our piano duets.
+01:06:24 {Kaworu}      Let's go, Shinji-kun.
+01:06:48 {Shinji}      We did it!
+01:07:07 {Kaworu}      Here we are. The deepest level of Central Dogma.
+01:07:14 {Kaworu}      The epicenter of Third Impact.
+01:07:21 {Shinji}      Is that Lilith?
+01:07:23 {Kaworu}      It *used* to be. 
+01:07:25 {Kaworu}      Now, it is her corpse.
+01:07:27 {Shinji}      Misato-san... even though we risked our lives to protect it...
+01:07:32 {Shinji}      Huh? Is that an Eva?
+01:07:35 {Kaworu}      Yes, the Eva Mark.06.
+01:07:38 {Kaworu}      Remodeled into an autonomous type, 
+01:07:40 {Kaworu}      exploitation by the Lilin brought the unit to this state of ruin.
+01:07:48 {Shinji}      The things that are piercing them... are our targets?
+01:07:52 {Kaworu}      Yes, the Spears of Longinus and Cassius. 
+01:07:55 {Kaworu}      Wielding both requires two souls.
+01:08:00 {Kaworu}      That's why we have the double entry system.
+01:08:04 {Shinji}      Then... wouldn't *that* pilot have been just as good for this as me?
+01:08:08 {Kaworu}      No, a replica Lilin won't do.
+01:08:10 {Kaworu}      Her soul is in the wrong place.
+01:08:14 {Kaworu}      Well, let's begin.
+01:08:23 {Kaworu}      Hold on. 
+01:08:25 {Kaworu}      Something's wrong.
+01:08:26 {Shinji}      What is it, Kaworu-kun?
+01:08:31 {Kaworu}      This is odd... 
+01:08:32 {Kaworu}      Both Spears have morphed into the same shape.
+01:08:36 {Shinji}      We should hurry and pull the Spears out.
+01:08:38 {Shinji}      It's the only reason I'm piloting this Eva.
+01:08:44 {Shinji}      What's going on?!
+01:08:55 {Shinji}      Eva-02?
+01:08:57 {Shinji}      Asuka!
+01:09:00 {Shinji}      What are you doing, Asuka?!
+01:09:05 {Asuka}       Stupid Shinji?!
+01:09:06 {Asuka}       You can't seriously be piloting an Eva?!
+01:09:08 {Shinji}      I am. 
+01:09:10 {Shinji}      And I'm going to change the world doing it!
+01:09:13 {Asuka}       You damned brat...
+01:09:15 {Asuka}       If that's how it is, don't pilot!
+01:09:25 {Asuka}       Your support fire is always late!
+01:09:26 {Mari}        Sorry, sorry!
+01:09:28 {Mari}        Adams' Vessel-san,
+01:09:31 {Mari}        at least I'll stop *you* in your tracks.
+01:09:54 {Shinji}      Why are you getting in our way, Asuka?
+01:09:56 {Shinji}      Those are our Spears of hope!
+01:10:01 {Asuka}       Stop!... looking!... for trouble!
+01:10:04 {Asuka}       You brat, Shinji!
+01:10:05 {Asuka}       Are you trying to cause Third Impact again?
+01:10:07 {Shinji}      No I'm not! 
+01:10:09 {Shinji}      If I get the Spears, I can fix everything!
+01:10:12 {Shinji}      I'm trying to save the world!
+01:10:16 {Asuka}       You really *are* a little brat.
+01:10:19 {Shinji}      You just don't get it!
+01:10:30 {Shinji}      Kaworu-kun, help me out here!
+01:10:34 {Kaworu}      Cassius and Longinus. Both of the Spears are needed.
+01:10:39 {Kaworu}      But the only two Spears that are here are the same...
+01:10:43 {Shinji}      Kaworu-kun!
+01:10:44 {Kaworu}      I see!
+01:10:46 {Kaworu}      Now I understand,
+01:10:48 {Kaworu}      Lilin!
+01:10:55 {Mari}        Seele's fill-in pilot, 
+01:10:58 {Mari}        you can hear me, right?
+01:11:00 {Mari}        You should get out of there before you turn into an Adams' Vessel.
+01:11:04 {Rei}         No. That is not what I was ordered.
+01:11:07 {Mari}        Talk about straightlaced.
+01:11:09 {Mari}        Your original was a lot friendlier, you know.
+01:11:12 {Rei}         Original?
+01:11:14 {Rei}         Another me?
+01:11:30 {Shinji}      Kaworu-kun, what happened to you?!
+01:11:45 {Shinji}      Asuka!
+01:11:46 {Shinji}      I'm begging you, stay out of the way!
+01:11:49 {Asuka}       Go down already, bratty Shinji!
+01:11:57 {Asuka}       You're kidding me!
+01:11:58 {Asuka}       Hey, Glasses! Throw me a spare!
+01:12:07 {Shinji}      Now's our chance to grab the Spears!
+01:12:11 {Asuka}       I can't believe he'd hit a girl. 
+01:12:13 {Asuka}       Bastard.
+01:12:14 {Mari}        Spare, incoming!
+01:12:28 {Kaworu}      Stop, Shinji-kun. 
+01:12:30 {Kaworu}      I have a really bad feeling about this.
+01:12:32 {Shinji}      We can't stop now, Kaworu-kun! 
+01:12:34 {Shinji}      Remember why we came all the way here?
+01:12:37 {Kaworu}      Don't do this!
+01:12:38 {Kaworu}      Those aren't the Spears we came for!
+01:12:41 {Shinji}      Not... the Spears we came for?
+01:12:47 {Shinji}      You're the one who said we need the Spears.
+01:12:50 {Shinji}      That's why I got into this Eva!
+01:12:57 {Kaworu}      The controls...
+01:13:02 {Shinji}      For Kaworu-kun, 
+01:13:05 {Shinji}      for everyone, I will get the Spears!
+01:13:07 {Shinji}      Only then will the world go back to how it should be.
+01:13:11 {Shinji}      That way, even Misato-san would...
+01:13:15 {Asuka}       Crap!
+01:13:16 {Asuka}       Glasses, I've lifted the block.
+01:13:18 {Asuka}       You're cleared to use AA rounds!
+01:13:20 {Mari}        I've been waiting for this!
+01:13:22 {Mari}        Check these babies out!
+01:13:30 {Mari}        There's no A.T. Field?
+01:13:32 {Mari}        Don't tell me that unit...
+01:13:46 {Kaworu}      Don't do it, Shinji-kun!
+01:13:48 {Asuka}       Stop, you stupid brat!
+01:14:13 {Gendo}       Let's begin, Fuyutsuki.
+01:14:22 {Shinji}      Eva Mark.06?
+01:14:25 {Shinji}      Blood type blue? 
+01:14:26 {Shinji}      What's going on?
+01:14:30 {Asuka}       This is bad! 
+01:14:32 {Asuka}       The Twelfth Angel is still alive!
+01:14:35 {Asuka}       Glasses! Container No.3!
+01:14:37 {Mari}        Aye, ma'am!
+01:14:40 {Asuka}       We'll take care of this before Third Impact starts up again!
+01:14:49 {Rei}         I was ordered to.
+01:15:00 {Shinji}      An Angel?!
+01:15:10 {Mari}        Princess, stop wasting your bullets. 
+01:15:14 {Mari}        The whole thing is a core.
+01:15:17 {Mari}        There's nothing we can do about it now.
+01:15:21 {Mari}        Plus, we don't know *what* might happen once the final Angel is defeated.
+01:15:26 {Mari}        Troubling, isn't it?
+01:15:32 {Rei}         Is that...
+01:15:37 {Rei}         Is that me?
+01:15:41 {Rei}         What am I?
+01:15:46 {Shinji}      The controls aren't working!
+01:15:47 {Shinji}      What's going on, Kaworu-kun?
+01:15:51 {Shinji}      Kaworu-kun!
+01:15:53 {Kaworu}      I never thought that I, the First Angel,
+01:15:56 {Kaworu}      would be cast down to the Thirteenth.
+01:16:00 {Shinji}      What are you talking about, Kaworu-kun?!
+01:16:04 {Kaworu}      So the beginning and the end are the same.
+01:16:08 {Kaworu}      I expected no less from the King of the Lilin,
+01:16:11 {Kaworu}      Shinji-kun's father!
+01:16:13 {Mari}        Blood type blue from the DSS Choker?
+01:16:15 {Mari}        But there shouldn't *be* a Thirteenth!
+01:16:19 {Mari}        So this is what Gendo-kun was aiming for.
+01:16:24 {Gendo}       It is time to amend the Dead Sea Scrolls' contract.
+01:16:29 {Gendo}       This is farewell.
+01:16:33 {Gendo}       Though you have all changed the form of your souls,
+01:16:37 {Gendo}       you are still creatures blessed with the Fruit of Knowledge.
+01:16:41 {Gendo}       Though you could have lived for an eternity,
+01:16:44 {Gendo}       you can escape the fate of death no more than us.
+01:16:50 {Gendo}       To advance the evolution of the flock burdened by death,
+01:16:54 {Gendo}       you gave us the gift of civilization.
+01:17:00 {Gendo}       On behalf of humanity, I thank you.
+01:17:04 {Gendo}       Let death return your souls to where they belong.
+01:17:12 {Gendo}       The long desired Human Instrumentality Project,
+01:17:15 {Gendo}       and the inevitable deicide, will be completed by me.
+01:17:19 {Gendo}       Rest assured.
+01:17:21 {Seele 01}    Our wishes have come to fruition. 
+01:17:25 {Seele 01}    Good.
+01:17:26 {Seele 01}    All is well now.
+01:17:29 {Seele 01}    We wish for Human Instrumentality, the peaceful purification of all souls.
+01:18:06 {Asuka}       It's transcending its pseudo-evolved form!
+01:18:09 {Mari}        Guess it's Awakened...
+01:18:12 {Mari}        It's one of the surviving Adams!
+01:18:49 {Shinji}      What is this?
+01:19:04 {Shinji}      What's going on?
+01:19:11 {Shinji}      Is this all my fault?
+01:19:14 {Shinji}      Because I pulled out the Spears?
+01:19:22 {Shinji}      This is...!
+01:19:24 {Kaworu}      Fourth Impact.
+01:19:28 {Kaworu}      This is the opening ritual.
+01:19:45 {Shinji}      Kaworu-kun... 
+01:19:46 {Shinji}      The choker!
+01:19:55 {Shinji}      Misato-san?!
+01:19:59 {Misato}      A.T. Field at maximum!
+01:20:01 {Misato}      Contain the Eva in its present state!
+01:20:03 {Misato}      Prepare the main cannons for a salvo! Load the mortar shells!
+01:20:06 {Misato}      We'll do whatever it takes to keep Fourth Impact in check!
+01:20:08 {Misato}      Fire!
+01:20:17 {Midori}      We've taken damage! Direct hit to the main cannons!
+01:20:19 {Misato}      The Adams' Vessel?!
+01:20:26 {Tama}        Central hull hit! Extent of damage unknown!
+01:20:28 {Woman (BG)}  / The target new-type Eva ＃＃＃＃
+01:20:30 {Sumire}      Rudder irresponsive! 
+01:20:32 {Sumire}      We're losing altitude!
+01:30:51 {Tama}        Another hit on the central hull!
+01:30:51 {Aoba}        Severe damage to the third armor plate!
+01:20:46 {Ritsuko}     The Adams' Vessel is Wunder's true master.
+01:20:48 {Ritsuko}     It intends to take the ship's controls back from Eva-01!
+01:20:57 {Rei}         Why can't I restore the link?
+01:21:05 {Mari}        Oh, man! 
+01:21:07 {Mari}        That's one hell of a mess they got themselves in.
+01:21:10 {Asuka}       Glasses, you handle the brat's Eva!
+01:21:12 {Asuka}       I'll help out Wunder with 02'!
+01:21:14 {Mari}        Roger!
+01:21:15 {Midori}      Unable to reject the Adams' Vessel!
+01:21:17 {Tama}        Unidentified data is infiltrating the main control system!
+01:21:19 {Aoba}        It's hijacking control of the ship!
+01:21:43 {Asuka}       No fair! That reeks of Seele.
+01:21:53 {Asuka}       Mode change!
+01:21:55 {Asuka}       Code 777!
+01:22:04 {Rei}         Who's there?
+01:22:05 {Asuka}       Who the hell are *you*?!
+01:22:24 {Aoba}        Report from the observation station.
+01:22:26 {Aoba}        Eva-02' has engaged the Adams' Vessel!
+01:22:27 {Misato}      We're counting on you, Asuka.
+01:22:48 {Rei}         What would Ayanami Rei do in this situation?
+01:22:51 {Asuka}       Hell if I know!
+01:22:52 {Asuka}       What do *you* want to do?!
+01:22:58 {Asuka}       I've got the core now!
+01:23:09 {Asuka}       The whole thing is the core?!
+01:23:12 {Asuka}       I don't have time.
+01:23:14 {Asuka}       Sorry, Eva-02!
+01:23:31 {Sumire}      Control system restored!
+01:23:33 {Misato}      Emergency launch of all ships! 
+01:23:34 {Misato}      Pursue the target Eva immediately!
+01:23:36 {Ritsuko}     Captain, we must wait until the main engine recovers.
+01:23:40 {Misato}      Shinji-kun...
+01:24:02 {Shinji}      This is all because of me...?
+01:24:06 {Shinji}      I... I...
+01:24:12 {Kaworu}      It's not your fault.
+01:24:15 {Kaworu}      It happened because I became the Thirteenth Angel.
+01:24:19 {Kaworu}      I was the trigger.
+01:24:21 {Shinji}      What should I do?
+01:24:24 {Shinji}      Tell me, what should I do?
+01:24:31 {Shinji}      Kaworu-kun,
+01:24:34 {Shinji}      what would be the right thing?
+01:24:37 {Kaworu}      Even if your soul disappears, your hopes and curses remain in this world.
+01:24:43 {Kaworu}      Your will roams the world as information and gradually changes.
+01:24:48 {Kaworu}      In time, even your very self is altered.
+01:24:54 {Kaworu}      I'm sorry. This wasn't the happiness you desired.
+01:24:59 {Kaworu}      I'll close the Gates of Guf.
+01:25:03 {Kaworu}      You don't need to worry, Shinji-kun.
+01:25:05 {Shinji}      Kaworu-kun...
+01:25:08 {Shinji}      What are you talking about, Kaworu-kun?
+01:25:11 {Shinji}      I don't get it at all!
+01:25:18 {Kaworu}      Shinji-kun, you just need to find peace and a place to call your own.
+01:25:31 {Kaworu}      Fate will surely guide you.
+01:25:37 {Kaworu}      Don't look at me like that.
+01:25:41 {Kaworu}      We'll meet again, Shinji-kun.
+01:25:44 {Shinji}      Kaworu-kun!
+01:26:04 {Mari}        The Gates of Guf still hasn't closed!
+01:26:06 {Mari}        So, Puppy Boy was Seele's backup!
+01:26:25 {Mari}        Everything's settled!
+01:26:26 {Mari}        Get a hold of yourself, Puppy Boy!
+01:26:30 {Mari}        Stop being such a baby!
+01:26:31 {Mari}        Help out the Princess, at least!
+01:26:33 {Mari}        You're a man, aren't you?!
+01:26:36 {Mari}        And while you're at it, get to know the world a little!
+01:27:33 {Fuyutsuki}   Look at this mess.
+01:27:35 {Fuyutsuki}   Nearly everything went as Seele had intended. 
+01:27:38 {Gendo}       Even so, we eliminated Seele's boy and guided Eva-13 to its Awakening.
+01:27:46 {Gendo}       Captain Katsuragi's actions are also within expectations.
+01:27:49 {Gendo}       This will do for now.
+01:27:52 {Hyuga}       All ships, remain in secondary state of alert.
+01:27:55 {Midori}      No blood type blue readings.
+01:27:57 {Midori}      No units detected in the monitored airspace.
+01:27:59 {Tama}        Emergency repairs to the central hull completed.
+01:28:01 {Ritsuko}     I don't know who did it, but Fourth Impact was stopped.
+01:28:07 {Ritsuko}     Misato, this should be good enough for now.
+01:29:01 {Asuka}       You brat, Shinji.
+01:29:04 {Asuka}       You didn't come to help me.
+01:29:10 {Asuka}       Only thinking about yourself, as usual.
+01:29:12 {Asuka}       You think you can get away with everything if you don't say a word.
+01:29:40 {Asuka}       You're still such a baby.
+01:39:52 {Asuka}       Even after all this time,
+01:39:53 {Asuka}       you're nothing but an irksome brat!
+01:29:47 {Asuka}       Here, put this on.
+01:29:50 {Asuka}       Jeez! You can't even *stand* on your own?!
+01:29:58 {Asuka}       You're the pilot from before.
+01:30:02 {Asuka}       From an early lot of Ayanami types, are you?
+01:30:11 {Asuka}       The L Barrier density is too high here, so they won't be able to come for us.
+01:30:16 {Asuka}       We'll go someplace where the Lilin can pick us up.
+01:30:23 {Asuka}       Come on!
+01:41:00 {Captain}     To Be Continued
+01:35:11 {Caption}     Preview
+01:35:12 {Narrator}    Shinji Ikari is still adrift after losing his will to live.
+01:35:16 {Narrator}    He'll discover hope at the place he ends up.
+01:35:19 {Narrator}    Finally the Instrumentality Project is set in motion.
+01:35:22 {Narrator}    Wille make one last grueling stand to prevent Final Impact.
+01:35:26 {Narrator}    The Wunder tears through the sky!
+01:35:27 {Narrator}    Eva Unit 8+2 races across the red earth!
+01:35:32 {Narrator}    Next time in "New Evangelion Theatrical Edition".
+01:35:34 {Title}       Next Time  New Evangelion Theatrical Edition: ||
+01:35:34 {Narrator}    There'll be plenty of fan service all the way to the end!
