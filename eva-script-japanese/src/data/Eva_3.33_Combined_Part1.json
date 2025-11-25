@@ -45,7 +45,10 @@
         "kanji": "目標",
         "reading": "もくひょう"
       },
-      "物",
+      {
+        "kanji": "物",
+        "reading": "もの"
+      },
       "を",
       {
         "kanji": "確認",
@@ -162,7 +165,7 @@
     "segments": [
       "アンチＡ．Ｔ．フィールド"
     ],
-    "english": ""
+    "english": "Anti A.T. Field"
   },
   {
     "time": "00:03:31",
@@ -175,7 +178,7 @@
       },
       "！"
     ],
-    "english": ""
+    "english": "Argh, still in the way!"
   },
   {
     "time": "00:03:37",
@@ -188,7 +191,7 @@
       },
       "ってんの！うっとうしい！"
     ],
-    "english": ""
+    "english": "Four-eyes! How long are you gonna sing!? So annoying!"
   },
   {
     "time": "00:04:07",
@@ -217,7 +220,7 @@
     "segments": [
       "ハッ"
     ],
-    "english": ""
+    "english": "Huh!"
   },
   {
     "time": "00:04:10",
@@ -227,7 +230,10 @@
         "kanji": "目標",
         "reading": "もくひょう"
       },
-      "物",
+      {
+        "kanji": "物",
+        "reading": "もの"
+      },
       "が",
       {
         "kanji": "移動",
@@ -329,7 +335,7 @@
     "segments": [
       "３、"
     ],
-    "english": ""
+    "english": "3..."
   },
   {
     "time": "00:04:53",
@@ -453,7 +459,10 @@
     "character": "アスカ",
     "segments": [
       "パターン",
-      "青",
+      {
+        "kanji": "青",
+        "reading": "あお"
+      },
       "！？"
     ],
     "english": "Blood type blue?"
@@ -474,7 +483,10 @@
         "kanji": "妨害",
         "reading": "ぼうがい"
       },
-      "物",
+      {
+        "kanji": "物",
+        "reading": "もの"
+      },
       "はコード4B。"
     ],
     "english": "The interfering object is Mk. 04B."
@@ -484,8 +496,14 @@
     "character": "女(無線)",
     "segments": [
       "フィールド",
-      "反",
-      "射",
+      {
+        "kanji": "反",
+        "reading": "はん"
+      },
+      {
+        "kanji": "射",
+        "reading": "しゃ"
+      },
       {
         "kanji": "膜",
         "reading": "まく"
@@ -569,7 +587,10 @@
     "time": "00:05:39",
     "character": "マリ(無線)",
     "segments": [
-      "後",
+      {
+        "kanji": "後",
+        "reading": "あと"
+      },
       "はセルフサービスでよろしく～っ"
     ],
     "english": "I'll leave the rest to y-..."
@@ -579,10 +600,13 @@
     "character": "アスカ",
     "segments": [
       "チッ！",
-      "役",
+      {
+        "kanji": "役",
+        "reading": "やく"
+      },
       "たたず！"
     ],
-    "english": ""
+    "english": "Tch! Useless!"
   },
   {
     "time": "00:05:44",
@@ -597,7 +621,10 @@
     "character": "アスカ",
     "segments": [
       "こんなの",
-      "聞",
+      {
+        "kanji": "聞",
+        "reading": "き"
+      },
       "いてないわよっ！"
     ],
     "english": "Nobody told me about this!"
@@ -608,7 +635,7 @@
     "segments": [
       "！？"
     ],
-    "english": ""
+    "english": "!?"
   },
   {
     "time": "00:05:59",
@@ -720,7 +747,7 @@
       },
       "！"
     ],
-    "english": ""
+    "english": "02-Dash! Mission takes priority!"
   },
   {
     "time": "00:06:18",
@@ -740,7 +767,10 @@
         "kanji": "目標",
         "reading": "もくひょう"
       },
-      "物",
+      {
+        "kanji": "物",
+        "reading": "もの"
+      },
       "を",
       {
         "kanji": "離",
@@ -760,7 +790,7 @@
       },
       "かってるっつーの！！"
     ],
-    "english": ""
+    "english": "I know that!"
   },
   {
     "time": "00:06:38",
@@ -768,7 +798,7 @@
     "segments": [
       "ぐうう･･････"
     ],
-    "english": ""
+    "english": "Ungh..."
   },
   {
     "time": "00:06:41",
@@ -783,7 +813,10 @@
     "character": "カヲル",
     "segments": [
       "･･････おかえり、",
-      "碇",
+      {
+        "kanji": "碇",
+        "reading": "いかり"
+      },
       "シンジ",
       {
         "kanji": "君",
@@ -940,7 +973,10 @@
         "reading": "たし"
       },
       "か、",
-      "綾",
+      {
+        "kanji": "綾",
+        "reading": "あや"
+      },
       {
         "kanji": "波",
         "reading": "は"
@@ -982,7 +1018,10 @@
     "character": "シンジ",
     "segments": [
       "あの、",
-      "綾",
+      {
+        "kanji": "綾",
+        "reading": "あや"
+      },
       {
         "kanji": "波",
         "reading": "は"
@@ -1123,7 +1162,10 @@
     "time": "00:09:28",
     "character": "ミサト",
     "segments": [
-      "碇",
+      {
+        "kanji": "碇",
+        "reading": "いかり"
+      },
       "シンジ",
       {
         "kanji": "君",
@@ -1266,8 +1308,14 @@
         "reading": "そうちゃくずみ"
       },
       "よ。",
-      "葛",
-      "城",
+      {
+        "kanji": "葛",
+        "reading": "かつら"
+      },
+      {
+        "kanji": "城",
+        "reading": "ぎ"
+      },
       {
         "kanji": "艦長",
         "reading": "かんちょう"
@@ -1280,8 +1328,14 @@
     "character": "シンジ",
     "segments": [
       "・・・",
-      "葛",
-      "城",
+      {
+        "kanji": "葛",
+        "reading": "かつら"
+      },
+      {
+        "kanji": "城",
+        "reading": "ぎ"
+      },
       {
         "kanji": "艦長",
         "reading": "かんちょう"
@@ -1302,7 +1356,10 @@
     "time": "00:10:03",
     "character": "リツコ",
     "segments": [
-      "作",
+      {
+        "kanji": "作",
+        "reading": "さ"
+      },
       {
         "kanji": "動",
         "reading": "うご"
@@ -1324,8 +1381,14 @@
         "kanji": "艦長",
         "reading": "かんちょう"
       },
-      "専",
-      "用",
+      {
+        "kanji": "専",
+        "reading": "せん"
+      },
+      {
+        "kanji": "用",
+        "reading": "よう"
+      },
       "に。"
     ],
     "english": "Passcode is set for your personal use, Captain."
@@ -1468,7 +1531,10 @@
     "character": "日向",
     "segments": [
       "パターン",
-      "青",
+      {
+        "kanji": "青",
+        "reading": "あお"
+      },
       "だよ！"
     ],
     "english": "It's blood type blue."
@@ -1517,7 +1583,7 @@
       },
       "たか。"
     ],
-    "english": ""
+    "english": "They're back again."
   },
   {
     "time": "00:10:40",
@@ -1534,7 +1600,7 @@
       },
       "て、コード４Ｃ。"
     ],
-    "english": ""
+    "english": "It's three-dimensional."
   },
   {
     "time": "00:10:40",
@@ -1551,7 +1617,7 @@
       },
       "よ。"
     ],
-    "english": ""
+    "english": "It's three-dimensional."
   },
   {
     "time": "00:10:42",
@@ -1569,14 +1635,17 @@
       },
       "するつもりよ。"
     ],
-    "english": ""
+    "english": "First, they intend to seal us in here."
   },
   {
     "time": "00:10:43",
     "character": "北上(BG)",
     "segments": [
       "/ デコイ02（マル",
-      "二",
+      {
+        "kanji": "二",
+        "reading": "に"
+      },
       "）、そして06（マルロク）が",
       {
         "kanji": "消滅",
@@ -1588,7 +1657,7 @@
       },
       "。"
     ],
-    "english": ""
+    "english": "Decoy 02, and 06 have been destroyed."
   },
   {
     "time": "00:10:45",
@@ -1615,8 +1684,14 @@
         "kanji": "関連",
         "reading": "かんれん"
       },
-      "作",
-      "業",
+      {
+        "kanji": "作",
+        "reading": "さ"
+      },
+      {
+        "kanji": "業",
+        "reading": "ぎょう"
+      },
       "のみ",
       {
         "kanji": "続行",
@@ -1728,7 +1803,10 @@
         "kanji": "対水上",
         "reading": "たいすいじょう"
       },
-      "及",
+      {
+        "kanji": "及",
+        "reading": "およ"
+      },
       "び",
       {
         "kanji": "水中戦",
@@ -1777,8 +1855,14 @@
         "kanji": "補給",
         "reading": "ほきゅう"
       },
-      "作",
-      "業",
+      {
+        "kanji": "作",
+        "reading": "さ"
+      },
+      {
+        "kanji": "業",
+        "reading": "ぎょう"
+      },
       "を",
       {
         "kanji": "中断",
@@ -2801,8 +2885,14 @@
     "time": "00:12:31",
     "character": "青葉",
     "segments": [
-      "北",
-      "上",
+      {
+        "kanji": "北",
+        "reading": "きた"
+      },
+      {
+        "kanji": "上",
+        "reading": "うえ"
+      },
       "。"
     ],
     "english": "Kitakami!"
@@ -2837,8 +2927,14 @@
         "kanji": "甲板",
         "reading": "こうはん"
       },
-      "作",
-      "業",
+      {
+        "kanji": "作",
+        "reading": "さ"
+      },
+      {
+        "kanji": "業",
+        "reading": "ぎょう"
+      },
       "の",
       {
         "kanji": "状況",
@@ -2949,7 +3045,7 @@
     "segments": [
       "よっこいしょと"
     ],
-    "english": ""
+    "english": "Alrighty then..."
   },
   {
     "time": "00:12:43",
@@ -2982,7 +3078,7 @@
     "segments": [
       "よっと――"
     ],
-    "english": ""
+    "english": "And..."
   },
   {
     "time": "00:12:47",
@@ -3002,7 +3098,10 @@
         "reading": "ぼうぎょ"
       },
       "、",
-      "及",
+      {
+        "kanji": "及",
+        "reading": "およ"
+      },
       "び",
       {
         "kanji": "対空",
@@ -3275,7 +3374,7 @@
     "segments": [
       "うっ！"
     ],
-    "english": ""
+    "english": "Ugh!"
   },
   {
     "time": "00:13:15",
@@ -3324,7 +3423,10 @@
         "reading": "は"
       },
       "。パターン",
-      "青",
+      {
+        "kanji": "青",
+        "reading": "あお"
+      },
       "。"
     ],
     "english": "Second wave incoming. Blood type blue."
@@ -3407,8 +3509,14 @@
     "time": "00:13:24",
     "character": "リツコ",
     "segments": [
-      "葛",
-      "城",
+      {
+        "kanji": "葛",
+        "reading": "かつら"
+      },
+      {
+        "kanji": "城",
+        "reading": "ぎ"
+      },
       {
         "kanji": "艦長",
         "reading": "かんちょう"
@@ -3449,7 +3557,10 @@
         "kanji": "定数",
         "reading": "ていすう"
       },
-      "及",
+      {
+        "kanji": "及",
+        "reading": "およ"
+      },
       "び",
       {
         "kanji": "練度",
@@ -3510,7 +3621,7 @@
       },
       "できない。"
     ],
-    "english": ""
+    "english": "And worst of all, we can't even locate the core block target."
   },
   {
     "time": "00:13:38",
@@ -3582,8 +3693,14 @@
     "time": "00:13:45",
     "character": "リツコ",
     "segments": [
-      "葛",
-      "城",
+      {
+        "kanji": "葛",
+        "reading": "かつら"
+      },
+      {
+        "kanji": "城",
+        "reading": "ぎ"
+      },
       {
         "kanji": "艦長",
         "reading": "かんちょう"

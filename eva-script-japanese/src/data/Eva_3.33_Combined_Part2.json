@@ -503,7 +503,10 @@
         "reading": "すいちゅう"
       },
       "モーター",
-      "及",
+      {
+        "kanji": "及",
+        "reading": "およ"
+      },
       "びレフトコンテナ１",
       {
         "kanji": "番",
@@ -738,7 +741,7 @@
       },
       "。"
     ],
-    "english": ""
+    "english": "All ships, first-grade battle stations."
   },
   {
     "time": "00:15:48",
@@ -1176,7 +1179,7 @@
     "segments": [
       "チッ"
     ],
-    "english": ""
+    "english": "Tch!"
   },
   {
     "time": "00:16:44",
@@ -1255,7 +1258,7 @@
     "segments": [
       "エントリースタート。"
     ],
-    "english": ""
+    "english": "Entry start."
   },
   {
     "time": "00:17:10",
@@ -1280,8 +1283,14 @@
     "character": "女(無線)",
     "segments": [
       "ＬＣＬ",
-      "電",
-      "荷",
+      {
+        "kanji": "電",
+        "reading": "でん"
+      },
+      {
+        "kanji": "荷",
+        "reading": "か"
+      },
       {
         "kanji": "状態",
         "reading": "じょうたい"
@@ -1293,7 +1302,7 @@
       },
       "。"
     ],
-    "english": ""
+    "english": "LCL charge status is normal."
   },
   {
     "time": "00:17:25",
@@ -1460,7 +1469,10 @@
     "time": "00:17:35",
     "character": "女(無線)",
     "segments": [
-      "主",
+      {
+        "kanji": "主",
+        "reading": "しゅ"
+      },
       "モニター、",
       {
         "kanji": "点灯",
@@ -1842,8 +1854,14 @@
         "kanji": "補給",
         "reading": "ほきゅう"
       },
-      "作",
-      "業",
+      {
+        "kanji": "作",
+        "reading": "さ"
+      },
+      {
+        "kanji": "業",
+        "reading": "ぎょう"
+      },
       "、",
       {
         "kanji": "搬入",
@@ -1911,8 +1929,14 @@
         "reading": "ごうき"
       },
       "、",
-      "作",
-      "業",
+      {
+        "kanji": "作",
+        "reading": "さ"
+      },
+      {
+        "kanji": "業",
+        "reading": "ぎょう"
+      },
       {
         "kanji": "開始",
         "reading": "かいし"
@@ -1941,7 +1965,10 @@
         "kanji": "流入",
         "reading": "りゅうにゅう"
       },
-      "圧",
+      {
+        "kanji": "圧",
+        "reading": "あつ"
+      },
       {
         "kanji": "力",
         "reading": "ちから"
@@ -2147,8 +2174,14 @@
         "kanji": "搬入",
         "reading": "はんにゅう"
       },
-      "作",
-      "業",
+      {
+        "kanji": "作",
+        "reading": "さ"
+      },
+      {
+        "kanji": "業",
+        "reading": "ぎょう"
+      },
       "の",
       {
         "kanji": "人手",
@@ -2230,8 +2263,14 @@
         "kanji": "艤装",
         "reading": "ぎそう"
       },
-      "作",
-      "業",
+      {
+        "kanji": "作",
+        "reading": "さ"
+      },
+      {
+        "kanji": "業",
+        "reading": "ぎょう"
+      },
       "、ロードマップをチェック。"
     ],
     "english": "Checking the ships' outfitting and roadmaps."
@@ -2240,8 +2279,14 @@
     "time": "00:18:56",
     "character": "多摩",
     "segments": [
-      "武",
-      "装",
+      {
+        "kanji": "武",
+        "reading": "ぶ"
+      },
+      {
+        "kanji": "装",
+        "reading": "そう"
+      },
       {
         "kanji": "関係",
         "reading": "かんけい"
@@ -2321,8 +2366,14 @@
         "kanji": "群",
         "reading": "ぐん"
       },
-      "爆",
-      "発",
+      {
+        "kanji": "爆",
+        "reading": "ばく"
+      },
+      {
+        "kanji": "発",
+        "reading": "はつ"
+      },
       "！"
     ],
     "english": "The 7th converter cluster has exploded!"
@@ -2407,12 +2458,18 @@
     "time": "00:19:03",
     "character": "高雄",
     "segments": [
-      "圧",
+      {
+        "kanji": "圧",
+        "reading": "あつ"
+      },
       {
         "kanji": "力",
         "reading": "ちから"
       },
-      "計",
+      {
+        "kanji": "計",
+        "reading": "けい"
+      },
       "は",
       {
         "kanji": "全",
@@ -2461,7 +2518,7 @@
       },
       "。"
     ],
-    "english": ""
+    "english": "Flywheel pressure plate lock released."
   },
   {
     "time": "00:19:07",
@@ -2725,7 +2782,7 @@
         "reading": "いち"
       }
     ],
-    "english": ""
+    "english": "Unit-02 at ignition position."
   },
   {
     "time": "00:19:48",
@@ -2749,7 +2806,7 @@
       },
       "ましたっ！"
     ],
-    "english": ""
+    "english": "Here it comes!"
   },
   {
     "time": "00:19:50",
@@ -3068,7 +3125,7 @@
       },
       "！オールグリーン！"
     ],
-    "english": ""
+    "english": "Rotation at 36,000! All green!"
   },
   {
     "time": "00:20:06",
@@ -3340,8 +3397,14 @@
         "kanji": "補給",
         "reading": "ほきゅう"
       },
-      "作",
-      "業",
+      {
+        "kanji": "作",
+        "reading": "さ"
+      },
+      {
+        "kanji": "業",
+        "reading": "ぎょう"
+      },
       "を",
       {
         "kanji": "中断",
@@ -3377,7 +3440,10 @@
         "kanji": "対水上",
         "reading": "たいすいじょう"
       },
-      "及",
+      {
+        "kanji": "及",
+        "reading": "およ"
+      },
       "び",
       {
         "kanji": "水中戦",
@@ -3403,8 +3469,14 @@
         "kanji": "関連",
         "reading": "かんれん"
       },
-      "作",
-      "業",
+      {
+        "kanji": "作",
+        "reading": "さ"
+      },
+      {
+        "kanji": "業",
+        "reading": "ぎょう"
+      },
       "は",
       {
         "kanji": "続行",
@@ -3422,9 +3494,18 @@
         "kanji": "遠隔",
         "reading": "えんかく"
       },
-      "式",
-      "砲",
-      "雷",
+      {
+        "kanji": "式",
+        "reading": "しき"
+      },
+      {
+        "kanji": "砲",
+        "reading": "ほう"
+      },
+      {
+        "kanji": "雷",
+        "reading": "らい"
+      },
       {
         "kanji": "撃",
         "reading": "う"
@@ -3482,9 +3563,18 @@
         "kanji": "各",
         "reading": "かく"
       },
-      "航",
-      "空",
-      "機",
+      {
+        "kanji": "航",
+        "reading": "こう"
+      },
+      {
+        "kanji": "空",
+        "reading": "くう"
+      },
+      {
+        "kanji": "機",
+        "reading": "き"
+      },
       "は",
       {
         "kanji": "現空域",
@@ -3609,8 +3699,14 @@
         "kanji": "艤装",
         "reading": "ぎそう"
       },
-      "作",
-      "業",
+      {
+        "kanji": "作",
+        "reading": "さ"
+      },
+      {
+        "kanji": "業",
+        "reading": "ぎょう"
+      },
       "は",
       {
         "kanji": "続",
@@ -3808,7 +3904,10 @@
         "kanji": "操作",
         "reading": "そうさ"
       },
-      "及",
+      {
+        "kanji": "及",
+        "reading": "およ"
+      },
       "び",
       {
         "kanji": "連動",
@@ -3862,8 +3961,14 @@
         "kanji": "注入",
         "reading": "ちゅうにゅう"
       },
-      "作",
-      "業",
+      {
+        "kanji": "作",
+        "reading": "さ"
+      },
+      {
+        "kanji": "業",
+        "reading": "ぎょう"
+      },
       "を",
       {
         "kanji": "継続",
@@ -3934,8 +4039,14 @@
         "kanji": "注入",
         "reading": "ちゅうにゅう"
       },
-      "作",
-      "業",
+      {
+        "kanji": "作",
+        "reading": "さ"
+      },
+      {
+        "kanji": "業",
+        "reading": "ぎょう"
+      },
       "を",
       {
         "kanji": "続行",
@@ -4021,8 +4132,14 @@
     "time": "00:21:56",
     "character": "女(無線)",
     "segments": [
-      "左",
-      "舷",
+      {
+        "kanji": "左",
+        "reading": "ひだり"
+      },
+      {
+        "kanji": "舷",
+        "reading": "げん"
+      },
       {
         "kanji": "第",
         "reading": "だい"
@@ -4033,8 +4150,14 @@
         "reading": "だい"
       },
       "４ハブステーション",
-      "異",
-      "常",
+      {
+        "kanji": "異",
+        "reading": "い"
+      },
+      {
+        "kanji": "常",
+        "reading": "じょう"
+      },
       "なし。"
     ],
     "english": "Run main engine at full power!"
@@ -4115,8 +4238,14 @@
     "time": "00:22:00",
     "character": "長良",
     "segments": [
-      "最",
-      "大",
+      {
+        "kanji": "最",
+        "reading": "さい"
+      },
+      {
+        "kanji": "大",
+        "reading": "おお"
+      },
       {
         "kanji": "戦速",
         "reading": "せんそく"

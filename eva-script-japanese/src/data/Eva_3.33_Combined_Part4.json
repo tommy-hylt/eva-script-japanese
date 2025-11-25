@@ -29,7 +29,7 @@
       },
       "。"
     ],
-    "english": ""
+    "english": "All personnel, perform emergency repairs on damaged sections and resume outfitting work."
   },
   {
     "time": "00:32:58",
@@ -49,7 +49,7 @@
     "segments": [
       "はっ・・・"
     ],
-    "english": ""
+    "english": "Hah..."
   },
   {
     "time": "00:33:16",
@@ -161,7 +161,7 @@
     "segments": [
       "ん？"
     ],
-    "english": ""
+    "english": "Hm?"
   },
   {
     "time": "00:35:15",
@@ -1207,8 +1207,14 @@
     "time": "00:40:35",
     "character": "多摩",
     "segments": [
-      "隔",
-      "壁",
+      {
+        "kanji": "隔",
+        "reading": "かく"
+      },
+      {
+        "kanji": "壁",
+        "reading": "へき"
+      },
       "を",
       {
         "kanji": "緊急",
@@ -1885,7 +1891,7 @@
       },
       "じられるまでね。"
     ],
-    "english": ""
+    "english": "You do the same thing over and over again, until you feel like you're doing it right."
   },
   {
     "time": "00:45:26",
@@ -1906,7 +1912,7 @@
     "segments": [
       "それしかない。"
     ],
-    "english": ""
+    "english": "That's all there is."
   },
   {
     "time": "00:46:01",
@@ -1919,7 +1925,7 @@
       },
       "せて。"
     ],
-    "english": ""
+    "english": "It's okay. Leave it to me."
   },
   {
     "time": "00:46:03",
@@ -2469,7 +2475,7 @@
     "segments": [
       "・・・！！"
     ],
-    "english": ""
+    "english": "...!!"
   },
   {
     "time": "00:48:00",
@@ -2835,7 +2841,7 @@
     "segments": [
       "うわっ！"
     ],
-    "english": ""
+    "english": "Uwah!"
   },
   {
     "time": "00:49:44",
@@ -2888,7 +2894,7 @@
     "segments": [
       "はあ・・・はあ・・・"
     ],
-    "english": ""
+    "english": "Haa...haa..."
   },
   {
     "time": "00:50:22",
@@ -2941,7 +2947,7 @@
     "segments": [
       "・・・！！"
     ],
-    "english": ""
+    "english": "...!!"
   },
   {
     "time": "00:50:36",
@@ -2991,7 +2997,7 @@
       },
       "だよ。"
     ],
-    "english": ""
+    "english": "This is the result of the Third Impact that occurred while you were merged with Unit-01."
   },
   {
     "time": "00:50:51",
@@ -3382,7 +3388,7 @@
     "segments": [
       "・・・！！"
     ],
-    "english": ""
+    "english": "...!!"
   },
   {
     "time": "00:52:09",

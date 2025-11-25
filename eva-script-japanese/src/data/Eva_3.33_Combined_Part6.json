@@ -979,7 +979,7 @@
     "segments": [
       "うぉおおおおおっ！！"
     ],
-    "english": ""
+    "english": "Wooooooh!!"
   },
   {
     "time": "01:15:10",
@@ -1092,7 +1092,7 @@
       },
       "になるジャ"
     ],
-    "english": ""
+    "english": "Getting concerned."
   },
   {
     "time": "01:15:32",
@@ -1725,7 +1725,7 @@
       },
       "う。"
     ],
-    "english": ""
+    "english": "We pray for the purification of peaceful souls."
   },
   {
     "time": "01:18:06",
@@ -1755,7 +1755,7 @@
       },
       "えている！"
     ],
-    "english": ""
+    "english": "It's exceeding pseudo-evolution form!"
   },
   {
     "time": "01:18:09",
@@ -1878,7 +1878,7 @@
       },
       "さ"
     ],
-    "english": ""
+    "english": "That's the beginning ritual."
   },
   {
     "time": "01:19:45",
@@ -2179,7 +2179,7 @@
     "segments": [
       "よっと。"
     ],
-    "english": ""
+    "english": "There."
   },
   {
     "time": "01:21:05",
@@ -3436,7 +3436,7 @@
       },
       "のかかるガキね"
     ],
-    "english": ""
+    "english": "Always causing trouble, you troublesome brat."
   },
   {
     "time": "01:29:47",
@@ -3588,11 +3588,23 @@
         "kanji": "中",
         "reading": "ちゅう"
       },
-      "央",
-      "部",
+      {
+        "kanji": "央",
+        "reading": "おう"
+      },
+      {
+        "kanji": "部",
+        "reading": "ぶ"
+      },
       "さらに",
-      "被",
-      "弾",
+      {
+        "kanji": "被",
+        "reading": "ひ"
+      },
+      {
+        "kanji": "弾",
+        "reading": "だん"
+      },
       "！"
     ],
     "english": "Severe damage to the third armor plate!"
@@ -3718,7 +3730,7 @@
       },
       "むヴィレ。"
     ],
-    "english": ""
+    "english": "WILLE challenges them to a final battle."
   },
   {
     "time": "01:35:26",
@@ -3817,6 +3829,6 @@
       },
       "そうよ"
     ],
-    "english": ""
+    "english": "Let's talk."
   }
 ]

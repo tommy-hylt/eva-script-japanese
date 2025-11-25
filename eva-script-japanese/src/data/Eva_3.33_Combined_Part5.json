@@ -485,7 +485,7 @@
     "segments": [
       "！！"
     ],
-    "english": ""
+    "english": "!!"
   },
   {
     "time": "00:56:27",
@@ -1143,7 +1143,7 @@
     "segments": [
       "くっ・・うう・・・・"
     ],
-    "english": ""
+    "english": "Ugh...uuh..."
   },
   {
     "time": "00:59:04",
@@ -1164,7 +1164,7 @@
     "segments": [
       "うああっ！！！"
     ],
-    "english": ""
+    "english": "Uaaah!!!"
   },
   {
     "time": "01:00:47",
@@ -1452,7 +1452,7 @@
       },
       "さんもミサトさんも"
     ],
-    "english": ""
+    "english": "Even if you say that, I can't trust EVA, or father, or Misato-san,"
   },
   {
     "time": "01:01:39",
@@ -1469,7 +1469,7 @@
       },
       "じられないよっ！！"
     ],
-    "english": ""
+    "english": "I can't believe anything anymore!!"
   },
   {
     "time": "01:01:43",
@@ -2163,7 +2163,7 @@
       },
       "のためだよ。"
     ],
-    "english": ""
+    "english": "For support."
   },
   {
     "time": "01:05:12",
@@ -2377,7 +2377,7 @@
     "segments": [
       "うん"
     ],
-    "english": ""
+    "english": "Yeah."
   },
   {
     "time": "01:06:15",
@@ -2523,7 +2523,7 @@
     "segments": [
       "ん？あれは、エヴァ？"
     ],
-    "english": ""
+    "english": "Hm? Is that an EVA?"
   },
   {
     "time": "01:07:35",
@@ -3236,7 +3236,10 @@
     "time": "01:09:38",
     "character": "シンジ",
     "segments": [
-      "母",
+      {
+        "kanji": "母",
+        "reading": "はは"
+      },
       "さん・・・"
     ],
     "english": "Do nothing."

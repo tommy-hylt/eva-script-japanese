@@ -34,8 +34,14 @@
         "reading": "りゅうにゅう"
       },
       "、",
-      "順",
-      "調",
+      {
+        "kanji": "順",
+        "reading": "じゅん"
+      },
+      {
+        "kanji": "調",
+        "reading": "ちょう"
+      },
       "なり。"
     ],
     "english": "Power influx to auxiliary N2 reactors is going smoothly."
@@ -117,12 +123,18 @@
     "character": "整備",
     "segments": [
       "ムリですよ、",
-      "整",
+      {
+        "kanji": "整",
+        "reading": "せい"
+      },
       {
         "kanji": "備",
         "reading": "そな"
       },
-      "長",
+      {
+        "kanji": "長",
+        "reading": "ちょう"
+      },
       "。"
     ],
     "english": "You're asking the impossible, chief."
@@ -249,8 +261,14 @@
         "kanji": "艤装",
         "reading": "ぎそう"
       },
-      "作",
-      "業",
+      {
+        "kanji": "作",
+        "reading": "さ"
+      },
+      {
+        "kanji": "業",
+        "reading": "ぎょう"
+      },
       "はここで",
       {
         "kanji": "中断",
@@ -297,8 +315,14 @@
     "time": "00:22:32",
     "character": "多摩",
     "segments": [
-      "隔",
-      "壁",
+      {
+        "kanji": "隔",
+        "reading": "かく"
+      },
+      {
+        "kanji": "壁",
+        "reading": "へき"
+      },
       "の",
       {
         "kanji": "閉鎖",
@@ -419,7 +443,7 @@
       },
       "。"
     ],
-    "english": ""
+    "english": "Protect Unit-01 at all costs."
   },
   {
     "time": "00:23:12",
@@ -594,7 +618,10 @@
         "kanji": "各",
         "reading": "かく"
       },
-      "砲",
+      {
+        "kanji": "砲",
+        "reading": "ほう"
+      },
       {
         "kanji": "直接",
         "reading": "ちょくせつ"
@@ -603,7 +630,10 @@
         "kanji": "照準",
         "reading": "しょうじゅん"
       },
-      "及",
+      {
+        "kanji": "及",
+        "reading": "およ"
+      },
       "び",
       {
         "kanji": "手動",
@@ -838,8 +868,14 @@
         "reading": "むちゃ"
       },
       "よ、",
-      "葛",
-      "城",
+      {
+        "kanji": "葛",
+        "reading": "かつら"
+      },
+      {
+        "kanji": "城",
+        "reading": "ぎ"
+      },
       {
         "kanji": "艦長",
         "reading": "かんちょう"
@@ -924,7 +960,10 @@
         "kanji": "仮称",
         "reading": "かしょう"
       },
-      "碇",
+      {
+        "kanji": "碇",
+        "reading": "いかり"
+      },
       "シンジさん。"
     ],
     "english": "Specimen BM03. Tentative Name: Ikari Shinji-san."
@@ -987,7 +1026,10 @@
         "kanji": "使",
         "reading": "つか"
       },
-      "用",
+      {
+        "kanji": "用",
+        "reading": "よう"
+      },
       {
         "kanji": "中",
         "reading": "ちゅう"
@@ -1088,7 +1130,10 @@
     "character": "サクラ",
     "segments": [
       "よかったですね、",
-      "碇",
+      {
+        "kanji": "碇",
+        "reading": "いかり"
+      },
       "さん"
     ],
     "english": "Isn't that great, Ikari-san?"
@@ -1149,8 +1194,14 @@
         "reading": "ゆえ"
       },
       "にあなたには　DSSチョーカーを",
-      "装",
-      "着",
+      {
+        "kanji": "装",
+        "reading": "そう"
+      },
+      {
+        "kanji": "着",
+        "reading": "ちゃく"
+      },
       "させてあります。"
     ],
     "english": "As a result, we've installed the DSS Choker on you."
@@ -1507,8 +1558,14 @@
         "reading": "ない"
       },
       "、",
-      "電",
-      "荷",
+      {
+        "kanji": "電",
+        "reading": "でん"
+      },
+      {
+        "kanji": "荷",
+        "reading": "か"
+      },
       {
         "kanji": "用意",
         "reading": "ようい"
@@ -1539,7 +1596,10 @@
         "reading": "いまさら"
       },
       "ですが、",
-      "碇",
+      {
+        "kanji": "碇",
+        "reading": "いかり"
+      },
       "さんの",
       {
         "kanji": "管理",
@@ -1575,8 +1635,14 @@
         "reading": "の"
       },
       "る",
-      "必",
-      "要",
+      {
+        "kanji": "必",
+        "reading": "ひつ"
+      },
+      {
+        "kanji": "要",
+        "reading": "よう"
+      },
       "はありません。"
     ],
     "english": "There's no need for you to pilot the Eva."
@@ -1602,8 +1668,14 @@
     "time": "00:26:38",
     "character": "サクラ",
     "segments": [
-      "鈴",
-      "原",
+      {
+        "kanji": "鈴",
+        "reading": "すず"
+      },
+      {
+        "kanji": "原",
+        "reading": "はら"
+      },
       "サクラ",
       {
         "kanji": "少尉",
@@ -1666,7 +1738,7 @@
       },
       "。"
     ],
-    "english": ""
+    "english": "Currently transferring command systems to combat bridge."
   },
   {
     "time": "00:26:41",
@@ -1732,8 +1804,14 @@
     "time": "00:26:44",
     "character": "シンジ",
     "segments": [
-      "必",
-      "要",
+      {
+        "kanji": "必",
+        "reading": "ひつ"
+      },
+      {
+        "kanji": "要",
+        "reading": "よう"
+      },
       "ないって"
     ],
     "english": "No need?"
@@ -1793,7 +1871,10 @@
     "character": "サクラ",
     "segments": [
       "お",
-      "兄",
+      {
+        "kanji": "兄",
+        "reading": "あに"
+      },
       "ちゃんがお",
       {
         "kanji": "世話",
@@ -1944,9 +2025,18 @@
         "kanji": "各",
         "reading": "かく"
       },
-      "演",
-      "算",
-      "総",
+      {
+        "kanji": "演",
+        "reading": "えん"
+      },
+      {
+        "kanji": "算",
+        "reading": "さん"
+      },
+      {
+        "kanji": "総",
+        "reading": "そう"
+      },
       {
         "kanji": "合",
         "reading": "あ"
@@ -1979,10 +2069,22 @@
     "time": "00:27:23",
     "character": "北上",
     "segments": [
-      "総",
-      "員",
-      "点",
-      "呼",
+      {
+        "kanji": "総",
+        "reading": "そう"
+      },
+      {
+        "kanji": "員",
+        "reading": "いん"
+      },
+      {
+        "kanji": "点",
+        "reading": "てん"
+      },
+      {
+        "kanji": "呼",
+        "reading": "こ"
+      },
       {
         "kanji": "完了",
         "reading": "かんりょう"
@@ -2047,7 +2149,7 @@
     "segments": [
       "ずーっとガマンしてたし。"
     ],
-    "english": ""
+    "english": "I've been holding it in the whole time."
   },
   {
     "time": "00:27:27",
@@ -2057,8 +2159,14 @@
         "kanji": "第",
         "reading": "だい"
       },
-      "一",
-      "次",
+      {
+        "kanji": "一",
+        "reading": "いち"
+      },
+      {
+        "kanji": "次",
+        "reading": "じ"
+      },
       "リストをクリア。"
     ],
     "english": "First list has cleared."
@@ -2071,8 +2179,14 @@
         "kanji": "全",
         "reading": "すべ"
       },
-      "隔",
-      "壁",
+      {
+        "kanji": "隔",
+        "reading": "かく"
+      },
+      {
+        "kanji": "壁",
+        "reading": "へき"
+      },
       "の",
       {
         "kanji": "閉鎖",
@@ -2091,8 +2205,14 @@
     "time": "00:27:30",
     "character": "多摩",
     "segments": [
-      "耐",
-      "圧",
+      {
+        "kanji": "耐",
+        "reading": "たい"
+      },
+      {
+        "kanji": "圧",
+        "reading": "あつ"
+      },
       "チェックを",
       {
         "kanji": "終了",
@@ -2145,7 +2265,7 @@
       },
       "、"
     ],
-    "english": ""
+    "english": "Injecting power for main engine ignition system."
   },
   {
     "time": "00:27:34",
@@ -2871,7 +2991,7 @@
       },
       "してた。"
     ],
-    "english": ""
+    "english": "Had a stubborn and stupid face."
   },
   {
     "time": "00:29:28",
@@ -3475,7 +3595,7 @@
     "segments": [
       "！？"
     ],
-    "english": ""
+    "english": "!?"
   },
   {
     "time": "00:31:27",
@@ -3526,7 +3646,7 @@
     "segments": [
       "う・・・きゃあ！！"
     ],
-    "english": ""
+    "english": "Ah...kyaaah!!"
   },
   {
     "time": "00:31:43",
@@ -3756,6 +3876,6 @@
     "segments": [
       "ふん。"
     ],
-    "english": ""
+    "english": "Hmph."
   }
 ]
