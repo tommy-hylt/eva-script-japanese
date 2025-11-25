@@ -1,0 +1,1010 @@
+[
+  {
+    "part": 1,
+    "index": 8,
+    "time": "00:03:27",
+    "character": "アスカ",
+    "japanese": [
+      "アンチＡ．Ｔ．フィールド"
+    ]
+  },
+  {
+    "part": 1,
+    "index": 9,
+    "time": "00:03:31",
+    "character": "アスカ",
+    "japanese": [
+      "ええいやっぱり",
+      {
+        "kanji": "邪魔",
+        "reading": "じゃま"
+      },
+      "！"
+    ]
+  },
+  {
+    "part": 1,
+    "index": 10,
+    "time": "00:03:37",
+    "character": "アスカ",
+    "japanese": [
+      "コネメガネ！いつまで",
+      {
+        "kanji": "唄",
+        "reading": "うた"
+      },
+      "ってんの！うっとうしい！"
+    ]
+  },
+  {
+    "part": 1,
+    "index": 12,
+    "time": "00:04:09",
+    "character": "アスカ",
+    "japanese": [
+      "ハッ"
+    ]
+  },
+  {
+    "part": 1,
+    "index": 22,
+    "time": "00:04:52",
+    "character": "アスカ",
+    "japanese": [
+      "３、"
+    ]
+  },
+  {
+    "part": 1,
+    "index": 42,
+    "time": "00:05:43",
+    "character": "アスカ",
+    "japanese": [
+      "チッ！",
+      {
+        "kanji": "役",
+        "reading": "やく"
+      },
+      "たたず！"
+    ]
+  },
+  {
+    "part": 1,
+    "index": 45,
+    "time": "00:05:52",
+    "character": "アスカ",
+    "japanese": [
+      "！？"
+    ]
+  },
+  {
+    "part": 1,
+    "index": 52,
+    "time": "00:06:15",
+    "character": "ミサト(無線)",
+    "japanese": [
+      "ツーダッシュ！",
+      {
+        "kanji": "作戦",
+        "reading": "さくせん"
+      },
+      {
+        "kanji": "遂行",
+        "reading": "すいこう"
+      },
+      "を",
+      {
+        "kanji": "最優先",
+        "reading": "さいゆうせん"
+      },
+      "！"
+    ]
+  },
+  {
+    "part": 1,
+    "index": 54,
+    "time": "00:06:21",
+    "character": "アスカ",
+    "japanese": [
+      {
+        "kanji": "分",
+        "reading": "わ"
+      },
+      "かってるっつーの！！"
+    ]
+  },
+  {
+    "part": 1,
+    "index": 55,
+    "time": "00:06:38",
+    "character": "アスカ",
+    "japanese": [
+      "ぐうう･･････"
+    ]
+  },
+  {
+    "part": 1,
+    "index": 103,
+    "time": "00:10:39",
+    "character": "ミサト",
+    "japanese": [
+      "―――また",
+      {
+        "kanji": "来",
+        "reading": "き"
+      },
+      "たか。"
+    ]
+  },
+  {
+    "part": 1,
+    "index": 104,
+    "time": "00:10:40",
+    "character": "北上(BG)",
+    "japanese": [
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      "は",
+      {
+        "kanji": "全",
+        "reading": "すべ"
+      },
+      "て、コード４Ｃ。"
+    ]
+  },
+  {
+    "part": 1,
+    "index": 105,
+    "time": "00:10:40",
+    "character": "リツコ",
+    "japanese": [
+      {
+        "kanji": "進行",
+        "reading": "しんこう"
+      },
+      "が",
+      {
+        "kanji": "立体的",
+        "reading": "りったいてき"
+      },
+      "よ。"
+    ]
+  },
+  {
+    "part": 1,
+    "index": 106,
+    "time": "00:10:42",
+    "character": "リツコ",
+    "japanese": [
+      "まずは、",
+      {
+        "kanji": "私",
+        "reading": "わたし"
+      },
+      "たちをここに",
+      {
+        "kanji": "封鎖",
+        "reading": "ふうさ"
+      },
+      "するつもりよ。"
+    ]
+  },
+  {
+    "part": 1,
+    "index": 107,
+    "time": "00:10:43",
+    "character": "北上(BG)",
+    "japanese": [
+      "/ デコイ02（マル",
+      {
+        "kanji": "二",
+        "reading": "に"
+      },
+      "）、そして06（マルロク）が",
+      {
+        "kanji": "消滅",
+        "reading": "しょうめつ"
+      },
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      },
+      "。"
+    ]
+  },
+  {
+    "part": 1,
+    "index": 182,
+    "time": "00:12:41",
+    "character": "サクラ",
+    "japanese": [
+      "よっこいしょと"
+    ]
+  },
+  {
+    "part": 1,
+    "index": 185,
+    "time": "00:12:46",
+    "character": "サクラ",
+    "japanese": [
+      "よっと――"
+    ]
+  },
+  {
+    "part": 1,
+    "index": 202,
+    "time": "00:13:14",
+    "character": "アスカ",
+    "japanese": [
+      "うっ！"
+    ]
+  },
+  {
+    "part": 1,
+    "index": 212,
+    "time": "00:13:35",
+    "character": "リツコ",
+    "japanese": [
+      "とどめに",
+      {
+        "kanji": "攻撃",
+        "reading": "こうげき"
+      },
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      "たるコアブロックも",
+      {
+        "kanji": "捕捉",
+        "reading": "ほそく"
+      },
+      "できない。"
+    ]
+  },
+  {
+    "part": 2,
+    "index": 40,
+    "time": "00:15:46",
+    "character": "アナウンス",
+    "japanese": [
+      {
+        "kanji": "全艦",
+        "reading": "ぜんかん"
+      },
+      "、",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      {
+        "kanji": "一種",
+        "reading": "いっしゅ"
+      },
+      {
+        "kanji": "戦闘",
+        "reading": "せんとう"
+      },
+      {
+        "kanji": "配置",
+        "reading": "はいち"
+      },
+      "。"
+    ]
+  },
+  {
+    "part": 2,
+    "index": 68,
+    "time": "00:16:16",
+    "character": "北上",
+    "japanese": [
+      "チッ"
+    ]
+  },
+  {
+    "part": 2,
+    "index": 75,
+    "time": "00:17:08",
+    "character": "リツコ",
+    "japanese": [
+      "エントリースタート。"
+    ]
+  },
+  {
+    "part": 2,
+    "index": 77,
+    "time": "00:17:10",
+    "character": "女(無線)",
+    "japanese": [
+      "ＬＣＬ",
+      "電",
+      "荷",
+      {
+        "kanji": "状態",
+        "reading": "じょうたい"
+      },
+      "は",
+      {
+        "kanji": "正常",
+        "reading": "せいじょう"
+      },
+      "。"
+    ]
+  },
+  {
+    "part": 2,
+    "index": 145,
+    "time": "00:19:05",
+    "character": "多摩",
+    "japanese": [
+      "フライホイール",
+      {
+        "kanji": "圧着板",
+        "reading": "あっちゃくばん"
+      },
+      "ロック",
+      {
+        "kanji": "解除",
+        "reading": "かいじょ"
+      },
+      "。"
+    ]
+  },
+  {
+    "part": 2,
+    "index": 160,
+    "time": "00:19:46",
+    "character": "青葉",
+    "japanese": [
+      {
+        "kanji": "改",
+        "reading": "かい"
+      },
+      "２",
+      {
+        "kanji": "号機",
+        "reading": "ごうき"
+      },
+      "、",
+      {
+        "kanji": "点火",
+        "reading": "てんか"
+      },
+      {
+        "kanji": "位置",
+        "reading": "いち"
+      }
+    ]
+  },
+  {
+    "part": 2,
+    "index": 162,
+    "time": "00:19:48",
+    "character": "多摩",
+    "japanese": [
+      {
+        "kanji": "来",
+        "reading": "き"
+      },
+      "ましたっ！"
+    ]
+  },
+  {
+    "part": 2,
+    "index": 180,
+    "time": "00:20:04",
+    "character": "多摩",
+    "japanese": [
+      {
+        "kanji": "回転数",
+        "reading": "かいてんすう"
+      },
+      "3",
+      {
+        "kanji": "万",
+        "reading": "まん"
+      },
+      "6",
+      {
+        "kanji": "千",
+        "reading": "せん"
+      },
+      "！オールグリーン！"
+    ]
+  },
+  {
+    "part": 3,
+    "index": 24,
+    "time": "00:23:02",
+    "character": "ミサト",
+    "japanese": [
+      {
+        "kanji": "初号機",
+        "reading": "しょごうき"
+      },
+      {
+        "kanji": "保護",
+        "reading": "ほご"
+      },
+      "を",
+      {
+        "kanji": "最優先",
+        "reading": "さいゆうせん"
+      },
+      "。"
+    ]
+  },
+  {
+    "part": 3,
+    "index": 91,
+    "time": "00:26:40",
+    "character": "女",
+    "japanese": [
+      {
+        "kanji": "現在",
+        "reading": "げんざい"
+      },
+      "、",
+      {
+        "kanji": "指揮",
+        "reading": "しき"
+      },
+      {
+        "kanji": "系統",
+        "reading": "けいとう"
+      },
+      "を",
+      {
+        "kanji": "戦闘",
+        "reading": "せんとう"
+      },
+      {
+        "kanji": "艦橋",
+        "reading": "かんきょう"
+      },
+      "へ",
+      {
+        "kanji": "移行",
+        "reading": "いこう"
+      },
+      {
+        "kanji": "中",
+        "reading": "ちゅう"
+      },
+      "。"
+    ]
+  },
+  {
+    "part": 3,
+    "index": 121,
+    "time": "00:27:26",
+    "character": "アスカ",
+    "japanese": [
+      "ずーっとガマンしてたし。"
+    ]
+  },
+  {
+    "part": 3,
+    "index": 126,
+    "time": "00:27:33",
+    "character": "高雄",
+    "japanese": [
+      {
+        "kanji": "主機",
+        "reading": "しゅき"
+      },
+      "システム",
+      {
+        "kanji": "点火用",
+        "reading": "てんかよう"
+      },
+      {
+        "kanji": "動力",
+        "reading": "どうりょく"
+      },
+      "を",
+      {
+        "kanji": "注入中",
+        "reading": "ちゅうにゅうちゅう"
+      },
+      "、"
+    ]
+  },
+  {
+    "part": 3,
+    "index": 171,
+    "time": "00:29:26",
+    "character": "アスカ(電話)",
+    "japanese": [
+      {
+        "kanji": "偏屈",
+        "reading": "へんくつ"
+      },
+      "でバカな",
+      {
+        "kanji": "顔",
+        "reading": "かお"
+      },
+      "してた。"
+    ]
+  },
+  {
+    "part": 3,
+    "index": 216,
+    "time": "00:31:25",
+    "character": "シンジ",
+    "japanese": [
+      "！？"
+    ]
+  },
+  {
+    "part": 3,
+    "index": 220,
+    "time": "00:31:41",
+    "character": "サクラ",
+    "japanese": [
+      "う・・・きゃあ！！"
+    ]
+  },
+  {
+    "part": 3,
+    "index": 237,
+    "time": "00:32:53",
+    "character": "アスカ",
+    "japanese": [
+      "ふん。"
+    ]
+  },
+  {
+    "part": 4,
+    "index": 0,
+    "time": "00:32:54",
+    "character": "男",
+    "japanese": [
+      {
+        "kanji": "各員",
+        "reading": "かくいん"
+      },
+      "は、",
+      {
+        "kanji": "損傷箇所",
+        "reading": "そんしょうかしょ"
+      },
+      "の",
+      {
+        "kanji": "応急処置",
+        "reading": "おうきゅうしょち"
+      },
+      "と",
+      {
+        "kanji": "艤装作業",
+        "reading": "ぎそうさぎょう"
+      },
+      "を",
+      {
+        "kanji": "再開",
+        "reading": "さいかい"
+      },
+      "。"
+    ]
+  },
+  {
+    "part": 4,
+    "index": 2,
+    "time": "00:33:03",
+    "character": "シンジ",
+    "japanese": [
+      "はっ・・・"
+    ]
+  },
+  {
+    "part": 4,
+    "index": 11,
+    "time": "00:35:11",
+    "character": "シンジ",
+    "japanese": [
+      "ん？"
+    ]
+  },
+  {
+    "part": 4,
+    "index": 122,
+    "time": "00:45:23",
+    "character": "カヲル",
+    "japanese": [
+      {
+        "kanji": "同",
+        "reading": "おな"
+      },
+      "じ",
+      {
+        "kanji": "事",
+        "reading": "こと"
+      },
+      "を",
+      {
+        "kanji": "何度",
+        "reading": "なんど"
+      },
+      "も",
+      {
+        "kanji": "繰",
+        "reading": "く"
+      },
+      "り",
+      {
+        "kanji": "返",
+        "reading": "かえ"
+      },
+      "す。",
+      {
+        "kanji": "自分",
+        "reading": "じぶん"
+      },
+      "がいいなって",
+      {
+        "kanji": "感",
+        "reading": "かん"
+      },
+      "じられるまでね。"
+    ]
+  },
+  {
+    "part": 4,
+    "index": 124,
+    "time": "00:45:30",
+    "character": "カヲル",
+    "japanese": [
+      "それしかない。"
+    ]
+  },
+  {
+    "part": 4,
+    "index": 125,
+    "time": "00:46:01",
+    "character": "カヲル",
+    "japanese": [
+      "いいよ。",
+      {
+        "kanji": "任",
+        "reading": "まか"
+      },
+      "せて。"
+    ]
+  },
+  {
+    "part": 4,
+    "index": 156,
+    "time": "00:47:56",
+    "character": "シンジ",
+    "japanese": [
+      "・・・！！"
+    ]
+  },
+  {
+    "part": 4,
+    "index": 180,
+    "time": "00:49:29",
+    "character": "シンジ",
+    "japanese": [
+      "うわっ！"
+    ]
+  },
+  {
+    "part": 4,
+    "index": 184,
+    "time": "00:50:17",
+    "character": "シンジ",
+    "japanese": [
+      "はあ・・・はあ・・・"
+    ]
+  },
+  {
+    "part": 4,
+    "index": 187,
+    "time": "00:50:31",
+    "character": "シンジ",
+    "japanese": [
+      "・・・！！"
+    ]
+  },
+  {
+    "part": 4,
+    "index": 189,
+    "time": "00:50:43",
+    "character": "カヲル",
+    "japanese": [
+      {
+        "kanji": "君",
+        "reading": "きみ"
+      },
+      "が",
+      {
+        "kanji": "初号機",
+        "reading": "しょごうき"
+      },
+      "と",
+      {
+        "kanji": "同化",
+        "reading": "どうか"
+      },
+      "している",
+      {
+        "kanji": "間",
+        "reading": "あいだ"
+      },
+      "に",
+      {
+        "kanji": "起",
+        "reading": "お"
+      },
+      "こったサードインパクトの",
+      {
+        "kanji": "結果",
+        "reading": "けっか"
+      },
+      "だよ。"
+    ]
+  },
+  {
+    "part": 4,
+    "index": 207,
+    "time": "00:52:05",
+    "character": "シンジ",
+    "japanese": [
+      "・・・！！"
+    ]
+  },
+  {
+    "part": 5,
+    "index": 26,
+    "time": "00:56:24",
+    "character": "シンジ",
+    "japanese": [
+      "！！"
+    ]
+  },
+  {
+    "part": 5,
+    "index": 60,
+    "time": "00:58:59",
+    "character": "シンジ",
+    "japanese": [
+      "くっ・・うう・・・・"
+    ]
+  },
+  {
+    "part": 5,
+    "index": 62,
+    "time": "01:00:16",
+    "character": "シンジ",
+    "japanese": [
+      "うああっ！！！"
+    ]
+  },
+  {
+    "part": 5,
+    "index": 77,
+    "time": "01:01:36",
+    "character": "シンジ",
+    "japanese": [
+      "そんな",
+      {
+        "kanji": "事",
+        "reading": "こと"
+      },
+      {
+        "kanji": "言",
+        "reading": "い"
+      },
+      "ったってエヴァも",
+      {
+        "kanji": "父",
+        "reading": "とう"
+      },
+      "さんもミサトさんも"
+    ]
+  },
+  {
+    "part": 5,
+    "index": 78,
+    "time": "01:01:39",
+    "character": "シンジ",
+    "japanese": [
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
+      "もかも",
+      {
+        "kanji": "信",
+        "reading": "しん"
+      },
+      "じられないよっ！！"
+    ]
+  },
+  {
+    "part": 5,
+    "index": 117,
+    "time": "01:05:10",
+    "character": "カヲル",
+    "japanese": [
+      {
+        "kanji": "援護",
+        "reading": "えんご"
+      },
+      "のためだよ。"
+    ]
+  },
+  {
+    "part": 5,
+    "index": 131,
+    "time": "01:06:05",
+    "character": "シンジ",
+    "japanese": [
+      "うん"
+    ]
+  },
+  {
+    "part": 5,
+    "index": 142,
+    "time": "01:07:33",
+    "character": "シンジ",
+    "japanese": [
+      "ん？あれは、エヴァ？"
+    ]
+  },
+  {
+    "part": 6,
+    "index": 71,
+    "time": "01:15:08",
+    "character": "アスカ",
+    "japanese": [
+      "うぉおおおおおっ！！"
+    ]
+  },
+  {
+    "part": 6,
+    "index": 76,
+    "time": "01:15:24",
+    "character": "マリ",
+    "japanese": [
+      {
+        "kanji": "気",
+        "reading": "き"
+      },
+      "になるジャ"
+    ]
+  },
+  {
+    "part": 6,
+    "index": 108,
+    "time": "01:17:31",
+    "character": "ゼーレ０１",
+    "japanese": [
+      {
+        "kanji": "安",
+        "reading": "やす"
+      },
+      "らかな",
+      {
+        "kanji": "魂",
+        "reading": "たましい"
+      },
+      "の",
+      {
+        "kanji": "浄化",
+        "reading": "じょうか"
+      },
+      "を",
+      {
+        "kanji": "願",
+        "reading": "ねが"
+      },
+      "う。"
+    ]
+  },
+  {
+    "part": 6,
+    "index": 110,
+    "time": "01:18:07",
+    "character": "アスカ",
+    "japanese": [
+      {
+        "kanji": "疑似",
+        "reading": "ぎじ"
+      },
+      "シン",
+      {
+        "kanji": "化形態",
+        "reading": "かけいたい"
+      },
+      "を",
+      {
+        "kanji": "超",
+        "reading": "こ"
+      },
+      "えている！"
+    ]
+  },
+  {
+    "part": 6,
+    "index": 119,
+    "time": "01:19:29",
+    "character": "カヲル",
+    "japanese": [
+      "その",
+      {
+        "kanji": "始",
+        "reading": "はじ"
+      },
+      "まりの",
+      {
+        "kanji": "儀式",
+        "reading": "ぎしき"
+      },
+      "さ"
+    ]
+  },
+  {
+    "part": 6,
+    "index": 137,
+    "time": "01:21:03",
+    "character": "マリ",
+    "japanese": [
+      "よっと。"
+    ]
+  },
+  {
+    "part": 6,
+    "index": 212,
+    "time": "01:29:43",
+    "character": "アスカ",
+    "japanese": [
+      "いつまでたっても・・・",
+      {
+        "kanji": "手間",
+        "reading": "てま"
+      },
+      "のかかるガキね"
+    ]
+  },
+  {
+    "part": 6,
+    "index": 226,
+    "time": "01:35:23",
+    "character": "ナレーター",
+    "japanese": [
+      {
+        "kanji": "最後",
+        "reading": "さいご"
+      },
+      "の",
+      {
+        "kanji": "決戦",
+        "reading": "けっせん"
+      },
+      "を",
+      {
+        "kanji": "挑",
+        "reading": "いど"
+      },
+      "むヴィレ。"
+    ]
+  },
+  {
+    "part": 6,
+    "index": 232,
+    "time": "01:41:39",
+    "character": "カヲル",
+    "japanese": [
+      {
+        "kanji": "話",
+        "reading": "はな"
+      },
+      "そうよ"
+    ]
+  }
+]

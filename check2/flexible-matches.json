@@ -1,0 +1,172 @@
+[
+  {
+    "time": "00:04:09",
+    "character": "アスカ",
+    "matched_english_time": "00:04:10",
+    "matched_english_character": "Asuka",
+    "english": "The target is moving!",
+    "time_diff_seconds": 1,
+    "character_match": true,
+    "translated_character": "Asuka"
+  },
+  {
+    "time": "00:06:15",
+    "character": "ミサト(無線)",
+    "matched_english_time": "00:06:14",
+    "matched_english_character": "Misato",
+    "english": "02-Dash, completing the mission takes top priority!",
+    "time_diff_seconds": 1,
+    "character_match": true,
+    "translated_character": "Misato"
+  },
+  {
+    "time": "00:06:21",
+    "character": "アスカ",
+    "matched_english_time": "00:06:20",
+    "matched_english_character": "Asuka",
+    "english": "I already know that!",
+    "time_diff_seconds": 1,
+    "character_match": true,
+    "translated_character": "Asuka"
+  },
+  {
+    "time": "00:12:46",
+    "character": "サクラ",
+    "matched_english_time": "00:12:45",
+    "matched_english_character": "Sakura",
+    "english": "You should stay here.",
+    "time_diff_seconds": 1,
+    "character_match": true,
+    "translated_character": "Sakura"
+  },
+  {
+    "time": "00:23:02",
+    "character": "ミサト",
+    "matched_english_time": "00:23:01",
+    "matched_english_character": "Misato",
+    "english": "Full-on brake!",
+    "time_diff_seconds": 1,
+    "character_match": true,
+    "translated_character": "Misato"
+  },
+  {
+    "time": "00:13:35",
+    "character": "リツコ",
+    "matched_english_time": "00:13:34",
+    "matched_english_character": "Ritsuko",
+    "english": "Worst of all, we cannot isolate the attacking targets' core blocks.",
+    "time_diff_seconds": 1,
+    "character_match": true,
+    "translated_character": "Ritsuko"
+  },
+  {
+    "time": "00:15:31",
+    "character": "シンジ",
+    "matched_english_time": "00:15:32",
+    "matched_english_character": "Shinji",
+    "english": "It really is Eva Unit 02.",
+    "time_diff_seconds": 1,
+    "character_match": true,
+    "translated_character": "Shinji"
+  },
+  {
+    "time": "00:26:40",
+    "character": "女",
+    "matched_english_time": "00:26:39",
+    "matched_english_character": "Woman",
+    "english": "Commencing start-up.",
+    "time_diff_seconds": 1,
+    "character_match": true,
+    "translated_character": "Woman"
+  },
+  {
+    "time": "00:19:05",
+    "character": "多摩",
+    "matched_english_time": "00:19:04",
+    "matched_english_character": "Tama",
+    "english": "Releasing locks on the flywheel crimp.",
+    "time_diff_seconds": 1,
+    "character_match": true,
+    "translated_character": "Tama"
+  },
+  {
+    "time": "00:20:37",
+    "character": "ミサト",
+    "matched_english_time": "00:20:38",
+    "matched_english_character": "Misato",
+    "english": "Here we go.",
+    "time_diff_seconds": 1,
+    "character_match": true,
+    "translated_character": "Misato"
+  },
+  {
+    "time": "00:27:26",
+    "character": "アスカ",
+    "matched_english_time": "00:27:25",
+    "matched_english_character": "Asuka",
+    "english": "I've been holding it in all these years.",
+    "time_diff_seconds": 1,
+    "character_match": true,
+    "translated_character": "Asuka"
+  },
+  {
+    "time": "00:46:01",
+    "character": "カヲル",
+    "matched_english_time": "00:46:02",
+    "matched_english_character": "Kaworu",
+    "english": "Sure, leave it to me.",
+    "time_diff_seconds": 1,
+    "character_match": true,
+    "translated_character": "Kaworu"
+  },
+  {
+    "time": "00:50:43",
+    "character": "カヲル",
+    "matched_english_time": "00:50:42",
+    "matched_english_character": "Kaworu",
+    "english": "The outcome of Third Impact, which came to pass while you were merged with Eva-01.",
+    "time_diff_seconds": 1,
+    "character_match": true,
+    "translated_character": "Kaworu"
+  },
+  {
+    "time": "01:07:33",
+    "character": "シンジ",
+    "matched_english_time": "01:07:32",
+    "matched_english_character": "Shinji",
+    "english": "Huh? Is that an Eva?",
+    "time_diff_seconds": 1,
+    "character_match": true,
+    "translated_character": "Shinji"
+  },
+  {
+    "time": "01:18:07",
+    "character": "アスカ",
+    "matched_english_time": "01:18:06",
+    "matched_english_character": "Asuka",
+    "english": "It's transcending its pseudo-evolved form!",
+    "time_diff_seconds": 1,
+    "character_match": true,
+    "translated_character": "Asuka"
+  },
+  {
+    "time": "01:19:29",
+    "character": "カヲル",
+    "matched_english_time": "01:19:28",
+    "matched_english_character": "Kaworu",
+    "english": "This is the opening ritual.",
+    "time_diff_seconds": 1,
+    "character_match": true,
+    "translated_character": "Kaworu"
+  },
+  {
+    "time": "01:35:23",
+    "character": "ナレーター",
+    "matched_english_time": "01:35:22",
+    "matched_english_character": "Narrator",
+    "english": "Wille make one last grueling stand to prevent Final Impact.",
+    "time_diff_seconds": 1,
+    "character_match": true,
+    "translated_character": "Narrator"
+  }
+]

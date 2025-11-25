@@ -1,0 +1,168 @@
+[
+  {
+    "part": 3,
+    "index": 89,
+    "time": "00:26:38",
+    "character": "サクラ",
+    "issues": [
+      {
+        "type": "kanji_without_reading",
+        "segment": "鈴",
+        "kanji": "鈴",
+        "position": 0
+      },
+      {
+        "type": "kanji_without_reading",
+        "segment": "原",
+        "kanji": "原",
+        "position": 1
+      }
+    ]
+  },
+  {
+    "part": 3,
+    "index": 101,
+    "time": "00:26:51",
+    "character": "サクラ",
+    "issues": [
+      {
+        "type": "kanji_without_reading",
+        "segment": "兄",
+        "kanji": "兄",
+        "position": 1
+      }
+    ]
+  },
+  {
+    "part": 3,
+    "index": 113,
+    "time": "00:27:20",
+    "character": "女(無線)",
+    "issues": [
+      {
+        "type": "kanji_without_reading",
+        "segment": "演",
+        "kanji": "演",
+        "position": 1
+      },
+      {
+        "type": "kanji_without_reading",
+        "segment": "算",
+        "kanji": "算",
+        "position": 2
+      },
+      {
+        "type": "kanji_without_reading",
+        "segment": "総",
+        "kanji": "総",
+        "position": 3
+      }
+    ]
+  },
+  {
+    "part": 3,
+    "index": 116,
+    "time": "00:27:23",
+    "character": "北上",
+    "issues": [
+      {
+        "type": "kanji_without_reading",
+        "segment": "総",
+        "kanji": "総",
+        "position": 0
+      },
+      {
+        "type": "kanji_without_reading",
+        "segment": "員",
+        "kanji": "員",
+        "position": 1
+      },
+      {
+        "type": "kanji_without_reading",
+        "segment": "点",
+        "kanji": "点",
+        "position": 2
+      },
+      {
+        "type": "kanji_without_reading",
+        "segment": "呼",
+        "kanji": "呼",
+        "position": 3
+      }
+    ]
+  },
+  {
+    "part": 3,
+    "index": 122,
+    "time": "00:27:27",
+    "character": "女(無線)",
+    "issues": [
+      {
+        "type": "kanji_without_reading",
+        "segment": "一",
+        "kanji": "一",
+        "position": 1
+      }
+    ]
+  },
+  {
+    "part": 3,
+    "index": 124,
+    "time": "00:27:30",
+    "character": "多摩",
+    "issues": [
+      {
+        "type": "kanji_without_reading",
+        "segment": "耐",
+        "kanji": "耐",
+        "position": 0
+      }
+    ]
+  },
+  {
+    "part": 5,
+    "index": 194,
+    "time": "01:09:38",
+    "character": "シンジ",
+    "issues": [
+      {
+        "type": "kanji_without_reading",
+        "segment": "母",
+        "kanji": "母",
+        "position": 0
+      }
+    ]
+  },
+  {
+    "part": 6,
+    "index": 221,
+    "time": "01:30:51",
+    "character": "多摩",
+    "issues": [
+      {
+        "type": "kanji_without_reading",
+        "segment": "央",
+        "kanji": "央",
+        "position": 1
+      },
+      {
+        "type": "kanji_without_reading",
+        "segment": "部",
+        "kanji": "部",
+        "position": 2
+      },
+      {
+        "type": "kanji_without_reading",
+        "segment": "被",
+        "kanji": "被",
+        "position": 4
+      },
+      {
+        "type": "kanji_without_reading",
+        "segment": "弾",
+        "kanji": "弾",
+        "position": 5
+      }
+    ]
+  }
+]

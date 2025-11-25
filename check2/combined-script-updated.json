@@ -1,0 +1,8102 @@
+[
+  {
+    "time": "00:11:00",
+    "character": "青葉(無線)",
+    "japanese": "追跡班、両機の現在位置を報告。",
+    "english": "Tracking team, report on both units' current positions."
+  },
+  {
+    "time": "00:11:03",
+    "character": "女(無線)",
+    "japanese": "ポッドツーダッシュ、作戦高度に到達。",
+    "english": "Pod 02-Dash has reached operation altitude."
+  },
+  {
+    "time": "00:11:07",
+    "character": "女(無線)",
+    "japanese": "予定軌道に乗った。",
+    "english": "It has settled into the targeted orbit."
+  },
+  {
+    "time": "00:11:08",
+    "character": "男(無線)",
+    "japanese": "ポッドエイト、軌道投入に問題発生。高度が足りない",
+    "english": "Due to insufficient altitude, Pod 08 was unable to breach target orbital range."
+  },
+  {
+    "time": "00:11:13",
+    "character": "青葉(無線)",
+    "japanese": "確認した。",
+    "english": "Copy that."
+  },
+  {
+    "time": "00:11:14",
+    "character": "青葉(無線)",
+    "japanese": "以後はツーダッシュ単独でのオペレーションに切り替える。",
+    "english": "02-Dash will conduct a solo operation."
+  },
+  {
+    "time": "00:11:16",
+    "character": "男(無線)",
+    "japanese": "了解。",
+    "english": "Roger."
+  },
+  {
+    "time": "00:11:17",
+    "character": "男(無線)",
+    "japanese": "ポッドエイトを直援。",
+    "english": "Pod 08 will act as support."
+  },
+  {
+    "time": "00:11:19",
+    "character": "男(無線)",
+    "japanese": "シフトをセブンに移行",
+    "english": "Transition shift to seven."
+  },
+  {
+    "time": "00:11:21",
+    "character": "リツコ(無線)",
+    "japanese": "ポッドツーダッシュ、不帰投点を通過。",
+    "english": "Pod 02-Dash has passed the point of no return."
+  },
+  {
+    "time": "00:11:24",
+    "character": "リツコ(無線)",
+    "japanese": "エリア８８に侵入。",
+    "english": "It is entering Area 88."
+  },
+  {
+    "time": "00:11:25",
+    "character": "ミサト(無線)",
+    "japanese": "了解。",
+    "english": "Roger."
+  },
+  {
+    "time": "00:11:26",
+    "character": "ミサト(無線)",
+    "japanese": "これよりＵＳ作戦を開始。",
+    "english": "Commence Operation US."
+  },
+  {
+    "time": "00:11:29",
+    "character": "女(無線)",
+    "japanese": "了解。",
+    "english": "Roger."
+  },
+  {
+    "time": "00:11:30",
+    "character": "女(無線)",
+    "japanese": "ポッドツーダッシュ、作戦最終軌道に投入開始。",
+    "english": "Pod 02-Dash is entering the final operation orbit."
+  },
+  {
+    "time": "00:11:33",
+    "character": "北上(無線)",
+    "japanese": "RCS同調。作動を確認。",
+    "english": "Tuning RCS. Activation confirmed."
+  },
+  {
+    "time": "00:11:34",
+    "character": "女(無線)",
+    "japanese": "減速行動に移る。",
+    "english": "Switching to deceleration."
+  },
+  {
+    "time": "00:11:35",
+    "character": "男(無線)",
+    "japanese": "第一段全エンジンを点火。",
+    "english": "Igniting all engines, stage one."
+  },
+  {
+    "time": "00:11:36",
+    "character": "北上(無線)",
+    "japanese": "姿勢制御、問題なし",
+    "english": "Orientation controls are nominal."
+  },
+  {
+    "time": "00:11:37",
+    "character": "男(無線)",
+    "japanese": "燃焼を開始。",
+    "english": "Beginning combustion."
+  },
+  {
+    "time": "00:11:42",
+    "character": "北上(無線)",
+    "japanese": "接続リング、切り離し準備。",
+    "english": "Contact ring ready for separation."
+  },
+  {
+    "time": "00:11:42",
+    "character": "女(無線)",
+    "japanese": "Ｓ‐１Ｃ燃焼終了。",
+    "english": "S-1C combustion complete."
+  },
+  {
+    "time": "00:11:44",
+    "character": "北上(無線)",
+    "japanese": "RCS同調、確認。",
+    "english": "RCS tuning confirmed."
+  },
+  {
+    "time": "00:11:45",
+    "character": "女(無線)",
+    "japanese": "減速を確認。",
+    "english": "Deceleration confirmed."
+  },
+  {
+    "time": "00:11:46",
+    "character": "多摩(無線)",
+    "japanese": "第１段ブースターユニットをジェットソン。",
+    "english": "Jettisoning booster unit, stage one."
+  },
+  {
+    "time": "00:11:46",
+    "character": "北上(無線)",
+    "japanese": "質量変化の要素を入力。",
+    "english": "Inputting mass variation factors."
+  },
+  {
+    "time": "00:11:50",
+    "character": "北上(無線)",
+    "japanese": "分離を確認。",
+    "english": "Separation confirmed."
+  },
+  {
+    "time": "00:11:51",
+    "character": "北上(無線)",
+    "japanese": "電装系をチェック。異常なし。",
+    "english": "Checking power systems. No problems detected."
+  },
+  {
+    "time": "00:11:51",
+    "character": "男(無線)",
+    "japanese": "ドレイン弁開放。推進剤を廃棄",
+    "english": "Opening drain valves. Discarding propellant. #Not in UTW#"
+  },
+  {
+    "time": "00:11:54",
+    "character": "男(無線)",
+    "japanese": "了解した。",
+    "english": "Roger."
+  },
+  {
+    "time": "00:11:55",
+    "character": "男(無線)",
+    "japanese": "燃焼タイミングはオート。",
+    "english": "Automating ignition timing."
+  },
+  {
+    "time": "00:11:56",
+    "character": "男(無線)",
+    "japanese": "第２段全エンジンを点火。",
+    "english": "Igniting all engines, stage two."
+  },
+  {
+    "time": "00:12:02",
+    "character": "女(無線)",
+    "japanese": "Ｓ‐１Ｃ燃焼終了。",
+    "english": "S-1C combustion complete."
+  },
+  {
+    "time": "00:12:02",
+    "character": "北上(無線)",
+    "japanese": "第２接続リング、切り離し準備。",
+    "english": "Second contact ring ready for separation."
+  },
+  {
+    "time": "00:12:03",
+    "character": "女(無線)",
+    "japanese": "圧力弁を閉鎖。",
+    "english": "Closing pressure valves."
+  },
+  {
+    "time": "00:12:05",
+    "character": "北上(無線)",
+    "japanese": "RCS同調、再度確認。",
+    "english": "RCS tuning reconfirmed."
+  },
+  {
+    "time": "00:12:05",
+    "character": "多摩(無線)",
+    "japanese": "第２段ブースターユニットをジェットソン。",
+    "english": "Jettisoning booster unit, stage 2."
+  },
+  {
+    "time": "00:12:09",
+    "character": "女(無線)",
+    "japanese": "減速行動を終了。",
+    "english": "Deceleration complete."
+  },
+  {
+    "time": "00:12:10",
+    "character": "北上(無線)",
+    "japanese": "全ユニットの分離を確認",
+    "english": "Separation of all units confirmed. #Not in UTW#"
+  },
+  {
+    "time": "00:12:10",
+    "character": "男(無線)",
+    "japanese": "最終作戦軌道への投入準備。",
+    "english": "Preparing to enter final operation orbit."
+  },
+  {
+    "time": "00:12:12",
+    "character": "女(無線)",
+    "japanese": "ドレイン弁開放。推進剤を廃棄",
+    "english": "Opening drain valves. Discarding propellant. #Not in UTW#"
+  },
+  {
+    "time": "00:12:13",
+    "character": "男(無線)",
+    "japanese": "機首を反転。",
+    "english": "Flipping unit head."
+  },
+  {
+    "time": "00:12:14",
+    "character": "男(無線)",
+    "japanese": "回頭開始。",
+    "english": "Commencing rotation."
+  },
+  {
+    "time": "00:12:16",
+    "character": "男(無線)",
+    "japanese": "降下角度、確認、誤差修正内。",
+    "english": "Descent angle confirmed to be within error ranges."
+  },
+  {
+    "time": "00:12:18",
+    "character": "男(無線)",
+    "japanese": "接触空域に変化なし。",
+    "english": "No changes in contact airspace."
+  },
+  {
+    "time": "00:12:18",
+    "character": "女(無線)",
+    "japanese": "相対速度、再計算。",
+    "english": "Recalculating relative velocity."
+  },
+  {
+    "time": "00:12:19",
+    "character": "男(無線)",
+    "japanese": "タイムスケジュール、変更なし",
+    "english": "Timetable requires no correction."
+  },
+  {
+    "time": "00:12:19",
+    "character": "女(無線)",
+    "japanese": "座標高度を再確認。",
+    "english": "Reconfirming coordinate altitude."
+  },
+  {
+    "time": "00:12:22",
+    "character": "女(無線)",
+    "japanese": "全て問題なし。",
+    "english": "No problems."
+  },
+  {
+    "time": "00:12:22",
+    "character": "男(無線)",
+    "japanese": "数値を再確認。問題なし",
+    "english": "Values reconfirmed, all clear."
+  },
+  {
+    "time": "00:12:??",
+    "character": "北上(無線)",
+    "japanese": "軌道修正に問題なし、動力落下、問題なし",
+    "english": "Orbital corrections and drops in power pose no problems."
+  },
+  {
+    "time": "00:12:24",
+    "character": "女(無線)",
+    "japanese": "軌道最終修正、完了。",
+    "english": "Final orbit corrections complete."
+  },
+  {
+    "time": "00:12:27",
+    "character": "女(無線)",
+    "japanese": "１８０度回頭完了。",
+    "english": "180-degree rotation complete."
+  },
+  {
+    "time": "00:12:28",
+    "character": "日向(無線)",
+    "japanese": "了解。",
+    "english": "Roger."
+  },
+  {
+    "time": "00:12:29",
+    "character": "日向(無線)",
+    "japanese": "ポッドツーダッシュ、交差軌道への遷移スタート。",
+    "english": "Pod 02-Dash will start transitioning to the intercept orbit."
+  },
+  {
+    "time": "00:12:32",
+    "character": "日向(無線)",
+    "japanese": "これより作戦行動に移る。",
+    "english": "Now commencing the operation."
+  },
+  {
+    "time": "00:12:34",
+    "character": "青葉(無線)",
+    "japanese": "現時点で全てのリモート誘導を切る。",
+    "english": "All remote guiding will now be cut."
+  },
+  {
+    "time": "00:12:36",
+    "character": "青葉(無線)",
+    "japanese": "以後の制御はローカル。",
+    "english": "Unit will be controlled manually."
+  },
+  {
+    "time": "00:12:38",
+    "character": "日向(無線)",
+    "japanese": "グッドラック。",
+    "english": "Good luck."
+  },
+  {
+    "time": "00:02:32",
+    "character": "女(無線)",
+    "japanese": "目標との交差軌道に乗った。",
+    "english": "Unit is on intercept course with the target."
+  },
+  {
+    "time": "00:02:34",
+    "character": "女(無線)",
+    "japanese": "接触まであと８０(ハチマル)。",
+    "english": "Eighty measures until contact."
+  },
+  {
+    "time": "00:02:37",
+    "character": "北上(無線)",
+    "japanese": "目標物を確認。",
+    "english": "Confirming target."
+  },
+  {
+    "time": "00:02:38",
+    "character": "青葉(無線)",
+    "japanese": "接触地点に変更なし。",
+    "english": "Contact point is unchanged."
+  },
+  {
+    "time": "00:02:40",
+    "character": "北上(無線)",
+    "japanese": "シフトエムを維持、問題なし。",
+    "english": "Maintaining Shift-M. No problems."
+  },
+  {
+    "time": "00:02:43",
+    "character": "ミサト(無線)",
+    "japanese": "ツーダッシュはランデブーを用意。",
+    "english": "02-Dash, prepare to rendezvous."
+  },
+  {
+    "time": "00:02:45",
+    "character": "ミサト(無線)",
+    "japanese": "エイトは高度不足のため再突入までの９６秒間だけ援護可能。",
+    "english": "08 is lacking altitude, so it can only assist you in the ninety-six seconds until re-entry."
+  },
+  {
+    "time": "00:12:59",
+    "character": "ミサト(無線)",
+    "japanese": "それまでにケリをつけて",
+    "english": "Finish this by then."
+  },
+  {
+    "time": "00:13:01",
+    "character": "日向(無線)",
+    "japanese": "目標宙域に反射波あり。",
+    "english": "Reflective waves detected in target space."
+  },
+  {
+    "time": "00:13:03",
+    "character": "日向(無線)",
+    "japanese": "妨害が入った。",
+    "english": "It's jamming us!"
+  },
+  {
+    "time": "00:13:04",
+    "character": "青葉(無線)",
+    "japanese": "自動防衛システムの質量兵器だ。",
+    "english": "It's just the auto-defense system's mass weapon."
+  },
+  {
+    "time": "00:13:06",
+    "character": "青葉(無線)",
+    "japanese": "問題ない。",
+    "english": "No need to worry."
+  },
+  {
+    "time": "00:13:10",
+    "character": "男(無線)",
+    "japanese": "爆散円発生！",
+    "english": "Burst shockwaves emanating!"
+  },
+  {
+    "time": "00:13:11",
+    "character": "男(無線)",
+    "japanese": "到達まで、３、２、１。",
+    "english": "Incoming in three... two... one..."
+  },
+  {
+    "time": "00:13:14",
+    "character": "アスカ",
+    "japanese": "うっ！"
+  },
+  {
+    "time": "00:13:19",
+    "character": "青葉(無線)",
+    "japanese": "続いて第２波。パターン青。",
+    "english": "Second wave incoming. Blood type blue."
+  },
+  {
+    "time": "00:13:20",
+    "character": "青葉(無線)",
+    "japanese": "やっかいな連中だ。",
+    "english": "They're a pesky bunch."
+  },
+  {
+    "time": "00:13:??",
+    "character": "無線",
+    "japanese": "第一波。弾幕を張られた。予想外に厚い"
+  },
+  {
+    "time": "00:13:22",
+    "character": "男(無線)",
+    "japanese": "接近中の物体を識別。",
+    "english": "Identifying the approaching body..."
+  },
+  {
+    "time": "00:03:15",
+    "character": "男(無線)",
+    "japanese": "コード４Ａと確認。",
+    "english": "Confirmed to be Mk. 04A."
+  },
+  {
+    "time": "00:03:27",
+    "character": "アスカ",
+    "japanese": "アンチＡ．Ｔ．フィールド",
+    "english": "An Anti-A.T. Field!"
+  },
+  {
+    "time": "00:13:39",
+    "character": "アスカ",
+    "japanese": "ちっ、タチ悪いっ！",
+    "english": "This thing's useless!"
+  },
+  {
+    "time": "00:03:31",
+    "character": "アスカ",
+    "japanese": "ええいやっぱり邪魔！"
+  },
+  {
+    "time": "00:03:37",
+    "character": "アスカ",
+    "japanese": "コネメガネ！いつまで唄ってんの！うっとうしい！"
+  },
+  {
+    "time": "00:13:52",
+    "character": "アスカ",
+    "japanese": "援護射撃、2秒おそい！",
+    "english": "Support fire was two seconds late!"
+  },
+  {
+    "time": "00:13:58",
+    "character": "マリ",
+    "japanese": "そっちの位置････3秒早い",
+    "english": "And you're three seconds ahead of position."
+  },
+  {
+    "time": "00:14:00",
+    "character": "アスカ",
+    "japanese": "臨機応変。合わせなさいよっ",
+    "english": "It's called adapting to the situation. Keep up with me!"
+  },
+  {
+    "time": "00:14:03",
+    "character": "マリ",
+    "japanese": "仰せの通りに。",
+    "english": "As you command,"
+  },
+  {
+    "time": "00:14:05",
+    "character": "マリ",
+    "japanese": "お姫さまっ！",
+    "english": "Princess!"
+  },
+  {
+    "time": "00:14:14",
+    "character": "アスカ",
+    "japanese": "フラーレンシフトを抜けた。",
+    "english": "Got through the Fullerene Shift."
+  },
+  {
+    "time": "00:04:07",
+    "character": "アスカ",
+    "japanese": "最終防衛エリア８９を突破･･････",
+    "english": "Breaking into Final Defense Area 89."
+  },
+  {
+    "time": "00:04:09",
+    "character": "アスカ",
+    "japanese": "ハッ"
+  },
+  {
+    "time": "00:04:10",
+    "character": "アスカ",
+    "japanese": "目標物が移動してる",
+    "english": "The target is moving!"
+  },
+  {
+    "time": "00:04:16",
+    "character": "アスカ",
+    "japanese": "軌道修正が追いつかない。",
+    "english": "No time to correct my orbit!"
+  },
+  {
+    "time": "00:04:17",
+    "character": "アスカ",
+    "japanese": "このまま強行する",
+    "english": "I'll just have to brute this!"
+  },
+  {
+    "time": "00:04:40",
+    "character": "アスカ",
+    "japanese": "減速っ！",
+    "english": "Decelerate!"
+  },
+  {
+    "time": "00:04:47",
+    "character": "アスカ",
+    "japanese": "８、",
+    "english": "Seven!"
+  },
+  {
+    "time": "00:04:48",
+    "character": "アスカ",
+    "japanese": "７、",
+    "english": "Six!"
+  },
+  {
+    "time": "00:04:49",
+    "character": "アスカ",
+    "japanese": "６、",
+    "english": "Five!"
+  },
+  {
+    "time": "00:04:50",
+    "character": "アスカ",
+    "japanese": "５、",
+    "english": "Four!"
+  },
+  {
+    "time": "00:04:51",
+    "character": "アスカ",
+    "japanese": "４、",
+    "english": "Three!"
+  },
+  {
+    "time": "00:04:52",
+    "character": "アスカ",
+    "japanese": "３、",
+    "english": "Three!"
+  },
+  {
+    "time": "00:04:53",
+    "character": "アスカ",
+    "japanese": "２、",
+    "english": "Two!"
+  },
+  {
+    "time": "00:04:54",
+    "character": "アスカ",
+    "japanese": "１、",
+    "english": "One!"
+  },
+  {
+    "time": "00:04:55",
+    "character": "アスカ",
+    "japanese": "燃焼終了",
+    "english": "Terminating combustion!"
+  },
+  {
+    "time": "00:15:12",
+    "character": "北上(無線)",
+    "japanese": "ツーダッシュ、最終ブースターをジェットソン",
+    "english": "02-Dash has jettisoned the last boosters."
+  },
+  {
+    "time": "00:15:14",
+    "character": "北上(無線)",
+    "japanese": "再突入保安距離を確保",
+    "english": "Ensuring safe distance for re-entry."
+  },
+  {
+    "time": "00:15:16",
+    "character": "男(無線)",
+    "japanese": "軌道誤差は修正範囲内。突入角度を再計算",
+    "english": "Orbital errors are within correctable ranges. Recalculating angle of entry."
+  },
+  {
+    "time": "00:05:09",
+    "character": "アスカ",
+    "japanese": "強奪成功。",
+    "english": "Successfully seized the target."
+  },
+  {
+    "time": "00:05:11",
+    "character": "アスカ",
+    "japanese": "帰投するわ",
+    "english": "Returning to base."
+  },
+  {
+    "time": "00:05:13",
+    "character": "ミサト(無線)",
+    "japanese": "了解。",
+    "english": "Roger."
+  },
+  {
+    "time": "00:05:14",
+    "character": "ミサト(無線)",
+    "japanese": "回収地点にて待つ。",
+    "english": "We'll be waiting at the retrieval point."
+  },
+  {
+    "time": "00:05:16",
+    "character": "ミサト(無線)",
+    "japanese": "合流コードはパターンV。",
+    "english": "The join code is Saturn V."
+  },
+  {
+    "time": "00:05:17",
+    "character": "アスカ",
+    "japanese": "・・・・・・了解。",
+    "english": "Roger."
+  },
+  {
+    "time": "00:05:19",
+    "character": "アスカ",
+    "japanese": "パターン青！？",
+    "english": "Blood type blue?"
+  },
+  {
+    "time": "00:05:20",
+    "character": "アスカ",
+    "japanese": "どこにいるの！？",
+    "english": "Where?!"
+  },
+  {
+    "time": "00:05:25",
+    "character": "女(無線)",
+    "japanese": "妨害物はコード4B。",
+    "english": "The interfering object is Mk. 04B."
+  },
+  {
+    "time": "00:05:27",
+    "character": "女(無線)",
+    "japanese": "フィールド反射膜を展開中。",
+    "english": "It is deploying a field-reflective coating."
+  },
+  {
+    "time": "00:05:29",
+    "character": "アスカ",
+    "japanese": "チィッ！しゃらくさい！！",
+    "english": "The nerve!"
+  },
+  {
+    "time": "00:05:30",
+    "character": "アスカ",
+    "japanese": "再突入直前だっちゅーの。",
+    "english": "Right before re-entry, too."
+  },
+  {
+    "time": "00:05:33",
+    "character": "アスカ",
+    "japanese": "コネメガネ！　援護！",
+    "english": "Glasses, back-up!"
+  },
+  {
+    "time": "00:05:35",
+    "character": "マリ(無線)",
+    "japanese": "めんご！",
+    "english": "Sorry!"
+  },
+  {
+    "time": "00:05:37",
+    "character": "マリ(無線)",
+    "japanese": "高度不足でお先に！",
+    "english": "I don't have enough altitude, so see ya!"
+  },
+  {
+    "time": "00:05:39",
+    "character": "マリ(無線)",
+    "japanese": "後はセルフサービスでよろしく～っ",
+    "english": "I'll leave the rest to y-..."
+  },
+  {
+    "time": "00:05:43",
+    "character": "アスカ",
+    "japanese": "チッ！役たたず！"
+  },
+  {
+    "time": "00:05:44",
+    "character": "アスカ",
+    "japanese": "もう・・・・・・しつこい！",
+    "english": "Damn, this thing's stubborn!"
+  },
+  {
+    "time": "00:05:46",
+    "character": "アスカ",
+    "japanese": "こんなの聞いてないわよっ！",
+    "english": "Nobody told me about this!"
+  },
+  {
+    "time": "00:05:52",
+    "character": "アスカ",
+    "japanese": "！？"
+  },
+  {
+    "time": "00:05:59",
+    "character": "アスカ",
+    "japanese": "何、この光！？",
+    "english": "What's with this light?!"
+  },
+  {
+    "time": "00:06:01",
+    "character": "アスカ",
+    "japanese": "Ａ．Ｔ．フィールドが中和してない！！",
+    "english": "The A.T. Field isn't neutralizing it!"
+  },
+  {
+    "time": "00:06:05",
+    "character": "アスカ",
+    "japanese": "コアブロックをやらないとっ！",
+    "english": "I gotta take out the core block!"
+  },
+  {
+    "time": "00:06:06",
+    "character": "アスカ",
+    "japanese": "逃げんなこらあぁぁぁ",
+    "english": "You're not getting away!"
+  },
+  {
+    "time": "00:06:12",
+    "character": "アスカ",
+    "japanese": "やば・・・・・・降下角度が維持できない。",
+    "english": "My unit'll fall apart at this rate!"
+  },
+  {
+    "time": "00:06:12",
+    "character": "アスカ",
+    "japanese": "このままじゃ機体が分解する",
+    "english": "My unit'll fall apart at this rate!"
+  },
+  {
+    "time": "00:06:15",
+    "character": "ミサト(無線)",
+    "japanese": "ツーダッシュ！作戦遂行を最優先！",
+    "english": "02-Dash, completing the mission takes top priority!"
+  },
+  {
+    "time": "00:06:18",
+    "character": "ミサト(無線)",
+    "japanese": "機体を捨てても目標物を離さないで",
+    "english": "Don't let go of the target object, even if it means sacrificing the unit."
+  },
+  {
+    "time": "00:06:21",
+    "character": "アスカ",
+    "japanese": "分かってるっつーの！！",
+    "english": "I already know that!"
+  },
+  {
+    "time": "00:06:38",
+    "character": "アスカ",
+    "japanese": "ぐうう･･････"
+  },
+  {
+    "time": "00:06:41",
+    "character": "アスカ",
+    "japanese": "なんとかしなさいよ、バカシンジーっ！",
+    "english": "Do something, stupid Shinji!"
+  },
+  {
+    "time": "00:07:23",
+    "character": "カヲル",
+    "japanese": "･･････おかえり、碇シンジ君。",
+    "english": "Welcome home, Ikari Shinji-kun."
+  },
+  {
+    "time": "00:07:23",
+    "character": "カヲル",
+    "japanese": "待っていたよ",
+    "english": "Welcome home, Ikari Shinji-kun."
+  },
+  {
+    "time": "00:07:42",
+    "character": "サクラ",
+    "japanese": "心肺機能は正常です。",
+    "english": "Cardiopulmonary function is nominal."
+  },
+  {
+    "time": "00:07:44",
+    "character": "サクラ",
+    "japanese": "四肢の麻痺は認められません。",
+    "english": "No discernible paralysis of the extremities."
+  },
+  {
+    "time": "00:07:46",
+    "character": "サクラ",
+    "japanese": "ハイ。目は開いてます。",
+    "english": "Yes. He has opened his eyes."
+  },
+  {
+    "time": "00:07:50",
+    "character": "サクラ",
+    "japanese": "私の言葉が理解できますか？",
+    "english": "Can you understand me?"
+  },
+  {
+    "time": "00:07:55",
+    "character": "シンジ",
+    "japanese": "･･････ここ、どこですか？",
+    "english": "What is this place?"
+  },
+  {
+    "time": "00:07:58",
+    "character": "サクラ",
+    "japanese": "言葉を話せます。",
+    "english": "He is capable of speech."
+  },
+  {
+    "time": "00:07:59",
+    "character": "サクラ",
+    "japanese": "意識は戻ったようです。",
+    "english": "He seems to have returned to a conscious state."
+  },
+  {
+    "time": "00:08:03",
+    "character": "シンジ",
+    "japanese": "･･････確か、綾波を助けて･･････",
+    "english": "I could've sworn I was saving Ayanami..."
+  },
+  {
+    "time": "00:08:06",
+    "character": "サクラ",
+    "japanese": "はい、どうやら、記憶の継続性も認められます。",
+    "english": "Yes, continuity of memory also seems acceptable."
+  },
+  {
+    "time": "00:08:10",
+    "character": "シンジ",
+    "japanese": "あの、綾波は？",
+    "english": "Um, where's Ayanami...?"
+  },
+  {
+    "time": "00:08:13",
+    "character": "サクラ",
+    "japanese": "これは誰か、わかりますか？",
+    "english": "Is this someone you know?"
+  },
+  {
+    "time": "00:08:18",
+    "character": "シンジ",
+    "japanese": "･･･僕、ですけど。",
+    "english": "It's... me."
+  },
+  {
+    "time": "00:08:21",
+    "character": "サクラ",
+    "japanese": "自己認識もあります。",
+    "english": "He is capable of self-recognition as well."
+  },
+  {
+    "time": "00:08:22",
+    "character": "サクラ",
+    "japanese": "問題なさそうです。",
+    "english": "No apparent problems."
+  },
+  {
+    "time": "00:08:24",
+    "character": "シンジ",
+    "japanese": "なんだ、これ？",
+    "english": "What's this?"
+  },
+  {
+    "time": "00:18:32",
+    "character": "サクラ",
+    "japanese": "尿意や空腹感はありますか？",
+    "english": "Do you need to urinate? Are you hungry?"
+  },
+  {
+    "time": "00:18:36",
+    "character": "アナウンス",
+    "japanese": "補給作業、搬入リストの８６％までクリア",
+    "english": "Delivery list for supplying operations cleared up to 86%."
+  },
+  {
+    "time": "00:18:38",
+    "character": "高雄",
+    "japanese": "稼働中のＮ２リアクターは、出力で９０％を維持。",
+    "english": "Maintain the power output of the online N2 reactors at 90%."
+  },
+  {
+    "time": "00:18:42",
+    "character": "北上",
+    "japanese": "半径１２００以内に艦影なし。",
+    "english": "No ships visible within a radius of twelve hundred."
+  },
+  {
+    "time": "00:18:42",
+    "character": "高雄",
+    "japanese": "圧力弁は手動で開放してくれ。",
+    "english": "Open the pressure valves manually."
+  },
+  {
+    "time": "00:18:44",
+    "character": "北上",
+    "japanese": "未確認飛行物体も認められず。",
+    "english": "No unidentified flying objects can be confirmed, either."
+  },
+  {
+    "time": "00:18:45",
+    "character": "高雄",
+    "japanese": "コンデンサーは気にしなくていい",
+    "english": "Don't worry about the condenser."
+  },
+  {
+    "time": "00:18:46",
+    "character": "青葉",
+    "japanese": "乗員の移乗は、Ｄブロックの船を最優先。",
+    "english": "Prioritize ships in D Block for personnel transfer."
+  },
+  {
+    "time": "00:18:48",
+    "character": "日向",
+    "japanese": "食料搬入作業の人手がまるで足りない。",
+    "english": "Insufficient personnel for the ration transfer operation!"
+  },
+  {
+    "time": "00:18:50",
+    "character": "長良",
+    "japanese": "両舷３番５番ジャイロをチェック。",
+    "english": "Checking port and starboard gyrocompasses three and five."
+  },
+  {
+    "time": "00:18:51",
+    "character": "日向",
+    "japanese": "至急手当てしてくれ",
+    "english": "Expedite this, on the double!"
+  },
+  {
+    "time": "00:18:53",
+    "character": "長良",
+    "japanese": "計器にズレがある。修正願う",
+    "english": "The gauges are inaccurate. Requesting recalibration."
+  },
+  {
+    "time": "00:18:54",
+    "character": "多摩",
+    "japanese": "艤装作業、ロードマップをチェック。",
+    "english": "Checking the ships' outfitting and roadmaps."
+  },
+  {
+    "time": "00:18:56",
+    "character": "多摩",
+    "japanese": "武装関係が予定より３％遅れています",
+    "english": "Armament linkage is 3% behind schedule."
+  },
+  {
+    "time": "00:08:53",
+    "character": "サクラ",
+    "japanese": "検体、BM０３、拘引しました。",
+    "english": "Specimen BM03 is in our custody."
+  },
+  {
+    "time": "00:08:56",
+    "character": "ミサト",
+    "japanese": "了解。",
+    "english": "Understood."
+  },
+  {
+    "time": "00:08:57",
+    "character": "ミサト",
+    "japanese": "拘束を解いて。",
+    "english": "Release the restraints."
+  },
+  {
+    "time": "00:09:00",
+    "character": "ミサト",
+    "japanese": "下がっていいわ。",
+    "english": "You are all dismissed."
+  },
+  {
+    "time": "00:09:25",
+    "character": "シンジ",
+    "japanese": "ミサト・・・さん？",
+    "english": "Misato-san..."
+  },
+  {
+    "time": "00:09:28",
+    "character": "ミサト",
+    "japanese": "碇シンジ君。でいいのよね",
+    "english": "It is Ikari Shinji-kun, isn't it?"
+  },
+  {
+    "time": "00:09:31",
+    "character": "リツコ",
+    "japanese": "そうね。",
+    "english": "So it would seem."
+  },
+  {
+    "time": "00:09:32",
+    "character": "リツコ",
+    "japanese": "物理的情報では、コード第３の少年と完全に一致。",
+    "english": "His physical data is identical to Code Third Boy."
+  },
+  {
+    "time": "00:09:37",
+    "character": "リツコ",
+    "japanese": "生後の歯の治療痕等身体組織は、ニアサー時を１００％再現しているわ。",
+    "english": "Post-natal dental work and body composition perfectly match those from Near Third Impact."
+  },
+  {
+    "time": "00:09:43",
+    "character": "リツコ",
+    "japanese": "なお、深層シンクロテストの結果は分析中。",
+    "english": "We are now analyzing his deep level sync test results."
+  },
+  {
+    "time": "00:09:46",
+    "character": "ミサト",
+    "japanese": "頸部へのＤＳＳチョーカーは？",
+    "english": "And the DSS Choker on his neck?"
+  },
+  {
+    "time": "00:09:49",
+    "character": "リツコ",
+    "japanese": "すでに装着済よ。葛城艦長",
+    "english": "It has already been installed, Captain Katsuragi."
+  },
+  {
+    "time": "00:09:52",
+    "character": "シンジ",
+    "japanese": "・・・葛城艦長？",
+    "english": "Captain Katsuragi...?"
+  },
+  {
+    "time": "00:09:54",
+    "character": "シンジ",
+    "japanese": "やっぱりミサトさん？",
+    "english": "So it really is you, Misato-san?"
+  },
+  {
+    "time": "00:20:06",
+    "character": "シンジ",
+    "japanese": "あれ？",
+    "english": "Huh?"
+  },
+  {
+    "time": "00:10:03",
+    "character": "リツコ",
+    "japanese": "作動正常。",
+    "english": "Activation nominal."
+  },
+  {
+    "time": "00:10:04",
+    "character": "リツコ",
+    "japanese": "パスコードを艦長専用に。",
+    "english": "Passcode is set for your personal use, Captain."
+  },
+  {
+    "time": "00:10:07",
+    "character": "ミサト",
+    "japanese": "了解。",
+    "english": "Understood."
+  },
+  {
+    "time": "00:10:11",
+    "character": "シンジ",
+    "japanese": "何なんですか、これ？",
+    "english": "What is this thing?!"
+  },
+  {
+    "time": "00:10:14",
+    "character": "シンジ",
+    "japanese": "外して下さいよ、もう！",
+    "english": "Please, take it off already!"
+  },
+  {
+    "time": "00:10:18",
+    "character": "サクラ",
+    "japanese": "絶対に、外しませんよ、それ。",
+    "english": "There's no way that's ever coming off."
+  },
+  {
+    "time": "00:10:22",
+    "character": "ミサト",
+    "japanese": "面会終了。",
+    "english": "We're done with him."
+  },
+  {
+    "time": "00:10:24",
+    "character": "ミサト",
+    "japanese": "彼を隔離室へ。",
+    "english": "Take him to quarantine."
+  },
+  {
+    "time": "00:10:28",
+    "character": "ミドリ",
+    "japanese": "デコイ０１（マルイチ）と０５（マルゴ）が消滅。",
+    "english": "Decoys 01 and 05 destroyed."
+  },
+  {
+    "time": "00:10:30",
+    "character": "ミドリ",
+    "japanese": "波長も捕捉。",
+    "english": "Wavelength acquired."
+  },
+  {
+    "time": "00:10:31",
+    "character": "ミサト",
+    "japanese": "何だろう、これ。",
+    "english": "What could this be?"
+  },
+  {
+    "time": "00:10:33",
+    "character": "日向",
+    "japanese": "パターン青だよ！",
+    "english": "It's blood type blue."
+  },
+  {
+    "time": "00:10:34",
+    "character": "日向",
+    "japanese": "目標を識別。",
+    "english": "Target identified."
+  },
+  {
+    "time": "00:10:36",
+    "character": "日向",
+    "japanese": "コード４Ｃ。",
+    "english": "Mk. 4C."
+  },
+  {
+    "time": "00:10:37",
+    "character": "日向",
+    "japanese": "ネーメジェスシリーズです。",
+    "english": "It's the Nemesis Series."
+  },
+  {
+    "time": "00:10:39",
+    "character": "ミサト",
+    "japanese": "―――また来たか。"
+  },
+  {
+    "time": "00:10:40",
+    "character": "北上(BG)",
+    "japanese": "目標は全て、コード４Ｃ。"
+  },
+  {
+    "time": "00:10:40",
+    "character": "リツコ",
+    "japanese": "進行が立体的よ。"
+  },
+  {
+    "time": "00:10:42",
+    "character": "リツコ",
+    "japanese": "まずは、私たちをここに封鎖するつもりよ。"
+  },
+  {
+    "time": "00:10:43",
+    "character": "北上(BG)",
+    "japanese": "/ デコイ02（マル二）、そして06（マルロク）が消滅確認。"
+  },
+  {
+    "time": "00:10:45",
+    "character": "ミサト",
+    "japanese": "まだここを動くわけにはいかない。",
+    "english": "We can't afford to move from here yet."
+  },
+  {
+    "time": "00:10:48",
+    "character": "ミサト",
+    "japanese": "主機関連作業のみ続行。",
+    "english": "Stop work on everything except the main engine."
+  },
+  {
+    "time": "00:10:50",
+    "character": "ミサト",
+    "japanese": "全艦、第２種戦闘配置。",
+    "english": "All ships to Battle Stations Two!"
+  },
+  {
+    "time": "00:10:53",
+    "character": "ミサト",
+    "japanese": "目標、全ネーメジェスシリーズ。",
+    "english": "Target the entire Nemesis Series!"
+  },
+  {
+    "time": "00:10:55",
+    "character": "リツコ",
+    "japanese": "了解。",
+    "english": "Roger."
+  },
+  {
+    "time": "00:10:56",
+    "character": "リツコ",
+    "japanese": "全艦、第２種戦闘配置。",
+    "english": "All ships to Battle Stations Two."
+  },
+  {
+    "time": "00:10:58",
+    "character": "日向",
+    "japanese": "対空、対水上及び水中戦、用意",
+    "english": "Prepare for aerial, sea, and underwater battle!"
+  },
+  {
+    "time": "00:11:02",
+    "character": "青葉",
+    "japanese": "補給作業を中断。",
+    "english": "Abandon transfer of supplies."
+  },
+  {
+    "time": "00:11:03",
+    "character": "青葉",
+    "japanese": "乗員移乗を最優先",
+    "english": "Pod 02-Dash has reached operation altitude."
+  },
+  {
+    "time": "00:21:12",
+    "character": "女(無線)",
+    "japanese": "全艦、補給作業を中断。乗員移乗を最優先",
+    "english": "All fleets, abandon transfer of supplies. Prioritize transfer of personnel."
+  },
+  {
+    "time": "00:21:14",
+    "character": "男(無線)",
+    "japanese": "対空、対水上及び水中戦用意。",
+    "english": "Prepare for aerial, sea, and underwater battle."
+  },
+  {
+    "time": "00:21:16",
+    "character": "女(無線)",
+    "japanese": "主機関連作業は続行。",
+    "english": "Continue work on the main engine."
+  },
+  {
+    "time": "00:21:17",
+    "character": "男(無線)",
+    "japanese": "遠隔式砲雷撃戦、用意",
+    "english": "Prepare long-range cannons for torpedo warfare."
+  },
+  {
+    "time": "00:21:18",
+    "character": "女(無線)",
+    "japanese": "各動力流入ラインの開閉を用意",
+    "english": "Prepare switching of all power supply lines."
+  },
+  {
+    "time": "00:21:22",
+    "character": "女(無線)",
+    "japanese": "各航空機は現空域から直ちに離脱。",
+    "english": "All aircraft are to withdraw from our current air space at once."
+  },
+  {
+    "time": "00:21:25",
+    "character": "女(無線)",
+    "japanese": "第２集結ポイントへ速やかに移動願います。",
+    "english": "Hurry to Meeting Point Two."
+  },
+  {
+    "time": "00:21:27",
+    "character": "男(無線)",
+    "japanese": "積み残しは置いていけ。",
+    "english": "Abandon all remaining cargo."
+  },
+  {
+    "time": "00:21:28",
+    "character": "男(無線)",
+    "japanese": "乗組員の移動が最優先だ。",
+    "english": "Transfer of personnel takes top priority."
+  },
+  {
+    "time": "00:21:30",
+    "character": "男(無線)",
+    "japanese": "艤装作業は続けろ！",
+    "english": "Continue outfitting the ships!"
+  },
+  {
+    "time": "00:21:31",
+    "character": "男(無線)",
+    "japanese": "会敵ギリギリまで組立を頼む",
+    "english": "Keep the work going until the very last minute!"
+  },
+  {
+    "time": "00:21:33",
+    "character": "男(無線)",
+    "japanese": "動力ラインを手伝える者は、内火艇に集合してくれ",
+    "english": "All who can help with the power lines, assemble during launch."
+  },
+  {
+    "time": "00:21:36",
+    "character": "女(無線)",
+    "japanese": "各砲塔、各個に発射準備。",
+    "english": "Prepare all gun turrets for individual firing."
+  },
+  {
+    "time": "00:21:38",
+    "character": "女(無線)",
+    "japanese": "遠隔操作及び連動システムを起動。",
+    "english": "Activate all remote control and interlocking systems."
+  },
+  {
+    "time": "00:21:41",
+    "character": "女(無線)",
+    "japanese": "不意の交戦に備えてください",
+    "english": "Please be ready for unforeseen hostilities."
+  },
+  {
+    "time": "00:21:42",
+    "character": "高雄",
+    "japanese": "主機伝導システムは注入作業を継続。",
+    "english": "Keep working on the injection of the main engine transmission system."
+  },
+  {
+    "time": "00:21:45",
+    "character": "高雄",
+    "japanese": "急げよ！",
+    "english": "Hurry!"
+  },
+  {
+    "time": "00:21:47",
+    "character": "男(無線)",
+    "japanese": "Ｎ２リアクター、出力９９％で稼働中。",
+    "english": "N2 reactor operating at 99% output."
+  },
+  {
+    "time": "00:21:50",
+    "character": "女(無線)",
+    "japanese": "注入作業を続行。",
+    "english": "Resuming work on the injection."
+  },
+  {
+    "time": "00:21:52",
+    "character": "女(無線)",
+    "japanese": "９０番までのバルブを開放。",
+    "english": "Opening the first ninety valves."
+  },
+  {
+    "time": "00:21:54",
+    "character": "女(無線)",
+    "japanese": "動力パイプ接続完了。",
+    "english": "The power pipes have been connected."
+  },
+  {
+    "time": "00:21:56",
+    "character": "女(無線)",
+    "japanese": "左舷第３、第４ハブステーション異常なし。",
+    "english": "No irregularities with 3rd and 4th hub stations to port."
+  },
+  {
+    "time": "00:21:59",
+    "character": "男(無線)",
+    "japanese": "了解。",
+    "english": "Roger."
+  },
+  {
+    "time": "00:22:00",
+    "character": "男(無線)",
+    "japanese": "９０番までの全バルブを開放。",
+    "english": "Opening the first ninety valves."
+  },
+  {
+    "time": "00:22:02",
+    "character": "男(無線)",
+    "japanese": "エネルギー流入開始。",
+    "english": "Starting energy influx."
+  },
+  {
+    "time": "00:22:03",
+    "character": "女(無線)",
+    "japanese": "補機Ｎ２リアクターへの動力流入、順調なり。",
+    "english": "Power influx to auxiliary N2 reactors is going smoothly."
+  },
+  {
+    "time": "00:22:06",
+    "character": "アナウンス",
+    "japanese": "ＬＣＬ循環ポンプの点検中。",
+    "english": "LCL circulation pumps are being inspected."
+  },
+  {
+    "time": "00:22:09",
+    "character": "アナウンス",
+    "japanese": "濾過システムを確認。",
+    "english": "Filtration system is go."
+  },
+  {
+    "time": "00:22:10",
+    "character": "伊吹",
+    "japanese": "戦闘配置よ！",
+    "english": "Battle stations!"
+  },
+  {
+    "time": "00:22:12",
+    "character": "伊吹",
+    "japanese": "さっさと、部署について。",
+    "english": "To your posts, quickly."
+  },
+  {
+    "time": "00:22:14",
+    "character": "伊吹",
+    "japanese": "そこ！グズグズしない！",
+    "english": "You there! Get a move on!"
+  },
+  {
+    "time": "00:22:16",
+    "character": "整備",
+    "japanese": "ムリですよ、整備長。",
+    "english": "You're asking the impossible, chief."
+  },
+  {
+    "time": "00:22:18",
+    "character": "整備",
+    "japanese": "なんせ、民間人も混じってる寄せ集め集団ですよぉ",
+    "english": "We're a motley crew with *civilians* among us."
+  },
+  {
+    "time": "00:22:21",
+    "character": "伊吹",
+    "japanese": "言い訳無用！",
+    "english": "No excuses!"
+  },
+  {
+    "time": "00:22:23",
+    "character": "伊吹",
+    "japanese": "さっさと手を動かせ！",
+    "english": "Get back to work!"
+  },
+  {
+    "time": "00:22:26",
+    "character": "伊吹",
+    "japanese": "チッ。コレだから、若い男は",
+    "english": "Ugh! This is why I can't stand younger men."
+  },
+  {
+    "time": "00:22:28",
+    "character": "多摩",
+    "japanese": "えっと、",
+    "english": "Let's see..."
+  },
+  {
+    "time": "00:22:29",
+    "character": "多摩",
+    "japanese": "艤装作業はここで中断。",
+    "english": "Stop the outfitting work here."
+  },
+  {
+    "time": "00:22:32",
+    "character": "多摩",
+    "japanese": "隔壁の閉鎖を開始って、",
+    "english": "Start the closure of the barrier walls..."
+  },
+  {
+    "time": "00:22:34",
+    "character": "多摩",
+    "japanese": "これか？",
+    "english": "Is this it?"
+  },
+  {
+    "time": "00:12:27",
+    "character": "北上",
+    "japanese": "対空監視を厳として。ソナーの方位はこれ。",
+    "english": "180-degree rotation complete."
+  },
+  {
+    "time": "00:12:31",
+    "character": "青葉",
+    "japanese": "北上。",
+    "english": "Kitakami!"
+  },
+  {
+    "time": "00:12:32",
+    "character": "青葉",
+    "japanese": "甲板作業の状況は？",
+    "english": "What's the status of the procedures on deck?"
+  },
+  {
+    "time": "00:12:34",
+    "character": "北上",
+    "japanese": "それ、私の担当ですか？",
+    "english": "I'm in charge of that?"
+  },
+  {
+    "time": "00:12:36",
+    "character": "青葉",
+    "japanese": "兼任だ。当然だろ！",
+    "english": "Unit will be controlled manually."
+  },
+  {
+    "time": "00:12:38",
+    "character": "北上",
+    "japanese": "ええ～～えっ！？マァジィィィ！？",
+    "english": "Huh? Seriously?"
+  },
+  {
+    "time": "00:12:41",
+    "character": "サクラ",
+    "japanese": "よっこいしょと"
+  },
+  {
+    "time": "00:12:43",
+    "character": "サクラ",
+    "japanese": "移動は危険です。",
+    "english": "It's dangerous to move around."
+  },
+  {
+    "time": "00:12:45",
+    "character": "サクラ",
+    "japanese": "ここにいましょう。",
+    "english": "You should stay here."
+  },
+  {
+    "time": "00:12:46",
+    "character": "サクラ",
+    "japanese": "よっと――"
+  },
+  {
+    "time": "00:12:47",
+    "character": "女 (BG)",
+    "japanese": "全艦、対空防御、及び対空誘導弾、準備完了。",
+    "english": "AA defenses and AA guided missiles ready on all ships."
+  },
+  {
+    "time": "00:12:49",
+    "character": "サクラ",
+    "japanese": "せやけど、艦橋での戦闘配置。",
+    "english": "I have to say, though, there's so much tension"
+  },
+  {
+    "time": "00:12:52",
+    "character": "サクラ",
+    "japanese": "キンチョーするわぁ",
+    "english": "around the bridge during battle stations!"
+  },
+  {
+    "time": "00:12:52",
+    "character": "ミサト",
+    "japanese": "了解。",
+    "english": "Roger."
+  },
+  {
+    "time": "00:23:01",
+    "character": "ミサト",
+    "japanese": "各対空システムを連動。",
+    "english": "Full-on brake!"
+  },
+  {
+    "time": "00:23:02",
+    "character": "ミサト",
+    "japanese": "初号機保護を最優先。"
+  },
+  {
+    "time": "00:12:57",
+    "character": "シンジ",
+    "japanese": "初号機？",
+    "english": "...Eva-01?"
+  },
+  {
+    "time": "00:13:07",
+    "character": "北上",
+    "japanese": "来ました！",
+    "english": "They're here!"
+  },
+  {
+    "time": "00:13:08",
+    "character": "北上",
+    "japanese": "目標の光の柱を確認！",
+    "english": "Pillars of light from the targets confirmed!"
+  },
+  {
+    "time": "00:13:10",
+    "character": "北上",
+    "japanese": "えっと、数が何だか増えてます！",
+    "english": "Burst shockwaves emanating!"
+  },
+  {
+    "time": "00:13:13",
+    "character": "青葉",
+    "japanese": "目標コアブロックは捕捉不能。",
+    "english": "Identification of the targets' core blocks impossible."
+  },
+  {
+    "time": "00:13:15",
+    "character": "青葉",
+    "japanese": "おそらく擬製コクーン内に潜伏中と思われます。",
+    "english": "They may be hiding inside a cloaking cocoon."
+  },
+  {
+    "time": "00:13:19",
+    "character": "リツコ",
+    "japanese": "マズイわね。このままだと飽和攻撃を浴びるわ。",
+    "english": "Second wave incoming. Blood type blue."
+  },
+  {
+    "time": "00:13:22",
+    "character": "北上",
+    "japanese": "接触まであと６００秒！",
+    "english": "Six hundred seconds until contact!"
+  },
+  {
+    "time": "00:13:24",
+    "character": "リツコ",
+    "japanese": "葛城艦長。艦隊の即時散開を提案します。",
+    "english": "Captain Katsuragi,"
+  },
+  {
+    "time": "00:13:29",
+    "character": "リツコ",
+    "japanese": "乗員の定数及び練度不足。",
+    "english": "We have insufficient and unskilled personnel."
+  },
+  {
+    "time": "00:13:32",
+    "character": "リツコ",
+    "japanese": "おまけに本艦は艤装途中の未完成。",
+    "english": "Our ship is also in the process of being outfitted."
+  },
+  {
+    "time": "00:13:35",
+    "character": "リツコ",
+    "japanese": "とどめに攻撃目標たるコアブロックも捕捉できない。",
+    "english": "Worst of all, we cannot isolate the attacking targets' core blocks."
+  },
+  {
+    "time": "00:13:38",
+    "character": "リツコ",
+    "japanese": "つまり、現状での勝算はゼロです。",
+    "english": "In other words, our chances for winning are zero."
+  },
+  {
+    "time": "00:13:41",
+    "character": "リツコ",
+    "japanese": "ここはいつも通り撤退を。",
+    "english": "At this point, we should retreat like we usually do."
+  },
+  {
+    "time": "00:13:43",
+    "character": "リツコ",
+    "japanese": "為す術がないのよ、",
+    "english": "There's no other option, Captain Katsuragi!"
+  },
+  {
+    "time": "00:13:45",
+    "character": "リツコ",
+    "japanese": "葛城艦長！",
+    "english": "Glasses, enough with the damn singing!"
+  },
+  {
+    "time": "00:13:47",
+    "character": "ミサト",
+    "japanese": "だからこそ、現状を変えて、後顧の憂いを断つ。",
+    "english": "And that's why I will change the status quo and bring our anxieties to an end."
+  },
+  {
+    "time": "00:13:52",
+    "character": "ミサト",
+    "japanese": "副長。飛ぶわよ。",
+    "english": "Vice Captain, we're going to fly."
+  },
+  {
+    "time": "00:13:54",
+    "character": "リツコ",
+    "japanese": "とぶ？",
+    "english": "Fly?!"
+  },
+  {
+    "time": "00:13:55",
+    "character": "リツコ",
+    "japanese": "まさか、主機を使う気！？",
+    "english": "You can't be thinking of using the main engine?!"
+  },
+  {
+    "time": "00:24:05",
+    "character": "ミサト",
+    "japanese": "全艦、発進準備！",
+    "english": "All ships, prepare to launch!"
+  },
+  {
+    "time": "00:24:07",
+    "character": "ミサト",
+    "japanese": "主機点火準備！",
+    "english": "Prepare to ignite the main engine!"
+  },
+  {
+    "time": "00:24:09",
+    "character": "北上･多摩",
+    "japanese": "ええええっ！？",
+    "english": "What?!"
+  },
+  {
+    "time": "00:24:11",
+    "character": "リツコ",
+    "japanese": "いきなり本艦での実戦は無茶よ、葛城艦長！",
+    "english": "Putting this ship into service now is insane, Captain Katsuragi!"
+  },
+  {
+    "time": "00:14:06",
+    "character": "多摩",
+    "japanese": "同意します！",
+    "english": "I agree!"
+  },
+  {
+    "time": "00:14:07",
+    "character": "多摩",
+    "japanese": "試運転もなしに、危険すぎます！",
+    "english": "We've never performed a single test flight! It's too dangerous!"
+  },
+  {
+    "time": "00:14:09",
+    "character": "長良",
+    "japanese": "重力制御、未経験です。",
+    "english": "I have no experience controlling the gravity."
+  },
+  {
+    "time": "00:14:11",
+    "character": "長良",
+    "japanese": "自信ありません。",
+    "english": "I doubt I can do it."
+  },
+  {
+    "time": "00:14:13",
+    "character": "北上",
+    "japanese": "勝てない戦(いくさ)はなしがいいな。",
+    "english": "I'd rather not fight a battle we can't win."
+  },
+  {
+    "time": "00:14:15",
+    "character": "北上",
+    "japanese": "私まだ死にたくないです。",
+    "english": "I don't wanna die just yet."
+  },
+  {
+    "time": "00:14:17",
+    "character": "高雄",
+    "japanese": "死ぬ時ゃ死ぬ。そんだけだ。",
+    "english": "You'll die when it's time. Simple as that."
+  },
+  {
+    "time": "00:14:19",
+    "character": "高雄",
+    "japanese": "若いもんが細かく言うな。",
+    "english": "You kids should stop complaining so much."
+  },
+  {
+    "time": "00:14:21",
+    "character": "北上",
+    "japanese": "えええ！年寄りなら慎重にいくもんでしょお！？",
+    "english": "Shouldn't you old folks watch out for yourselves?"
+  },
+  {
+    "time": "00:14:24",
+    "character": "高雄",
+    "japanese": "けっ"
+  },
+  {
+    "time": "00:14:25",
+    "character": "ミサト",
+    "japanese": "無茶は承知。",
+    "english": "I know it's reckless!"
+  },
+  {
+    "time": "00:14:27",
+    "character": "ミサト",
+    "japanese": "本艦をおとりに目標を引きずりだします。",
+    "english": "We'll use this ship as bait and draw the targets out."
+  },
+  {
+    "time": "00:14:30",
+    "character": "ミサト",
+    "japanese": "神殺しの力、見極めるだけよ。",
+    "english": "The power to kill gods... I'll see what it can do."
+  },
+  {
+    "time": "00:14:33",
+    "character": "リツコ",
+    "japanese": "しかし、肝心の点火システムは未設置なのよ。",
+    "english": "But the crucial ignition system hasn't been installed yet."
+  },
+  {
+    "time": "00:14:36",
+    "character": "リツコ",
+    "japanese": "まさか、エヴァを使う気？",
+    "english": "Don't tell me you're going to use the Evas?"
+  },
+  {
+    "time": "00:14:39",
+    "character": "ミサト",
+    "japanese": "マリ？",
+    "english": "Mari?"
+  },
+  {
+    "time": "00:14:40",
+    "character": "マリ（無線）",
+    "japanese": "８号機まだムリ。",
+    "english": "Eva-08 isn't ready yet."
+  },
+  {
+    "time": "00:14:41",
+    "character": "ミサト",
+    "japanese": "アスカ",
+    "english": "Asuka?"
+  },
+  {
+    "time": "00:14:42",
+    "character": "シンジ",
+    "japanese": "アスカ？",
+    "english": "Asuka?"
+  },
+  {
+    "time": "00:14:46",
+    "character": "アスカ",
+    "japanese": "もうやってる。",
+    "english": "I'm already on it!"
+  },
+  {
+    "time": "00:14:47",
+    "character": "アスカ",
+    "japanese": "要は点火器をぶち込みゃいいんでしょ。",
+    "english": "I just have to shove the igniter in, right?"
+  },
+  {
+    "time": "00:14:50",
+    "character": "ミサト",
+    "japanese": "―――頼むわ。",
+    "english": "I'm counting on you."
+  },
+  {
+    "time": "00:14:51",
+    "character": "リツコ",
+    "japanese": "しかし、主機周辺は結界密度の問題が―――。",
+    "english": "But there's a problem with the barrier density around the main engine."
+  },
+  {
+    "time": "00:14:54",
+    "character": "リツコ",
+    "japanese": "それに換装作業中でしょ。",
+    "english": "And parts are currently being exchanged, aren't they?"
+  },
+  {
+    "time": "00:14:56",
+    "character": "アスカ",
+    "japanese": "ま、目的優先。人命軽視は大佐のモットーだしね。",
+    "english": "Well, the captain's motto is \"prioritize the objective over human life\"."
+  },
+  {
+    "time": "00:15:00",
+    "character": "アスカ",
+    "japanese": "気にせず、出るわよ。",
+    "english": "I'm going all out!"
+  },
+  {
+    "time": "00:15:01",
+    "character": "アスカ",
+    "japanese": "エヴァ改２号機、起動！",
+    "english": "Eva Unit 02', activate!"
+  },
+  {
+    "time": "00:15:06",
+    "character": "伊吹",
+    "japanese": "改２号機、発進。",
+    "english": "Launch Eva-02'."
+  },
+  {
+    "time": "00:15:07",
+    "character": "北上",
+    "japanese": "了解。",
+    "english": "Roger."
+  },
+  {
+    "time": "00:15:08",
+    "character": "北上",
+    "japanese": "エヴァ改２号機発進中。",
+    "english": "Preparing Eva-02' for launch."
+  },
+  {
+    "time": "00:15:09",
+    "character": "伊吹",
+    "japanese": "続いて、水中モーター及びレフトコンテナ１番を投下！",
+    "english": "Also deploying the underwater motor and Left Container No. 1."
+  },
+  {
+    "time": "00:15:20",
+    "character": "アスカ",
+    "japanese": "ったく、せっかくのニュースタイルだっちゅーのに、何とも地味な出陣ね。",
+    "english": "What a lame way for my unit to debut after its makeover."
+  },
+  {
+    "time": "00:15:31",
+    "character": "シンジ",
+    "japanese": "やっぱり、エヴァ２号機。",
+    "english": "It really is Eva Unit 02."
+  },
+  {
+    "time": "00:15:33",
+    "character": "シンジ",
+    "japanese": "よかった。無事だったんだ。アスカ。",
+    "english": "Thank goodness. You're alright, Asuka."
+  },
+  {
+    "time": "00:15:40",
+    "character": "シンジ",
+    "japanese": "・・・・・・ミサトさん、僕は？",
+    "english": "Misato-san, what about me?"
+  },
+  {
+    "time": "00:15:43",
+    "character": "ミサト",
+    "japanese": "全艦、第一種戦闘配置",
+    "english": "All ships to Battle Stations One."
+  },
+  {
+    "time": "00:15:46",
+    "character": "アナウンス",
+    "japanese": "全艦、第一種戦闘配置。",
+    "english": "All ships, Battle Stations One."
+  },
+  {
+    "time": "00:15:48",
+    "character": "アナウンス",
+    "japanese": "繰り返す、全艦、第一種戦闘配置",
+    "english": "Repeat, all ships to Battle Stations One."
+  },
+  {
+    "time": "00:15:51",
+    "character": "リツコ",
+    "japanese": "戦闘指揮系統を移行。",
+    "english": "Shifting to the battle command system."
+  },
+  {
+    "time": "00:15:54",
+    "character": "リツコ",
+    "japanese": "主要員は戦闘艦橋へ。",
+    "english": "All key personnel, head to the combat bridge."
+  },
+  {
+    "time": "00:15:56",
+    "character": "ミサト",
+    "japanese": "重力バラスト、準備。",
+    "english": "Prepare the gravity ballast."
+  },
+  {
+    "time": "00:15:58",
+    "character": "長良",
+    "japanese": "了解。",
+    "english": "Checking all vents."
+  },
+  {
+    "time": "00:15:58",
+    "character": "長良",
+    "japanese": "全ベントをチェック。",
+    "english": "Checking all vents."
+  },
+  {
+    "time": "00:16:00",
+    "character": "ミサト",
+    "japanese": "艦の主制御をアンカリングプラグへ集中。",
+    "english": "Focus all primary control of the ship to the anchoring plug."
+  },
+  {
+    "time": "00:16:02",
+    "character": "高雄",
+    "japanese": "了解。",
+    "english": "Roger."
+  },
+  {
+    "time": "00:16:03",
+    "character": "高雄",
+    "japanese": "ディセント準備。",
+    "english": "Preparing descent."
+  },
+  {
+    "time": "00:16:04",
+    "character": "高雄",
+    "japanese": "インジェクター確認。",
+    "english": "Confirming injector."
+  },
+  {
+    "time": "00:16:05",
+    "character": "高雄",
+    "japanese": "カウント入ります。",
+    "english": "Starting countdown."
+  },
+  {
+    "time": "00:26:15",
+    "character": "アナウンス",
+    "japanese": "ヒルムシュタムタワー移動準備",
+    "english": "Preparing to move the Hirnstamm Tower."
+  },
+  {
+    "time": "00:16:09",
+    "character": "シンジ",
+    "japanese": "ミサトさん！",
+    "english": "Misato-san!"
+  },
+  {
+    "time": "00:16:11",
+    "character": "シンジ",
+    "japanese": "初号機、ここにあるんでしょ！",
+    "english": "Eva-01 is here, isn't it?"
+  },
+  {
+    "time": "00:16:14",
+    "character": "シンジ",
+    "japanese": "僕も乗ります！",
+    "english": "I'll pilot, too!"
+  },
+  {
+    "time": "00:16:15",
+    "character": "シンジ",
+    "japanese": "アスカを手伝います！",
+    "english": "I'll help Asuka!"
+  },
+  {
+    "time": "00:16:16",
+    "character": "北上",
+    "japanese": "チッ"
+  },
+  {
+    "time": "00:26:28",
+    "character": "シンジ",
+    "japanese": "僕は乗らなくていいんですか？ミサトさん！！",
+    "english": "Are you sure you don't need me to pilot?"
+  },
+  {
+    "time": "00:26:32",
+    "character": "アナウンス",
+    "japanese": "プラグ内、電荷用意。",
+    "english": "Readying the electric charge inside the plug."
+  },
+  {
+    "time": "00:26:33",
+    "character": "アナウンス",
+    "japanese": "エントリーを準備",
+    "english": "Preparing entry."
+  },
+  {
+    "time": "00:26:34",
+    "character": "リツコ",
+    "japanese": "そうよ。",
+    "english": "That's correct."
+  },
+  {
+    "time": "00:26:34",
+    "character": "リツコ",
+    "japanese": "あなたがエヴァに乗る必要はありません。",
+    "english": "That's correct."
+  },
+  {
+    "time": "00:26:37",
+    "character": "アナウンス",
+    "japanese": "ヒルムスタムタワー、分離。",
+    "english": "Separating the Hirnstamm Tower."
+  },
+  {
+    "time": "00:26:39",
+    "character": "アナウンス",
+    "japanese": "起動開始。",
+    "english": "Commencing start-up."
+  },
+  {
+    "time": "00:26:40",
+    "character": "女",
+    "japanese": "現在、指揮系統を戦闘艦橋へ移行中。"
+  },
+  {
+    "time": "00:26:44",
+    "character": "女",
+    "japanese": "繰り返す、指揮系統を戦闘艦橋へ移行中。",
+    "english": "Repeat, command system is currently being transferred to the combat bridge."
+  },
+  {
+    "time": "00:26:44",
+    "character": "シンジ",
+    "japanese": "必要ないって",
+    "english": "No need?"
+  },
+  {
+    "time": "00:26:46",
+    "character": "シンジ",
+    "japanese": "・・・・・・あの、",
+    "english": "Uh..."
+  },
+  {
+    "time": "00:26:47",
+    "character": "シンジ",
+    "japanese": "じゃあ、僕は何をすればいいんですか？",
+    "english": "Then, what should I do instead?"
+  },
+  {
+    "time": "00:16:44",
+    "character": "シンジ",
+    "japanese": "ミサトさん！！"
+  },
+  {
+    "time": "00:16:46",
+    "character": "ミサト",
+    "japanese": "碇シンジ君。"
+  },
+  {
+    "time": "00:16:50",
+    "character": "ミサト",
+    "japanese": "あなたはもう、何もしないで。"
+  },
+  {
+    "time": "00:17:06",
+    "character": "男(無線)",
+    "japanese": "ＬＣＬガス充満。"
+  },
+  {
+    "time": "00:17:07",
+    "character": "男(無線)",
+    "japanese": "電荷密度クリア。"
+  },
+  {
+    "time": "00:17:08",
+    "character": "リツコ",
+    "japanese": "エントリースタート。"
+  },
+  {
+    "time": "00:17:10",
+    "character": "女(無線)",
+    "japanese": "ＬＣＬ電荷状態は正常。"
+  },
+  {
+    "time": "00:27:20",
+    "character": "女(無線)",
+    "japanese": "各演算総合システムをスタート。",
+    "english": "Starting all integrated processor systems."
+  },
+  {
+    "time": "00:27:22",
+    "character": "ミサト",
+    "japanese": "状況は！？",
+    "english": "What's our status?"
+  },
+  {
+    "time": "00:27:23",
+    "character": "北上",
+    "japanese": "総員点呼完了、",
+    "english": "Personnel roll-call complete."
+  },
+  {
+    "time": "00:27:24",
+    "character": "女(無線)",
+    "japanese": "／＃＃＃＃、問題なし。",
+    "english": "No problems with initial contact."
+  },
+  {
+    "time": "00:27:25",
+    "character": "北上",
+    "japanese": "移乗を確認。",
+    "english": "Confirming stations."
+  },
+  {
+    "time": "00:27:27",
+    "character": "女(無線)",
+    "japanese": "第一次リストをクリア。",
+    "english": "First list has cleared."
+  },
+  {
+    "time": "00:27:28",
+    "character": "多摩",
+    "japanese": "全隔壁の閉鎖を確認、",
+    "english": "Confirming the closure of all barrier walls."
+  },
+  {
+    "time": "00:27:30",
+    "character": "多摩",
+    "japanese": "耐圧チェックを終了。",
+    "english": "Terminating pressure resistance check."
+  },
+  {
+    "time": "00:27:31",
+    "character": "女(無線)",
+    "japanese": "補機出力上昇中",
+    "english": "Auxiliary engine output currently climbing."
+  },
+  {
+    "time": "00:27:33",
+    "character": "高雄",
+    "japanese": "主機システム点火用動力を注入中、"
+  },
+  {
+    "time": "00:17:28",
+    "character": "高雄",
+    "japanese": "臨界まであと５％。",
+    "english": "Another 5% until it hits critical."
+  },
+  {
+    "time": "00:17:30",
+    "character": "長良",
+    "japanese": "ジャイロコンパス始動。",
+    "english": "Initiating the gyrocompass."
+  },
+  {
+    "time": "00:17:31",
+    "character": "長良",
+    "japanese": "スタビライザー問題無し",
+    "english": "Stabilizer nominal."
+  },
+  {
+    "time": "00:17:33",
+    "character": "女(無線)",
+    "japanese": "視覚化情報処理を開始。",
+    "english": "Commencing visual data processing."
+  },
+  {
+    "time": "00:17:35",
+    "character": "女(無線)",
+    "japanese": "主モニター、点灯します。",
+    "english": "Turning on the main monitor."
+  },
+  {
+    "time": "00:17:37",
+    "character": "日向",
+    "japanese": "目標依然として接近中･････！！",
+    "english": "Targets are still closing in."
+  },
+  {
+    "time": "00:17:39",
+    "character": "日向",
+    "japanese": "包囲陣形をとりつつあり！",
+    "english": "Currently taking on an encircling formation."
+  },
+  {
+    "time": "00:17:41",
+    "character": "青葉",
+    "japanese": "改２号機　推進機を廃棄。",
+    "english": "Eva-02' discarding propellers."
+  },
+  {
+    "time": "00:17:43",
+    "character": "青葉",
+    "japanese": "左腕を換装中。",
+    "english": "Now switching out the left arm."
+  },
+  {
+    "time": "00:17:45",
+    "character": "アスカ",
+    "japanese": "あーらよっと。",
+    "english": "Here we go!"
+  },
+  {
+    "time": "00:17:54",
+    "character": "アスカ",
+    "japanese": "―――さてと。",
+    "english": "Now then..."
+  },
+  {
+    "time": "00:17:56",
+    "character": "アスカ",
+    "japanese": "―――やるか",
+    "english": "Let's do this!"
+  },
+  {
+    "time": "00:18:04",
+    "character": "アスカ",
+    "japanese": "Ａ．Ｔ．フィールド展開。",
+    "english": "Deploy A.T. Field."
+  },
+  {
+    "time": "00:18:09",
+    "character": "青葉",
+    "japanese": "光の柱に変化！",
+    "english": "The pillars of light are changing!"
+  },
+  {
+    "time": "00:18:12",
+    "character": "北上",
+    "japanese": "みるみるエネルギーが増大してます！",
+    "english": "Their energy is skyrocketing!"
+  },
+  {
+    "time": "00:18:13",
+    "character": "日向",
+    "japanese": "全体が移動を開始。",
+    "english": "All targets are mobilizing."
+  },
+  {
+    "time": "00:18:18",
+    "character": "青葉",
+    "japanese": "味方巡洋艦蒸発！",
+    "english": "Allied cruiser has been vaporized!"
+  },
+  {
+    "time": "00:18:19",
+    "character": "リツコ",
+    "japanese": "飽和攻撃よ。",
+    "english": "A saturated attack."
+  },
+  {
+    "time": "00:18:21",
+    "character": "リツコ",
+    "japanese": "本艦にとりつかれたら　万事休すね。",
+    "english": "If it hits this ship, we're done for."
+  },
+  {
+    "time": "00:18:24",
+    "character": "北上",
+    "japanese": "接触まであと、３６０秒！",
+    "english": "Another 360 seconds until contact!"
+  },
+  {
+    "time": "00:18:34",
+    "character": "アスカ",
+    "japanese": "せえぇえのっ！！",
+    "english": "Here we go! #not in UTW#"
+  },
+  {
+    "time": "00:18:38",
+    "character": "青葉",
+    "japanese": "改２号機、作業開始。",
+    "english": "Eva-02' has commenced operations."
+  },
+  {
+    "time": "00:18:40",
+    "character": "男{無線)",
+    "japanese": "流入圧力　３００％！",
+    "english": "Influent pressure at 300%!"
+  },
+  {
+    "time": "00:18:42",
+    "character": "高雄",
+    "japanese": "かまわん！",
+    "english": "Open the pressure valves manually."
+  },
+  {
+    "time": "00:18:43",
+    "character": "高雄",
+    "japanese": "フライホイールへ全てのエネルギーを回せ！",
+    "english": "Transfer all energy to the flywheel!"
+  },
+  {
+    "time": "00:18:45",
+    "character": "高雄",
+    "japanese": "最優先だ！",
+    "english": "Don't worry about the condenser."
+  },
+  {
+    "time": "00:18:57",
+    "character": "女(BG)",
+    "japanese": "/第８３＃＃＃炎上中、消火出来ません！",
+    "english": "The 83rd line is ablaze! Extinguishing the fire is impossible!"
+  },
+  {
+    "time": "00:18:57",
+    "character": "多摩",
+    "japanese": "第７コンバータ群爆発！",
+    "english": "The 7th converter cluster has exploded!"
+  },
+  {
+    "time": "00:18:59",
+    "character": "高雄",
+    "japanese": "ダウンしたラインにかまうな！",
+    "english": "Disregard the broken lines!"
+  },
+  {
+    "time": "00:19:01",
+    "character": "高雄",
+    "japanese": "強制注入を続けろ！",
+    "english": "Proceed with the forced injection!"
+  },
+  {
+    "time": "00:19:03",
+    "character": "高雄",
+    "japanese": "圧力計は全て無視だ！",
+    "english": "Ignore all the pressure gauges!"
+  },
+  {
+    "time": "00:19:05",
+    "character": "多摩",
+    "japanese": "フライホイール圧着板ロック解除。",
+    "english": "Releasing locks on the flywheel crimp."
+  },
+  {
+    "time": "00:19:07",
+    "character": "多摩",
+    "japanese": "回転開始",
+    "english": "Beginning rotation!"
+  },
+  {
+    "time": "00:19:16",
+    "character": "男(無線)",
+    "japanese": "主機エネルギーポンプ運転開始",
+    "english": "Main engine's energy pump has been initiated."
+  },
+  {
+    "time": "00:19:19",
+    "character": "多摩",
+    "japanese": "補機回転、出力８０％へ",
+    "english": "Auxiliary engine output has reached 80%!"
+  },
+  {
+    "time": "00:19:21",
+    "character": "高雄",
+    "japanese": "触媒を強制投入",
+    "english": "Force insert the catalyst!"
+  },
+  {
+    "time": "00:19:28",
+    "character": "アスカ",
+    "japanese": "ううううううう・・・"
+  },
+  {
+    "time": "00:19:39",
+    "character": "アスカ",
+    "japanese": "あとは―――",
+    "english": "Next up..."
+  },
+  {
+    "time": "00:19:42",
+    "character": "北上",
+    "japanese": "あと３５秒！",
+    "english": "Thirty-five seconds remaining!"
+  },
+  {
+    "time": "00:19:44",
+    "character": "アナウンス",
+    "japanese": "回転数上昇中。１万、１万２千",
+    "english": "Rotational speed increasing!"
+  },
+  {
+    "time": "00:19:46",
+    "character": "青葉",
+    "japanese": "改２号機、点火位置"
+  },
+  {
+    "time": "00:19:48",
+    "character": "多摩",
+    "japanese": "来ましたっ！"
+  },
+  {
+    "time": "00:29:57",
+    "character": "多摩",
+    "japanese": "フライホイール充電１０２％！",
+    "english": "Fly wheel 102% charged!"
+  },
+  {
+    "time": "00:29:59",
+    "character": "多摩",
+    "japanese": "臨界突破！",
+    "english": "Critical point exceeded!"
+  },
+  {
+    "time": "00:19:52",
+    "character": "高雄",
+    "japanese": "始動、最終段階です。",
+    "english": "We're in the final start-up phase!"
+  },
+  {
+    "time": "00:19:54",
+    "character": "ミサト",
+    "japanese": "了解。",
+    "english": "Roger."
+  },
+  {
+    "time": "00:19:55",
+    "character": "ミサト",
+    "japanese": "操艦系を切り替え。",
+    "english": "Switch to flight mode."
+  },
+  {
+    "time": "00:19:56",
+    "character": "長良",
+    "japanese": "了解。",
+    "english": "Roger."
+  },
+  {
+    "time": "00:19:57",
+    "character": "長良",
+    "japanese": "時空間制御を開始。",
+    "english": "Starting spatiotemporal control."
+  },
+  {
+    "time": "00:19:58",
+    "character": "長良",
+    "japanese": "立体式操舵に移行します。",
+    "english": "Transferring to 3D control of vessel."
+  },
+  {
+    "time": "00:20:02",
+    "character": "ミサト",
+    "japanese": "点火と同時にA.T.フィールドを展開。",
+    "english": "Deploy the A.T. Field at the moment of ignition."
+  },
+  {
+    "time": "00:20:04",
+    "character": "多摩",
+    "japanese": "回転数3万6千！オールグリーン！"
+  },
+  {
+    "time": "00:20:07",
+    "character": "高雄",
+    "japanese": "コンタクト、行けます！",
+    "english": "Contact imminent!"
+  },
+  {
+    "time": "00:20:09",
+    "character": "ミサト",
+    "japanese": "カウント省略。",
+    "english": "Skip the countdown!"
+  },
+  {
+    "time": "00:20:10",
+    "character": "ミサト",
+    "japanese": "メイン接続",
+    "english": "Connect the main engine!"
+  },
+  {
+    "time": "00:20:11",
+    "character": "高雄",
+    "japanese": "接続！",
+    "english": "Connecting!"
+  },
+  {
+    "time": "00:20:16",
+    "character": "ミサト",
+    "japanese": "点火！",
+    "english": "Ignite!"
+  },
+  {
+    "time": "00:20:18",
+    "character": "アスカ",
+    "japanese": "でぇえいっ！！",
+    "english": "Ignite!"
+  },
+  {
+    "time": "00:20:34",
+    "character": "北上",
+    "japanese": "障害物、クリア。",
+    "english": "Obstacles cleared!"
+  },
+  {
+    "time": "00:20:35",
+    "character": "リツコ",
+    "japanese": "各部確認。",
+    "english": "Check every department!"
+  },
+  {
+    "time": "00:20:36",
+    "character": "リツコ",
+    "japanese": "僚艦は全て退避。",
+    "english": "Pull back all consort ships!"
+  },
+  {
+    "time": "00:20:37",
+    "character": "ミサト",
+    "japanese": "ゆくわよ。",
+    "english": "Here we go."
+  },
+  {
+    "time": "00:20:39",
+    "character": "ミサト",
+    "japanese": "ヴンダー、発進！",
+    "english": "Wunder, launch!"
+  },
+  {
+    "time": "00:21:30",
+    "character": "多摩",
+    "japanese": "主翼を貫通！損害不明！",
+    "english": "Main wings penetrated! Extent of damage unknown!"
+  },
+  {
+    "time": "00:21:32",
+    "character": "ミサト",
+    "japanese": "構うな！",
+    "english": "Don't sweat it!"
+  },
+  {
+    "time": "00:21:33",
+    "character": "ミサト",
+    "japanese": "殲滅戦、用意！",
+    "english": "Prepare to eliminate the targets!"
+  },
+  {
+    "time": "00:21:34",
+    "character": "ミサト",
+    "japanese": "艦を倒立。",
+    "english": "Upend the ship!"
+  },
+  {
+    "time": "00:21:35",
+    "character": "ミサト",
+    "japanese": "ゴースターン！",
+    "english": "Go astern!"
+  },
+  {
+    "time": "00:21:36",
+    "character": "長良",
+    "japanese": "ゴースターン、ようそろ！",
+    "english": "Go astern! Keeping her steady!"
+  },
+  {
+    "time": "00:21:44",
+    "character": "ミサト",
+    "japanese": "このままコアブロックを　擬製コクーンから引きずり出す！",
+    "english": "Now drag the core blocks out of the cloaking cocoon!"
+  },
+  {
+    "time": "00:21:53",
+    "character": "多摩",
+    "japanese": "主翼ビームに亀裂発生！",
+    "english": "Cracks are appearing in the main wing beams!"
+  },
+  {
+    "time": "00:21:55",
+    "character": "ミサト",
+    "japanese": "舵、そのまま！",
+    "english": "Keep the rudder steady!"
+  },
+  {
+    "time": "00:21:56",
+    "character": "ミサト",
+    "japanese": "主機、全力運転！",
+    "english": "Run main engine at full power!"
+  },
+  {
+    "time": "00:21:58",
+    "character": "高雄",
+    "japanese": "両舷一杯！",
+    "english": "Maximum power to both sides!"
+  },
+  {
+    "time": "00:22:00",
+    "character": "長良",
+    "japanese": "最大戦速！",
+    "english": "Full throttle!"
+  },
+  {
+    "time": "00:22:28",
+    "character": "北上",
+    "japanese": "出た！コアブロックです！",
+    "english": "The core blocks are out!"
+  },
+  {
+    "time": "00:22:30",
+    "character": "ミサト",
+    "japanese": "今だ！",
+    "english": "Now!"
+  },
+  {
+    "time": "00:22:31",
+    "character": "ミサト",
+    "japanese": "取り舵一杯！",
+    "english": "Hard aport!"
+  },
+  {
+    "time": "00:22:32",
+    "character": "ミサト",
+    "japanese": "振り回せ！！",
+    "english": "Swing her around!"
+  },
+  {
+    "time": "00:22:33",
+    "character": "長良",
+    "japanese": "りょーかい！",
+    "english": "Roger!"
+  },
+  {
+    "time": "00:23:00",
+    "character": "ミサト",
+    "japanese": "スラスター全開。",
+    "english": "Thrusters at maximum!"
+  },
+  {
+    "time": "00:23:01",
+    "character": "ミサト",
+    "japanese": "急制動！",
+    "english": "Full-on brake!"
+  },
+  {
+    "time": "00:23:12",
+    "character": "青葉",
+    "japanese": "目標、沈黙！",
+    "english": "No signs of target activity!"
+  },
+  {
+    "time": "00:23:13",
+    "character": "ミサト",
+    "japanese": "主砲、発射準備！",
+    "english": "Main cannons, prepare to fire!"
+  },
+  {
+    "time": "00:23:15",
+    "character": "ミサト",
+    "japanese": "エネルギー貫通弾を装填。",
+    "english": "Load the energy-penetrating ammo!"
+  },
+  {
+    "time": "00:23:17",
+    "character": "ミサト",
+    "japanese": "全砲塔に主機を直結。",
+    "english": "Connect all gun turrets to the main engine."
+  },
+  {
+    "time": "00:23:19",
+    "character": "ミサト",
+    "japanese": "給弾用回路開け",
+    "english": "Open the ammo supply circuits!"
+  },
+  {
+    "time": "00:23:20",
+    "character": "高雄",
+    "japanese": "了解。回路開きます。",
+    "english": "Roger. Opening ammo supply circuits."
+  },
+  {
+    "time": "00:23:23",
+    "character": "北上",
+    "japanese": "測定誤差、ギリギリまで修正中！",
+    "english": "Applying last-minute corrections to measurement errors!"
+  },
+  {
+    "time": "00:23:25",
+    "character": "女(無線)",
+    "japanese": "射撃盤、連動せず。",
+    "english": "Artillery systems are unlinked!"
+  },
+  {
+    "time": "00:23:27",
+    "character": "日向",
+    "japanese": "各砲直接照準及び手動追尾はいけます！",
+    "english": "Direct aiming and manual tracking ready on all cannons!"
+  },
+  {
+    "time": "00:23:30",
+    "character": "ミサト",
+    "japanese": "ならば結構。",
+    "english": "Then we're all set."
+  },
+  {
+    "time": "00:23:31",
+    "character": "ミサト",
+    "japanese": "撃てぇ！！",
+    "english": "Fire!"
+  },
+  {
+    "time": "00:23:56",
+    "character": "青葉",
+    "japanese": "目標、殲滅",
+    "english": "Target destroyed!"
+  },
+  {
+    "time": "00:23:58",
+    "character": "ミサト",
+    "japanese": "全艦、第２種警戒態勢。",
+    "english": "All ships, go to secondary state of alert."
+  },
+  {
+    "time": "00:24:00",
+    "character": "ミサト",
+    "japanese": "改２号機の回収用意。",
+    "english": "Prepare to retrieve Eva-02'."
+  },
+  {
+    "time": "00:24:02",
+    "character": "ミサト",
+    "japanese": "主翼の応急処置を急いで。",
+    "english": "Start emergency repairs on the main wings with all haste."
+  },
+  {
+    "time": "00:24:06",
+    "character": "多摩",
+    "japanese": "･･･すごい。",
+    "english": "Wow..."
+  },
+  {
+    "time": "00:24:07",
+    "character": "北上",
+    "japanese": "ホントに勝っちゃった。",
+    "english": "We actually won."
+  },
+  {
+    "time": "00:24:09",
+    "character": "高雄",
+    "japanese": "まったくムチャをする･･････",
+    "english": "She's brazen as you get."
+  },
+  {
+    "time": "00:24:12",
+    "character": "高雄",
+    "japanese": "加持の話より面白い艦長だ。",
+    "english": "The captain's even more interesting than Kaji described."
+  },
+  {
+    "time": "00:24:15",
+    "character": "リツコ",
+    "japanese": "これが神殺しの力。",
+    "english": "So this is the power to kill gods."
+  },
+  {
+    "time": "00:24:17",
+    "character": "リツコ",
+    "japanese": "･･････ヴンダー。まさに希望の船ね。",
+    "english": "Wunder. Truly the ship of hope."
+  },
+  {
+    "time": "00:25:00",
+    "character": "サクラ",
+    "japanese": "検体ＢＭ０３。仮称碇シンジさん。",
+    "english": "Specimen BM03. Tentative Name: Ikari Shinji-san."
+  },
+  {
+    "time": "00:25:03",
+    "character": "サクラ",
+    "japanese": "副長から説明があるそうです。",
+    "english": "The vice-captain would like to speak with you."
+  },
+  {
+    "time": "00:25:06",
+    "character": "シンジ",
+    "japanese": "―――これが初号機？",
+    "english": "That's Eva-01...?"
+  },
+  {
+    "time": "00:25:08",
+    "character": "リツコ",
+    "japanese": "ええ。初号機は現在本艦の主機として使用中。",
+    "english": "Yes. Eva-01 is currently being used as the main engine of this ship."
+  },
+  {
+    "time": "00:25:13",
+    "character": "リツコ",
+    "japanese": "ゆえにパイロットは不要です。",
+    "english": "It follows that we don't need a pilot."
+  },
+  {
+    "time": "00:25:16",
+    "character": "シンジ",
+    "japanese": "ホントに、いらないんですね",
+    "english": "It really is true, then."
+  },
+  {
+    "time": "00:25:19",
+    "character": "リツコ",
+    "japanese": "それと、あなたの深層シンクロテストの結果が出ました。",
+    "english": "Also, your deep sync test results are in."
+  },
+  {
+    "time": "00:25:23",
+    "character": "リツコ",
+    "japanese": "シンクロ率は０.００％。",
+    "english": "Your sync rate is 0.00%."
+  },
+  {
+    "time": "00:25:26",
+    "character": "リツコ",
+    "japanese": "仮にあなたがエヴァに搭乗しても起動しません",
+    "english": "Even if you were to get in the Eva, it wouldn't activate."
+  },
+  {
+    "time": "00:25:30",
+    "character": "サクラ",
+    "japanese": "そっかあ。",
+    "english": "There we go!"
+  },
+  {
+    "time": "00:25:31",
+    "character": "サクラ",
+    "japanese": "よかったですね、碇さん",
+    "english": "Isn't that great, Ikari-san?"
+  },
+  {
+    "time": "00:25:33",
+    "character": "リツコ",
+    "japanese": "とはいえ、先に突如１２秒間も、覚醒状態と化した事実は看過できない。",
+    "english": "Still, we cannot overlook the fact that the unit suddenly entered an Awakened state for twelve seconds earlier."
+  },
+  {
+    "time": "00:25:39",
+    "character": "リツコ",
+    "japanese": "故にあなたには　DSSチョーカーを装着させてあります。",
+    "english": "As a result, we've installed the DSS Choker on you."
+  },
+  {
+    "time": "00:25:44",
+    "character": "シンジ",
+    "japanese": "何ですか、これ？",
+    "english": "What is this?"
+  },
+  {
+    "time": "00:25:45",
+    "character": "リツコ",
+    "japanese": "私たちへの保険。",
+    "english": "Insurance for us."
+  },
+  {
+    "time": "00:25:48",
+    "character": "リツコ",
+    "japanese": "覚醒回避のための物理的安全装置。",
+    "english": "It's a physical safety device that prevents Awakenings."
+  },
+  {
+    "time": "00:25:51",
+    "character": "リツコ",
+    "japanese": "私たちの不信と　あなたへの罰の象徴です。",
+    "english": "It symbolizes both your punishment, and our mistrust in you."
+  },
+  {
+    "time": "00:25:55",
+    "character": "シンジ",
+    "japanese": "どういうことですか？",
+    "english": "What do you mean?"
+  },
+  {
+    "time": "00:25:56",
+    "character": "リツコ",
+    "japanese": "エヴァ搭乗時、自己の感情に飲み込まれ覚醒リスクを抑えられない事態に達した場合、",
+    "english": "Should you succumb to your emotions while piloting an Eva, and the risk of Awakening becomes too great to avoid,"
+  },
+  {
+    "time": "00:26:04",
+    "character": "リツコ",
+    "japanese": "あなたの一命をもってせき止める、ということです。",
+    "english": "this will intervene by terminating your life."
+  },
+  {
+    "time": "00:26:08",
+    "character": "シンジ",
+    "japanese": "それって・・・死ぬってことですか？",
+    "english": "Does that mean... I'll die?"
+  },
+  {
+    "time": "00:26:13",
+    "character": "リツコ",
+    "japanese": "否定はしません。",
+    "english": "I won't deny that."
+  },
+  {
+    "time": "00:26:16",
+    "character": "シンジ",
+    "japanese": "そんな・・・。",
+    "english": "No way..."
+  },
+  {
+    "time": "00:26:18",
+    "character": "シンジ",
+    "japanese": "ミサトさん・・・どういう事なんですか？死ぬって",
+    "english": "Misato-san, what's the meaning of this? I'll die?"
+  },
+  {
+    "time": "00:26:22",
+    "character": "シンジ",
+    "japanese": "変ですよ、ミサトさん！",
+    "english": "It doesn't make sense, Misato-san!"
+  },
+  {
+    "time": "00:26:24",
+    "character": "シンジ",
+    "japanese": "急にこんなことになってて、ワケわかんないですよっ！！",
+    "english": "How'd things suddenly end up this way? It's ridiculous!"
+  },
+  {
+    "time": "00:26:27",
+    "character": "リツコ",
+    "japanese": "混乱するのも無理ないわ。",
+    "english": "It can't blame you for being confused."
+  },
+  {
+    "time": "00:26:28",
+    "character": "リツコ",
+    "japanese": "少尉",
+    "english": "Lieutenant?"
+  },
+  {
+    "time": "00:26:29",
+    "character": "サクラ",
+    "japanese": "あ、ハイ",
+    "english": "Yes, ma'am?"
+  },
+  {
+    "time": "00:26:30",
+    "character": "リツコ",
+    "japanese": "彼に官姓名を。",
+    "english": "Tell him your name and rank."
+  },
+  {
+    "time": "00:26:31",
+    "character": "サクラ",
+    "japanese": "ハイ",
+    "english": "Yes, ma'am!"
+  },
+  {
+    "time": "00:26:33",
+    "character": "サクラ",
+    "japanese": "えっと、今更ですが、碇さんの管理担当医官、",
+    "english": "Um, I know this introduction comes late, but I'm your assigned medical officer,"
+  },
+  {
+    "time": "00:26:38",
+    "character": "サクラ",
+    "japanese": "鈴原サクラ少尉です。",
+    "english": "Lt. Suzuhara Sakura."
+  },
+  {
+    "time": "00:26:41",
+    "character": "サクラ",
+    "japanese": "よろしく、です！",
+    "english": "Nice to meet you."
+  },
+  {
+    "time": "00:26:43",
+    "character": "シンジ",
+    "japanese": "あ、ハイ。",
+    "english": "Ah, same."
+  },
+  {
+    "time": "00:26:46",
+    "character": "シンジ",
+    "japanese": "でも、スズハラって、",
+    "english": "Uh..."
+  },
+  {
+    "time": "00:26:48",
+    "character": "シンジ",
+    "japanese": "トウジの？",
+    "english": "Are you Toji's...?"
+  },
+  {
+    "time": "00:26:50",
+    "character": "サクラ",
+    "japanese": "ハイ。",
+    "english": "That's right."
+  },
+  {
+    "time": "00:26:51",
+    "character": "サクラ",
+    "japanese": "お兄ちゃんがお世話になりました。",
+    "english": "Thank you for being friends with my brother."
+  },
+  {
+    "time": "00:26:53",
+    "character": "サクラ",
+    "japanese": "妹のサクラです。",
+    "english": "I'm his younger sister, Sakura."
+  },
+  {
+    "time": "00:26:55",
+    "character": "シンジ",
+    "japanese": "妹？",
+    "english": "Younger sister?"
+  },
+  {
+    "time": "00:26:56",
+    "character": "シンジ",
+    "japanese": "お姉さんじゃなくて？",
+    "english": "Don't you mean older?"
+  },
+  {
+    "time": "00:26:57",
+    "character": "サクラ",
+    "japanese": "ハイ。妹です！",
+    "english": "No, younger."
+  },
+  {
+    "time": "00:27:00",
+    "character": "サクラ",
+    "japanese": "テヘ",
+    "english": "...you'll do nothing."
+  },
+  {
+    "time": "00:27:01",
+    "character": "シンジ",
+    "japanese": "妹・・・何で？",
+    "english": "Younger...? How?"
+  },
+  {
+    "time": "00:27:04",
+    "character": "アスカ",
+    "japanese": "あれから１４年経ってるってことよ。",
+    "english": "Fourteen years have passed since then."
+  },
+  {
+    "time": "00:27:07",
+    "character": "アスカ",
+    "japanese": "バカシンジ。",
+    "english": "Stupid Shinji."
+  },
+  {
+    "time": "00:27:09",
+    "character": "シンジ",
+    "japanese": "え、あ、アスカ！？",
+    "english": "Huh? A-Asuka!"
+  },
+  {
+    "time": "00:27:15",
+    "character": "シンジ",
+    "japanese": "良かった！",
+    "english": "Thank goodness!"
+  },
+  {
+    "time": "00:27:16",
+    "character": "シンジ",
+    "japanese": "やっぱり無事だったんだね！アスカッ！",
+    "english": "You really are okay, Asuka!"
+  },
+  {
+    "time": "00:27:20",
+    "character": "シンジ",
+    "japanese": "あはっ･･･",
+    "english": "Starting all integrated processor systems."
+  },
+  {
+    "time": "00:27:23",
+    "character": "アスカ",
+    "japanese": "ダメね。",
+    "english": "It's no good. I can't stop myself."
+  },
+  {
+    "time": "00:27:25",
+    "character": "アスカ",
+    "japanese": "押えきれない。",
+    "english": "I've been holding it in all these years."
+  },
+  {
+    "time": "00:27:26",
+    "character": "アスカ",
+    "japanese": "ずーっとガマンしてたし。",
+    "english": "I've been holding it in all these years."
+  },
+  {
+    "time": "00:27:34",
+    "character": "シンジ",
+    "japanese": "･･････何なんだよ。",
+    "english": "What was that for?"
+  },
+  {
+    "time": "00:27:36",
+    "character": "アスカ",
+    "japanese": "怒りと悲しみの累積。",
+    "english": "Pent-up anger and grief."
+  },
+  {
+    "time": "00:27:39",
+    "character": "シンジ",
+    "japanese": "･･････何の事だよ・・・。",
+    "english": "What do you mean...?"
+  },
+  {
+    "time": "00:27:41",
+    "character": "シンジ",
+    "japanese": "あれ、アスカ、左目？",
+    "english": "Uh, Asuka, your left eye...?"
+  },
+  {
+    "time": "00:27:44",
+    "character": "アスカ",
+    "japanese": "あんたには、関係ない。",
+    "english": "None of your business."
+  },
+  {
+    "time": "00:27:46",
+    "character": "シンジ",
+    "japanese": "･･････アスカ、さっき１４年って･･････でも眼帯以、外変わってない？",
+    "english": "Asuka, you said it's been fourteen years,"
+  },
+  {
+    "time": "00:27:52",
+    "character": "アスカ",
+    "japanese": "そう。エヴァの呪縛。",
+    "english": "Right. It's the curse of Eva."
+  },
+  {
+    "time": "00:27:55",
+    "character": "シンジ",
+    "japanese": "―――呪縛？",
+    "english": "A curse?"
+  },
+  {
+    "time": "00:27:59",
+    "character": "シンジ",
+    "japanese": "ちょっと待ってよ！！",
+    "english": "Wait!"
+  },
+  {
+    "time": "00:28:00",
+    "character": "シンジ",
+    "japanese": "アスカなら知ってんだろ！",
+    "english": "Asuka, maybe you know!"
+  },
+  {
+    "time": "00:28:02",
+    "character": "シンジ",
+    "japanese": "ねぇ、綾波はどこなんだよ！",
+    "english": "Where's Ayanami?!"
+  },
+  {
+    "time": "00:28:05",
+    "character": "アスカ",
+    "japanese": "―――知らない。",
+    "english": "No idea."
+  },
+  {
+    "time": "00:28:06",
+    "character": "シンジ",
+    "japanese": "知らないって・・・。",
+    "english": "No idea?"
+  },
+  {
+    "time": "00:28:08",
+    "character": "シンジ",
+    "japanese": "助けたんだよ！　あの時！",
+    "english": "But I saved her!"
+  },
+  {
+    "time": "00:28:10",
+    "character": "アスカ",
+    "japanese": "ヒト一人に大げさね。",
+    "english": "All this fuss over just one person."
+  },
+  {
+    "time": "00:28:12",
+    "character": "アスカ",
+    "japanese": "もうそんな事に反応してるヒマなんてないのよ、この世界には。",
+    "english": "In this world, we don't have the luxury of worrying about such things."
+  },
+  {
+    "time": "00:28:16",
+    "character": "アスカ",
+    "japanese": "そうでしょ。葛城大佐",
+    "english": "Isn't that right, Captain Katsuragi?"
+  },
+  {
+    "time": "00:28:22",
+    "character": "シンジ",
+    "japanese": "アスカっ！！",
+    "english": "Asuka!"
+  },
+  {
+    "time": "00:28:23",
+    "character": "シンジ",
+    "japanese": "ミサトさん！　綾波はどこなんですか！？",
+    "english": "Misato-san, where's Ayanami?!"
+  },
+  {
+    "time": "00:28:26",
+    "character": "シンジ",
+    "japanese": "教えて下さい！",
+    "english": "Tell me, please!"
+  },
+  {
+    "time": "00:28:27",
+    "character": "ミサト",
+    "japanese": "シンジ君。綾波レイはもう存在しないのよ。",
+    "english": "Shinji-kun, Ayanami Rei doesn't exist anymore."
+  },
+  {
+    "time": "00:28:31",
+    "character": "シンジ",
+    "japanese": "いいえ！　確かに助け出したんです！",
+    "english": "No way! I saved her, I know I did!"
+  },
+  {
+    "time": "00:28:34",
+    "character": "シンジ",
+    "japanese": "きっとまだ初号機のプラグの中にいます！",
+    "english": "She must still be in Eva-01's plug!"
+  },
+  {
+    "time": "00:28:37",
+    "character": "シンジ",
+    "japanese": "よく探して下さいっ！！",
+    "english": "Please look for her!"
+  },
+  {
+    "time": "00:28:38",
+    "character": "リツコ",
+    "japanese": "当然、すでに初号機内は全て探索済みです。",
+    "english": "We already searched the inside of Eva-01 thoroughly."
+  },
+  {
+    "time": "00:28:42",
+    "character": "リツコ",
+    "japanese": "結果、発見されたのはあなたと―――",
+    "english": "All we found was you, and..."
+  },
+  {
+    "time": "00:28:45",
+    "character": "リツコ",
+    "japanese": "何故か、これが復元されていたわ。",
+    "english": "For some reason, this was restored."
+  },
+  {
+    "time": "00:28:48",
+    "character": "リツコ",
+    "japanese": "検査結果に問題ないので、返還しておきます。",
+    "english": "The inspection yielded no problems, so you can have it back."
+  },
+  {
+    "time": "00:28:52",
+    "character": "シンジ",
+    "japanese": "父さんの・・・",
+    "english": "My father's..."
+  },
+  {
+    "time": "00:28:55",
+    "character": "シンジ",
+    "japanese": "あの時、綾波が持っていた・・・",
+    "english": "Ayanami was holding it then."
+  },
+  {
+    "time": "00:28:58",
+    "character": "シンジ",
+    "japanese": "やっぱり、助けたんじゃないか・・・・・・",
+    "english": "So I *must* have saved her."
+  },
+  {
+    "time": "00:29:01",
+    "character": "シンジ",
+    "japanese": "何だ？",
+    "english": "What's that?!"
+  },
+  {
+    "time": "00:29:04",
+    "character": "ミサト",
+    "japanese": "―――私です。",
+    "english": "It's me."
+  },
+  {
+    "time": "00:29:06",
+    "character": "日向(電話)",
+    "japanese": "目標、後甲板です。",
+    "english": "Target on the rear deck!"
+  },
+  {
+    "time": "00:29:07",
+    "character": "日向(電話)",
+    "japanese": "いきなり、取り付かれました。",
+    "english": "It attacked us out of the blue!"
+  },
+  {
+    "time": "00:29:09",
+    "character": "ミサト",
+    "japanese": "本命のお出ましか",
+    "english": "So the champion has arrived..."
+  },
+  {
+    "time": "00:29:10",
+    "character": "ミサト",
+    "japanese": "全艦、第１種戦闘配置。",
+    "english": "All ships to Battle Stations One."
+  },
+  {
+    "time": "00:29:12",
+    "character": "ミサト",
+    "japanese": "初号機保護を最優先。",
+    "english": "Protecting Eva-01 is top priority!"
+  },
+  {
+    "time": "00:29:14",
+    "character": "アスカ",
+    "japanese": "８号機！もう行けるんでしょ！",
+    "english": "Eva-08, you're good to go, right?"
+  },
+  {
+    "time": "00:29:16",
+    "character": "マリ",
+    "japanese": "モチのロン。",
+    "english": "But of course!"
+  },
+  {
+    "time": "00:29:18",
+    "character": "マリ",
+    "japanese": "今やってるよ、姫。",
+    "english": "I'm right on top of it, Princess."
+  },
+  {
+    "time": "00:29:19",
+    "character": "マリ",
+    "japanese": "それより、ワンコ君どうだった？",
+    "english": "By the way, how was Puppy Boy?"
+  },
+  {
+    "time": "00:29:22",
+    "character": "マリ",
+    "japanese": "おとなしくお座りしてた？",
+    "english": "Did he sit and behave?"
+  },
+  {
+    "time": "00:29:24",
+    "character": "アスカ(電話)",
+    "japanese": "何も変わらず。",
+    "english": "He hasn't changed at all. He still has that stupid lowly face."
+  },
+  {
+    "time": "00:29:26",
+    "character": "アスカ(電話)",
+    "japanese": "偏屈でバカな顔してた。",
+    "english": "He hasn't changed at all. He still has that stupid lowly face."
+  },
+  {
+    "time": "00:29:28",
+    "character": "マリ",
+    "japanese": "その顔、見に行ったんじゃニャいの？",
+    "english": "So you went there *just* to see his face, did you?"
+  },
+  {
+    "time": "00:29:31",
+    "character": "アスカ(電話)",
+    "japanese": "違う！",
+    "english": "No!"
+  },
+  {
+    "time": "00:29:32",
+    "character": "アスカ(電話)",
+    "japanese": "殴りに行っただけ。",
+    "english": "I went there just to punch it!"
+  },
+  {
+    "time": "00:29:34",
+    "character": "アスカ",
+    "japanese": "これでスッキリした！",
+    "english": "Now I feel so much better!"
+  },
+  {
+    "time": "00:29:35",
+    "character": "シンジ",
+    "japanese": "ミサトさん！リツコさん！",
+    "english": "Misato-san! Ritsuko-san!"
+  },
+  {
+    "time": "00:29:37",
+    "character": "シンジ",
+    "japanese": "一体何が来たんですか！？",
+    "english": "What the heck is out there?"
+  },
+  {
+    "time": "00:29:39",
+    "character": "シンジ",
+    "japanese": "新しい使徒ですか？",
+    "english": "Is it a new Angel?"
+  },
+  {
+    "time": "00:29:41",
+    "character": "レイの声",
+    "japanese": "イカリ君、何処？",
+    "english": "Ikari-kun, where are you?"
+  },
+  {
+    "time": "00:29:44",
+    "character": "シンジ",
+    "japanese": "―――綾波？",
+    "english": "Ayanami?"
+  },
+  {
+    "time": "00:29:46",
+    "character": "シンジ",
+    "japanese": "今の綾波の声ですよね？ミサト･･･",
+    "english": "Wasn't that Ayanami's voice just now, Misa-"
+  },
+  {
+    "time": "00:29:53",
+    "character": "シンジ",
+    "japanese": "何なんだよっ！もうっ！！",
+    "english": "Oh, come on!"
+  },
+  {
+    "time": "00:29:55",
+    "character": "サクラ",
+    "japanese": "準備できました。",
+    "english": "We're ready!"
+  },
+  {
+    "time": "00:29:56",
+    "character": "サクラ",
+    "japanese": "碇さん、こっちへ！",
+    "english": "Ikari-san, this way!"
+  },
+  {
+    "time": "00:29:58",
+    "character": "レイの声",
+    "japanese": "イカリ君、何処？",
+    "english": "Ikari-kun, where are you?"
+  },
+  {
+    "time": "00:30:01",
+    "character": "シンジ",
+    "japanese": "やっぱり、綾波だ！",
+    "english": "It really *is* Ayanami."
+  },
+  {
+    "time": "00:30:04",
+    "character": "シンジ",
+    "japanese": "綾波ですよ！",
+    "english": "It's Ayanami!"
+  },
+  {
+    "time": "00:30:06",
+    "character": "サクラ",
+    "japanese": "碇さん！急いで！",
+    "english": "Ikari-san! Quickly!"
+  },
+  {
+    "time": "00:30:11",
+    "character": "シンジ",
+    "japanese": "･･･もういいよ。",
+    "english": "Enough."
+  },
+  {
+    "time": "00:30:13",
+    "character": "シンジ",
+    "japanese": "綾波！ここだっ！！",
+    "english": "Ayanami! I'm right here!"
+  },
+  {
+    "time": "00:40:30",
+    "character": "アナウンス",
+    "japanese": "右舷中央部に損傷",
+    "english": "Damage sustained on starboard midsection!"
+  },
+  {
+    "time": "00:40:31",
+    "character": "アナウンス",
+    "japanese": "第２装甲板に亀裂発生",
+    "english": "Fissure occurring in armor plate two!"
+  },
+  {
+    "time": "00:40:33",
+    "character": "多摩",
+    "japanese": "仮設隔離面会室の減圧を確認。",
+    "english": "Pressure drop detected in the provisional quarantine visiting room!"
+  },
+  {
+    "time": "00:40:35",
+    "character": "多摩",
+    "japanese": "隔壁を緊急閉鎖",
+    "english": "Emergency closure of barrier walls!"
+  },
+  {
+    "time": "00:40:36",
+    "character": "シンジ",
+    "japanese": "エヴァ？零号機？",
+    "english": "None of your business."
+  },
+  {
+    "time": "00:30:30",
+    "character": "レイの声",
+    "japanese": "･･･イカリ君、",
+    "english": "Ikari-kun..."
+  },
+  {
+    "time": "00:30:32",
+    "character": "レイの声",
+    "japanese": "こっちへ。",
+    "english": "Come this way."
+  },
+  {
+    "time": "00:30:35",
+    "character": "ミサト",
+    "japanese": "ダメよ、シンジ君。",
+    "english": "Don't do it, Shinji-kun."
+  },
+  {
+    "time": "00:30:37",
+    "character": "ミサト",
+    "japanese": "ここにいなさい。",
+    "english": "Just stay right here."
+  },
+  {
+    "time": "00:30:38",
+    "character": "シンジ",
+    "japanese": "何だよ、ミサトさん！",
+    "english": "What was that, Misato-san?"
+  },
+  {
+    "time": "00:30:41",
+    "character": "シンジ",
+    "japanese": "さっきまでいらないって言ってたじゃないか！",
+    "english": "Weren't you just saying that you didn't need me?!"
+  },
+  {
+    "time": "00:30:43",
+    "character": "ミサト",
+    "japanese": "しかし、身柄は私たちで保護します。",
+    "english": "Even so, you're to be kept in our protection."
+  },
+  {
+    "time": "00:30:45",
+    "character": "シンジ",
+    "japanese": "そんなの、勝手すぎですよ！",
+    "english": "What about how *I* feel?!"
+  },
+  {
+    "time": "00:30:53",
+    "character": "シンジ",
+    "japanese": "止めて下さい！",
+    "english": "Please stop!"
+  },
+  {
+    "time": "00:50:53",
+    "character": "シンジ",
+    "japanese": "相手はエヴァですよ！",
+    "english": "You're firing at an Eva!"
+  },
+  {
+    "time": "00:30:55",
+    "character": "ミサト",
+    "japanese": "だからこそよ。",
+    "english": "That's precisely why."
+  },
+  {
+    "time": "00:30:57",
+    "character": "ミサト",
+    "japanese": "ネルフのエヴァは全て殲滅します。",
+    "english": "We will destroy all of Nerv's Evas."
+  },
+  {
+    "time": "00:30:59",
+    "character": "シンジ",
+    "japanese": "ネルフの？・・・",
+    "english": "Nerv's...?"
+  },
+  {
+    "time": "00:31:01",
+    "character": "シンジ",
+    "japanese": "ここもネルフじゃないですか！",
+    "english": "Isn't this Nerv, too?"
+  },
+  {
+    "time": "00:31:02",
+    "character": "ミサト",
+    "japanese": "私たちはヴィレ。ネルフ壊滅を目的とする組織です。",
+    "english": "We are Wille, an organization dedicated to Nerv's annihilation."
+  },
+  {
+    "time": "00:31:07",
+    "character": "シンジ",
+    "japanese": "そんな・・・",
+    "english": "That's..."
+  },
+  {
+    "time": "00:31:09",
+    "character": "シンジ",
+    "japanese": "いや、でも、乗ってるのは綾波なんですよ！",
+    "english": "But wait, Ayanami's piloting it!"
+  },
+  {
+    "time": "00:31:12",
+    "character": "ミサト",
+    "japanese": "違うわ。",
+    "english": "It's not her!"
+  },
+  {
+    "time": "00:31:13",
+    "character": "ミサト",
+    "japanese": "レイはもういないのよ。シンジ君",
+    "english": "Rei's no more, Shinji-kun."
+  },
+  {
+    "time": "00:31:15",
+    "character": "シンジ",
+    "japanese": "ウソだ！！",
+    "english": "Liar!"
+  },
+  {
+    "time": "00:31:16",
+    "character": "シンジ",
+    "japanese": "だってここにいるでしょ！",
+    "english": "I mean, she's right there, isn't she?!"
+  },
+  {
+    "time": "00:31:18",
+    "character": "シンジ",
+    "japanese": "ミサトさんのわからずや！",
+    "english": "Misato-san, you're clueless!"
+  },
+  {
+    "time": "00:31:20",
+    "character": "シンジ",
+    "japanese": "もういいよっ！",
+    "english": "I'm done here!"
+  },
+  {
+    "time": "00:31:24",
+    "character": "サクラ",
+    "japanese": "碇さん！",
+    "english": "Ikari-san!"
+  },
+  {
+    "time": "00:31:25",
+    "character": "シンジ",
+    "japanese": "！？"
+  },
+  {
+    "time": "00:31:27",
+    "character": "サクラ",
+    "japanese": "勝手もいいですけど、",
+    "english": "Do whatever you want, but..."
+  },
+  {
+    "time": "00:31:29",
+    "character": "サクラ",
+    "japanese": "エヴァにだけは乗らんで下さいよ。",
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "00:31:31",
+    "character": "サクラ",
+    "japanese": "ホンマ、カンベンして欲しいわ。",
+    "english": "Seriously, give us a break."
+  },
+  {
+    "time": "00:31:41",
+    "character": "サクラ",
+    "japanese": "う・・・きゃあ！！"
+  },
+  {
+    "time": "00:31:43",
+    "character": "アスカ",
+    "japanese": "逃がすな！コネメガネ！",
+    "english": "Glasses, don't let them get away!"
+  },
+  {
+    "time": "00:31:44",
+    "character": "マリ",
+    "japanese": "合点承知",
+    "english": "Loud and clear!"
+  },
+  {
+    "time": "00:41:57",
+    "character": "女",
+    "japanese": "／エヴァ８号機＃＃＃＃",
+    "english": "Eva Unit 08 launching!"
+  },
+  {
+    "time": "00:31:48",
+    "character": "マリ",
+    "japanese": "的を♪",
+    "english": "♪ When you take aim ♪"
+  },
+  {
+    "time": "00:31:50",
+    "character": "マリ",
+    "japanese": "狙えば外さないよ♪",
+    "english": "♪ Be careful that you don't miss your mark ♪"
+  },
+  {
+    "time": "00:31:55",
+    "character": "マリ",
+    "japanese": "ヘイ、カモ～ン！",
+    "english": "Hey, c'mon!"
+  },
+  {
+    "time": "00:32:02",
+    "character": "マリ",
+    "japanese": "よっしゃあ！！",
+    "english": "Gotcha!"
+  },
+  {
+    "time": "00:32:09",
+    "character": "マリ",
+    "japanese": "やっぱし、アダムスの器か？",
+    "english": "Couldn't be... an Adams' Vessel?"
+  },
+  {
+    "time": "00:32:17",
+    "character": "マリ",
+    "japanese": "あいさつぐらいくしてけ、おらぁー！",
+    "english": "At least say hi, damn it!"
+  },
+  {
+    "time": "00:32:22",
+    "character": "リツコ",
+    "japanese": "彼を初号機に優先して奪取ということは、",
+    "english": "If they prioritized taking him over Eva-01,"
+  },
+  {
+    "time": "00:32:25",
+    "character": "リツコ",
+    "japanese": "トリガーとしての可能性がまだあるということよ。",
+    "english": "it means he still has the potential to be a trigger!"
+  },
+  {
+    "time": "00:32:27",
+    "character": "リツコ",
+    "japanese": "ミサト！ＤＳＳチョーカーを！",
+    "english": "Misato! Use the DSS Choker!"
+  },
+  {
+    "time": "00:32:44",
+    "character": "リツコ",
+    "japanese": "副長より通達。",
+    "english": "This is the vice-captain."
+  },
+  {
+    "time": "00:32:46",
+    "character": "リツコ",
+    "japanese": "追撃不要。",
+    "english": "No need to pursue."
+  },
+  {
+    "time": "00:32:47",
+    "character": "リツコ",
+    "japanese": "各員は損傷箇所の応急処置と艤装作業を再開。",
+    "english": "All personnel, tend to the emergency repairs and resume outfitting the ship."
+  },
+  {
+    "time": "00:32:51",
+    "character": "男",
+    "japanese": "了解。",
+    "english": "Roger."
+  },
+  {
+    "time": "00:32:52",
+    "character": "男",
+    "japanese": "追撃不要。",
+    "english": "No need to pursue."
+  },
+  {
+    "time": "00:32:53",
+    "character": "アスカ",
+    "japanese": "ふん。"
+  },
+  {
+    "time": "00:32:54",
+    "character": "男",
+    "japanese": "各員は、損傷箇所の応急処置と艤装作業を再開。"
+  },
+  {
+    "time": "00:43:04",
+    "character": "アスカ",
+    "japanese": "あれじゃ",
+    "english": "What do you know."
+  },
+  {
+    "time": "00:43:05",
+    "character": "アスカ",
+    "japanese": "バカじゃなく･･･",
+    "english": "He's not even an idiot."
+  },
+  {
+    "time": "00:43:06",
+    "character": "アスカ",
+    "japanese": "ガキね。",
+    "english": "He's just a brat!"
+  },
+  {
+    "time": "00:32:58",
+    "character": "タイトル",
+    "japanese": "ヱヴァンゲリヲン新劇場版：Q",
+    "english": "Evangelion New Theatrical Edition: Quickening"
+  },
+  {
+    "time": "00:33:03",
+    "character": "シンジ",
+    "japanese": "はっ・・・"
+  },
+  {
+    "time": "00:33:16",
+    "character": "シンジ",
+    "japanese": "やっぱり助けてたじゃないか・・・。",
+    "english": "I did save her after all."
+  },
+  {
+    "time": "00:33:18",
+    "character": "シンジ",
+    "japanese": "ミサトさんのウソつき。",
+    "english": "Misato-san lied to me."
+  },
+  {
+    "time": "00:33:21",
+    "character": "レイ",
+    "japanese": "―――こっちへ",
+    "english": "This way."
+  },
+  {
+    "time": "00:33:31",
+    "character": "シンジ",
+    "japanese": "―――あの",
+    "english": "U-Um..."
+  },
+  {
+    "time": "00:33:48",
+    "character": "シンジ",
+    "japanese": "ジオフロントなのに空が見えてる？",
+    "english": "This is the Geofront, but we can still see the sky?"
+  },
+  {
+    "time": "00:34:00",
+    "character": "シンジ",
+    "japanese": "あれが・・・ネルフ本部？",
+    "english": "Is that... Nerv Headquarters?"
+  },
+  {
+    "time": "00:34:04",
+    "character": "シンジ",
+    "japanese": "―――何があったんだ？",
+    "english": "What happened?"
+  },
+  {
+    "time": "00:34:36",
+    "character": "シンジ",
+    "japanese": "・・・ホントに１４年も経ってるんだ",
+    "english": "It really has been fourteen years."
+  },
+  {
+    "time": "00:35:11",
+    "character": "シンジ",
+    "japanese": "ん？"
+  },
+  {
+    "time": "00:35:15",
+    "character": "レイ",
+    "japanese": "ここ。",
+    "english": "Here."
+  },
+  {
+    "time": "00:35:19",
+    "character": "シンジ",
+    "japanese": "―――なんだ？",
+    "english": "What's this?"
+  },
+  {
+    "time": "00:35:22",
+    "character": "シンジ",
+    "japanese": "―――エヴァ？",
+    "english": "An Eva?"
+  },
+  {
+    "time": "00:35:23",
+    "character": "ゲンドウ",
+    "japanese": "そうだ。",
+    "english": "That's right."
+  },
+  {
+    "time": "00:35:28",
+    "character": "シンジ",
+    "japanese": "・・・父さん？",
+    "english": "Father..."
+  },
+  {
+    "time": "00:35:30",
+    "character": "ゲンドウ",
+    "japanese": "エヴァンゲリオン第１３号機、",
+    "english": "Evangelion 13,"
+  },
+  {
+    "time": "00:35:32",
+    "character": "ゲンドウ",
+    "japanese": "お前とそのパイロットの機体だ。",
+    "english": "a unit for you and that pilot."
+  },
+  {
+    "time": "00:35:37",
+    "character": "シンジ",
+    "japanese": "さっきの、ピアノの？",
+    "english": "The one on the piano earlier?"
+  },
+  {
+    "time": "00:35:40",
+    "character": "ゲンドウ",
+    "japanese": "・・・時が来たらその少年とこのエヴァに乗れ。",
+    "english": "When the time comes, pilot this Eva with him."
+  },
+  {
+    "time": "00:35:45",
+    "character": "ゲンドウ",
+    "japanese": "話は終わりだ。",
+    "english": "That will be all."
+  },
+  {
+    "time": "00:35:48",
+    "character": "シンジ",
+    "japanese": "ちょっと待ってよ！父さん！",
+    "english": "Wait a second, Father!"
+  },
+  {
+    "time": "00:35:49",
+    "character": "シンジ",
+    "japanese": "まだ聞きたい事とか、話したいことがいっぱいあるんだ、",
+    "english": "I still have a lot of questions, a lot I want to talk about!"
+  },
+  {
+    "time": "00:35:53",
+    "character": "シンジ",
+    "japanese": "父さん！！",
+    "english": "Father!"
+  },
+  {
+    "time": "00:36:04",
+    "character": "シンジ",
+    "japanese": "・・・ダイヤルもないし、",
+    "english": "It doesn't even have a dial tone."
+  },
+  {
+    "time": "00:36:06",
+    "character": "シンジ",
+    "japanese": "こっちからはどこにもかけられないのか・・・",
+    "english": "Guess I can't call anyone from here."
+  },
+  {
+    "time": "00:36:29",
+    "character": "シンジ",
+    "japanese": "やっぱり、お礼言っとかなきゃ。",
+    "english": "I should go thank her."
+  },
+  {
+    "time": "00:36:42",
+    "character": "シンジ",
+    "japanese": "綾波！",
+    "english": "Ayanami!"
+  },
+  {
+    "time": "00:36:46",
+    "character": "シンジ",
+    "japanese": "どこだよ、綾波！",
+    "english": "Where are you, Ayanami?"
+  },
+  {
+    "time": "00:36:50",
+    "character": "シンジ",
+    "japanese": "綾波～",
+    "english": "Ayanami!"
+  },
+  {
+    "time": "00:37:26",
+    "character": "シンジ",
+    "japanese": "何だろ、ここ？",
+    "english": "What is this place?"
+  },
+  {
+    "time": "00:37:30",
+    "character": "シンジ",
+    "japanese": "・・・綾波！？",
+    "english": "Ayanami?!"
+  },
+  {
+    "time": "00:37:31",
+    "character": "シンジ",
+    "japanese": "やっと見つけた",
+    "english": "There you are!"
+  },
+  {
+    "time": "00:37:35",
+    "character": "シンジ",
+    "japanese": "綾波。",
+    "english": "Ayanami,"
+  },
+  {
+    "time": "00:37:36",
+    "character": "シンジ",
+    "japanese": "ずいぶん探したよ。",
+    "english": "I've been looking for you！"
+  },
+  {
+    "time": "00:37:37",
+    "character": "シンジ",
+    "japanese": "うわあっ！ちょっちょっと！",
+    "english": "Ah, wait!"
+  },
+  {
+    "time": "00:37:40",
+    "character": "シンジ",
+    "japanese": "服！何か服着てよ！",
+    "english": "Clothes! Put some clothes on!"
+  },
+  {
+    "time": "00:37:44",
+    "character": "レイ",
+    "japanese": "―――命令、ならそうする。",
+    "english": "Only if it is an order."
+  },
+  {
+    "time": "00:37:48",
+    "character": "シンジ",
+    "japanese": "入るよ。",
+    "english": "I'm coming in."
+  },
+  {
+    "time": "00:37:53",
+    "character": "シンジ",
+    "japanese": "あ、あの、綾波、これありがとう。",
+    "english": "Um... Ayanami, thank you for this."
+  },
+  {
+    "time": "00:57:59",
+    "character": "シンジ",
+    "japanese": "ずっとお礼言いたかったんだ",
+    "english": "I've been wanting to thank you for a while now."
+  },
+  {
+    "time": "00:38:09",
+    "character": "シンジ",
+    "japanese": "あ、プラグスーツ、新しくなったんだ。",
+    "english": "You got a new plugsuit, huh?"
+  },
+  {
+    "time": "00:38:12",
+    "character": "シンジ",
+    "japanese": "似合、うけど、黒だとちょっと・・・",
+    "english": "It looks good on you, but I dunno about the black."
+  },
+  {
+    "time": "00:38:21",
+    "character": "シンジ",
+    "japanese": "何だか、すいぶん変わっちゃったんだね。ネルフ本部",
+    "english": "Nerv HQ has really changed a lot, hasn't it?"
+  },
+  {
+    "time": "00:38:28",
+    "character": "シンジ",
+    "japanese": "何でミサトさんは使徒じゃなくてネルフと戦ってるんだ？",
+    "english": "Why is Misato-san fighting Nerv instead of the Angels?"
+  },
+  {
+    "time": "00:38:33",
+    "character": "シンジ",
+    "japanese": "父さんはここで何する気なんだ？",
+    "english": "What is Father trying to do here?"
+  },
+  {
+    "time": "00:38:36",
+    "character": "シンジ",
+    "japanese": "みんなどうしちゃったんだろう？",
+    "english": "What happened to everyone?"
+  },
+  {
+    "time": "00:38:38",
+    "character": "シンジ",
+    "japanese": "ねぇ、綾波は何か知らないの！？",
+    "english": "Hey, Ayanami, do you know anything?"
+  },
+  {
+    "time": "00:38:42",
+    "character": "レイ",
+    "japanese": "―――知らない。",
+    "english": "I do not."
+  },
+  {
+    "time": "00:38:43",
+    "character": "シンジ",
+    "japanese": "・・・そっか。",
+    "english": "I see..."
+  },
+  {
+    "time": "00:38:46",
+    "character": "シンジ",
+    "japanese": "うん、そうかもな。",
+    "english": "Yeah, no surprise, I guess."
+  },
+  {
+    "time": "00:38:49",
+    "character": "シンジ",
+    "japanese": "ねえ、綾波はいつ初号機から戻ったの？",
+    "english": "Say, when did you return from Eva-01?"
+  },
+  {
+    "time": "00:38:59",
+    "character": "シンジ",
+    "japanese": "・・・ここ、部屋にもなってないよ。",
+    "english": "This place isn't much of a room."
+  },
+  {
+    "time": "00:39:03",
+    "character": "シンジ",
+    "japanese": "綾波らしいと言えばそうだけど・・・",
+    "english": "It's just like you to be living here, but still..."
+  },
+  {
+    "time": "00:39:06",
+    "character": "シンジ",
+    "japanese": "学校とかなさそうだし、いつもどうしてるの？",
+    "english": "It doesn't look like you have school, so what do you do all the time?"
+  },
+  {
+    "time": "00:39:10",
+    "character": "レイ",
+    "japanese": "命令を、待ってる。",
+    "english": "Wait for orders."
+  },
+  {
+    "time": "00:39:15",
+    "character": "シンジ",
+    "japanese": "・・・ここ、本も無いんだ。",
+    "english": "I don't see any books here."
+  },
+  {
+    "time": "00:39:17",
+    "character": "シンジ",
+    "japanese": "・・・本とか、読んでないの？",
+    "english": "You're not reading at all?"
+  },
+  {
+    "time": "00:39:19",
+    "character": "レイ",
+    "japanese": "本？",
+    "english": "Read?"
+  },
+  {
+    "time": "00:39:21",
+    "character": "レイ",
+    "japanese": "アヤナミレイなら、そうするの？",
+    "english": "Would Ayanami Rei do that?"
+  },
+  {
+    "time": "00:39:24",
+    "character": "シンジ",
+    "japanese": "うん。よく読んでたじゃないか。",
+    "english": "Yeah. You used to read a lot."
+  },
+  {
+    "time": "00:39:27",
+    "character": "シンジ",
+    "japanese": "部屋にもあったし。",
+    "english": "There were books in your room, too."
+  },
+  {
+    "time": "00:39:29",
+    "character": "レイ",
+    "japanese": "―――そう。",
+    "english": "I see."
+  },
+  {
+    "time": "00:39:30",
+    "character": "シンジ",
+    "japanese": "そうだ、",
+    "english": "I know!"
+  },
+  {
+    "time": "00:39:31",
+    "character": "シンジ",
+    "japanese": "本、ここの図書室で探して持ってくるよ。",
+    "english": "I'll go look in the library here and bring you some."
+  },
+  {
+    "time": "00:39:34",
+    "character": "シンジ",
+    "japanese": "あの、英語の本がいいかな？",
+    "english": "Um, English books are good, right?"
+  },
+  {
+    "time": "00:39:37",
+    "character": "シンジ",
+    "japanese": "いつも持ってて好きみたいだし",
+    "english": "You always had one on you, so I guess you liked them."
+  },
+  {
+    "time": "00:39:40",
+    "character": "レイ",
+    "japanese": "―――好き？",
+    "english": "Liked?"
+  },
+  {
+    "time": "00:39:41",
+    "character": "シンジ",
+    "japanese": "うん。・・・だと思うけど",
+    "english": "Yeah. At least, I think so."
+  },
+  {
+    "time": "00:39:44",
+    "character": "レイ",
+    "japanese": "好きって、何？",
+    "english": "What is \"liked\"?"
+  },
+  {
+    "time": "00:39:56",
+    "character": "冬月",
+    "japanese": "ゼーレはまだ、沈黙を守ったままか。",
+    "english": "So Seele are still keeping their silence?"
+  },
+  {
+    "time": "00:40:00",
+    "character": "ゲンドウ",
+    "japanese": "人類補完計画は死海文書通りに遂行される。",
+    "english": "The Human Instrumentality Project will be carried out according to the Dead Sea Scrolls."
+  },
+  {
+    "time": "00:40:05",
+    "character": "ゲンドウ",
+    "japanese": "もはや我々と語る必要はない。",
+    "english": "They no longer need to talk with us."
+  },
+  {
+    "time": "00:40:09",
+    "character": "冬月",
+    "japanese": "碇。―――今度は第１３号機を使うつもりか。",
+    "english": "Ikari, do you intend to use Eva-13 this time?"
+  },
+  {
+    "time": "00:40:15",
+    "character": "冬月",
+    "japanese": "・・・まあいい。俺はお前の計画についていくだけだ。",
+    "english": "Very well. I'll go along with your plan."
+  },
+  {
+    "time": "00:40:21",
+    "character": "冬月",
+    "japanese": "ユイ君のためにもな。",
+    "english": "For Yui-kun's sake, as well."
+  },
+  {
+    "time": "00:40:25",
+    "character": "シンジ",
+    "japanese": "―――ダメだ。動かないや・・・",
+    "english": "It's no use. It just won't work."
+  },
+  {
+    "time": "00:40:35",
+    "character": "ミサト",
+    "japanese": "何もしないで。",
+    "english": "Do nothing."
+  },
+  {
+    "time": "00:40:36",
+    "character": "アスカ",
+    "japanese": "あんたには関係ない。",
+    "english": "None of your business."
+  },
+  {
+    "time": "00:40:38",
+    "character": "サクラ",
+    "japanese": "エヴァにだけは乗らんでくださいよ。",
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "00:40:40",
+    "character": "ゲンドウ",
+    "japanese": "エヴァに乗れ。",
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "00:40:41",
+    "character": "レイ",
+    "japanese": "知らない。",
+    "english": "I don't know."
+  },
+  {
+    "time": "00:41:37",
+    "character": "カヲル",
+    "japanese": "降りて来なよ、碇君。",
+    "english": "Come down here, Ikari-kun."
+  },
+  {
+    "time": "01:41:39",
+    "character": "カヲル",
+    "japanese": "話そうよ"
+  },
+  {
+    "time": "00:41:46",
+    "character": "シンジ",
+    "japanese": "あっ・・・あの　話をするんじゃないの？",
+    "english": "U-Uh... Weren't we going to talk?"
+  },
+  {
+    "time": "00:41:49",
+    "character": "カヲル",
+    "japanese": "ピアノの連弾も音階の会話さ。",
+    "english": "A piano duet is a musical dialogue, you could say."
+  },
+  {
+    "time": "00:41:52",
+    "character": "カヲル",
+    "japanese": "やってみなよ。",
+    "english": "Why don't you try it?"
+  },
+  {
+    "time": "00:41:56",
+    "character": "シンジ",
+    "japanese": "・・・いいよ。僕には無理だよ",
+    "english": "I'll pass. I can't play."
+  },
+  {
+    "time": "00:41:58",
+    "character": "カヲル",
+    "japanese": "生きていくためには新しい事を始める変化も大切だ。",
+    "english": "If you want to live well, you have to change and try new things."
+  },
+  {
+    "time": "00:42:08",
+    "character": "カヲル",
+    "japanese": "簡単さ。",
+    "english": "Look, it's easy."
+  },
+  {
+    "time": "00:42:09",
+    "character": "カヲル",
+    "japanese": "キミはこっちで鍵盤を叩くだけでいいんだ。",
+    "english": "You just need to press the keys here."
+  },
+  {
+    "time": "00:42:27",
+    "character": "カヲル",
+    "japanese": "さ、弾いてみなよ。",
+    "english": "Now, try playing that."
+  },
+  {
+    "time": "00:42:53",
+    "character": "カヲル",
+    "japanese": "いいね！",
+    "english": "Very nice!"
+  },
+  {
+    "time": "00:42:55",
+    "character": "カヲル",
+    "japanese": "いいよ、君との音・・・",
+    "english": "We sound good together."
+  },
+  {
+    "time": "00:43:32",
+    "character": "カヲル",
+    "japanese": "・・・音が楽しい・・・",
+    "english": "Music is fun."
+  },
+  {
+    "time": "00:43:35",
+    "character": "カヲル",
+    "japanese": "二人ってスゴいね",
+    "english": "It's amazing what two people can achieve."
+  },
+  {
+    "time": "00:43:42",
+    "character": "シンジ",
+    "japanese": "―――ありがとう。",
+    "english": "Thanks."
+  },
+  {
+    "time": "00:44:44",
+    "character": "シンジ",
+    "japanese": "何だか久しぶりに楽しかったよ。",
+    "english": "It's been ages since I've had this much fun."
+  },
+  {
+    "time": "00:43:46",
+    "character": "カヲル",
+    "japanese": "僕もさ。",
+    "english": "Same here."
+  },
+  {
+    "time": "00:43:49",
+    "character": "カヲル",
+    "japanese": "またやろう。",
+    "english": "Stop by anytime, Ikari Shinji-kun."
+  },
+  {
+    "time": "00:43:49",
+    "character": "カヲル",
+    "japanese": "いつでも来てよ。碇シンジ君",
+    "english": "Stop by anytime, Ikari Shinji-kun."
+  },
+  {
+    "time": "00:43:52",
+    "character": "シンジ",
+    "japanese": "うん・・・",
+    "english": "Sure."
+  },
+  {
+    "time": "00:43:53",
+    "character": "シンジ",
+    "japanese": "あ、あの、君は？",
+    "english": "Oh, you are...?"
+  },
+  {
+    "time": "00:43:55",
+    "character": "カヲル",
+    "japanese": "僕はカヲル。渚カヲル。",
+    "english": "I'm Kaworu. Nagisa Kaworu."
+  },
+  {
+    "time": "00:43:59",
+    "character": "カヲル",
+    "japanese": "君と同じ、運命を仕組まれた子供さ。",
+    "english": "I'm a child bound by fate, the same as you."
+  },
+  {
+    "time": "00:44:08",
+    "character": "シンジ",
+    "japanese": "・・・またいない。",
+    "english": "She's gone again."
+  },
+  {
+    "time": "00:44:11",
+    "character": "シンジ",
+    "japanese": "本もそのままか",
+    "english": "She hasn't touched the books, either."
+  },
+  {
+    "time": "00:44:29",
+    "character": "カヲル",
+    "japanese": "おはよう。碇シンジ君。",
+    "english": "Good morning, Ikari Shinji-kun."
+  },
+  {
+    "time": "00:44:33",
+    "character": "カヲル",
+    "japanese": "今日は早いね",
+    "english": "You're here early today."
+  },
+  {
+    "time": "00:44:35",
+    "character": "シンジ",
+    "japanese": "他にすることがないから",
+    "english": "I didn't have anything else to do."
+  },
+  {
+    "time": "00:45:07",
+    "character": "シンジ",
+    "japanese": "どうしたらもっと上手く弾けるのかな？",
+    "english": "How can I get better at playing piano?"
+  },
+  {
+    "time": "00:45:10",
+    "character": "カヲル",
+    "japanese": "上手く弾く必要はないよ。",
+    "english": "You don't have to be good at it."
+  },
+  {
+    "time": "00:45:13",
+    "character": "カヲル",
+    "japanese": "ただ、気持ちのいい音を出せばいい。",
+    "english": "Just make music that feels good."
+  },
+  {
+    "time": "00:45:17",
+    "character": "シンジ",
+    "japanese": "じゃあ、もっといい音を出したいんだけど、どうすればいい？",
+    "english": "Well, how do I make music that sounds even better?"
+  },
+  {
+    "time": "00:45:21",
+    "character": "カヲル",
+    "japanese": "反復練習さ。",
+    "english": "Practice and more practice."
+  },
+  {
+    "time": "00:45:23",
+    "character": "カヲル",
+    "japanese": "同じ事を何度も繰り返す。自分がいいなって感じられるまでね。",
+    "english": "Practice and more practice."
+  },
+  {
+    "time": "00:45:30",
+    "character": "カヲル",
+    "japanese": "それしかない。"
+  },
+  {
+    "time": "00:46:01",
+    "character": "カヲル",
+    "japanese": "いいよ。任せて。",
+    "english": "Sure, leave it to me."
+  },
+  {
+    "time": "00:46:03",
+    "character": "カヲル",
+    "japanese": "動くようにすればいいんだね。",
+    "english": "I just need to get it working again, right?"
+  },
+  {
+    "time": "00:46:05",
+    "character": "シンジ",
+    "japanese": "うん。ありがとう。",
+    "english": "Yeah. Thank you."
+  },
+  {
+    "time": "00:46:07",
+    "character": "シンジ",
+    "japanese": "何だか悪いかな。こんな事まで頼んじゃって。",
+    "english": "Sorry for asking so much of you."
+  },
+  {
+    "time": "00:46:10",
+    "character": "カヲル",
+    "japanese": "気にする事はないよ。",
+    "english": "Don't need to worry about it."
+  },
+  {
+    "time": "00:46:12",
+    "character": "カヲル",
+    "japanese": "友だちだからね。",
+    "english": "We're friends, after all."
+  },
+  {
+    "time": "00:46:18",
+    "character": "カヲル",
+    "japanese": "暗くなってきたね。",
+    "english": "It's getting dark."
+  },
+  {
+    "time": "00:46:20",
+    "character": "カヲル",
+    "japanese": "今日はこれで戻ろう。",
+    "english": "Let's call it a day."
+  },
+  {
+    "time": "00:46:23",
+    "character": "シンジ",
+    "japanese": "ねえ、もう少しここにいない？",
+    "english": "Hey, why don't we stay here a little longer?"
+  },
+  {
+    "time": "00:45:26",
+    "character": "シンジ",
+    "japanese": "ここのまま星をみようよ。",
+    "english": "We could watch the stars from here."
+  },
+  {
+    "time": "00:46:28",
+    "character": "カヲル",
+    "japanese": "星を？",
+    "english": "The stars?"
+  },
+  {
+    "time": "00:46:31",
+    "character": "カヲル",
+    "japanese": "―――星が好きなのかい？",
+    "english": "So you like the stars?"
+  },
+  {
+    "time": "00:46:34",
+    "character": "シンジ",
+    "japanese": "うん。",
+    "english": "Yeah."
+  },
+  {
+    "time": "00:46:36",
+    "character": "シンジ",
+    "japanese": "この宇宙の大きさを感じてると、",
+    "english": "Whenever I think about how vast the universe is,"
+  },
+  {
+    "time": "00:46:39",
+    "character": "シンジ",
+    "japanese": "小さい時からなんだかすごく安らぐっていうか、",
+    "english": "it's always put my mind completely at ease, ever since I was little."
+  },
+  {
+    "time": "00:46:44",
+    "character": "シンジ",
+    "japanese": "１４年くらいじゃ何にも変わらないのが嬉しいっていうか、",
+    "english": "I guess I'm happy that it hasn't changed at all these past fourteen years."
+  },
+  {
+    "time": "00:46:49",
+    "character": "シンジ",
+    "japanese": "自分の事なんてどうでもいい気がして、落ちつくっていうか・・・",
+    "english": "It makes me feel like I can stop worrying about myself and really calm down."
+  },
+  {
+    "time": "00:46:55",
+    "character": "シンジ",
+    "japanese": "あの、上手く言えないよ。",
+    "english": "Uh, it's hard to put into words."
+  },
+  {
+    "time": "00:46:58",
+    "character": "カヲル",
+    "japanese": "君の気持ちは伝わるよ。",
+    "english": "Your feelings came through."
+  },
+  {
+    "time": "00:47:01",
+    "character": "カヲル",
+    "japanese": "変化を求めず、虚無と無慈悲な深淵の世界を好む。",
+    "english": "Instead of seeking change, you prefer a void, merciless abyss of a world."
+  },
+  {
+    "time": "00:47:06",
+    "character": "カヲル",
+    "japanese": "君らしいよ。",
+    "english": "It's just like you."
+  },
+  {
+    "time": "00:47:09",
+    "character": "カヲル",
+    "japanese": "いいね。２人で横たわるって。",
+    "english": "Lying here together is nice."
+  },
+  {
+    "time": "00:47:12",
+    "character": "カヲル",
+    "japanese": "こんなに心地よいとは知らなかったよ。",
+    "english": "I didn't know it would feel so good."
+  },
+  {
+    "time": "00:47:15",
+    "character": "カヲル",
+    "japanese": "ありがとう。誘ってくれて。",
+    "english": "Thanks for inviting me."
+  },
+  {
+    "time": "00:47:18",
+    "character": "シンジ",
+    "japanese": "いや、そんな、別に・・・",
+    "english": "Oh, it's no big deal."
+  },
+  {
+    "time": "00:47:20",
+    "character": "シンジ",
+    "japanese": "渚君と星を見たら、楽しいかなって―――　ちょっと思っただけ・・・",
+    "english": "I just thought it'd be fun to watch the stars with you, and—"
+  },
+  {
+    "time": "00:47:27",
+    "character": "カヲル",
+    "japanese": "―――楽しいよ",
+    "english": "It is fun."
+  },
+  {
+    "time": "00:47:30",
+    "character": "カヲル",
+    "japanese": "僕は、君と会う為に生まれて来たんだね。",
+    "english": "I really was born to meet you."
+  },
+  {
+    "time": "00:47:44",
+    "character": "シンジ",
+    "japanese": "ん？",
+    "english": "Hm?"
+  },
+  {
+    "time": "00:47:50",
+    "character": "シンジ",
+    "japanese": "今度のはちょっとおっきかな・・・ん？",
+    "english": "This one's a little big."
+  },
+  {
+    "time": "00:47:53",
+    "character": "シンジ",
+    "japanese": "あれ？",
+    "english": "Huh?"
+  },
+  {
+    "time": "00:47:55",
+    "character": "名札",
+    "japanese": "鈴原トウジ",
+    "english": "Suzuhara Toji"
+  },
+  {
+    "time": "00:47:56",
+    "character": "シンジ",
+    "japanese": "・・・！！"
+  },
+  {
+    "time": "00:48:00",
+    "character": "カヲル",
+    "japanese": "ハイ。これで動くようになったよ。",
+    "english": "Here, it should work just fine now."
+  },
+  {
+    "time": "00:48:03",
+    "character": "シンジ",
+    "japanese": "ありがとう。",
+    "english": "Thanks."
+  },
+  {
+    "time": "00:48:04",
+    "character": "シンジ",
+    "japanese": "・・・すごいね渚君。",
+    "english": "You're amazing, Nagisa-kun."
+  },
+  {
+    "time": "00:48:06",
+    "character": "シンジ",
+    "japanese": "何でも出来ちゃうんだ。",
+    "english": "There's nothing you can't do."
+  },
+  {
+    "time": "00:48:08",
+    "character": "カヲル",
+    "japanese": "こんなのは知識に過ぎない。",
+    "english": "Knowledge is all this is."
+  },
+  {
+    "time": "00:48:10",
+    "character": "カヲル",
+    "japanese": "君より少しこの世界に留まっているからだよ。",
+    "english": "It's only because I've been in this world a little longer than you have."
+  },
+  {
+    "time": "00:48:14",
+    "character": "シンジ",
+    "japanese": "・・・でも、すごいよ。",
+    "english": "You're still amazing, though."
+  },
+  {
+    "time": "00:48:18",
+    "character": "カヲル",
+    "japanese": "元気少ないね。どうしたんだい？",
+    "english": "You seem down."
+  },
+  {
+    "time": "00:48:25",
+    "character": "シンジ",
+    "japanese": "心配になったんだ。・・・友達が。",
+    "english": "I'm worried about my friends."
+  },
+  {
+    "time": "00:48:29",
+    "character": "カヲル",
+    "japanese": "友達？",
+    "english": "Your friends?"
+  },
+  {
+    "time": "00:48:30",
+    "character": "シンジ",
+    "japanese": "うん。",
+    "english": "Yeah."
+  },
+  {
+    "time": "00:48:32",
+    "character": "シンジ",
+    "japanese": "ネルフ本部の上に街があって、",
+    "english": "There was a city above Nerv HQ."
+  },
+  {
+    "time": "00:48:35",
+    "character": "シンジ",
+    "japanese": "みんなそこにいたんだ。",
+    "english": "We all used to live there."
+  },
+  {
+    "time": "00:48:37",
+    "character": "シンジ",
+    "japanese": "トウジやケンスケ。",
+    "english": "Toji, Kensuke."
+  },
+  {
+    "time": "00:48:38",
+    "character": "シンジ",
+    "japanese": "委員長やクラスのみんなも―――",
+    "english": "The class rep, my other classmates..."
+  },
+  {
+    "time": "00:48:41",
+    "character": "シンジ",
+    "japanese": "僕は１４年間も初号機の中で眠ってたみたいなんだ・・・",
+    "english": "Apparently I slept in Eva-01 for fourteen years."
+  },
+  {
+    "time": "00:48:45",
+    "character": "シンジ",
+    "japanese": "その間に、何もかも変わっちゃったんだよ。",
+    "english": "So much has changed since then."
+  },
+  {
+    "time": "00:48:50",
+    "character": "カヲル",
+    "japanese": "その変化に耐えきれず・・・辛いんだね。",
+    "english": "More change than you can bear at once is painful."
+  },
+  {
+    "time": "00:48:54",
+    "character": "シンジ",
+    "japanese": "何だか怖いんだ。",
+    "english": "I'm kind of scared."
+  },
+  {
+    "time": "00:48:57",
+    "character": "シンジ",
+    "japanese": "街が・・・みんながどうなっちゃってるのか。",
+    "english": "I don't know... what happened to the city and everyone."
+  },
+  {
+    "time": "00:49:02",
+    "character": "シンジ",
+    "japanese": "ワケわからなくて怖いんだ。",
+    "english": "Nothing makes sense, and it scares me."
+  },
+  {
+    "time": "00:49:04",
+    "character": "シンジ",
+    "japanese": "そう、怖いんだよ！",
+    "english": "That's right! I'm scared!"
+  },
+  {
+    "time": "00:49:15",
+    "character": "カヲル",
+    "japanese": "・・・知りたいかい？",
+    "english": "Do you want to know?"
+  },
+  {
+    "time": "00:49:29",
+    "character": "シンジ",
+    "japanese": "うわっ！"
+  },
+  {
+    "time": "00:49:44",
+    "character": "シンジ",
+    "japanese": "渚君？",
+    "english": "Nagisa-kun?"
+  },
+  {
+    "time": "00:49:46",
+    "character": "シンジ",
+    "japanese": "渚君！！",
+    "english": "Nagisa-kun!"
+  },
+  {
+    "time": "00:50:03",
+    "character": "カヲル",
+    "japanese": "さぁ、もう少しだ。",
+    "english": "Just a little further now."
+  },
+  {
+    "time": "00:50:17",
+    "character": "シンジ",
+    "japanese": "はあ・・・はあ・・・"
+  },
+  {
+    "time": "00:50:22",
+    "character": "カヲル",
+    "japanese": "もうすぐ雲が切れる。",
+    "english": "The clouds will soon disperse,"
+  },
+  {
+    "time": "00:50:24",
+    "character": "カヲル",
+    "japanese": "君の知りたい真実が見れるよ。",
+    "english": "and you will see the truth you desire."
+  },
+  {
+    "time": "00:50:31",
+    "character": "シンジ",
+    "japanese": "・・・！！"
+  },
+  {
+    "time": "00:50:36",
+    "character": "シンジ",
+    "japanese": "・・・なんだ、これ？",
+    "english": "What is this...?"
+  },
+  {
+    "time": "00:50:43",
+    "character": "カヲル",
+    "japanese": "君が初号機と同化している間に起こったサードインパクトの結果だよ。",
+    "english": "The outcome of Third Impact, which came to pass while you were merged with Eva-01."
+  },
+  {
+    "time": "00:50:51",
+    "character": "シンジ",
+    "japanese": "これじゃ・・・",
+    "english": "But then..."
+  },
+  {
+    "time": "00:50:53",
+    "character": "シンジ",
+    "japanese": "街のみんなは―――",
+    "english": "You're firing at an Eva!"
+  },
+  {
+    "time": "00:50:55",
+    "character": "カヲル",
+    "japanese": "この星での大量絶滅はめずらしい事じゃない。",
+    "english": "Mass extinctions are not unusual on this planet."
+  },
+  {
+    "time": "00:50:58",
+    "character": "カヲル",
+    "japanese": "むしろ、進化を促す面もある。",
+    "english": "In fact, they help drive evolution."
+  },
+  {
+    "time": "00:51:02",
+    "character": "カヲル",
+    "japanese": "生命とは本来、世界に合わせて自らを変えていく存在だからね。",
+    "english": "Life has always changed itself to adapt to the world around it."
+  },
+  {
+    "time": "00:51:08",
+    "character": "カヲル",
+    "japanese": "しかし、リリンは自らではなく世界の方を変えていく。",
+    "english": "However, Lilin change not themselves, but the world."
+  },
+  {
+    "time": "00:51:15",
+    "character": "カヲル",
+    "japanese": "だから、自らを人工的に進化させる為の儀式を起こした。",
+    "english": "So they brought the rite of artificial evolution unto themselves."
+  },
+  {
+    "time": "00:51:21",
+    "character": "カヲル",
+    "japanese": "古の生命体をニエとし、生命の実を与えた新たな生命体をつくり出す為にね。",
+    "english": "Old life is offered in sacrifice,"
+  },
+  {
+    "time": "00:51:29",
+    "character": "カヲル",
+    "japanese": "全てが太古よりプログラムされていた絶滅行動だ。",
+    "english": "All this is an act of extinction that has been programmed since time immemorial."
+  },
+  {
+    "time": "00:51:33",
+    "character": "カヲル",
+    "japanese": "ネルフでは、人類補完計画と呼んでいたよ。",
+    "english": "Nerv call it the Human Instrumentality Project."
+  },
+  {
+    "time": "00:51:38",
+    "character": "シンジ",
+    "japanese": "ネルフがこれを・・・",
+    "english": "This is Nerv's..."
+  },
+  {
+    "time": "00:51:43",
+    "character": "シンジ",
+    "japanese": "父さんは何をやってるんだ",
+    "english": "This is what my father was doing."
+  },
+  {
+    "time": "00:51:48",
+    "character": "カヲル",
+    "japanese": "・・・碇シンジ君。",
+    "english": "Ikari Shinji-kun,"
+  },
+  {
+    "time": "00:51:50",
+    "character": "カヲル",
+    "japanese": "一度覚醒し、ガフの扉を開いたエヴァ初号機は、",
+    "english": "once Awakened, Eva-01 opened the Gates of Guf"
+  },
+  {
+    "time": "00:51:55",
+    "character": "カヲル",
+    "japanese": "サードインパクトのトリガーとなってしまった。",
+    "english": "and became the trigger for Third Impact."
+  },
+  {
+    "time": "00:51:58",
+    "character": "カヲル",
+    "japanese": "リリンの言う、ニアサードインパクト。",
+    "english": "Lilin call it Near Third Impact."
+  },
+  {
+    "time": "00:52:02",
+    "character": "カヲル",
+    "japanese": "全てのきっかけは　君なんだよ。",
+    "english": "It was all initiated by you."
+  },
+  {
+    "time": "00:52:05",
+    "character": "シンジ",
+    "japanese": "・・・！！"
+  },
+  {
+    "time": "00:52:09",
+    "character": "シンジ",
+    "japanese": "違う。",
+    "english": "You're wrong!"
+  },
+  {
+    "time": "00:52:10",
+    "character": "シンジ",
+    "japanese": "僕はただ、綾波を助けたかっただけだ。",
+    "english": "All I wanted to do was save Ayanami!"
+  },
+  {
+    "time": "00:52:16",
+    "character": "カヲル",
+    "japanese": "・・・そうだね。しかし、それが原因だよ",
+    "english": "True. But that caused everything else."
+  },
+  {
+    "time": "00:52:21",
+    "character": "シンジ",
+    "japanese": "そんな・・・",
+    "english": "No..."
+  },
+  {
+    "time": "00:52:25",
+    "character": "シンジ",
+    "japanese": "僕は知らないよ！",
+    "english": "This can't be right!"
+  },
+  {
+    "time": "00:52:27",
+    "character": "シンジ",
+    "japanese": "そんな事急に言われたって",
+    "english": "You're telling me all of this so fast,"
+  },
+  {
+    "time": "00:52:29",
+    "character": "シンジ",
+    "japanese": "どうしようもないよっ！！",
+    "english": "and there's nothing I can do about it!"
+  },
+  {
+    "time": "00:52:30",
+    "character": "カヲル",
+    "japanese": "そう。",
+    "english": "Indeed."
+  },
+  {
+    "time": "00:52:31",
+    "character": "カヲル",
+    "japanese": "どうしようもない君の過去。",
+    "english": "There's nothing you can do about your past."
+  },
+  {
+    "time": "00:52:35",
+    "character": "カヲル",
+    "japanese": "君の知りたかった真実だ。",
+    "english": "This is the truth you desired to know."
+  },
+  {
+    "time": "00:52:38",
+    "character": "カヲル",
+    "japanese": "結果として、リリンは罪の代償を与えた。",
+    "english": "As a result, the Lilin are letting you pay for your sin."
+  },
+  {
+    "time": "00:52:43",
+    "character": "カヲル",
+    "japanese": "それがその首のものじゃないのかい？",
+    "english": "That's what the thing on your neck is, no?"
+  },
+  {
+    "time": "00:52:48",
+    "character": "カヲル",
+    "japanese": "罪だなんて・・・",
+    "english": "What sin?"
+  },
+  {
+    "time": "00:52:50",
+    "character": "シンジ",
+    "japanese": "何もしてないよ！",
+    "english": "I didn't do anything!"
+  },
+  {
+    "time": "00:52:52",
+    "character": "シンジ",
+    "japanese": "僕は関係ないよっ！！",
+    "english": "I had nothing to do with it!"
+  },
+  {
+    "time": "00:52:54",
+    "character": "カヲル",
+    "japanese": "君になくても他人からはあるのさ。",
+    "english": "You may deny it, but humanity thinks otherwise."
+  },
+  {
+    "time": "00:52:58",
+    "character": "カヲル",
+    "japanese": "・・・ただ、償えない罪はない。",
+    "english": "However, no sin is beyond redemption."
+  },
+  {
+    "time": "00:53:02",
+    "character": "カヲル",
+    "japanese": "希望は残っているよ。",
+    "english": "There is always hope."
+  },
+  {
+    "time": "00:53:04",
+    "character": "カヲル",
+    "japanese": "どんな時にもね。",
+    "english": "Always."
+  },
+  {
+    "time": "00:53:23",
+    "character": "冬月",
+    "japanese": "ゼーレの少年が第３の少年と接触。",
+    "english": "Seele's boy has contacted the Third Boy."
+  },
+  {
+    "time": "00:53:27",
+    "character": "冬月",
+    "japanese": "外界の様を見せたようだ。",
+    "english": "He showed him the conditions outside, it seems."
+  },
+  {
+    "time": "00:53:30",
+    "character": "冬月",
+    "japanese": "果たして、どう受け止めるのか・・・",
+    "english": "I wonder how he'll cope with it."
+  },
+  {
+    "time": "00:53:33",
+    "character": "冬月",
+    "japanese": "いいのか、碇？",
+    "english": "Are you sure about this, Ikari?"
+  },
+  {
+    "time": "00:53:35",
+    "character": "ゲンドウ",
+    "japanese": "ゼーレのシナリオを我々で書き換える。",
+    "english": "We'll rewrite Seele's scenario."
+  },
+  {
+    "time": "00:53:39",
+    "character": "ゲンドウ",
+    "japanese": "あらゆる存在は　その為の道具に過ぎん。",
+    "english": "Everything in existence is but a tool for that purpose."
+  },
+  {
+    "time": "00:53:42",
+    "character": "冬月",
+    "japanese": "お前の生き様を見せても息子の為にはならんとするか。",
+    "english": "So you're saying that your son wouldn't benefit from seeing how you live?"
+  },
+  {
+    "time": "00:53:48",
+    "character": "冬月",
+    "japanese": "―――私はそうは思わんがな。",
+    "english": "I'll have to disagree."
+  },
+  {
+    "time": "00:53:53",
+    "character": "シンジ",
+    "japanese": "・・・なんでだよ。",
+    "english": "I don't get it."
+  },
+  {
+    "time": "00:53:56",
+    "character": "シンジ",
+    "japanese": "・・・あんな事になってるなんて―――",
+    "english": "How did everything end up this way?"
+  },
+  {
+    "time": "00:54:03",
+    "character": "シンジ",
+    "japanese": "・・・そうだ。綾波を助けたんだ・・・",
+    "english": "Right... I saved Ayanami."
+  },
+  {
+    "time": "00:54:06",
+    "character": "シンジ",
+    "japanese": "それでいいじゃないかっ",
+    "english": "Isn't that good enough?"
+  },
+  {
+    "time": "00:54:32",
+    "character": "シンジ",
+    "japanese": "またいない・・・",
+    "english": "She's gone again."
+  },
+  {
+    "time": "00:54:34",
+    "character": "シンジ",
+    "japanese": "まだ読んでない",
+    "english": "She still hasn't touched the books."
+  },
+  {
+    "time": "00:54:38",
+    "character": "シンジ",
+    "japanese": "・・・何だよ・・・",
+    "english": "What's going on?"
+  },
+  {
+    "time": "00:54:40",
+    "character": "シンジ",
+    "japanese": "綾波も、どうしちゃったんだよ。もうっ！",
+    "english": "What's wrong with Ayanami?!"
+  },
+  {
+    "time": "00:54:53",
+    "character": "冬月",
+    "japanese": "第３の少年。将棋はうてるか？",
+    "english": "Third Boy, do you play shogi?"
+  },
+  {
+    "time": "00:54:57",
+    "character": "シンジ",
+    "japanese": "ええ。ルールくらいは",
+    "english": "Eh... I only know the rules."
+  },
+  {
+    "time": "00:55:00",
+    "character": "冬月",
+    "japanese": "けっこうだ。付き合いたまえ。",
+    "english": "Good enough. Let's have a game."
+  },
+  {
+    "time": "00:55:03",
+    "character": "冬月",
+    "japanese": "飛車角金は落としてやる。",
+    "english": "I'll start without a castle, bishop, and golden generals."
+  },
+  {
+    "time": "00:55:12",
+    "character": "冬月",
+    "japanese": "―――心を静かに、落ち着かせる。",
+    "english": "Let your mind be still."
+  },
+  {
+    "time": "00:55:16",
+    "character": "冬月",
+    "japanese": "戦いに勝つ為に必要な事だ。",
+    "english": "It's the only way to achieve victory."
+  },
+  {
+    "time": "00:55:19",
+    "character": "冬月",
+    "japanese": "３１手先で、君の詰みだ。",
+    "english": "You'll lose in another thirty-one moves."
+  },
+  {
+    "time": "00:55:24",
+    "character": "冬月",
+    "japanese": "―――ふむ",
+    "english": "Hmm..."
+  },
+  {
+    "time": "00:55:31",
+    "character": "冬月",
+    "japanese": "これなら楽しめるか。",
+    "english": "Is it more fun for you this way?"
+  },
+  {
+    "time": "00:55:35",
+    "character": "冬月",
+    "japanese": "・・・老人の趣味に付き合ってくれて、礼を言う。",
+    "english": "Thank you for indulging an old man his hobby."
+  },
+  {
+    "time": "00:55:43",
+    "character": "冬月",
+    "japanese": "私も臆病でね。",
+    "english": "I'm a coward too, you know."
+  },
+  {
+    "time": "00:55:45",
+    "character": "冬月",
+    "japanese": "口実でもなければ、こうして君と話す機会を持てなかった。",
+    "english": "I used this game as a pretext to talk to you."
+  },
+  {
+    "time": "00:55:50",
+    "character": "冬月",
+    "japanese": "君は、お母さんを覚えているかね？",
+    "english": "Do you remember your mother?"
+  },
+  {
+    "time": "00:55:54",
+    "character": "シンジ",
+    "japanese": "・・・いえ。まだ小さかったし。",
+    "english": "No. I was very young."
+  },
+  {
+    "time": "00:55:58",
+    "character": "シンジ",
+    "japanese": "それに、母のモノは父が全部処分したので・・・。",
+    "english": "Father got rid of everything that was hers."
+  },
+  {
+    "time": "00:56:07",
+    "character": "シンジ",
+    "japanese": "・・・この人は・・・",
+    "english": "Is this..."
+  },
+  {
+    "time": "00:56:10",
+    "character": "シンジ",
+    "japanese": "・・・綾波？",
+    "english": "...Ayanami?"
+  },
+  {
+    "time": "00:56:13",
+    "character": "冬月",
+    "japanese": "君の母親だ。",
+    "english": "Your mother."
+  },
+  {
+    "time": "00:56:14",
+    "character": "冬月",
+    "japanese": "旧姓は綾波ユイ。",
+    "english": "Maiden name, Ayanami Yui."
+  },
+  {
+    "time": "00:56:16",
+    "character": "冬月",
+    "japanese": "大学では私の教え子だった。",
+    "english": "She was my student at the university."
+  },
+  {
+    "time": "00:56:20",
+    "character": "冬月",
+    "japanese": "今はエヴァ初号機の制御システムとなっている。",
+    "english": "Now, she is the control system of Eva Unit 01."
+  },
+  {
+    "time": "00:56:24",
+    "character": "シンジ",
+    "japanese": "！！"
+  },
+  {
+    "time": "00:56:27",
+    "character": "冬月",
+    "japanese": "ふむ。ようやく電源が復旧したか。",
+    "english": "Hm. The power's finally back."
+  },
+  {
+    "time": "00:56:33",
+    "character": "冬月",
+    "japanese": "エヴァの極初期型制御システムだ。",
+    "english": "That is a very early prototype of the Eva control system."
+  },
+  {
+    "time": "00:56:37",
+    "character": "冬月",
+    "japanese": "ここでユイ君が発案した、コアへのダイレクトエントリを",
+    "english": "Here, Yui-kun proposed direct entry into cores,"
+  },
+  {
+    "time": "00:56:41",
+    "character": "冬月",
+    "japanese": "自らが被験者となり、試みた。",
+    "english": "and tested it using herself as the subject."
+  },
+  {
+    "time": "00:56:45",
+    "character": "冬月",
+    "japanese": "君も見ていたよ。記憶が消去されているがな。",
+    "english": "You were watching, too, but your memories have been erased."
+  },
+  {
+    "time": "00:56:55",
+    "character": "冬月",
+    "japanese": "結果、ユイ君はここで消え、",
+    "english": "In the end, Yui-kun vanished here,"
+  },
+  {
+    "time": "00:56:59",
+    "character": "冬月",
+    "japanese": "彼女の情報だけが綾波シリーズに残された。",
+    "english": "and only her data was left behind for the Ayanami Series."
+  },
+  {
+    "time": "00:57:03",
+    "character": "冬月",
+    "japanese": "君の知っている綾波レイは、ユイ君の複製体のひとつだ。",
+    "english": "The Ayanami Rei you know is one of Yui-kun's clones."
+  },
+  {
+    "time": "00:57:08",
+    "character": "冬月",
+    "japanese": "その娘も君の母親同様、初号機の中に保存されている。",
+    "english": "She is preserved within Eva-01, the same as your mother."
+  },
+  {
+    "time": "00:57:13",
+    "character": "冬月",
+    "japanese": "全ては碇の計画だよ。",
+    "english": "It is all part of Ikari's plan."
+  },
+  {
+    "time": "00:57:17",
+    "character": "シンジ",
+    "japanese": "・・・そんな。",
+    "english": "No way..."
+  },
+  {
+    "time": "00:57:20",
+    "character": "冬月",
+    "japanese": "世界を崩す事は雑作もない。",
+    "english": "Destroying the world is a simple matter."
+  },
+  {
+    "time": "00:57:24",
+    "character": "冬月",
+    "japanese": "だが・・・つくり直すとなると、そうもいかん。",
+    "english": "But rebuilding it, that isn't so easy."
+  },
+  {
+    "time": "00:57:28",
+    "character": "冬月",
+    "japanese": "時と同じく、世界に可逆性はないからな。",
+    "english": "The world can be reversed no more than time."
+  },
+  {
+    "time": "00:57:32",
+    "character": "冬月",
+    "japanese": "ヒトの心にも。",
+    "english": "Nor can the human heart."
+  },
+  {
+    "time": "00:57:35",
+    "character": "冬月",
+    "japanese": "だから今、碇は自分の願いを叶える為に、",
+    "english": "And thus, so that his wish might be granted,"
+  },
+  {
+    "time": "00:57:38",
+    "character": "冬月",
+    "japanese": "あらゆる犠牲を払っている。",
+    "english": "Ikari is paying every price there is."
+  },
+  {
+    "time": "00:57:41",
+    "character": "冬月",
+    "japanese": "自分の魂もだ。",
+    "english": "Including his very soul."
+  },
+  {
+    "time": "00:57:44",
+    "character": "冬月",
+    "japanese": "君には少し、真実を伝えておきたかった。",
+    "english": "I just wanted to tell you some of the truth,"
+  },
+  {
+    "time": "00:57:47",
+    "character": "冬月",
+    "japanese": "父親の事も",
+    "english": "and about your father."
+  },
+  {
+    "time": "00:58:01",
+    "character": "冬月",
+    "japanese": "まったく嫌な役だ。",
+    "english": "'Tis a wretched role I'm playing."
+  },
+  {
+    "time": "00:58:04",
+    "character": "冬月",
+    "japanese": "ユイ君。・・・これでいいんだな。",
+    "english": "Yui-kun, I hope this will suffice."
+  },
+  {
+    "time": "00:58:15",
+    "character": "ゲンドウ",
+    "japanese": "最後の契約の時が来る。",
+    "english": "The time of the final contract is upon us."
+  },
+  {
+    "time": "00:58:20",
+    "character": "ゲンドウ",
+    "japanese": "もうすぐ会えるな・・・ユイ。",
+    "english": "We will soon meet again, Yui."
+  },
+  {
+    "time": "00:58:31",
+    "character": "シンジ",
+    "japanese": "何で本、読まないんだよ",
+    "english": "Why aren't you reading the books?"
+  },
+  {
+    "time": "00:58:36",
+    "character": "レイ",
+    "japanese": "命令にないから",
+    "english": "Because I wasn't ordered to."
+  },
+  {
+    "time": "00:58:38",
+    "character": "シンジ",
+    "japanese": "命令か・・・",
+    "english": "\"Ordered\", huh?"
+  },
+  {
+    "time": "00:58:40",
+    "character": "シンジ",
+    "japanese": "じゃあ、もういいよっ！",
+    "english": "Alright, I've had enough!"
+  },
+  {
+    "time": "00:58:45",
+    "character": "シンジ",
+    "japanese": "ねえ！綾波だよねっ！",
+    "english": "You are Ayanami, right?"
+  },
+  {
+    "time": "00:58:48",
+    "character": "レイ",
+    "japanese": "そう。アヤナミレイ。",
+    "english": "Yes, Ayanami Rei."
+  },
+  {
+    "time": "00:58:51",
+    "character": "シンジ",
+    "japanese": "だったら　あの時助けたよねっ！！",
+    "english": "Then I did save you, didn't I?"
+  },
+  {
+    "time": "00:58:55",
+    "character": "レイ",
+    "japanese": "―――知らない。",
+    "english": "I don't know."
+  },
+  {
+    "time": "00:58:59",
+    "character": "シンジ",
+    "japanese": "くっ・・うう・・・・"
+  },
+  {
+    "time": "00:59:04",
+    "character": "レイ",
+    "japanese": "イカリ君・・・？",
+    "english": "Ikari-kun...?"
+  },
+  {
+    "time": "01:09:20",
+    "character": "シンジ",
+    "japanese": "助けてなかったんだ・・・",
+    "english": "So, I didn't actually save her..."
+  },
+  {
+    "time": "01:09:26",
+    "character": "ミサト",
+    "japanese": "何もしないで。",
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:09:26",
+    "character": "声",
+    "japanese": "嫌い。バッカみたい。",
+    "english": "What an idiot. I hate you."
+  },
+  {
+    "time": "01:09:27",
+    "character": "声",
+    "japanese": "側にいらないで。",
+    "english": "Stay away from me."
+  },
+  {
+    "time": "01:09:28",
+    "character": "声",
+    "japanese": "あんたのこと好きになるハズないじゃない。",
+    "english": "To be honest, I don't just dislike you."
+  },
+  {
+    "time": "01:09:28",
+    "character": "声",
+    "japanese": "あんたなんか生まれて来れなきゃよかったのよ！",
+    "english": "To be honest, I don't just dislike you."
+  },
+  {
+    "time": "01:09:29",
+    "character": "声",
+    "japanese": "／There's no way I'd fall for you.",
+    "english": "There's no way I'd fall for you."
+  },
+  {
+    "time": "01:09:29",
+    "character": "声",
+    "japanese": "あんたさえ、いなけりゃいいのに。",
+    "english": "There's no way I'd fall for you."
+  },
+  {
+    "time": "01:09:29",
+    "character": "レイ",
+    "japanese": "知らない。",
+    "english": "I don't know."
+  },
+  {
+    "time": "01:09:30",
+    "character": "シンジ",
+    "japanese": "父さん・・・",
+    "english": "Father..."
+  },
+  {
+    "time": "01:09:30",
+    "character": "アスカ",
+    "japanese": "あんたには関係ない。",
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:31",
+    "character": "声",
+    "japanese": "正直、苦手というより一番キライなタイプなのよ、あなたって。",
+    "english": "I hate people like you the most."
+  },
+  {
+    "time": "01:09:31",
+    "character": "声",
+    "japanese": "もうあっち行ってて。",
+    "english": "I hate people like you the most."
+  },
+  {
+    "time": "01:09:31",
+    "character": "アスカ",
+    "japanese": "あんたには関係ない。",
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:32",
+    "character": "ゲンドウ",
+    "japanese": "エヴァに乗れ。",
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "01:09:33",
+    "character": "アスカ",
+    "japanese": "あんたには関係ない。",
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:33",
+    "character": "ゲンドウ",
+    "japanese": "エヴァに乗れ。",
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "01:09:35",
+    "character": "サクラ",
+    "japanese": "エヴァにだけは乗らんで下さいよ！",
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:09:38",
+    "character": "ミサト",
+    "japanese": "何もしないで。",
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:09:38",
+    "character": "シンジ",
+    "japanese": "母さん・・・",
+    "english": "Mother..."
+  },
+  {
+    "time": "01:09:38",
+    "character": "ミサト",
+    "japanese": "何もしないで。",
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:09:39",
+    "character": "サクラ",
+    "japanese": "エヴァにだけは乗らんで下さいよ！",
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:09:39",
+    "character": "ミサト",
+    "japanese": "何もしないで。",
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:09:41",
+    "character": "アスカ",
+    "japanese": "あんたには関係ない。",
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:41",
+    "character": "ゲンドウ",
+    "japanese": "エヴァに乗れ。",
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "01:09:43",
+    "character": "声",
+    "japanese": "／Your existence means nothing to me.",
+    "english": "Your existence means nothing to me."
+  },
+  {
+    "time": "01:09:43",
+    "character": "ゲンドウ",
+    "japanese": "エヴァに乗れ。",
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "01:09:43",
+    "character": "アスカ",
+    "japanese": "あんたには関係ない。",
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:44",
+    "character": "ゲンドウ",
+    "japanese": "エヴァに乗れ。",
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "01:09:45",
+    "character": "レイ",
+    "japanese": "知らない。",
+    "english": "I don't know."
+  },
+  {
+    "time": "01:09:45",
+    "character": "サクラ",
+    "japanese": "エヴァにだけは乗らんで下さいよ！",
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:09:45",
+    "character": "レイ",
+    "japanese": "知らない。",
+    "english": "I don't know."
+  },
+  {
+    "time": "01:09:45",
+    "character": "声",
+    "japanese": "／Just disappear already.",
+    "english": "Just disappear already."
+  },
+  {
+    "time": "01:09:45",
+    "character": "サクラ",
+    "japanese": "エヴァにだけは乗らんで下さいよ！",
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:09:46",
+    "character": "レイ",
+    "japanese": "知らない。",
+    "english": "I don't know."
+  },
+  {
+    "time": "01:09:47",
+    "character": "サクラ",
+    "japanese": "エヴァにだけは乗らんで下さいよ！",
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:09:47",
+    "character": "声",
+    "japanese": "／You'd burden me as a friend.",
+    "english": "You'd burden me as a friend."
+  },
+  {
+    "time": "01:09:47",
+    "character": "サクラ",
+    "japanese": "エヴァにだけは乗らんで下さいよ！",
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:09:48",
+    "character": "シンジ",
+    "japanese": "ミサトさん・・・。",
+    "english": "Misato-san..."
+  },
+  {
+    "time": "01:09:49",
+    "character": "レイ",
+    "japanese": "知らない。",
+    "english": "I don't know."
+  },
+  {
+    "time": "01:09:50",
+    "character": "声",
+    "japanese": "あんたのこと好きになるハズないじゃない。",
+    "english": "To be honest, I don't just dislike you."
+  },
+  {
+    "time": "01:09:50",
+    "character": "ミサト",
+    "japanese": "何もしないで。",
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:09:50",
+    "character": "ゲンドウ",
+    "japanese": "エヴァに乗れ。",
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "01:09:51",
+    "character": "アスカ",
+    "japanese": "あんたには関係ない。",
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:52",
+    "character": "声",
+    "japanese": "正直、苦手というより一番キライなタイプなのよ、あなたって。",
+    "english": "I hate people like you the most."
+  },
+  {
+    "time": "01:09:52",
+    "character": "サクラ",
+    "japanese": "エヴァにだけは乗らんで下さいよ！",
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:09:53",
+    "character": "レイ",
+    "japanese": "知らない。",
+    "english": "I don't know."
+  },
+  {
+    "time": "01:09:53",
+    "character": "ミサト",
+    "japanese": "何もしない。",
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:09:54",
+    "character": "ゲンドウ",
+    "japanese": "エヴァに乗れ。",
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "01:09:55",
+    "character": "アスカ",
+    "japanese": "あんたには関係ない。",
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:55",
+    "character": "声",
+    "japanese": "バイバイ！",
+    "english": "Bye-bye!"
+  },
+  {
+    "time": "01:09:56",
+    "character": "ミサト",
+    "japanese": "何もしないで。",
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:09:56",
+    "character": "サクラ",
+    "japanese": "エヴァにだけは乗らんで下さいよ！",
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:09:57",
+    "character": "レイ",
+    "japanese": "知らない。",
+    "english": "I don't know."
+  },
+  {
+    "time": "01:09:57",
+    "character": "ゲンドウ",
+    "japanese": "エヴァに乗れ。",
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "01:09:57",
+    "character": "アスカ",
+    "japanese": "あんたには関係ない。",
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:58",
+    "character": "サクラ",
+    "japanese": "エヴァにだけは乗らんで下さいよ！",
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:09:58",
+    "character": "アスカ",
+    "japanese": "あんたには関係ない。",
+    "english": "None of your business."
+  },
+  {
+    "time": "01:09:58",
+    "character": "ミサト",
+    "japanese": "何もしないで。",
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:09:59",
+    "character": "レイ",
+    "japanese": "知らない。",
+    "english": "I don't know."
+  },
+  {
+    "time": "01:09:59",
+    "character": "ゲンドウ",
+    "japanese": "エヴァに乗れ。",
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "01:10:00",
+    "character": "サクラ",
+    "japanese": "エヴァにだけは乗らんで下さいよ！",
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:10:00",
+    "character": "ミサト",
+    "japanese": "何もしないで。",
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:10:01",
+    "character": "アスカ",
+    "japanese": "あんたには関係ない。",
+    "english": "None of your business."
+  },
+  {
+    "time": "01:10:02",
+    "character": "ミサト",
+    "japanese": "何もしないで。",
+    "english": "Do nothing."
+  },
+  {
+    "time": "01:10:03",
+    "character": "アスカ",
+    "japanese": "あんたには関係ない。",
+    "english": "None of your business."
+  },
+  {
+    "time": "01:10:05",
+    "character": "サクラ",
+    "japanese": "エヴァにだけは乗らんで下さいよ！",
+    "english": "Please just don't pilot an Eva!"
+  },
+  {
+    "time": "01:10:07",
+    "character": "レイ",
+    "japanese": "知らない。",
+    "english": "I don't know."
+  },
+  {
+    "time": "01:10:08",
+    "character": "ゲンドウ",
+    "japanese": "エヴァに乗れ。",
+    "english": "Pilot that Eva."
+  },
+  {
+    "time": "01:10:16",
+    "character": "シンジ",
+    "japanese": "何してたんだ僕は・・・",
+    "english": "What was I doing?"
+  },
+  {
+    "time": "01:00:16",
+    "character": "シンジ",
+    "japanese": "うああっ！！！"
+  },
+  {
+    "time": "01:00:47",
+    "character": "冬月",
+    "japanese": "最後の執行者がついに完成したか。",
+    "english": "The final executor is complete at last."
+  },
+  {
+    "time": "01:00:50",
+    "character": "ゲンドウ",
+    "japanese": "ああ。これで道具は全てそろった",
+    "english": "Yes. Everything we need is right here."
+  },
+  {
+    "time": "01:00:56",
+    "character": "カヲル",
+    "japanese": "時が満ちた。",
+    "english": "The time has come."
+  },
+  {
+    "time": "01:00:59",
+    "character": "カヲル",
+    "japanese": "いよいよだね。碇シンジ君",
+    "english": "This is it, Ikari Shinji-kun."
+  },
+  {
+    "time": "01:01:02",
+    "character": "シンジ",
+    "japanese": "イヤだっ！",
+    "english": "No!"
+  },
+  {
+    "time": "01:01:05",
+    "character": "シンジ",
+    "japanese": "エヴァなんてもう乗りたくない！",
+    "english": "I never want to pilot an Eva again!"
+  },
+  {
+    "time": "01:01:07",
+    "character": "シンジ",
+    "japanese": "綾波を助けてなかったんだ！",
+    "english": "I didn't save Ayanami after all!"
+  },
+  {
+    "time": "01:01:10",
+    "character": "シンジ",
+    "japanese": "エヴァに乗ったっていい事なんかなかったんだ！",
+    "english": "Nothing good ever came out of piloting an Eva!"
+  },
+  {
+    "time": "01:01:13",
+    "character": "シンジ",
+    "japanese": "もうイヤだ！何もしたくない！！",
+    "english": "I've had enough! I don't want to do anything!"
+  },
+  {
+    "time": "01:01:16",
+    "character": "カヲル",
+    "japanese": "―――そうして、辛い感情の記憶ばかりをリフレインさせても、いい事は何も生まれない。",
+    "english": "And nothing good comes from replaying your painful memories either."
+  },
+  {
+    "time": "01:01:24",
+    "character": "シンジ",
+    "japanese": "いい事なんかないよっ！！",
+    "english": "Nothing is ever good!"
+  },
+  {
+    "time": "01:01:26",
+    "character": "シンジ",
+    "japanese": "渚君が見せたんじゃないか！",
+    "english": "You showed me it yourself, Nagisa-kun."
+  },
+  {
+    "time": "01:01:29",
+    "character": "シンジ",
+    "japanese": "あの真っ赤などうしようもない世界を",
+    "english": "The blood-red world I can't do anything about..."
+  },
+  {
+    "time": "01:01:32",
+    "character": "カヲル",
+    "japanese": "エヴァで変わった事はエヴァで再び変えてしまえばいい。",
+    "english": "That which was changed by Eva can be restored by Eva in turn."
+  },
+  {
+    "time": "01:01:36",
+    "character": "シンジ",
+    "japanese": "そんな事言ったってエヴァも父さんもミサトさんも"
+  },
+  {
+    "time": "01:01:39",
+    "character": "シンジ",
+    "japanese": "何もかも信じられないよっ！！"
+  },
+  {
+    "time": "01:01:43",
+    "character": "カヲル",
+    "japanese": "―――でも、僕は信じて欲しい。",
+    "english": "Still, I want you to believe in me."
+  },
+  {
+    "time": "01:01:46",
+    "character": "シンジ",
+    "japanese": "出来ないよっ！！",
+    "english": "I can't!"
+  },
+  {
+    "time": "01:01:49",
+    "character": "シンジ",
+    "japanese": "ミサトさんたちが僕にこれを付けたんだ。",
+    "english": "Misato-san had this thing put on me."
+  },
+  {
+    "time": "01:01:53",
+    "character": "シンジ",
+    "japanese": "もうエヴァには乗るなって！",
+    "english": "They told me to never pilot an Eva again."
+  },
+  {
+    "time": "01:01:55",
+    "character": "シンジ",
+    "japanese": "乗ったら死ぬって脅されて！",
+    "english": "They said that I'd die if I did."
+  },
+  {
+    "time": "01:01:59",
+    "character": "シンジ",
+    "japanese": "・・・もう、エヴァなんかどうでもいいんだ・・・",
+    "english": "I don't care about Evas anymore."
+  },
+  {
+    "time": "01:02:09",
+    "character": "カヲル",
+    "japanese": "―――わかっている。",
+    "english": "I understand."
+  },
+  {
+    "time": "01:02:10",
+    "character": "カヲル",
+    "japanese": "リリンの呪いとエヴァの覚醒リスクは僕が引き受けるよ。",
+    "english": "I will shoulder the burden of the Lilin's curse and the risk of Eva's Awakening."
+  },
+  {
+    "time": "01:02:21",
+    "character": "シンジ",
+    "japanese": "・・・渚・・・君",
+    "english": "Nagisa-kun..."
+  },
+  {
+    "time": "01:02:24",
+    "character": "カヲル",
+    "japanese": "気にしなくていいよ。",
+    "english": "No need to worry."
+  },
+  {
+    "time": "01:02:26",
+    "character": "カヲル",
+    "japanese": "元々は僕を怖れたリリンが作ったモノだからね。",
+    "english": "The Lilin originally created this due to their fear of me."
+  },
+  {
+    "time": "01:02:29",
+    "character": "カヲル",
+    "japanese": "いずれは、こうするつもりだったんだ。",
+    "english": "I intended to take it from you at some point."
+  },
+  {
+    "time": "01:02:34",
+    "character": "カヲル",
+    "japanese": "―――碇シンジ君。君の希望はドグマの爆心地に残る２本の槍だけだ。",
+    "english": "Ikari Shinji-kun, your only hope lies with the two Spears left at the Impact epicenter in Dogma."
+  },
+  {
+    "time": "01:02:41",
+    "character": "カヲル",
+    "japanese": "それが補完計画発動のキーとなっている。",
+    "english": "They are the keys to invoking the Instrumentality Project."
+  },
+  {
+    "time": "01:02:45",
+    "character": "カヲル",
+    "japanese": "僕らでその槍を手にすればいい。",
+    "english": "We should take those Spears for ourselves."
+  },
+  {
+    "time": "01:02:48",
+    "character": "カヲル",
+    "japanese": "そうすれば、ネルフもフォースインパクトを起こせなくなるし、",
+    "english": "That way, Nerv can no longer trigger the Fourth Impact,"
+  },
+  {
+    "time": "01:02:52",
+    "character": "カヲル",
+    "japanese": "第１３号機とセットで使えば、世界の修復も可能だ。",
+    "english": "And if we use them together with Eva-13, we can even repair the world."
+  },
+  {
+    "time": "01:02:58",
+    "character": "シンジ",
+    "japanese": "―――そうだね。",
+    "english": "I guess so."
+  },
+  {
+    "time": "01:03:03",
+    "character": "シンジ",
+    "japanese": "うん。君になら出来るよ。",
+    "english": "Yeah, I'm sure you can do it."
+  },
+  {
+    "time": "01:03:05",
+    "character": "カヲル",
+    "japanese": "君となら、だよ。",
+    "english": "*We* can do it, you mean."
+  },
+  {
+    "time": "01:03:07",
+    "character": "カヲル",
+    "japanese": "エヴァ第１３号機はダブルエントリーシステムなんだ。",
+    "english": "Eva-13 uses a double entry system."
+  },
+  {
+    "time": "01:03:11",
+    "character": "カヲル",
+    "japanese": "二人でリリンの希望となろう。",
+    "english": "Let's become the hope of Lilin together."
+  },
+  {
+    "time": "01:03:15",
+    "character": "カヲル",
+    "japanese": "今の君に必要な事は何よりも希望。",
+    "english": "What you need most of all right now is hope,"
+  },
+  {
+    "time": "01:03:19",
+    "character": "カヲル",
+    "japanese": "そしてしょく罪と心の余裕だからね。",
+    "english": "along with atonement and serenity."
+  },
+  {
+    "time": "01:03:25",
+    "character": "シンジ",
+    "japanese": "・・・すごいや。何でもわかっちゃうんだ。",
+    "english": "You're amazing. You know everything."
+  },
+  {
+    "time": "01:03:30",
+    "character": "カヲル",
+    "japanese": "いつも、君の事しか考えていないから。",
+    "english": "Only because I'm always thinking about you."
+  },
+  {
+    "time": "01:03:35",
+    "character": "シンジ",
+    "japanese": "・・・ありがとう。渚君",
+    "english": "Thank you, Nagisa-kun."
+  },
+  {
+    "time": "01:03:38",
+    "character": "カヲル",
+    "japanese": "カヲル、でいいよ。",
+    "english": "Just call me Kaworu."
+  },
+  {
+    "time": "01:03:40",
+    "character": "シンジ",
+    "japanese": "あの、",
+    "english": "Well, uh..."
+  },
+  {
+    "time": "01:03:43",
+    "character": "シンジ",
+    "japanese": "僕もシンジ、でいいよ。",
+    "english": "You can call me Shinji, then."
+  },
+  {
+    "time": "01:03:49",
+    "character": "カヲル",
+    "japanese": "―――ピアノと同じだ。",
+    "english": "It's the same as playing piano."
+  },
+  {
+    "time": "01:03:50",
+    "character": "カヲル",
+    "japanese": "二人一緒ならいい事があるよ。シンジ君。",
+    "english": "Good things will happen if we're together, Shinji-kun."
+  },
+  {
+    "time": "01:03:56",
+    "character": "シンジ",
+    "japanese": "―――うん。行こう。カヲル君",
+    "english": "Let's go, Kaworu-kun."
+  },
+  {
+    "time": "01:04:38",
+    "character": "二人",
+    "japanese": "エヴァンゲリオン第１３号機　起動！",
+    "english": "Evangelion 13, start up!"
+  },
+  {
+    "time": "01:04:43",
+    "character": "青葉",
+    "japanese": "信号来ました！",
+    "english": "Signal detected!"
+  },
+  {
+    "time": "01:04:44",
+    "character": "青葉",
+    "japanese": "新型エヴァの起動を確認",
+    "english": "Activation of a new Eva confirmed!"
+  },
+  {
+    "time": "01:05:06",
+    "character": "シンジ",
+    "japanese": "僕らだけじゃないんだ。",
+    "english": "We're not alone."
+  },
+  {
+    "time": "01:05:08",
+    "character": "カヲル",
+    "japanese": "Mark.09のことかい。",
+    "english": "You mean the Mark.09?"
+  },
+  {
+    "time": "01:05:10",
+    "character": "カヲル",
+    "japanese": "援護のためだよ。",
+    "english": "It's here as our backup."
+  },
+  {
+    "time": "01:05:12",
+    "character": "カヲル",
+    "japanese": "ヴィレの動きを警戒しているのさ。",
+    "english": "It'll look out for any signs of Wille activity."
+  },
+  {
+    "time": "01:05:15",
+    "character": "シンジ",
+    "japanese": "そんなの僕らだけ十分だよ。",
+    "english": "Just the two of us would've been enough."
+  },
+  {
+    "time": "01:05:18",
+    "character": "シンジ",
+    "japanese": "・・・綾波じゃないのに",
+    "english": "She's not Ayanami anyway..."
+  },
+  {
+    "time": "01:05:22",
+    "character": "レイ",
+    "japanese": "・・・アヤナミじゃ・・・ない？",
+    "english": "Not... Ayanami?"
+  },
+  {
+    "time": "01:05:28",
+    "character": "シンジ",
+    "japanese": "カベが・・・",
+    "english": "The walls are..."
+  },
+  {
+    "time": "01:05:30",
+    "character": "カヲル",
+    "japanese": "ああ、全て、インフィニティのなり損ないたちだ。",
+    "english": "Yes, all failures of infinity."
+  },
+  {
+    "time": "01:05:38",
+    "character": "カヲル",
+    "japanese": "君は気にしなくていい。",
+    "english": "Don't let them weigh upon your mind."
+  },
+  {
+    "time": "01:05:42",
+    "character": "カヲル",
+    "japanese": "もうすぐ、リリスの結界だ。",
+    "english": "We're nearly at Lilith's barrier."
+  },
+  {
+    "time": "01:05:45",
+    "character": "カヲル",
+    "japanese": "メインシャフトを完全にふさいでいて、",
+    "english": "The Main Shaft is completely blocked,"
+  },
+  {
+    "time": "01:05:47",
+    "character": "カヲル",
+    "japanese": "この１４年間、誰の侵入もゆるしていない。",
+    "english": "keeping anyone from intruding over the past fourteen years."
+  },
+  {
+    "time": "01:05:56",
+    "character": "シンジ",
+    "japanese": "まるで大きなフタみたいだ。",
+    "english": "It's just like a huge lid."
+  },
+  {
+    "time": "01:06:00",
+    "character": "カヲル",
+    "japanese": "大丈夫さ。これを突破するための１３号機だからね。",
+    "english": "Don't worry. Eva-13 was designed to break through it."
+  },
+  {
+    "time": "01:06:03",
+    "character": "カヲル",
+    "japanese": "二人なら出来るよ。",
+    "english": "We can do it together."
+  },
+  {
+    "time": "01:06:05",
+    "character": "シンジ",
+    "japanese": "うん"
+  },
+  {
+    "time": "01:06:15",
+    "character": "カヲル",
+    "japanese": "テンポを合わせよう。",
+    "english": "Try to join tempos."
+  },
+  {
+    "time": "01:06:17",
+    "character": "カヲル",
+    "japanese": "ピアノの連弾を思い出して・・・",
+    "english": "Think about our piano duets."
+  },
+  {
+    "time": "01:06:24",
+    "character": "カヲル",
+    "japanese": "行くよ、シンジ君。",
+    "english": "Let's go, Shinji-kun."
+  },
+  {
+    "time": "01:06:48",
+    "character": "シンジ",
+    "japanese": "やった・・・",
+    "english": "We did it!"
+  },
+  {
+    "time": "01:07:07",
+    "character": "カヲル",
+    "japanese": "着いたよ。 セントラルドグマの最深部・・・",
+    "english": "Here we are. The deepest level of Central Dogma."
+  },
+  {
+    "time": "01:07:14",
+    "character": "カヲル",
+    "japanese": "サードインパクトの爆心地だ。",
+    "english": "The epicenter of Third Impact."
+  },
+  {
+    "time": "01:07:21",
+    "character": "シンジ",
+    "japanese": "・・・これはリリス？",
+    "english": "Is that Lilith?"
+  },
+  {
+    "time": "01:07:23",
+    "character": "カヲル",
+    "japanese": "だったモノだ。",
+    "english": "It *used* to be."
+  },
+  {
+    "time": "01:07:25",
+    "character": "カヲル",
+    "japanese": "その骸だよ。",
+    "english": "Now, it is her corpse."
+  },
+  {
+    "time": "01:07:27",
+    "character": "シンジ",
+    "japanese": "・・・ミサトさん・・・命がけで守ってたのに。",
+    "english": "Misato-san... even though we risked our lives to protect it..."
+  },
+  {
+    "time": "01:07:33",
+    "character": "シンジ",
+    "japanese": "ん？あれは、エヴァ？",
+    "english": "Huh? Is that an Eva?"
+  },
+  {
+    "time": "01:07:35",
+    "character": "カヲル",
+    "japanese": "そう。エヴァMark.０６。",
+    "english": "Yes, the Eva Mark.06."
+  },
+  {
+    "time": "01:07:38",
+    "character": "カヲル",
+    "japanese": "自立型に改造され、",
+    "english": "Remodeled into an autonomous type,"
+  },
+  {
+    "time": "01:07:40",
+    "character": "カヲル",
+    "japanese": "リリンに利用された機体の成れの果てさ。",
+    "english": "exploitation by the Lilin brought the unit to this state of ruin."
+  },
+  {
+    "time": "01:07:48",
+    "character": "シンジ",
+    "japanese": "あそこに刺さってるのが、目標物？",
+    "english": "The things that are piercing them... are our targets?"
+  },
+  {
+    "time": "01:07:52",
+    "character": "カヲル",
+    "japanese": "そう。ロンギヌスとカシウス、",
+    "english": "Yes, the Spears of Longinus and Cassius."
+  },
+  {
+    "time": "01:07:55",
+    "character": "カヲル",
+    "japanese": "２本の槍を持ち帰るには、魂が２つ必要なんだ。",
+    "english": "Wielding both requires two souls."
+  },
+  {
+    "time": "01:08:00",
+    "character": "カヲル",
+    "japanese": "そのためのダブルエントリーシステムさ。",
+    "english": "That's why we have the double entry system."
+  },
+  {
+    "time": "01:08:04",
+    "character": "シンジ",
+    "japanese": "それなら、あっちのパイロットでもいいんじゃないの？",
+    "english": "Then... wouldn't *that* pilot have been just as good for this as me?"
+  },
+  {
+    "time": "01:08:08",
+    "character": "カヲル",
+    "japanese": "いや、リリンの模造品では無理だ。",
+    "english": "No, a replica Lilin won't do."
+  },
+  {
+    "time": "01:08:10",
+    "character": "カヲル",
+    "japanese": "魂の場所が、違うからね。",
+    "english": "Her soul is in the wrong place."
+  },
+  {
+    "time": "01:08:14",
+    "character": "カヲル",
+    "japanese": "さあ、始めるよ。",
+    "english": "Well, let's begin."
+  },
+  {
+    "time": "01:08:23",
+    "character": "カヲル",
+    "japanese": "ちょっと待って。",
+    "english": "Hold on."
+  },
+  {
+    "time": "01:08:25",
+    "character": "カヲル",
+    "japanese": "変だ・・・",
+    "english": "Something's wrong."
+  },
+  {
+    "time": "01:08:26",
+    "character": "シンジ",
+    "japanese": "どうしたのカヲル君",
+    "english": "What is it, Kaworu-kun?"
+  },
+  {
+    "time": "01:08:31",
+    "character": "カヲル",
+    "japanese": "おかしい・・・",
+    "english": "This is odd..."
+  },
+  {
+    "time": "01:08:32",
+    "character": "カヲル",
+    "japanese": "２本とも形状が変化して、そろっている。",
+    "english": "Both Spears have morphed into the same shape."
+  },
+  {
+    "time": "01:08:36",
+    "character": "シンジ",
+    "japanese": "早く槍を抜こうよ。",
+    "english": "We should hurry and pull the Spears out."
+  },
+  {
+    "time": "01:08:38",
+    "character": "シンジ",
+    "japanese": "そのためにエヴァに乗ってきたんだから",
+    "english": "It's the only reason I'm piloting this Eva."
+  },
+  {
+    "time": "01:08:44",
+    "character": "シンジ",
+    "japanese": "何だよコレ！？",
+    "english": "What's going on?!"
+  },
+  {
+    "time": "01:08:55",
+    "character": "シンジ",
+    "japanese": "２号機！！",
+    "english": "Eva-02?"
+  },
+  {
+    "time": "01:08:57",
+    "character": "シンジ",
+    "japanese": "アスカ！！",
+    "english": "Asuka!"
+  },
+  {
+    "time": "01:09:00",
+    "character": "シンジ",
+    "japanese": "何すんだよ、アスカ！",
+    "english": "What are you doing, Asuka?!"
+  },
+  {
+    "time": "01:09:05",
+    "character": "アスカ",
+    "japanese": "バカシンジ？",
+    "english": "Stupid Shinji?!"
+  },
+  {
+    "time": "01:09:06",
+    "character": "アスカ",
+    "japanese": "アンタまさか、エヴァに乗ってんの？",
+    "english": "You can't seriously be piloting an Eva?!"
+  },
+  {
+    "time": "01:09:08",
+    "character": "シンジ",
+    "japanese": "そうだよ。",
+    "english": "I am."
+  },
+  {
+    "time": "01:09:10",
+    "character": "シンジ",
+    "japanese": "エヴァ乗って世界を変えるんだ",
+    "english": "And I'm going to change the world doing it!"
+  },
+  {
+    "time": "01:09:13",
+    "character": "アスカ",
+    "japanese": "・・・ガキが。",
+    "english": "You damned brat..."
+  },
+  {
+    "time": "01:09:15",
+    "character": "アスカ",
+    "japanese": "だったら　乗るな！",
+    "english": "If that's how it is, don't pilot!"
+  },
+  {
+    "time": "01:09:25",
+    "character": "アスカ",
+    "japanese": "援護射撃　いっつも遅いッ！！",
+    "english": "Your support fire is always late!"
+  },
+  {
+    "time": "01:09:26",
+    "character": "マリ",
+    "japanese": "めんごめんご",
+    "english": "Sorry, sorry!"
+  },
+  {
+    "time": "01:09:28",
+    "character": "マリ",
+    "japanese": "アダムスの器さん",
+    "english": "Adams' Vessel-san,"
+  },
+  {
+    "time": "01:09:31",
+    "character": "マリ",
+    "japanese": "せめて足止めはさせてもらうニャ！",
+    "english": "at least I'll stop *you* in your tracks."
+  },
+  {
+    "time": "01:09:54",
+    "character": "シンジ",
+    "japanese": "なんで邪魔するんだ、アスカ！",
+    "english": "Why are you getting in our way, Asuka?"
+  },
+  {
+    "time": "01:09:56",
+    "character": "シンジ",
+    "japanese": "あれは僕たちの希望の槍なんだよ！",
+    "english": "Those are our Spears of hope!"
+  },
+  {
+    "time": "01:10:01",
+    "character": "アスカ",
+    "japanese": "あんたこそ　余計なこと　するんじゃないわよ！",
+    "english": "None of your business."
+  },
+  {
+    "time": "01:10:04",
+    "character": "アスカ",
+    "japanese": "ガキシンジ、",
+    "english": "You brat, Shinji!"
+  },
+  {
+    "time": "01:10:05",
+    "character": "アスカ",
+    "japanese": "またサードインパクトを起こすつもり？",
+    "english": "Are you trying to cause Third Impact again?"
+  },
+  {
+    "time": "01:10:07",
+    "character": "シンジ",
+    "japanese": "ちがう！",
+    "english": "No I'm not!"
+  },
+  {
+    "time": "01:10:09",
+    "character": "シンジ",
+    "japanese": "槍があれば全部やり直せる",
+    "english": "If I get the Spears, I can fix everything!"
+  },
+  {
+    "time": "01:10:12",
+    "character": "シンジ",
+    "japanese": "世界が救えるんだ",
+    "english": "I'm trying to save the world!"
+  },
+  {
+    "time": "01:10:16",
+    "character": "アスカ",
+    "japanese": "・・・ホンっとにガキね。",
+    "english": "You really *are* a little brat."
+  },
+  {
+    "time": "01:10:19",
+    "character": "シンジ",
+    "japanese": "・・・わからずや！！",
+    "english": "You just don't get it!"
+  },
+  {
+    "time": "01:10:30",
+    "character": "シンジ",
+    "japanese": "カヲル君も手伝ってよ",
+    "english": "Kaworu-kun, help me out here!"
+  },
+  {
+    "time": "01:10:34",
+    "character": "カヲル",
+    "japanese": "カシウスとロンギヌス対の槍が必要なんだ。",
+    "english": "Cassius and Longinus. Both of the Spears are needed."
+  },
+  {
+    "time": "01:10:39",
+    "character": "カヲル",
+    "japanese": "なのに、ここには同じが槍が２本あるだけ・・・",
+    "english": "But the only two Spears that are here are the same..."
+  },
+  {
+    "time": "01:10:43",
+    "character": "シンジ",
+    "japanese": "カヲル君！！",
+    "english": "Kaworu-kun!"
+  },
+  {
+    "time": "01:10:44",
+    "character": "カヲル",
+    "japanese": "そうか！",
+    "english": "I see!"
+  },
+  {
+    "time": "01:10:46",
+    "character": "カヲル",
+    "japanese": "そういうことか・・・",
+    "english": "Now I understand,"
+  },
+  {
+    "time": "01:10:48",
+    "character": "カヲル",
+    "japanese": "リリン！",
+    "english": "Lilin!"
+  },
+  {
+    "time": "01:10:55",
+    "character": "マリ",
+    "japanese": "ゼーレの暫定パイロットさん",
+    "english": "Seele's fill-in pilot,"
+  },
+  {
+    "time": "01:10:58",
+    "character": "マリ",
+    "japanese": "聞こえてるでしょ",
+    "english": "you can hear me, right?"
+  },
+  {
+    "time": "01:11:00",
+    "character": "マリ",
+    "japanese": "アダムスの器になる前に、そっから出た方がいいよ",
+    "english": "You should get out of there before you turn into an Adams' Vessel."
+  },
+  {
+    "time": "01:11:04",
+    "character": "レイ",
+    "japanese": "ダメ。それは命令じゃない。",
+    "english": "No. That is not what I was ordered."
+  },
+  {
+    "time": "01:11:07",
+    "character": "マリ",
+    "japanese": "・・・堅物だニャ",
+    "english": "Talk about straightlaced."
+  },
+  {
+    "time": "01:11:09",
+    "character": "マリ",
+    "japanese": "あんたのオリジナルはもっと愛想があったよ",
+    "english": "Your original was a lot friendlier, you know."
+  },
+  {
+    "time": "01:11:12",
+    "character": "レイ",
+    "japanese": "オリジナル？",
+    "english": "Original?"
+  },
+  {
+    "time": "01:11:14",
+    "character": "レイ",
+    "japanese": "別の私？",
+    "english": "Another me?"
+  },
+  {
+    "time": "01:11:30",
+    "character": "シンジ",
+    "japanese": "カヲル君！どうしちゃったんだよ",
+    "english": "Kaworu-kun, what happened to you?!"
+  },
+  {
+    "time": "01:11:45",
+    "character": "シンジ",
+    "japanese": "アスカ！",
+    "english": "You say that, but my father, Evas, Misato-san..."
+  },
+  {
+    "time": "00:11:46",
+    "character": "シンジ",
+    "japanese": "お願いだから　邪魔しないでよ"
+  },
+  {
+    "time": "01:11:49",
+    "character": "アスカ",
+    "japanese": "おとなしくやられろ！ガキシンジィ！",
+    "english": "Go down already, bratty Shinji!"
+  },
+  {
+    "time": "01:11:57",
+    "character": "アスカ",
+    "japanese": "こんなときにっ！",
+    "english": "You're kidding me!"
+  },
+  {
+    "time": "01:11:58",
+    "character": "アスカ",
+    "japanese": "コネメガネ！スペア",
+    "english": "Hey, Glasses! Throw me a spare!"
+  },
+  {
+    "time": "01:12:07",
+    "character": "シンジ",
+    "japanese": "今のうちに槍を・・・",
+    "english": "Now's our chance to grab the Spears!"
+  },
+  {
+    "time": "01:12:11",
+    "character": "アスカ",
+    "japanese": "女に手を上げるなんて",
+    "english": "I can't believe he'd hit a girl."
+  },
+  {
+    "time": "01:12:13",
+    "character": "アスカ",
+    "japanese": "サイッテェ・・・",
+    "english": "Bastard."
+  },
+  {
+    "time": "01:12:14",
+    "character": "マリ",
+    "japanese": "スペア行くよ",
+    "english": "Spare, incoming!"
+  },
+  {
+    "time": "01:12:28",
+    "character": "カヲル",
+    "japanese": "・・・やめようシンジ君。",
+    "english": "Stop, Shinji-kun."
+  },
+  {
+    "time": "01:12:30",
+    "character": "カヲル",
+    "japanese": "いやな予感がする。",
+    "english": "I have a really bad feeling about this."
+  },
+  {
+    "time": "01:12:32",
+    "character": "シンジ",
+    "japanese": "だめだよ。カヲル君！",
+    "english": "We can't stop now, Kaworu-kun!"
+  },
+  {
+    "time": "01:12:34",
+    "character": "シンジ",
+    "japanese": "何のためにここまで来たんだよ！",
+    "english": "Remember why we came all the way here?"
+  },
+  {
+    "time": "01:12:37",
+    "character": "カヲル",
+    "japanese": "もういいんだ・・・",
+    "english": "Don't do this!"
+  },
+  {
+    "time": "01:12:38",
+    "character": "カヲル",
+    "japanese": "あれは僕らの槍じゃない",
+    "english": "Those aren't the Spears we came for!"
+  },
+  {
+    "time": "01:12:41",
+    "character": "シンジ",
+    "japanese": "僕らの槍じゃないって・・・",
+    "english": "Not... the Spears we came for?"
+  },
+  {
+    "time": "01:12:47",
+    "character": "シンジ",
+    "japanese": "槍が必要だって君が言ったんだ",
+    "english": "You're the one who said we need the Spears."
+  },
+  {
+    "time": "01:12:50",
+    "character": "シンジ",
+    "japanese": "だから僕は　エヴァに乗ったんだよっ！",
+    "english": "That's why I got into this Eva!"
+  },
+  {
+    "time": "01:12:57",
+    "character": "カヲル",
+    "japanese": "操作系が・・・",
+    "english": "The controls..."
+  },
+  {
+    "time": "01:13:02",
+    "character": "シンジ",
+    "japanese": "カヲル君のために",
+    "english": "For Kaworu-kun,"
+  },
+  {
+    "time": "01:13:05",
+    "character": "シンジ",
+    "japanese": "みんなのために槍を手に入れる。",
+    "english": "for everyone, I will get the Spears!"
+  },
+  {
+    "time": "01:13:07",
+    "character": "シンジ",
+    "japanese": "そうすれば世界は戻る。",
+    "english": "Only then will the world go back to how it should be."
+  },
+  {
+    "time": "01:13:11",
+    "character": "シンジ",
+    "japanese": "そうすれば　ミサトさんだって！",
+    "english": "That way, even Misato-san would..."
+  },
+  {
+    "time": "01:13:15",
+    "character": "アスカ",
+    "japanese": "やばい・・・",
+    "english": "Crap!"
+  },
+  {
+    "time": "01:13:16",
+    "character": "アスカ",
+    "japanese": "コネメガネ！妨害物は、かたづいてる！",
+    "english": "Glasses, I've lifted the block."
+  },
+  {
+    "time": "01:13:18",
+    "character": "アスカ",
+    "japanese": "ＡＡ弾の使用を許可！",
+    "english": "You're cleared to use AA rounds!"
+  },
+  {
+    "time": "01:13:20",
+    "character": "マリ",
+    "japanese": "待ってました",
+    "english": "I've been waiting for this!"
+  },
+  {
+    "time": "01:13:22",
+    "character": "マリ",
+    "japanese": "虎の子よん",
+    "english": "Check these babies out!"
+  },
+  {
+    "time": "01:13:30",
+    "character": "マリ",
+    "japanese": "Ａ．Ｔ．フォールドがない？",
+    "english": "There's no A.T. Field?"
+  },
+  {
+    "time": "01:13:32",
+    "character": "マリ",
+    "japanese": "まさか、この機体",
+    "english": "Don't tell me that unit..."
+  },
+  {
+    "time": "01:13:46",
+    "character": "カヲル",
+    "japanese": "だめだ、シンジ君・・・！",
+    "english": "Don't do it, Shinji-kun!"
+  },
+  {
+    "time": "01:13:48",
+    "character": "アスカ",
+    "japanese": "やめろ！バカガキ！",
+    "english": "Stop, you stupid brat!"
+  },
+  {
+    "time": "01:14:13",
+    "character": "ゲンドウ",
+    "japanese": "始めよう冬月。",
+    "english": "Let's begin, Fuyutsuki."
+  },
+  {
+    "time": "01:14:22",
+    "character": "シンジ",
+    "japanese": "エヴァMark.06！",
+    "english": "Eva Mark.06?"
+  },
+  {
+    "time": "01:14:25",
+    "character": "シンジ",
+    "japanese": "パターン青って、",
+    "english": "Blood type blue?"
+  },
+  {
+    "time": "01:14:26",
+    "character": "シンジ",
+    "japanese": "どういうことだよ",
+    "english": "What's going on?"
+  },
+  {
+    "time": "01:14:30",
+    "character": "アスカ",
+    "japanese": "まずいっ！",
+    "english": "This is bad!"
+  },
+  {
+    "time": "01:14:32",
+    "character": "アスカ",
+    "japanese": "第１２の使徒がまだ生き残ってる！",
+    "english": "The Twelfth Angel is still alive!"
+  },
+  {
+    "time": "01:14:35",
+    "character": "アスカ",
+    "japanese": "コネメガネ！３番コンテナ！",
+    "english": "Glasses! Container No.3!"
+  },
+  {
+    "time": "01:14:37",
+    "character": "マリ",
+    "japanese": "あいよっ！",
+    "english": "Aye, ma'am!"
+  },
+  {
+    "time": "01:14:40",
+    "character": "アスカ",
+    "japanese": "サードインパクトの続きが始まる前に、こいつを！かたづける！",
+    "english": "We'll take care of this before Third Impact starts up again!"
+  },
+  {
+    "time": "01:14:49",
+    "character": "レイ",
+    "japanese": "これが命令。",
+    "english": "I was ordered to."
+  },
+  {
+    "time": "01:15:00",
+    "character": "シンジ",
+    "japanese": "使徒！？",
+    "english": "An Angel?!"
+  },
+  {
+    "time": "01:15:08",
+    "character": "アスカ",
+    "japanese": "うぉおおおおおっ！！"
+  },
+  {
+    "time": "01:15:10",
+    "character": "マリ",
+    "japanese": "―――姫。ムダ弾は止めときなよ。",
+    "english": "Princess, stop wasting your bullets."
+  },
+  {
+    "time": "01:15:14",
+    "character": "マリ",
+    "japanese": "あれ全部、コアだから。",
+    "english": "The whole thing is a core."
+  },
+  {
+    "time": "01:15:17",
+    "character": "マリ",
+    "japanese": "私らじゃ、手の打ちようがニャイよん。",
+    "english": "There's nothing we can do about it now."
+  },
+  {
+    "time": "01:15:21",
+    "character": "マリ",
+    "japanese": "それに、最後の使徒を倒したところで、鬼が出るか、蛇が出るか。",
+    "english": "Plus, we don't know *what* might happen once the final Angel is defeated."
+  },
+  {
+    "time": "01:15:24",
+    "character": "マリ",
+    "japanese": "気になるジャ",
+    "english": "Troubling, isn't it?"
+  },
+  {
+    "time": "01:15:32",
+    "character": "レイ",
+    "japanese": "―――これは？",
+    "english": "Is that..."
+  },
+  {
+    "time": "01:15:37",
+    "character": "レイ",
+    "japanese": "―――これは、私？",
+    "english": "Is that me?"
+  },
+  {
+    "time": "01:15:41",
+    "character": "レイ",
+    "japanese": "私は、何？",
+    "english": "What am I?"
+  },
+  {
+    "time": "01:15:46",
+    "character": "シンジ",
+    "japanese": "操縦がきかない！",
+    "english": "The controls aren't working!"
+  },
+  {
+    "time": "01:15:47",
+    "character": "シンジ",
+    "japanese": "どうなっちゃったんだ？カヲル君",
+    "english": "What's going on, Kaworu-kun?"
+  },
+  {
+    "time": "01:15:51",
+    "character": "シンジ",
+    "japanese": "カヲル君？",
+    "english": "Kaworu-kun!"
+  },
+  {
+    "time": "01:15:53",
+    "character": "カヲル",
+    "japanese": "まさか、第１使徒の僕が、",
+    "english": "I never thought that I, the First Angel,"
+  },
+  {
+    "time": "01:15:56",
+    "character": "カヲル",
+    "japanese": "１３番目の使徒に堕とされるとは・・・",
+    "english": "would be cast down to the Thirteenth."
+  },
+  {
+    "time": "01:16:00",
+    "character": "シンジ",
+    "japanese": "何を云ってるの？カヲル君！？",
+    "english": "What are you talking about, Kaworu-kun?!"
+  },
+  {
+    "time": "01:16:04",
+    "character": "カヲル",
+    "japanese": "始まりと終わりは同じというわけか。",
+    "english": "So the beginning and the end are the same."
+  },
+  {
+    "time": "01:16:08",
+    "character": "カヲル",
+    "japanese": "さすが、リリンの王、",
+    "english": "I expected no less from the King of the Lilin,"
+  },
+  {
+    "time": "01:16:11",
+    "character": "カヲル",
+    "japanese": "シンジ君の父上だ。",
+    "english": "Shinji-kun's father!"
+  },
+  {
+    "time": "01:16:13",
+    "character": "マリ",
+    "japanese": "ＤＳＳチョーカーにパターン青？",
+    "english": "Blood type blue from the DSS Choker?"
+  },
+  {
+    "time": "01:16:15",
+    "character": "マリ",
+    "japanese": "ないハズの１３番目？",
+    "english": "But there shouldn't *be* a Thirteenth!"
+  },
+  {
+    "time": "01:16:19",
+    "character": "マリ",
+    "japanese": "ゲンドウ君の狙いはコレか！",
+    "english": "So this is what Gendo-kun was aiming for."
+  },
+  {
+    "time": "01:16:24",
+    "character": "ゲンドウ",
+    "japanese": "死海文書の契約改定の時が来ました。",
+    "english": "It is time to amend the Dead Sea Scrolls' contract."
+  },
+  {
+    "time": "01:16:29",
+    "character": "ゲンドウ",
+    "japanese": "これでお別れです。",
+    "english": "This is farewell."
+  },
+  {
+    "time": "01:16:33",
+    "character": "ゲンドウ",
+    "japanese": "あなた方も魂の形を変えたとはいえ、",
+    "english": "Though you have all changed the form of your souls,"
+  },
+  {
+    "time": "01:16:37",
+    "character": "ゲンドウ",
+    "japanese": "知恵の実を与えられた生命体だ。",
+    "english": "you are still creatures blessed with the Fruit of Knowledge."
+  },
+  {
+    "time": "01:16:41",
+    "character": "ゲンドウ",
+    "japanese": "悠久の時を生きることはできても、",
+    "english": "Though you could have lived for an eternity,"
+  },
+  {
+    "time": "01:16:44",
+    "character": "ゲンドウ",
+    "japanese": "我々と同じく訪れる死からは逃がれられない。",
+    "english": "you can escape the fate of death no more than us."
+  },
+  {
+    "time": "01:16:50",
+    "character": "ゲンドウ",
+    "japanese": "死を背負った群の進化を進めるために、あなた方は我々に文明を与えてくれた。",
+    "english": "To advance the evolution of the flock burdened by death,"
+  },
+  {
+    "time": "01:17:00",
+    "character": "ゲンドウ",
+    "japanese": "人類を代表し、感謝します。",
+    "english": "On behalf of humanity, I thank you."
+  },
+  {
+    "time": "01:17:04",
+    "character": "ゲンドウ",
+    "japanese": "死をもってあなた方の魂をあるべきところへ還しましょう。",
+    "english": "Let death return your souls to where they belong."
+  },
+  {
+    "time": "01:17:12",
+    "character": "ゲンドウ",
+    "japanese": "宿願たる人類補完計画と",
+    "english": "The long desired Human Instrumentality Project,"
+  },
+  {
+    "time": "01:17:15",
+    "character": "ゲンドウ",
+    "japanese": "諦観された神殺しは、私が行います。",
+    "english": "and the inevitable deicide, will be completed by me."
+  },
+  {
+    "time": "01:17:19",
+    "character": "ゲンドウ",
+    "japanese": "ご安心を。",
+    "english": "Rest assured."
+  },
+  {
+    "time": "01:17:21",
+    "character": "ゼーレ０１",
+    "japanese": "我らの願いは、すでに叶った。",
+    "english": "Our wishes have come to fruition."
+  },
+  {
+    "time": "01:17:25",
+    "character": "ゼーレ０１",
+    "japanese": "よい。",
+    "english": "Good."
+  },
+  {
+    "time": "01:17:26",
+    "character": "ゼーレ０１",
+    "japanese": "全てこれでよい。",
+    "english": "All is well now."
+  },
+  {
+    "time": "01:17:29",
+    "character": "ゼーレ０１",
+    "japanese": "人類の補完。",
+    "english": "We wish for Human Instrumentality, the peaceful purification of all souls."
+  },
+  {
+    "time": "01:17:31",
+    "character": "ゼーレ０１",
+    "japanese": "安らかな魂の浄化を願う。",
+    "english": "We wish for Human Instrumentality, the peaceful purification of all souls."
+  },
+  {
+    "time": "01:18:06",
+    "character": "アスカ",
+    "japanese": "・・・こいつ",
+    "english": "It's transcending its pseudo-evolved form!"
+  },
+  {
+    "time": "01:18:07",
+    "character": "アスカ",
+    "japanese": "疑似シン化形態を超えている！",
+    "english": "It's transcending its pseudo-evolved form!"
+  },
+  {
+    "time": "01:18:09",
+    "character": "マリ",
+    "japanese": "―――覚醒したみたいね",
+    "english": "Guess it's Awakened..."
+  },
+  {
+    "time": "01:18:12",
+    "character": "マリ",
+    "japanese": "アダムスの生き残りが！",
+    "english": "It's one of the surviving Adams!"
+  },
+  {
+    "time": "01:18:49",
+    "character": "シンジ",
+    "japanese": "何だ、これ？",
+    "english": "What is this?"
+  },
+  {
+    "time": "01:19:04",
+    "character": "シンジ",
+    "japanese": "何なんだよこれ？",
+    "english": "What's going on?"
+  },
+  {
+    "time": "01:19:11",
+    "character": "シンジ",
+    "japanese": "僕のせいなのか？",
+    "english": "Is this all my fault?"
+  },
+  {
+    "time": "01:19:14",
+    "character": "シンジ",
+    "japanese": "僕が槍を抜いたから・・・",
+    "english": "Because I pulled out the Spears?"
+  },
+  {
+    "time": "01:19:22",
+    "character": "シンジ",
+    "japanese": "これって・・・",
+    "english": "This is...!"
+  },
+  {
+    "time": "01:19:24",
+    "character": "カヲル",
+    "japanese": "フォースインパクト",
+    "english": "Fourth Impact."
+  },
+  {
+    "time": "01:19:29",
+    "character": "カヲル",
+    "japanese": "その始まりの儀式さ",
+    "english": "This is the opening ritual."
+  },
+  {
+    "time": "01:19:45",
+    "character": "シンジ",
+    "japanese": "カヲル君！",
+    "english": "Kaworu-kun..."
+  },
+  {
+    "time": "01:19:46",
+    "character": "シンジ",
+    "japanese": "首輪が！",
+    "english": "The choker!"
+  },
+  {
+    "time": "01:19:55",
+    "character": "シンジ",
+    "japanese": "ミサトさん！？",
+    "english": "Misato-san?!"
+  },
+  {
+    "time": "01:19:59",
+    "character": "ミサト",
+    "japanese": "Ａ．Ｔ．フィールド最大！",
+    "english": "A.T. Field at maximum!"
+  },
+  {
+    "time": "01:20:01",
+    "character": "ミサト",
+    "japanese": "このままエヴァを封じ込めて！",
+    "english": "Contain the Eva in its present state!"
+  },
+  {
+    "time": "01:20:03",
+    "character": "ミサト",
+    "japanese": "主砲斉射用意、曲射弾装填",
+    "english": "Prepare the main cannons for a salvo! Load the mortar shells!"
+  },
+  {
+    "time": "01:20:06",
+    "character": "ミサト",
+    "japanese": "なんとしてもフォースの発動を食い止めるのよ！",
+    "english": "We'll do whatever it takes to keep Fourth Impact in check!"
+  },
+  {
+    "time": "01:20:08",
+    "character": "ミサト",
+    "japanese": "撃てェ！！",
+    "english": "Fire!"
+  },
+  {
+    "time": "01:20:17",
+    "character": "北上",
+    "japanese": "やられましたっ！！主砲に直撃！",
+    "english": "We've taken damage! Direct hit to the main cannons!"
+  },
+  {
+    "time": "01:20:19",
+    "character": "ミサト",
+    "japanese": "アダムスの器か！？",
+    "english": "The Adams' Vessel?!"
+  },
+  {
+    "time": "01:20:26",
+    "character": "多摩",
+    "japanese": "中央部に被弾！損害不明！",
+    "english": "Central hull hit! Extent of damage unknown!"
+  },
+  {
+    "time": "01:20:28",
+    "character": "女 (BG)",
+    "japanese": "/ 目標新型エヴァ＃＃＃＃",
+    "english": "/ The target new-type Eva ＃＃＃＃"
+  },
+  {
+    "time": "01:20:30",
+    "character": "長良",
+    "japanese": "舵がききません！",
+    "english": "Rudder irresponsive!"
+  },
+  {
+    "time": "01:20:32",
+    "character": "長良",
+    "japanese": "落下します！",
+    "english": "We're losing altitude!"
+  },
+  {
+    "time": "01:30:51",
+    "character": "多摩",
+    "japanese": "中央部さらに被弾！",
+    "english": "Another hit on the central hull!"
+  },
+  {
+    "time": "01:30:51",
+    "character": "青葉",
+    "japanese": "第３装甲板、大破！",
+    "english": "Severe damage to the third armor plate!"
+  },
+  {
+    "time": "01:20:46",
+    "character": "リツコ",
+    "japanese": "アダムスの器は、ヴンダー本来の主。",
+    "english": "The Adams' Vessel is Wunder's true master."
+  },
+  {
+    "time": "01:20:48",
+    "character": "リツコ",
+    "japanese": "初号機から本艦の制御を奪い返すつもりだわ",
+    "english": "It intends to take the ship's controls back from Eva-01!"
+  },
+  {
+    "time": "01:20:57",
+    "character": "レイ",
+    "japanese": "何故？リンクが回復しない。",
+    "english": "Why can't I restore the link?"
+  },
+  {
+    "time": "01:21:03",
+    "character": "マリ",
+    "japanese": "よっと。",
+    "english": "Oh, man!"
+  },
+  {
+    "time": "01:21:05",
+    "character": "マリ",
+    "japanese": "あっちゃ～～。",
+    "english": "Oh, man!"
+  },
+  {
+    "time": "01:21:07",
+    "character": "マリ",
+    "japanese": "こいつはシッチャカメッチャカな状況ね",
+    "english": "That's one hell of a mess they got themselves in."
+  },
+  {
+    "time": "01:21:10",
+    "character": "アスカ",
+    "japanese": "コネメガネはガキのエヴァを。",
+    "english": "Glasses, you handle the brat's Eva!"
+  },
+  {
+    "time": "01:21:12",
+    "character": "アスカ",
+    "japanese": "ヴンダーは改２で助ける",
+    "english": "I'll help out Wunder with 02'!"
+  },
+  {
+    "time": "01:21:14",
+    "character": "マリ",
+    "japanese": "ラジャ！",
+    "english": "Roger!"
+  },
+  {
+    "time": "01:21:15",
+    "character": "北上",
+    "japanese": "アダムスの器、排除できません！",
+    "english": "Unable to reject the Adams' Vessel!"
+  },
+  {
+    "time": "01:21:17",
+    "character": "多摩",
+    "japanese": "主制御システムに未確認データが侵入",
+    "english": "Unidentified data is infiltrating the main control system!"
+  },
+  {
+    "time": "01:21:19",
+    "character": "青葉",
+    "japanese": "艦のコントロールが、乗っ取られていきます！",
+    "english": "It's hijacking control of the ship!"
+  },
+  {
+    "time": "01:21:43",
+    "character": "アスカ",
+    "japanese": "ズルっ！ゼーレのやりそうな事ね",
+    "english": "No fair! That reeks of Seele."
+  },
+  {
+    "time": "01:21:53",
+    "character": "アスカ",
+    "japanese": "モードチェンジ！",
+    "english": "Mode change!"
+  },
+  {
+    "time": "01:21:55",
+    "character": "アスカ",
+    "japanese": "コード７７７（トリプル・セブン）！",
+    "english": "Code 777!"
+  },
+  {
+    "time": "01:22:04",
+    "character": "レイ",
+    "japanese": "誰？",
+    "english": "Who's there?"
+  },
+  {
+    "time": "01:22:05",
+    "character": "アスカ",
+    "japanese": "あんたこそ誰よ！",
+    "english": "Who the hell are *you*?!"
+  },
+  {
+    "time": "01:22:24",
+    "character": "青葉",
+    "japanese": "観測室より報告！",
+    "english": "Report from the observation station."
+  },
+  {
+    "time": "01:22:26",
+    "character": "青葉",
+    "japanese": "改２号機、アダムスの器と会敵！",
+    "english": "Eva-02' has engaged the Adams' Vessel!"
+  },
+  {
+    "time": "01:22:27",
+    "character": "ミサト",
+    "japanese": "たのむわ、アスカ",
+    "english": "We're counting on you, Asuka."
+  },
+  {
+    "time": "01:22:48",
+    "character": "レイ",
+    "japanese": "こんな時、アヤナミレイならどうするの？",
+    "english": "What would Ayanami Rei do in this situation?"
+  },
+  {
+    "time": "01:22:51",
+    "character": "アスカ",
+    "japanese": "知るか！",
+    "english": "Hell if I know!"
+  },
+  {
+    "time": "01:22:52",
+    "character": "アスカ",
+    "japanese": "あんたはどうしたいの！！",
+    "english": "What do *you* want to do?!"
+  },
+  {
+    "time": "01:22:58",
+    "character": "アスカ",
+    "japanese": "これで、コアを！！",
+    "english": "I've got the core now!"
+  },
+  {
+    "time": "01:23:09",
+    "character": "アスカ",
+    "japanese": "こいつ、全身がコアか！",
+    "english": "The whole thing is the core?!"
+  },
+  {
+    "time": "01:23:12",
+    "character": "アスカ",
+    "japanese": "時間もない。",
+    "english": "I don't have time."
+  },
+  {
+    "time": "01:23:14",
+    "character": "アスカ",
+    "japanese": "ごめん２号機！",
+    "english": "Sorry, Eva-02!"
+  },
+  {
+    "time": "01:23:31",
+    "character": "長良",
+    "japanese": "制御システム回復！",
+    "english": "Control system restored!"
+  },
+  {
+    "time": "01:23:33",
+    "character": "ミサト",
+    "japanese": "全艦緊急発進！",
+    "english": "Emergency launch of all ships!"
+  },
+  {
+    "time": "01:23:34",
+    "character": "ミサト",
+    "japanese": "目標のエヴァをただちに追跡！",
+    "english": "Pursue the target Eva immediately!"
+  },
+  {
+    "time": "01:23:36",
+    "character": "リツコ",
+    "japanese": "艦長！主機が復元されるまでは無理よ",
+    "english": "Captain, we must wait until the main engine recovers."
+  },
+  {
+    "time": "01:23:40",
+    "character": "ミサト",
+    "japanese": "シンジ君",
+    "english": "Shinji-kun..."
+  },
+  {
+    "time": "01:24:02",
+    "character": "シンジ",
+    "japanese": "僕のせいなのか・・・",
+    "english": "This is all because of me...?"
+  },
+  {
+    "time": "01:24:06",
+    "character": "シンジ",
+    "japanese": "僕が・・・僕が・・・",
+    "english": "I... I..."
+  },
+  {
+    "time": "01:24:12",
+    "character": "カヲル",
+    "japanese": "君のせいじゃない。",
+    "english": "It's not your fault."
+  },
+  {
+    "time": "01:24:15",
+    "character": "カヲル",
+    "japanese": "僕が第１３の使徒になってしまったからね。",
+    "english": "It happened because I became the Thirteenth Angel."
+  },
+  {
+    "time": "01:24:19",
+    "character": "カヲル",
+    "japanese": "僕がトリガーだ。",
+    "english": "I was the trigger."
+  },
+  {
+    "time": "01:24:21",
+    "character": "シンジ",
+    "japanese": "どうしよう・・・",
+    "english": "What should I do?"
+  },
+  {
+    "time": "01:24:24",
+    "character": "シンジ",
+    "japanese": "ねえ、どうしよう・・・",
+    "english": "Tell me, what should I do?"
+  },
+  {
+    "time": "01:24:31",
+    "character": "シンジ",
+    "japanese": "カヲル君。",
+    "english": "Kaworu-kun,"
+  },
+  {
+    "time": "01:24:34",
+    "character": "シンジ",
+    "japanese": "僕はどうしたらいいの？",
+    "english": "what would be the right thing?"
+  },
+  {
+    "time": "01:24:37",
+    "character": "カヲル",
+    "japanese": "魂が消えても、願いと呪いはこの世界に残る。",
+    "english": "Even if your soul disappears, your hopes and curses remain in this world."
+  },
+  {
+    "time": "01:24:43",
+    "character": "カヲル",
+    "japanese": "意志は情報として世界を伝い、変えていく。",
+    "english": "Your will roams the world as information and gradually changes."
+  },
+  {
+    "time": "01:24:48",
+    "character": "カヲル",
+    "japanese": "いつか自分自身のことも書き換えていくんだ。",
+    "english": "In time, even your very self is altered."
+  },
+  {
+    "time": "01:24:54",
+    "character": "カヲル",
+    "japanese": "ごめん。これは君の望む幸せではなかった",
+    "english": "I'm sorry. This wasn't the happiness you desired."
+  },
+  {
+    "time": "01:24:59",
+    "character": "カヲル",
+    "japanese": "ガフの扉は、僕が閉じる。",
+    "english": "I'll close the Gates of Guf."
+  },
+  {
+    "time": "01:25:03",
+    "character": "カヲル",
+    "japanese": "シンジ君が心配することはない。",
+    "english": "You don't need to worry, Shinji-kun."
+  },
+  {
+    "time": "01:25:05",
+    "character": "シンジ",
+    "japanese": "カヲル君・・・。",
+    "english": "Kaworu-kun..."
+  },
+  {
+    "time": "01:25:08",
+    "character": "シンジ",
+    "japanese": "カヲル君が何を云ってるのか",
+    "english": "What are you talking about, Kaworu-kun?"
+  },
+  {
+    "time": "01:25:11",
+    "character": "シンジ",
+    "japanese": "わからないよ",
+    "english": "I don't get it at all!"
+  },
+  {
+    "time": "01:25:18",
+    "character": "カヲル",
+    "japanese": "シンジ君は、安らぎと自分の場所を見つければいい。",
+    "english": "Shinji-kun, you just need to find peace and a place to call your own."
+  },
+  {
+    "time": "01:25:31",
+    "character": "カヲル",
+    "japanese": "縁が君を導くだろう。",
+    "english": "Fate will surely guide you."
+  },
+  {
+    "time": "01:25:37",
+    "character": "カヲル",
+    "japanese": "そんな顔をしないで。",
+    "english": "Don't look at me like that."
+  },
+  {
+    "time": "01:25:41",
+    "character": "カヲル",
+    "japanese": "また会えるよ。シンジ君",
+    "english": "We'll meet again, Shinji-kun."
+  },
+  {
+    "time": "01:25:44",
+    "character": "シンジ",
+    "japanese": "カヲル君！！・・・",
+    "english": "Kaworu-kun!"
+  },
+  {
+    "time": "01:26:04",
+    "character": "マリ",
+    "japanese": "ガフの扉がまだ閉じない！",
+    "english": "The Gates of Guf still hasn't closed!"
+  },
+  {
+    "time": "01:26:06",
+    "character": "マリ",
+    "japanese": "ワンコ君がゼーレの保険か！",
+    "english": "So, Puppy Boy was Seele's backup!"
+  },
+  {
+    "time": "01:26:25",
+    "character": "マリ",
+    "japanese": "後始末は済んだ！",
+    "english": "Everything's settled!"
+  },
+  {
+    "time": "01:26:26",
+    "character": "マリ",
+    "japanese": "しっかりしろ、ワンコ君！！",
+    "english": "Get a hold of yourself, Puppy Boy!"
+  },
+  {
+    "time": "01:26:30",
+    "character": "マリ",
+    "japanese": "グズるな！せめて、姫を助けろ！",
+    "english": "Stop being such a baby!"
+  },
+  {
+    "time": "01:26:33",
+    "character": "マリ",
+    "japanese": "男だろ！",
+    "english": "You're a man, aren't you?!"
+  },
+  {
+    "time": "01:26:36",
+    "character": "マリ",
+    "japanese": "ついでに、",
+    "english": "And while you're at it, get to know the world a little!"
+  },
+  {
+    "time": "01:26:31",
+    "character": "マリ",
+    "japanese": "ちょっとは世間を知りニャ！",
+    "english": "Help out the Princess, at least!"
+  },
+  {
+    "time": "01:27:33",
+    "character": "冬月",
+    "japanese": "酷い有様だな。",
+    "english": "Look at this mess."
+  },
+  {
+    "time": "01:27:35",
+    "character": "冬月",
+    "japanese": "ほとんどがゼーレの目論み通りだ。",
+    "english": "Nearly everything went as Seele had intended."
+  },
+  {
+    "time": "01:27:38",
+    "character": "ゲンドウ",
+    "japanese": "だが、ゼーレの少年を排除し、第１３号機も覚醒へと導いた。",
+    "english": "Even so, we eliminated Seele's boy and guided Eva-13 to its Awakening."
+  },
+  {
+    "time": "01:27:46",
+    "character": "ゲンドウ",
+    "japanese": "葛城大佐の動きも計算内だ。",
+    "english": "Captain Katsuragi's actions are also within expectations."
+  },
+  {
+    "time": "01:27:49",
+    "character": "ゲンドウ",
+    "japanese": "今はこれでいい。",
+    "english": "This will do for now."
+  },
+  {
+    "time": "01:27:52",
+    "character": "日向(無線)",
+    "japanese": "全艦、第２種警戒態勢を維持。",
+    "english": "All ships, remain in secondary state of alert."
+  },
+  {
+    "time": "01:27:55",
+    "character": "北上(無線)",
+    "japanese": "パターン青、反応なし。",
+    "english": "No blood type blue readings."
+  },
+  {
+    "time": "01:27:57",
+    "character": "北上(無線)",
+    "japanese": "警戒空域に機影を認めず。",
+    "english": "No units detected in the monitored airspace."
+  },
+  {
+    "time": "01:27:59",
+    "character": "多摩(無線)",
+    "japanese": "中央部損傷箇所の応急処置完了。",
+    "english": "Emergency repairs to the central hull completed."
+  },
+  {
+    "time": "01:28:01",
+    "character": "リツコ",
+    "japanese": "誰のおかげかわからないけれどフォースは止まった。",
+    "english": "I don't know who did it, but Fourth Impact was stopped."
+  },
+  {
+    "time": "01:28:07",
+    "character": "リツコ",
+    "japanese": "ミサト。今はそれで良しとしましょう",
+    "english": "Misato, this should be good enough for now."
+  },
+  {
+    "time": "01:29:01",
+    "character": "アスカ",
+    "japanese": "・・・ガキシンジ。",
+    "english": "You brat, Shinji."
+  },
+  {
+    "time": "01:29:04",
+    "character": "アスカ",
+    "japanese": "助けてくれないんだ。私を",
+    "english": "You didn't come to help me."
+  },
+  {
+    "time": "01:29:10",
+    "character": "アスカ",
+    "japanese": "また自分の事ばっかり。黙ってりゃ済むと思ってる",
+    "english": "Only thinking about yourself, as usual."
+  },
+  {
+    "time": "01:29:40",
+    "character": "アスカ",
+    "japanese": "まだ甘えてる。",
+    "english": "You're still such a baby."
+  },
+  {
+    "time": "01:29:43",
+    "character": "アスカ",
+    "japanese": "いつまでたっても・・・手間のかかるガキね"
+  },
+  {
+    "time": "01:29:47",
+    "character": "アスカ",
+    "japanese": "ほら、これ着けて。",
+    "english": "Here, put this on."
+  },
+  {
+    "time": "01:29:50",
+    "character": "アスカ",
+    "japanese": "もお～～　立ってるくらい自分で出来るでしょ！",
+    "english": "Jeez! You can't even *stand* on your own?!"
+  },
+  {
+    "time": "01:29:58",
+    "character": "アスカ",
+    "japanese": "さっきのパイロットね。",
+    "english": "You're the pilot from before."
+  },
+  {
+    "time": "01:30:02",
+    "character": "アスカ",
+    "japanese": "綾波タイプの初期ロットか。",
+    "english": "From an early lot of Ayanami types, are you?"
+  },
+  {
+    "time": "01:30:11",
+    "character": "アスカ",
+    "japanese": "ここじゃＬ結界密度が強すぎて、助けに来れないわ",
+    "english": "The L Barrier density is too high here, so they won't be able to come for us."
+  },
+  {
+    "time": "01:30:16",
+    "character": "アスカ",
+    "japanese": "リリンが近付ける所まで移動するわよ。",
+    "english": "We'll go someplace where the Lilin can pick us up."
+  },
+  {
+    "time": "01:30:23",
+    "character": "アスカ",
+    "japanese": "ほら！",
+    "english": "Come on!"
+  },
+  {
+    "time": "01:35:??",
+    "character": "テロップ",
+    "japanese": "予告"
+  },
+  {
+    "time": "01:35:12",
+    "character": "ナレーター",
+    "japanese": "生きる気力を失ったまま放浪を続ける碇シンジ。",
+    "english": "Shinji Ikari is still adrift after losing his will to live."
+  },
+  {
+    "time": "01:35:16",
+    "character": "ナレーター",
+    "japanese": "たどり着いた場所が彼に希望を教える。",
+    "english": "He'll discover hope at the place he ends up."
+  },
+  {
+    "time": "01:35:19",
+    "character": "ナレーター",
+    "japanese": "ついに発動する補完計画。",
+    "english": "Finally the Instrumentality Project is set in motion."
+  },
+  {
+    "time": "01:35:22",
+    "character": "ナレーター",
+    "japanese": "ファイナルインパクト阻止のため、",
+    "english": "Wille make one last grueling stand to prevent Final Impact."
+  },
+  {
+    "time": "01:35:23",
+    "character": "ナレーター",
+    "japanese": "最後の決戦を挑むヴィレ。",
+    "english": "Wille make one last grueling stand to prevent Final Impact."
+  },
+  {
+    "time": "01:35:26",
+    "character": "ナレーター",
+    "japanese": "空を裂くヴンダー！",
+    "english": "The Wunder tears through the sky!"
+  },
+  {
+    "time": "01:35:27",
+    "character": "ナレーター",
+    "japanese": "赤い大地を疾走する、エヴァ８＋２号機！",
+    "english": "Eva Unit 8+2 races across the red earth!"
+  },
+  {
+    "time": "01:35:32",
+    "character": "ナレーター",
+    "japanese": "次回『シン・エヴァンゲリオン劇場版』",
+    "english": "Next time in \"New Evangelion Theatrical Edition\"."
+  },
+  {
+    "time": "01:35:34",
+    "character": "テロップ",
+    "japanese": "シン・エヴァンゲリオン劇場版：｜｜",
+    "english": "Next Time  New Evangelion Theatrical Edition: ||"
+  },
+  {
+    "time": "01:35:34",
+    "character": "ナレーター",
+    "japanese": "さぁ～て最後まで、サービス、サービスぅ！",
+    "english": "There'll be plenty of fan service all the way to the end!"
+  }
+]
