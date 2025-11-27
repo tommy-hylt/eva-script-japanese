@@ -1,0 +1,16 @@
+.copy-reported {
+  background: none;
+  border: none;
+  color: #8b4545;
+  font-size: 0.85rem;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  opacity: 0.6;
+  transition: opacity 0.2s ease;
+  text-decoration: underline;
+  font-family: inherit;
+}
+
+.copy-reported:hover {
+  opacity: 1;
+}

@@ -101,6 +101,10 @@
   margin-top: 3rem;
 }
 
+.footer p {
+  margin: 0 0 1rem 0;
+}
+
 @media (max-width: 768px) {
   .header {
     padding: 1.5rem 0.75rem;

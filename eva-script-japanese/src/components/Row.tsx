@@ -1,4 +1,5 @@
 import type { ScriptEntry, TextSegment } from '../types/ScriptEntry';
+import { ReportButton } from './ReportButton';
 import './Row.css';
 
 interface RowProps {
@@ -20,7 +21,10 @@ export const Row = ({ entry }: RowProps) => {
 
   return (
     <div className="row">
-      <div className="time">{entry.time} {entry.character && `- ${entry.character}`}</div>
+      <div className="row-header">
+        <div className="time">{entry.time} {entry.character && `- ${entry.character}`}</div>
+        <ReportButton entry={entry} />
+      </div>
       <div className="japanese">
         {entry.segments.map((segment, index) => renderSegment(segment, index))}
       </div>
