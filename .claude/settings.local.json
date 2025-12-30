@@ -24,7 +24,15 @@
       "mcp__chrome-devtools__evaluate_script",
       "Bash(npm install:*)",
       "Bash(npm run deploy:*)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "WebFetch(domain:forum.evageeks.org)",
+      "WebFetch(domain:gist.github.com)",
+      "WebFetch(domain:kitsunekko.net)",
+      "WebFetch(domain:www.opensubtitles.com)",
+      "WebFetch(domain:ny.iss.one)",
+      "WebFetch(domain:36ch.com)",
+      "Bash(ls:*)",
+      "WebFetch(domain:www.opensubtitles.org)"
     ],
     "deny": [],
     "ask": []
