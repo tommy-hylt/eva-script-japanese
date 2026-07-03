@@ -1,0 +1,6539 @@
+[
+  {
+    "id": "eva-3.33-0001",
+    "time": "00:00:35.786",
+    "timeEnd": "00:00:37.621",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "無線",
+        "reading": "むせん"
+      },
+      "のノイズ",
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": "[radio crackles and beeps]"
+  },
+  {
+    "id": "eva-3.33-0002",
+    "time": "00:00:37.747",
+    "timeEnd": "00:00:41.375",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "追跡",
+        "reading": "ついせき"
+      },
+      {
+        "kanji": "班",
+        "reading": "はん"
+      },
+      "\n",
+      {
+        "kanji": "両機",
+        "reading": "りょうき"
+      },
+      "の",
+      {
+        "kanji": "現在",
+        "reading": "げんざい"
+      },
+      {
+        "kanji": "位置",
+        "reading": "いち"
+      },
+      "を",
+      {
+        "kanji": "報告",
+        "reading": "ほうこく"
+      }
+    ],
+    "english": "[Aoba] Tracking team,\nreport current Eva unit positions."
+  },
+  {
+    "id": "eva-3.33-0003",
+    "time": "00:00:41.625",
+    "timeEnd": "00:00:44.420",
+    "character": "女性オペレーター",
+    "segments": [
+      "ポッドツーダッシュ\n",
+      {
+        "kanji": "作戦",
+        "reading": "さくせん"
+      },
+      {
+        "kanji": "高度",
+        "reading": "こうど"
+      },
+      "に",
+      {
+        "kanji": "到達",
+        "reading": "とうたつ"
+      }
+    ],
+    "english": "[op woman #1] Pod Two Dash\nhas reached operational altitude,"
+  },
+  {
+    "id": "eva-3.33-0004",
+    "time": "00:00:44.587",
+    "timeEnd": "00:00:46.088",
+    "character": "女性オペレーター",
+    "segments": [
+      {
+        "kanji": "予定",
+        "reading": "よてい"
+      },
+      {
+        "kanji": "軌道",
+        "reading": "きどう"
+      },
+      "に",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "った"
+    ],
+    "english": "locked in intended orbit."
+  },
+  {
+    "id": "eva-3.33-0005",
+    "time": "00:00:46.172",
+    "timeEnd": "00:00:50.134",
+    "character": "男性オペレーター",
+    "segments": [
+      "ポッドエイト　",
+      {
+        "kanji": "軌道",
+        "reading": "きどう"
+      },
+      {
+        "kanji": "投入",
+        "reading": "とうにゅう"
+      },
+      "に",
+      {
+        "kanji": "問題",
+        "reading": "もんだい"
+      },
+      {
+        "kanji": "発生",
+        "reading": "はっせい"
+      },
+      "\n",
+      {
+        "kanji": "高度",
+        "reading": "こうど"
+      },
+      "が",
+      {
+        "kanji": "足",
+        "reading": "た"
+      },
+      "りない"
+    ],
+    "english": "[op man #1] Pod Eight...\naltitude insufficient.\nCannot reach intended orbit."
+  },
+  {
+    "id": "eva-3.33-0006",
+    "time": "00:00:50.259",
+    "timeEnd": "00:00:51.302",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      },
+      "した"
+    ],
+    "english": "Copy."
+  },
+  {
+    "id": "eva-3.33-0007",
+    "time": "00:00:51.385",
+    "timeEnd": "00:00:54.472",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "以後",
+        "reading": "いご"
+      },
+      "はツーダッシュ",
+      {
+        "kanji": "単独",
+        "reading": "たんどく"
+      },
+      "での\nオペレーションに",
+      {
+        "kanji": "切",
+        "reading": "き"
+      },
+      "り",
+      {
+        "kanji": "替",
+        "reading": "か"
+      },
+      "える"
+    ],
+    "english": "Switching to backup plan,\nTwo Dash solo operation."
+  },
+  {
+    "id": "eva-3.33-0008",
+    "time": "00:00:54.597",
+    "timeEnd": "00:00:58.642",
+    "character": "男性オペレーター",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      },
+      "　ポッドエイトは",
+      {
+        "kanji": "直",
+        "reading": "ちょく"
+      },
+      {
+        "kanji": "援",
+        "reading": "援"
+      },
+      "\nシフトをセブンに",
+      {
+        "kanji": "移行",
+        "reading": "いこう"
+      }
+    ],
+    "english": "[op man #1] Roger, Pod Eight will\nprovide cover fire. Shift to sub-plan 7."
+  },
+  {
+    "id": "eva-3.33-0009",
+    "time": "00:00:58.893",
+    "timeEnd": "00:01:03.272",
+    "character": "リツコ",
+    "segments": [
+      "ポッドツーダッシュ\n",
+      {
+        "kanji": "不",
+        "reading": "ふ"
+      },
+      {
+        "kanji": "帰投",
+        "reading": "きとう"
+      },
+      {
+        "kanji": "点",
+        "reading": "てん"
+      },
+      "を",
+      {
+        "kanji": "通過",
+        "reading": "つうか"
+      },
+      "　エリア88に",
+      {
+        "kanji": "侵入",
+        "reading": "しんにゅう"
+      }
+    ],
+    "english": "[Ritsuko] Pod Two Dash, is now beyond PNR.\nEntering into Area 88."
+  },
+  {
+    "id": "eva-3.33-0010",
+    "time": "00:01:03.564",
+    "timeEnd": "00:01:06.734",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      },
+      "\nこれよりＵＳ",
+      {
+        "kanji": "作戦",
+        "reading": "さくせん"
+      },
+      "を",
+      {
+        "kanji": "開始",
+        "reading": "かいし"
+      }
+    ],
+    "english": "[Misato] Roger. Initiate Operation US."
+  },
+  {
+    "id": "eva-3.33-0011",
+    "time": "00:01:06.817",
+    "timeEnd": "00:01:11.238",
+    "character": "女性オペレーター",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      },
+      "　ポッドツーダッシュ\n",
+      {
+        "kanji": "作戦",
+        "reading": "さくせん"
+      },
+      {
+        "kanji": "最終",
+        "reading": "さいしゅう"
+      },
+      {
+        "kanji": "軌道",
+        "reading": "きどう"
+      },
+      "に",
+      {
+        "kanji": "投入",
+        "reading": "とうにゅう"
+      },
+      {
+        "kanji": "開始",
+        "reading": "かいし"
+      }
+    ],
+    "english": "[operator] Roger. Pod Two Dash,\nbegin entry into final operation orbit."
+  },
+  {
+    "id": "eva-3.33-0012",
+    "time": "00:01:11.405",
+    "timeEnd": "00:01:12.823",
+    "character": "女性オペレーター",
+    "segments": [
+      {
+        "kanji": "減速",
+        "reading": "げんそく"
+      },
+      {
+        "kanji": "行動",
+        "reading": "こうどう"
+      },
+      "に",
+      {
+        "kanji": "移",
+        "reading": "うつ"
+      },
+      "る"
+    ],
+    "english": "Starting deceleration."
+  },
+  {
+    "id": "eva-3.33-0013",
+    "time": "00:01:12.948",
+    "timeEnd": "00:01:15.868",
+    "character": "男性オペレーター",
+    "segments": [
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "１",
+      {
+        "kanji": "段",
+        "reading": "だん"
+      },
+      " ",
+      {
+        "kanji": "全",
+        "reading": "ぜん"
+      },
+      "エンジンを",
+      {
+        "kanji": "点火",
+        "reading": "てんか"
+      },
+      "\n",
+      {
+        "kanji": "燃焼",
+        "reading": "ねんしょう"
+      },
+      "を",
+      {
+        "kanji": "開始",
+        "reading": "かいし"
+      }
+    ],
+    "english": "Ready all Stage 1 engines.\nStart burn."
+  },
+  {
+    "id": "eva-3.33-0014",
+    "time": "00:01:16.285",
+    "timeEnd": "00:01:19.330",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "燃焼",
+        "reading": "ねんしょう"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0015",
+    "time": "00:01:20.206",
+    "timeEnd": "00:01:23.834",
+    "character": "女性オペレーター",
+    "segments": [
+      "Ｓ１Ｃ　",
+      {
+        "kanji": "燃焼",
+        "reading": "ねんしょう"
+      },
+      {
+        "kanji": "終了",
+        "reading": "しゅうりょう"
+      },
+      "　",
+      {
+        "kanji": "減速",
+        "reading": "げんそく"
+      },
+      "を",
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      }
+    ],
+    "english": "[op woman #1] S1C, burn complete.\nDeceleration confirmed."
+  },
+  {
+    "id": "eva-3.33-0016",
+    "time": "00:01:23.959",
+    "timeEnd": "00:01:26.253",
+    "character": "多摩",
+    "segments": [
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "１",
+      {
+        "kanji": "段",
+        "reading": "だん"
+      },
+      "\nブースターユニットをジェットソン"
+    ],
+    "english": "[Tama] Jettisoning\nStage 1 booster unit."
+  },
+  {
+    "id": "eva-3.33-0017",
+    "time": "00:01:27.922",
+    "timeEnd": "00:01:31.592",
+    "character": "北上",
+    "segments": [
+      {
+        "kanji": "分離",
+        "reading": "ぶんり"
+      },
+      "を",
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      },
+      "\n",
+      {
+        "kanji": "電装",
+        "reading": "でんそう"
+      },
+      {
+        "kanji": "系",
+        "reading": "けい"
+      },
+      "をチェック　",
+      {
+        "kanji": "異常",
+        "reading": "いじょう"
+      },
+      "なし"
+    ],
+    "english": "[Kitakami] Separation confirmed.\nChecking electrical systems. No abnormalities."
+  },
+  {
+    "id": "eva-3.33-0018",
+    "time": "00:01:31.717",
+    "timeEnd": "00:01:36.180",
+    "character": "男性オペレーター",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      },
+      "した　",
+      {
+        "kanji": "燃焼",
+        "reading": "ねんしょう"
+      },
+      "タイミングはオート\n",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "２",
+      {
+        "kanji": "段",
+        "reading": "だん"
+      },
+      " ",
+      {
+        "kanji": "全",
+        "reading": "ぜん"
+      },
+      "エンジンを",
+      {
+        "kanji": "点火",
+        "reading": "てんか"
+      }
+    ],
+    "english": "[op man #1] Roger. Burn timing\nset to auto. Stage 2 all engines start."
+  },
+  {
+    "id": "eva-3.33-0019",
+    "time": "00:01:36.305",
+    "timeEnd": "00:01:39.683",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "燃焼",
+        "reading": "ねんしょう"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0020",
+    "time": "00:01:40.184",
+    "timeEnd": "00:01:43.521",
+    "character": "女性オペレーター",
+    "segments": [
+      "Ｓ１Ｃ ",
+      {
+        "kanji": "燃焼",
+        "reading": "ねんしょう"
+      },
+      {
+        "kanji": "終了",
+        "reading": "しゅうりょう"
+      },
+      "\n",
+      {
+        "kanji": "圧力",
+        "reading": "あつりょく"
+      },
+      {
+        "kanji": "弁",
+        "reading": "べん"
+      },
+      "を",
+      {
+        "kanji": "閉鎖",
+        "reading": "へいさ"
+      }
+    ],
+    "english": "[op woman #1] S1C burn complete.\nClosing pressure valves."
+  },
+  {
+    "id": "eva-3.33-0021",
+    "time": "00:01:43.604",
+    "timeEnd": "00:01:45.648",
+    "character": "多摩",
+    "segments": [
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "２",
+      {
+        "kanji": "段",
+        "reading": "だん"
+      },
+      "\nブースターユニットをジェットソン"
+    ],
+    "english": "[Tama] Jettisoning\nStage 2 booster unit."
+  },
+  {
+    "id": "eva-3.33-0022",
+    "time": "00:01:45.731",
+    "timeEnd": "00:01:46.565",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "切",
+        "reading": "き"
+      },
+      "り",
+      {
+        "kanji": "離",
+        "reading": "はな"
+      },
+      "す",
+      {
+        "kanji": "音",
+        "reading": "おと"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0023",
+    "time": "00:01:46.565",
+    "timeEnd": "00:01:46.732",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "切",
+        "reading": "き"
+      },
+      "り",
+      {
+        "kanji": "離",
+        "reading": "はな"
+      },
+      "す",
+      {
+        "kanji": "音",
+        "reading": "おと"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0024",
+    "time": "00:01:46.565",
+    "timeEnd": "00:01:46.732",
+    "character": "女性オペレーター",
+    "segments": [
+      {
+        "kanji": "減速",
+        "reading": "げんそく"
+      },
+      {
+        "kanji": "行動",
+        "reading": "こうどう"
+      },
+      "を",
+      {
+        "kanji": "終了",
+        "reading": "しゅうりょう"
+      }
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0025",
+    "time": "00:01:46.732",
+    "timeEnd": "00:01:48.275",
+    "character": "女性オペレーター",
+    "segments": [
+      {
+        "kanji": "減速",
+        "reading": "げんそく"
+      },
+      {
+        "kanji": "行動",
+        "reading": "こうどう"
+      },
+      "を",
+      {
+        "kanji": "終了",
+        "reading": "しゅうりょう"
+      }
+    ],
+    "english": "Deceleration complete."
+  },
+  {
+    "id": "eva-3.33-0026",
+    "time": "00:01:48.526",
+    "timeEnd": "00:01:53.405",
+    "character": "男性オペレーター",
+    "segments": [
+      {
+        "kanji": "最終",
+        "reading": "さいしゅう"
+      },
+      {
+        "kanji": "作戦",
+        "reading": "さくせん"
+      },
+      {
+        "kanji": "軌道",
+        "reading": "きどう"
+      },
+      "への",
+      {
+        "kanji": "投入",
+        "reading": "とうにゅう"
+      },
+      {
+        "kanji": "準備",
+        "reading": "じゅんび"
+      },
+      "\n",
+      {
+        "kanji": "機首",
+        "reading": "きしゅ"
+      },
+      "を",
+      {
+        "kanji": "反転",
+        "reading": "はんてん"
+      },
+      "　",
+      {
+        "kanji": "回",
+        "reading": "かい"
+      },
+      {
+        "kanji": "頭",
+        "reading": "あたま"
+      },
+      {
+        "kanji": "開始",
+        "reading": "かいし"
+      }
+    ],
+    "english": "Prepare for insertion into final operation orbit.\nInvert the nose. Begin roll."
+  },
+  {
+    "id": "eva-3.33-0027",
+    "time": "00:01:53.531",
+    "timeEnd": "00:01:56.200",
+    "character": "男性オペレーター",
+    "segments": [
+      {
+        "kanji": "降下",
+        "reading": "こうか"
+      },
+      {
+        "kanji": "角度",
+        "reading": "かくど"
+      },
+      "　",
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      },
+      "\n",
+      {
+        "kanji": "誤差",
+        "reading": "ごさ"
+      },
+      {
+        "kanji": "修正",
+        "reading": "しゅうせい"
+      },
+      {
+        "kanji": "内",
+        "reading": "ない"
+      }
+    ],
+    "english": "Confirming descent angle.\nCourse correction within tolerance."
+  },
+  {
+    "id": "eva-3.33-0028",
+    "time": "00:01:56.408",
+    "timeEnd": "00:02:00.538",
+    "character": "女性オペレーター",
+    "segments": [
+      {
+        "kanji": "相対",
+        "reading": "そうたい"
+      },
+      {
+        "kanji": "速度",
+        "reading": "そくど"
+      },
+      " ",
+      {
+        "kanji": "再",
+        "reading": "さい"
+      },
+      {
+        "kanji": "計算",
+        "reading": "けいさん"
+      },
+      "\n",
+      {
+        "kanji": "座標",
+        "reading": "ざひょう"
+      },
+      {
+        "kanji": "高度",
+        "reading": "こうど"
+      },
+      "を",
+      {
+        "kanji": "再",
+        "reading": "さい"
+      },
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      }
+    ],
+    "english": "Recalculating relative velocity.\nRechecking coordinates and altitude."
+  },
+  {
+    "id": "eva-3.33-0029",
+    "time": "00:02:00.746",
+    "timeEnd": "00:02:02.248",
+    "character": "女性オペレーター",
+    "segments": [
+      {
+        "kanji": "全",
+        "reading": "すべ"
+      },
+      "て",
+      {
+        "kanji": "問題",
+        "reading": "もんだい"
+      },
+      "なし"
+    ],
+    "english": "All clear."
+  },
+  {
+    "id": "eva-3.33-0030",
+    "time": "00:02:02.331",
+    "timeEnd": "00:02:04.291",
+    "character": "女性オペレーター",
+    "segments": [
+      {
+        "kanji": "軌道",
+        "reading": "きどう"
+      },
+      {
+        "kanji": "最終",
+        "reading": "さいしゅう"
+      },
+      {
+        "kanji": "修正",
+        "reading": "しゅうせい"
+      },
+      " ",
+      {
+        "kanji": "完了",
+        "reading": "かんりょう"
+      }
+    ],
+    "english": "Final orbital correction complete."
+  },
+  {
+    "id": "eva-3.33-0031",
+    "time": "00:02:04.416",
+    "timeEnd": "00:02:06.377",
+    "character": "女性オペレーター",
+    "segments": [
+      "180",
+      {
+        "kanji": "度",
+        "reading": "ど"
+      },
+      " ",
+      {
+        "kanji": "回",
+        "reading": "かい"
+      },
+      {
+        "kanji": "頭",
+        "reading": "あたま"
+      },
+      {
+        "kanji": "完了",
+        "reading": "かんりょう"
+      }
+    ],
+    "english": "180-degree roll complete."
+  },
+  {
+    "id": "eva-3.33-0032",
+    "time": "00:02:06.460",
+    "timeEnd": "00:02:10.047",
+    "character": "日向",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      },
+      "　ポッドツーダッシュ\n",
+      {
+        "kanji": "交差",
+        "reading": "こうさ"
+      },
+      {
+        "kanji": "軌道",
+        "reading": "きどう"
+      },
+      "への",
+      {
+        "kanji": "遷移",
+        "reading": "せんい"
+      },
+      "スタート"
+    ],
+    "english": "[Hyuga] Roger. Pod Two Dash, beginning\ntransfer into intercept trajectory."
+  },
+  {
+    "id": "eva-3.33-0033",
+    "time": "00:02:10.172",
+    "timeEnd": "00:02:12.258",
+    "character": "日向",
+    "segments": [
+      "これより",
+      {
+        "kanji": "作戦",
+        "reading": "さくせん"
+      },
+      {
+        "kanji": "行動",
+        "reading": "こうどう"
+      },
+      "に",
+      {
+        "kanji": "移",
+        "reading": "うつ"
+      },
+      "る"
+    ],
+    "english": "Operation will now commence."
+  },
+  {
+    "id": "eva-3.33-0034",
+    "time": "00:02:12.383",
+    "timeEnd": "00:02:16.220",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "現時点",
+        "reading": "げんじてん"
+      },
+      "で",
+      {
+        "kanji": "全",
+        "reading": "すべ"
+      },
+      "てのリモート",
+      {
+        "kanji": "誘導",
+        "reading": "ゆうどう"
+      },
+      "を",
+      {
+        "kanji": "切",
+        "reading": "き"
+      },
+      "る\n",
+      {
+        "kanji": "以後",
+        "reading": "いご"
+      },
+      "の",
+      {
+        "kanji": "制御",
+        "reading": "せいぎょ"
+      },
+      "はローカル"
+    ],
+    "english": "[Aoba] Disengaging remote guidance.\nFurther control will be local."
+  },
+  {
+    "id": "eva-3.33-0035",
+    "time": "00:02:16.345",
+    "timeEnd": "00:02:17.012",
+    "character": "日向",
+    "segments": [
+      "グッドラック"
+    ],
+    "english": "[Hyuga] Good luck."
+  },
+  {
+    "id": "eva-3.33-0036",
+    "time": "00:02:17.012",
+    "timeEnd": "00:02:17.346",
+    "character": "日向",
+    "segments": [
+      "グッドラック"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0037",
+    "time": "00:02:17.012",
+    "timeEnd": "00:02:17.346",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0038",
+    "time": "00:02:17.346",
+    "timeEnd": "00:02:17.429",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0039",
+    "time": "00:02:17.429",
+    "timeEnd": "00:02:18.722",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": "[Mari singing]"
+  },
+  {
+    "id": "eva-3.33-0040",
+    "time": "00:02:17.429",
+    "timeEnd": "00:02:18.722",
+    "character": "",
+    "segments": [
+      "（パイロットの",
+      {
+        "kanji": "呼吸",
+        "reading": "こきゅう"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0041",
+    "time": "00:02:18.722",
+    "timeEnd": "00:02:18.806",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0042",
+    "time": "00:02:18.806",
+    "timeEnd": "00:02:22.685",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0043",
+    "time": "00:02:18.806",
+    "timeEnd": "00:02:22.685",
+    "character": "女性オペレーター",
+    "segments": [
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      "との",
+      {
+        "kanji": "交差",
+        "reading": "こうさ"
+      },
+      {
+        "kanji": "軌道",
+        "reading": "きどう"
+      },
+      "に",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "った\n",
+      {
+        "kanji": "接触",
+        "reading": "せっしょく"
+      },
+      "まで あと",
+      {
+        "kanji": "８０",
+        "reading": "はちまる"
+      }
+    ],
+    "english": "[op woman #1] Transfer orbit lock\ncomplete. T-minus 80 to contact."
+  },
+  {
+    "id": "eva-3.33-0044",
+    "time": "00:02:22.685",
+    "timeEnd": "00:02:23.394",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0045",
+    "time": "00:02:23.394",
+    "timeEnd": "00:02:24.770",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0046",
+    "time": "00:02:23.394",
+    "timeEnd": "00:02:24.770",
+    "character": "北上",
+    "segments": [
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      {
+        "kanji": "物",
+        "reading": "ぶつ"
+      },
+      "を",
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      }
+    ],
+    "english": "Target confirmed."
+  },
+  {
+    "id": "eva-3.33-0047",
+    "time": "00:02:24.770",
+    "timeEnd": "00:02:24.895",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0048",
+    "time": "00:02:24.895",
+    "timeEnd": "00:02:26.564",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0049",
+    "time": "00:02:24.895",
+    "timeEnd": "00:02:26.564",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "接触",
+        "reading": "せっしょく"
+      },
+      {
+        "kanji": "地点",
+        "reading": "ちてん"
+      },
+      "に",
+      {
+        "kanji": "変更",
+        "reading": "へんこう"
+      },
+      "なし"
+    ],
+    "english": "No change in the contact point."
+  },
+  {
+    "id": "eva-3.33-0050",
+    "time": "00:02:26.564",
+    "timeEnd": "00:02:26.647",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0051",
+    "time": "00:02:26.647",
+    "timeEnd": "00:02:28.691",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0052",
+    "time": "00:02:26.647",
+    "timeEnd": "00:02:28.691",
+    "character": "北上",
+    "segments": [
+      "シフトエムを",
+      {
+        "kanji": "維持",
+        "reading": "いじ"
+      },
+      " ",
+      {
+        "kanji": "問題",
+        "reading": "もんだい"
+      },
+      "なし"
+    ],
+    "english": "[Kitakami] Maintaining Shift M.\nAll is go."
+  },
+  {
+    "id": "eva-3.33-0053",
+    "time": "00:02:28.691",
+    "timeEnd": "00:02:29.024",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0054",
+    "time": "00:02:29.024",
+    "timeEnd": "00:02:30.943",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0055",
+    "time": "00:02:29.024",
+    "timeEnd": "00:02:30.943",
+    "character": "ミサト",
+    "segments": [
+      "ツーダッシュはランデブー",
+      {
+        "kanji": "用意",
+        "reading": "ようい"
+      }
+    ],
+    "english": "Two Dash, prepare for rendezvous."
+  },
+  {
+    "id": "eva-3.33-0056",
+    "time": "00:02:30.943",
+    "timeEnd": "00:02:31.026",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0057",
+    "time": "00:02:31.026",
+    "timeEnd": "00:02:36.240",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0058",
+    "time": "00:02:31.026",
+    "timeEnd": "00:02:36.240",
+    "character": "ミサト",
+    "segments": [
+      "エイトは",
+      {
+        "kanji": "高度",
+        "reading": "こうど"
+      },
+      {
+        "kanji": "不足",
+        "reading": "ふそく"
+      },
+      "のため\n",
+      {
+        "kanji": "再",
+        "reading": "さい"
+      },
+      {
+        "kanji": "突入",
+        "reading": "とつにゅう"
+      },
+      "までの96",
+      {
+        "kanji": "秒間",
+        "reading": "びょうかん"
+      },
+      "だけ",
+      {
+        "kanji": "援護",
+        "reading": "えんご"
+      },
+      {
+        "kanji": "可能",
+        "reading": "かのう"
+      }
+    ],
+    "english": "and can only provide 96 seconds\nof fire support prior to re-entry."
+  },
+  {
+    "id": "eva-3.33-0059",
+    "time": "00:02:36.240",
+    "timeEnd": "00:02:36.323",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0060",
+    "time": "00:02:36.323",
+    "timeEnd": "00:02:37.491",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0061",
+    "time": "00:02:36.323",
+    "timeEnd": "00:02:37.491",
+    "character": "ミサト",
+    "segments": [
+      "それまでにケリをつけて"
+    ],
+    "english": "Get this wrapped up before then."
+  },
+  {
+    "id": "eva-3.33-0062",
+    "time": "00:02:37.575",
+    "timeEnd": "00:02:38.701",
+    "character": "アスカ",
+    "segments": [
+      "はっ"
+    ],
+    "english": "Roger."
+  },
+  {
+    "id": "eva-3.33-0063",
+    "time": "00:02:37.575",
+    "timeEnd": "00:02:38.701",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "警報",
+        "reading": "けいほう"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0064",
+    "time": "00:02:39.034",
+    "timeEnd": "00:02:42.204",
+    "character": "日向",
+    "segments": [
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      {
+        "kanji": "宙",
+        "reading": "ちゅう"
+      },
+      {
+        "kanji": "域",
+        "reading": "いき"
+      },
+      "に",
+      {
+        "kanji": "反射",
+        "reading": "はんしゃ"
+      },
+      {
+        "kanji": "波",
+        "reading": "は"
+      },
+      "あり\n",
+      {
+        "kanji": "妨害",
+        "reading": "ぼうがい"
+      },
+      "が",
+      {
+        "kanji": "入",
+        "reading": "はい"
+      },
+      "った"
+    ],
+    "english": "[Hyuga] Reflected waves\nfrom target area. Hostiles incoming."
+  },
+  {
+    "id": "eva-3.33-0065",
+    "time": "00:02:39.034",
+    "timeEnd": "00:02:42.204",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0066",
+    "time": "00:02:42.204",
+    "timeEnd": "00:02:42.538",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0067",
+    "time": "00:02:42.538",
+    "timeEnd": "00:02:45.416",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0068",
+    "time": "00:02:42.538",
+    "timeEnd": "00:02:45.416",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "自動",
+        "reading": "じどう"
+      },
+      {
+        "kanji": "防衛",
+        "reading": "ぼうえい"
+      },
+      "システムの",
+      {
+        "kanji": "質量",
+        "reading": "しつりょう"
+      },
+      {
+        "kanji": "兵器",
+        "reading": "へいき"
+      },
+      "だ\n",
+      {
+        "kanji": "問題",
+        "reading": "もんだい"
+      },
+      "ない"
+    ],
+    "english": "[Aoba] The mechanism's\nmass projectile weapon. Not a problem."
+  },
+  {
+    "id": "eva-3.33-0069",
+    "time": "00:02:45.416",
+    "timeEnd": "00:02:45.624",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0070",
+    "time": "00:02:45.624",
+    "timeEnd": "00:02:47.585",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": "[Mari continues singing]"
+  },
+  {
+    "id": "eva-3.33-0071",
+    "time": "00:02:45.624",
+    "timeEnd": "00:02:47.585",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "爆発",
+        "reading": "ばくはつ"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0072",
+    "time": "00:02:47.585",
+    "timeEnd": "00:02:47.793",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0073",
+    "time": "00:02:47.793",
+    "timeEnd": "00:02:49.128",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0074",
+    "time": "00:02:47.793",
+    "timeEnd": "00:02:49.128",
+    "character": "男性オペレーター",
+    "segments": [
+      {
+        "kanji": "爆",
+        "reading": "爆"
+      },
+      {
+        "kanji": "散",
+        "reading": "ち"
+      },
+      {
+        "kanji": "円",
+        "reading": "えん"
+      },
+      " ",
+      {
+        "kanji": "発生",
+        "reading": "はっせい"
+      },
+      "！"
+    ],
+    "english": "Blast sphere detected! Impact in three, two,"
+  },
+  {
+    "id": "eva-3.33-0075",
+    "time": "00:02:49.128",
+    "timeEnd": "00:02:49.211",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0076",
+    "time": "00:02:49.211",
+    "timeEnd": "00:02:52.339",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0077",
+    "time": "00:02:49.211",
+    "timeEnd": "00:02:52.339",
+    "character": "男性オペレーター",
+    "segments": [
+      {
+        "kanji": "到達",
+        "reading": "とうたつ"
+      },
+      "まで ３… ２… １"
+    ],
+    "english": "one..."
+  },
+  {
+    "id": "eva-3.33-0078",
+    "time": "00:02:52.423",
+    "timeEnd": "00:02:53.841",
+    "character": "パイロット",
+    "segments": [
+      "あっ"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0079",
+    "time": "00:02:52.423",
+    "timeEnd": "00:02:53.841",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "激",
+        "reading": "はげ"
+      },
+      "しい",
+      {
+        "kanji": "衝撃",
+        "reading": "しょうげき"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0080",
+    "time": "00:02:54.008",
+    "timeEnd": "00:02:56.677",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0081",
+    "time": "00:02:56.677",
+    "timeEnd": "00:02:59.680",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0082",
+    "time": "00:02:56.677",
+    "timeEnd": "00:02:59.680",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "続",
+        "reading": "つづ"
+      },
+      "いて",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "２",
+      {
+        "kanji": "波",
+        "reading": "は"
+      },
+      "　パターン",
+      {
+        "kanji": "青",
+        "reading": "あお"
+      },
+      "\nやっかいな",
+      {
+        "kanji": "連中",
+        "reading": "れんちゅう"
+      },
+      "だ"
+    ],
+    "english": "[Aoba] Second wave incoming.\nPattern Blue.\nExpect a rough ride."
+  },
+  {
+    "id": "eva-3.33-0083",
+    "time": "00:02:59.680",
+    "timeEnd": "00:02:59.763",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0084",
+    "time": "00:02:59.763",
+    "timeEnd": "00:03:02.766",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0085",
+    "time": "00:02:59.763",
+    "timeEnd": "00:03:02.766",
+    "character": "男性オペレーター",
+    "segments": [
+      {
+        "kanji": "接近",
+        "reading": "せっきん"
+      },
+      {
+        "kanji": "中",
+        "reading": "ちゅう"
+      },
+      "の",
+      {
+        "kanji": "物体",
+        "reading": "ぶったい"
+      },
+      "を",
+      {
+        "kanji": "識別",
+        "reading": "しきべつ"
+      },
+      "\nコード４Ａと",
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      }
+    ],
+    "english": "Object approaching identified. Confirmed as Code 4A."
+  },
+  {
+    "id": "eva-3.33-0086",
+    "time": "00:03:02.766",
+    "timeEnd": "00:03:02.850",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0087",
+    "time": "00:03:02.850",
+    "timeEnd": "00:03:05.686",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": "[screeching]"
+  },
+  {
+    "id": "eva-3.33-0088",
+    "time": "00:03:02.850",
+    "timeEnd": "00:03:05.686",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "飛行",
+        "reading": "ひこう"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0089",
+    "time": "00:03:05.686",
+    "timeEnd": "00:03:11.984",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": "[fizzing]"
+  },
+  {
+    "id": "eva-3.33-0090",
+    "time": "00:03:11.984",
+    "timeEnd": "00:03:13.193",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0091",
+    "time": "00:03:11.984",
+    "timeEnd": "00:03:13.193",
+    "character": "アスカ",
+    "segments": [
+      "アンチＡ.Ｔ.フィールド"
+    ],
+    "english": "Anti-AT Field!"
+  },
+  {
+    "id": "eva-3.33-0092",
+    "time": "00:03:13.193",
+    "timeEnd": "00:03:16.071",
+    "character": "",
+    "segments": [
+      "（マリの",
+      {
+        "kanji": "鼻歌",
+        "reading": "はなうた"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0093",
+    "time": "00:03:16.405",
+    "timeEnd": "00:03:17.656",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "散弾",
+        "reading": "さんだん"
+      },
+      "が",
+      {
+        "kanji": "飛",
+        "reading": "と"
+      },
+      "び",
+      {
+        "kanji": "散",
+        "reading": "ち"
+      },
+      "る",
+      {
+        "kanji": "音",
+        "reading": "おと"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0094",
+    "time": "00:03:18.073",
+    "timeEnd": "00:03:19.783",
+    "character": "アスカ",
+    "segments": [
+      "チッ！ タチ",
+      {
+        "kanji": "悪",
+        "reading": "わる"
+      },
+      "い！"
+    ],
+    "english": "What a prick! Damn it!"
+  },
+  {
+    "id": "eva-3.33-0095",
+    "time": "00:03:19.909",
+    "timeEnd": "00:03:23.120",
+    "character": "アスカ",
+    "segments": [
+      "ええい！ やっぱり ",
+      {
+        "kanji": "邪魔",
+        "reading": "じゃま"
+      },
+      "！"
+    ],
+    "english": "Screw this helmet!"
+  },
+  {
+    "id": "eva-3.33-0096",
+    "time": "00:03:23.913",
+    "timeEnd": "00:03:26.165",
+    "character": "アスカ",
+    "segments": [
+      "コネメガネ\nいつまで",
+      {
+        "kanji": "歌",
+        "reading": "うた"
+      },
+      "ってんの！"
+    ],
+    "english": "Four-Eyes,"
+  },
+  {
+    "id": "eva-3.33-0097",
+    "time": "00:03:26.290",
+    "timeEnd": "00:03:27.291",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "攻撃",
+        "reading": "こうげき"
+      },
+      "を",
+      {
+        "kanji": "弾",
+        "reading": "ひ"
+      },
+      "く",
+      {
+        "kanji": "音",
+        "reading": "おと"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0098",
+    "time": "00:03:26.290",
+    "timeEnd": "00:03:27.291",
+    "character": "アスカ",
+    "segments": [
+      "うっとうしい！"
+    ],
+    "english": "how long are you going to keep singing? It's annoying!"
+  },
+  {
+    "id": "eva-3.33-0099",
+    "time": "00:03:27.291",
+    "timeEnd": "00:03:27.875",
+    "character": "アスカ",
+    "segments": [
+      "うっとうしい！"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0100",
+    "time": "00:03:27.958",
+    "timeEnd": "00:03:28.959",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "攻撃",
+        "reading": "こうげき"
+      },
+      "を",
+      {
+        "kanji": "弾",
+        "reading": "ひ"
+      },
+      "く",
+      {
+        "kanji": "音",
+        "reading": "おと"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0101",
+    "time": "00:03:29.043",
+    "timeEnd": "00:03:30.044",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "爆発",
+        "reading": "ばくはつ"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0102",
+    "time": "00:03:30.252",
+    "timeEnd": "00:03:32.671",
+    "character": "アスカ",
+    "segments": [
+      "うっ ",
+      {
+        "kanji": "援護",
+        "reading": "えんご"
+      },
+      {
+        "kanji": "射撃",
+        "reading": "しゃげき"
+      },
+      " ２",
+      {
+        "kanji": "秒",
+        "reading": "びょう"
+      },
+      {
+        "kanji": "遅",
+        "reading": "おそ"
+      },
+      "い！"
+    ],
+    "english": "And your cover fire is two seconds late!"
+  },
+  {
+    "id": "eva-3.33-0103",
+    "time": "00:03:35.883",
+    "timeEnd": "00:03:38.344",
+    "character": "マリ",
+    "segments": [
+      "そっちの",
+      {
+        "kanji": "位置",
+        "reading": "いち"
+      },
+      "… ３",
+      {
+        "kanji": "秒",
+        "reading": "びょう"
+      },
+      {
+        "kanji": "早",
+        "reading": "はや"
+      },
+      "い"
+    ],
+    "english": "[Mari] No, it's not.\nYou're 3 seconds early."
+  },
+  {
+    "id": "eva-3.33-0104",
+    "time": "00:03:38.594",
+    "timeEnd": "00:03:41.138",
+    "character": "アスカ",
+    "segments": [
+      {
+        "kanji": "臨機応変",
+        "reading": "りんきおうへん"
+      },
+      "\n",
+      {
+        "kanji": "合",
+        "reading": "あ"
+      },
+      "わせなさいよっ！"
+    ],
+    "english": "[Asuka] I'm going with the flow.\nImprovise, damn it."
+  },
+  {
+    "id": "eva-3.33-0105",
+    "time": "00:03:41.263",
+    "timeEnd": "00:03:43.015",
+    "character": "マリ",
+    "segments": [
+      {
+        "kanji": "仰",
+        "reading": "おお"
+      },
+      "せのとおりに―"
+    ],
+    "english": "[Mari] But of course..."
+  },
+  {
+    "id": "eva-3.33-0106",
+    "time": "00:03:43.223",
+    "timeEnd": "00:03:44.683",
+    "character": "マリ",
+    "segments": [
+      "お",
+      {
+        "kanji": "姫様",
+        "reading": "ひめさま"
+      },
+      "！"
+    ],
+    "english": "As you wish, Your Highness!"
+  },
+  {
+    "id": "eva-3.33-0107",
+    "time": "00:03:44.892",
+    "timeEnd": "00:03:46.185",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "発砲",
+        "reading": "はっぽう"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": "[explosion]"
+  },
+  {
+    "id": "eva-3.33-0108",
+    "time": "00:03:51.941",
+    "timeEnd": "00:03:55.903",
+    "character": "アスカ",
+    "segments": [
+      "フラーレンシフトを",
+      {
+        "kanji": "抜",
+        "reading": "ぬ"
+      },
+      "けた\n",
+      {
+        "kanji": "最終",
+        "reading": "さいしゅう"
+      },
+      {
+        "kanji": "防衛",
+        "reading": "ぼうえい"
+      },
+      "エリア89を",
+      {
+        "kanji": "突破",
+        "reading": "とっぱ"
+      }
+    ],
+    "english": "[Asuka] Fullerene shift cleared.\nBreaching the final defense, Area 89."
+  },
+  {
+    "id": "eva-3.33-0109",
+    "time": "00:03:56.070",
+    "timeEnd": "00:03:59.323",
+    "character": "アスカ",
+    "segments": [
+      "あ！ ",
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      {
+        "kanji": "物",
+        "reading": "ぶつ"
+      },
+      "が",
+      {
+        "kanji": "移動",
+        "reading": "いどう"
+      },
+      "してる"
+    ],
+    "english": "Huh ? Wait,\ntarget object is on the move!"
+  },
+  {
+    "id": "eva-3.33-0110",
+    "time": "00:04:02.409",
+    "timeEnd": "00:04:04.954",
+    "character": "アスカ",
+    "segments": [
+      {
+        "kanji": "軌道",
+        "reading": "きどう"
+      },
+      {
+        "kanji": "修正",
+        "reading": "しゅうせい"
+      },
+      "が",
+      {
+        "kanji": "追",
+        "reading": "お"
+      },
+      "いつかない\nこのまま",
+      {
+        "kanji": "強行",
+        "reading": "きょうこう"
+      },
+      "する！"
+    ],
+    "english": "Orbital correction slow.\nIt's risky, but I'm going in!"
+  },
+  {
+    "id": "eva-3.33-0111",
+    "time": "00:04:05.245",
+    "timeEnd": "00:04:06.288",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "発射",
+        "reading": "はっしゃ"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": "[gun shots]"
+  },
+  {
+    "id": "eva-3.33-0112",
+    "time": "00:04:12.962",
+    "timeEnd": "00:04:15.130",
+    "character": "アスカ",
+    "segments": [
+      "うう… ぐう… うっ！"
+    ],
+    "english": "[whimpers]"
+  },
+  {
+    "id": "eva-3.33-0113",
+    "time": "00:04:15.422",
+    "timeEnd": "00:04:18.175",
+    "character": "",
+    "segments": [
+      "（ワイヤーを",
+      {
+        "kanji": "巻",
+        "reading": "ま"
+      },
+      "き",
+      {
+        "kanji": "上",
+        "reading": "あ"
+      },
+      "げる",
+      {
+        "kanji": "音",
+        "reading": "おと"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0114",
+    "time": "00:04:25.307",
+    "timeEnd": "00:04:27.434",
+    "character": "アスカ",
+    "segments": [
+      "ううっ… ",
+      {
+        "kanji": "減速",
+        "reading": "げんそく"
+      },
+      "！"
+    ],
+    "english": "Starting deceleration!"
+  },
+  {
+    "id": "eva-3.33-0115",
+    "time": "00:04:32.940",
+    "timeEnd": "00:04:35.859",
+    "character": "アスカ",
+    "segments": [
+      "８… ７… ６…"
+    ],
+    "english": "Eight... seven... six..."
+  },
+  {
+    "id": "eva-3.33-0116",
+    "time": "00:04:36.026",
+    "timeEnd": "00:04:38.946",
+    "character": "アスカ",
+    "segments": [
+      "５… ４… ３…"
+    ],
+    "english": "five... four... three..."
+  },
+  {
+    "id": "eva-3.33-0117",
+    "time": "00:04:39.238",
+    "timeEnd": "00:04:40.656",
+    "character": "アスカ",
+    "segments": [
+      "２… １…"
+    ],
+    "english": "two... one..."
+  },
+  {
+    "id": "eva-3.33-0118",
+    "time": "00:04:41.323",
+    "timeEnd": "00:04:42.700",
+    "character": "アスカ",
+    "segments": [
+      {
+        "kanji": "燃焼",
+        "reading": "ねんしょう"
+      },
+      {
+        "kanji": "終了",
+        "reading": "しゅうりょう"
+      },
+      "！"
+    ],
+    "english": "Burn complete!"
+  },
+  {
+    "id": "eva-3.33-0119",
+    "time": "00:04:50.207",
+    "timeEnd": "00:04:51.208",
+    "character": "北上",
+    "segments": [
+      "ツーダッシュ　"
+    ],
+    "english": "Two Dash,"
+  },
+  {
+    "id": "eva-3.33-0120",
+    "time": "00:04:51.291",
+    "timeEnd": "00:04:52.710",
+    "character": "北上",
+    "segments": [
+      {
+        "kanji": "最終",
+        "reading": "さいしゅう"
+      },
+      "ブースターを\nジェットソン"
+    ],
+    "english": "jettison final booster."
+  },
+  {
+    "id": "eva-3.33-0121",
+    "time": "00:04:52.710",
+    "timeEnd": "00:04:52.876",
+    "character": "北上",
+    "segments": [
+      {
+        "kanji": "最終",
+        "reading": "さいしゅう"
+      },
+      "ブースターを\nジェットソン"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0122",
+    "time": "00:04:52.710",
+    "timeEnd": "00:04:52.876",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "荒",
+        "reading": "あら"
+      },
+      "い",
+      {
+        "kanji": "息",
+        "reading": "いき"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0123",
+    "time": "00:04:52.876",
+    "timeEnd": "00:04:52.960",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "荒",
+        "reading": "あら"
+      },
+      "い",
+      {
+        "kanji": "息",
+        "reading": "いき"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0124",
+    "time": "00:04:52.960",
+    "timeEnd": "00:04:55.045",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "荒",
+        "reading": "あら"
+      },
+      "い",
+      {
+        "kanji": "息",
+        "reading": "いき"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0125",
+    "time": "00:04:52.960",
+    "timeEnd": "00:04:55.045",
+    "character": "北上",
+    "segments": [
+      {
+        "kanji": "再",
+        "reading": "さい"
+      },
+      {
+        "kanji": "突入",
+        "reading": "とつにゅう"
+      },
+      {
+        "kanji": "保安",
+        "reading": "ほあん"
+      },
+      {
+        "kanji": "距離",
+        "reading": "きょり"
+      },
+      "を",
+      {
+        "kanji": "確保",
+        "reading": "かくほ"
+      }
+    ],
+    "english": "Minimum safe re-entry distance secured."
+  },
+  {
+    "id": "eva-3.33-0126",
+    "time": "00:04:55.045",
+    "timeEnd": "00:04:55.170",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "荒",
+        "reading": "あら"
+      },
+      "い",
+      {
+        "kanji": "息",
+        "reading": "いき"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0127",
+    "time": "00:04:55.170",
+    "timeEnd": "00:04:55.963",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "荒",
+        "reading": "あら"
+      },
+      "い",
+      {
+        "kanji": "息",
+        "reading": "いき"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0128",
+    "time": "00:04:55.170",
+    "timeEnd": "00:04:55.963",
+    "character": "男性オペレーター",
+    "segments": [
+      {
+        "kanji": "起動",
+        "reading": "きどう"
+      },
+      {
+        "kanji": "誤差",
+        "reading": "ごさ"
+      },
+      "は",
+      {
+        "kanji": "修正",
+        "reading": "しゅうせい"
+      },
+      {
+        "kanji": "範囲",
+        "reading": "はんい"
+      },
+      {
+        "kanji": "内",
+        "reading": "ない"
+      },
+      "\n",
+      {
+        "kanji": "突入",
+        "reading": "とつにゅう"
+      },
+      {
+        "kanji": "角度",
+        "reading": "かくど"
+      },
+      "を",
+      {
+        "kanji": "再",
+        "reading": "さい"
+      },
+      {
+        "kanji": "計算",
+        "reading": "けいさん"
+      }
+    ],
+    "english": "Trajectory error within correction range."
+  },
+  {
+    "id": "eva-3.33-0129",
+    "time": "00:04:55.963",
+    "timeEnd": "00:04:56.088",
+    "character": "男性オペレーター",
+    "segments": [
+      {
+        "kanji": "起動",
+        "reading": "きどう"
+      },
+      {
+        "kanji": "誤差",
+        "reading": "ごさ"
+      },
+      "は",
+      {
+        "kanji": "修正",
+        "reading": "しゅうせい"
+      },
+      {
+        "kanji": "範囲",
+        "reading": "はんい"
+      },
+      {
+        "kanji": "内",
+        "reading": "ない"
+      },
+      "\n",
+      {
+        "kanji": "突入",
+        "reading": "とつにゅう"
+      },
+      {
+        "kanji": "角度",
+        "reading": "かくど"
+      },
+      "を",
+      {
+        "kanji": "再",
+        "reading": "さい"
+      },
+      {
+        "kanji": "計算",
+        "reading": "けいさん"
+      }
+    ],
+    "english": "Recalculating re-entry angle."
+  },
+  {
+    "id": "eva-3.33-0130",
+    "time": "00:04:56.088",
+    "timeEnd": "00:04:59.299",
+    "character": "アスカ",
+    "segments": [
+      {
+        "kanji": "起動",
+        "reading": "きどう"
+      },
+      {
+        "kanji": "誤差",
+        "reading": "ごさ"
+      },
+      "は",
+      {
+        "kanji": "修正",
+        "reading": "しゅうせい"
+      },
+      {
+        "kanji": "範囲",
+        "reading": "はんい"
+      },
+      {
+        "kanji": "内",
+        "reading": "ない"
+      },
+      "\n",
+      {
+        "kanji": "突入",
+        "reading": "とつにゅう"
+      },
+      {
+        "kanji": "角度",
+        "reading": "かくど"
+      },
+      "を",
+      {
+        "kanji": "再",
+        "reading": "さい"
+      },
+      {
+        "kanji": "計算",
+        "reading": "けいさん"
+      }
+    ],
+    "english": "Target seized. Returning."
+  },
+  {
+    "id": "eva-3.33-0131",
+    "time": "00:04:56.088",
+    "timeEnd": "00:04:59.299",
+    "character": "アスカ",
+    "segments": [
+      {
+        "kanji": "強奪",
+        "reading": "ごうだつ"
+      },
+      {
+        "kanji": "成功",
+        "reading": "せいこう"
+      },
+      "　",
+      {
+        "kanji": "帰投",
+        "reading": "きとう"
+      },
+      "するわ"
+    ],
+    "english": "Mission accomplished. Heading back."
+  },
+  {
+    "id": "eva-3.33-0132",
+    "time": "00:04:59.383",
+    "timeEnd": "00:05:03.679",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      },
+      "　",
+      {
+        "kanji": "回収",
+        "reading": "かいしゅう"
+      },
+      {
+        "kanji": "地点",
+        "reading": "ちてん"
+      },
+      "にて",
+      {
+        "kanji": "待",
+        "reading": "ま"
+      },
+      "つ\n",
+      {
+        "kanji": "合流",
+        "reading": "ごうりゅう"
+      },
+      "コードはサターン",
+      {
+        "kanji": "Ⅴ",
+        "reading": "ふぁいぶ"
+      }
+    ],
+    "english": "Roger. We'll wait at the recovery point."
+  },
+  {
+    "id": "eva-3.33-0133",
+    "time": "00:05:03.804",
+    "timeEnd": "00:05:04.680",
+    "character": "アスカ",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      }
+    ],
+    "english": "- RDV code is Saturn V. / - Copy."
+  },
+  {
+    "id": "eva-3.33-0134",
+    "time": "00:05:04.680",
+    "timeEnd": "00:05:04.805",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      }
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0135",
+    "time": "00:05:04.680",
+    "timeEnd": "00:05:04.805",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "警報",
+        "reading": "けいほう"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0136",
+    "time": "00:05:04.805",
+    "timeEnd": "00:05:05.681",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "警報",
+        "reading": "けいほう"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0137",
+    "time": "00:05:05.681",
+    "timeEnd": "00:05:08.225",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "警報",
+        "reading": "けいほう"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0138",
+    "time": "00:05:05.681",
+    "timeEnd": "00:05:08.225",
+    "character": "ミサト",
+    "segments": [
+      "パターン",
+      {
+        "kanji": "青",
+        "reading": "あお"
+      },
+      "!? どこにいるの？"
+    ],
+    "english": "Pattern Blue! Where?"
+  },
+  {
+    "id": "eva-3.33-0139",
+    "time": "00:05:11.603",
+    "timeEnd": "00:05:14.898",
+    "character": "女性オペレーター",
+    "segments": [
+      {
+        "kanji": "障害",
+        "reading": "しょうがい"
+      },
+      {
+        "kanji": "物",
+        "reading": "ぶつ"
+      },
+      "はコード４Ｂ\nフィールド",
+      {
+        "kanji": "反射",
+        "reading": "はんしゃ"
+      },
+      {
+        "kanji": "膜",
+        "reading": "まく"
+      },
+      "を",
+      {
+        "kanji": "展開",
+        "reading": "てんかい"
+      },
+      {
+        "kanji": "中",
+        "reading": "ちゅう"
+      }
+    ],
+    "english": "[op woman] Code 4B.\nDeploying field reflection membrane."
+  },
+  {
+    "id": "eva-3.33-0140",
+    "time": "00:05:15.024",
+    "timeEnd": "00:05:19.278",
+    "character": "アスカ",
+    "segments": [
+      "チッ！ しゃらくさい\n",
+      {
+        "kanji": "再",
+        "reading": "さい"
+      },
+      {
+        "kanji": "突入",
+        "reading": "とつにゅう"
+      },
+      {
+        "kanji": "直前",
+        "reading": "ちょくぜん"
+      },
+      "だっちゅーの"
+    ],
+    "english": "[Asuka] Give me a break.\nI was just about to go into re-entry!"
+  },
+  {
+    "id": "eva-3.33-0141",
+    "time": "00:05:19.486",
+    "timeEnd": "00:05:21.071",
+    "character": "アスカ",
+    "segments": [
+      "コネメガネ ",
+      {
+        "kanji": "援護",
+        "reading": "えんご"
+      },
+      "！"
+    ],
+    "english": "Four-Eyed Crony, give me back-up!"
+  },
+  {
+    "id": "eva-3.33-0142",
+    "time": "00:05:21.238",
+    "timeEnd": "00:05:22.072",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "発砲",
+        "reading": "はっぽう"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0143",
+    "time": "00:05:22.072",
+    "timeEnd": "00:05:22.239",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "発砲",
+        "reading": "はっぽう"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0144",
+    "time": "00:05:22.072",
+    "timeEnd": "00:05:22.239",
+    "character": "マリ",
+    "segments": [
+      "めんご！ ",
+      {
+        "kanji": "高度",
+        "reading": "こうど"
+      },
+      {
+        "kanji": "不足",
+        "reading": "ふそく"
+      },
+      "でお",
+      {
+        "kanji": "先",
+        "reading": "さき"
+      },
+      "に"
+    ],
+    "english": "Sorry! I'm short on altitude, so I'm peeling off."
+  },
+  {
+    "id": "eva-3.33-0145",
+    "time": "00:05:22.239",
+    "timeEnd": "00:05:25.117",
+    "character": "マリ",
+    "segments": [
+      "めんご！ ",
+      {
+        "kanji": "高度",
+        "reading": "こうど"
+      },
+      {
+        "kanji": "不足",
+        "reading": "ふそく"
+      },
+      "でお",
+      {
+        "kanji": "先",
+        "reading": "さき"
+      },
+      "に"
+    ],
+    "english": "[Mari] My bad! Didn't get\nenough altitude so I'm outta here."
+  },
+  {
+    "id": "eva-3.33-0146",
+    "time": "00:05:25.242",
+    "timeEnd": "00:05:28.954",
+    "character": "マリ",
+    "segments": [
+      "あとはセルフサービスで\nよろ",
+      {
+        "kanji": "Ｐ",
+        "reading": "ぴ"
+      },
+      "く～っ"
+    ],
+    "english": "You'll have to do that one yourself, K?\nBye-bye!"
+  },
+  {
+    "id": "eva-3.33-0147",
+    "time": "00:05:29.079",
+    "timeEnd": "00:05:30.497",
+    "character": "アスカ",
+    "segments": [
+      "チッ！ ",
+      {
+        "kanji": "役立",
+        "reading": "やくだ"
+      },
+      "たず"
+    ],
+    "english": "Useless!"
+  },
+  {
+    "id": "eva-3.33-0148",
+    "time": "00:05:30.998",
+    "timeEnd": "00:05:34.376",
+    "character": "アスカ",
+    "segments": [
+      "もう しつこい！\nこんなの",
+      {
+        "kanji": "聞",
+        "reading": "き"
+      },
+      "いてないわよっ！"
+    ],
+    "english": "Damn... persistent jerk! This wasn't\npart of the mission briefing!"
+  },
+  {
+    "id": "eva-3.33-0149",
+    "time": "00:05:38.881",
+    "timeEnd": "00:05:39.882",
+    "character": "アスカ",
+    "segments": [
+      "えっ!?"
+    ],
+    "english": "Huh?!"
+  },
+  {
+    "id": "eva-3.33-0150",
+    "time": "00:05:43.886",
+    "timeEnd": "00:05:45.721",
+    "character": "アスカ",
+    "segments": [
+      "うわっ あちちちっ！"
+    ],
+    "english": "Ow, hot hot hot!"
+  },
+  {
+    "id": "eva-3.33-0151",
+    "time": "00:05:45.888",
+    "timeEnd": "00:05:47.431",
+    "character": "アスカ",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
+      " この",
+      {
+        "kanji": "光",
+        "reading": "ひかり"
+      },
+      "!?"
+    ],
+    "english": "Huh? Ouch!\nWhat's the deal with this light!"
+  },
+  {
+    "id": "eva-3.33-0152",
+    "time": "00:05:47.556",
+    "timeEnd": "00:05:49.933",
+    "character": "アスカ",
+    "segments": [
+      "Ａ.Ｔ.フィールドが\n",
+      {
+        "kanji": "中和",
+        "reading": "ちゅうわ"
+      },
+      "してない!!"
+    ],
+    "english": "My AT Field isn't neutralizing it!"
+  },
+  {
+    "id": "eva-3.33-0153",
+    "time": "00:05:50.017",
+    "timeEnd": "00:05:52.269",
+    "character": "アスカ",
+    "segments": [
+      "コアブロックをやらないと！"
+    ],
+    "english": "Gotta kill that core block!"
+  },
+  {
+    "id": "eva-3.33-0154",
+    "time": "00:05:52.394",
+    "timeEnd": "00:05:53.854",
+    "character": "アスカ",
+    "segments": [
+      {
+        "kanji": "逃",
+        "reading": "に"
+      },
+      "げんなごらぁ～!!"
+    ],
+    "english": "Come back here, little prick!"
+  },
+  {
+    "id": "eva-3.33-0155",
+    "time": "00:05:53.854",
+    "timeEnd": "00:05:54.772",
+    "character": "アスカ",
+    "segments": [
+      {
+        "kanji": "逃",
+        "reading": "に"
+      },
+      "げんなごらぁ～!!"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0156",
+    "time": "00:05:53.854",
+    "timeEnd": "00:05:54.772",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "警告",
+        "reading": "けいこく"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0157",
+    "time": "00:05:54.772",
+    "timeEnd": "00:05:55.898",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "警告",
+        "reading": "けいこく"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0158",
+    "time": "00:05:55.898",
+    "timeEnd": "00:05:56.899",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "警告",
+        "reading": "けいこく"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0159",
+    "time": "00:05:55.898",
+    "timeEnd": "00:05:56.899",
+    "character": "ＡＩ音声",
+    "segments": [
+      "やばい…"
+    ],
+    "english": "Caution. High angle of attack. Danger."
+  },
+  {
+    "id": "eva-3.33-0160",
+    "time": "00:05:56.899",
+    "timeEnd": "00:05:56.982",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "警告",
+        "reading": "けいこく"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0161",
+    "time": "00:05:56.982",
+    "timeEnd": "00:05:59.026",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "警告",
+        "reading": "けいこく"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0162",
+    "time": "00:05:56.982",
+    "timeEnd": "00:05:59.026",
+    "character": "アスカ",
+    "segments": [
+      {
+        "kanji": "降下",
+        "reading": "こうか"
+      },
+      {
+        "kanji": "角度",
+        "reading": "かくど"
+      },
+      "が",
+      {
+        "kanji": "維持",
+        "reading": "いじ"
+      },
+      "できない\nこのままじゃ",
+      {
+        "kanji": "機体",
+        "reading": "きたい"
+      },
+      "が",
+      {
+        "kanji": "分解",
+        "reading": "ぶんかい"
+      },
+      "する"
+    ],
+    "english": "[Asuka] Crap. I can't maintain my\nre-entry angle. The Eva might break up."
+  },
+  {
+    "id": "eva-3.33-0163",
+    "time": "00:05:59.026",
+    "timeEnd": "00:06:00.986",
+    "character": "アスカ",
+    "segments": [
+      {
+        "kanji": "降下",
+        "reading": "こうか"
+      },
+      {
+        "kanji": "角度",
+        "reading": "かくど"
+      },
+      "が",
+      {
+        "kanji": "維持",
+        "reading": "いじ"
+      },
+      "できない\nこのままじゃ",
+      {
+        "kanji": "機体",
+        "reading": "きたい"
+      },
+      "が",
+      {
+        "kanji": "分解",
+        "reading": "ぶんかい"
+      },
+      "する"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0164",
+    "time": "00:06:01.153",
+    "timeEnd": "00:06:03.947",
+    "character": "ミサト",
+    "segments": [
+      "ツーダッシュ！\n",
+      {
+        "kanji": "作戦",
+        "reading": "さくせん"
+      },
+      {
+        "kanji": "遂行",
+        "reading": "すいこう"
+      },
+      "を",
+      {
+        "kanji": "最",
+        "reading": "さい"
+      },
+      {
+        "kanji": "優先",
+        "reading": "ゆうせん"
+      }
+    ],
+    "english": "Two Dash! Mission completion takes top priority."
+  },
+  {
+    "id": "eva-3.33-0165",
+    "time": "00:06:04.073",
+    "timeEnd": "00:06:06.825",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "機体",
+        "reading": "きたい"
+      },
+      "を",
+      {
+        "kanji": "捨",
+        "reading": "す"
+      },
+      "てても\n",
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      {
+        "kanji": "物",
+        "reading": "ぶつ"
+      },
+      "を",
+      {
+        "kanji": "離",
+        "reading": "はな"
+      },
+      "さないで"
+    ],
+    "english": "Even if you lose the unit, do not let go of the target."
+  },
+  {
+    "id": "eva-3.33-0166",
+    "time": "00:06:06.950",
+    "timeEnd": "00:06:09.036",
+    "character": "アスカ",
+    "segments": [
+      "わかってるっつーの!!"
+    ],
+    "english": "I know that already!"
+  },
+  {
+    "id": "eva-3.33-0167",
+    "time": "00:06:10.245",
+    "timeEnd": "00:06:11.580",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "爆発",
+        "reading": "ばくはつ"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0168",
+    "time": "00:06:11.663",
+    "timeEnd": "00:06:12.664",
+    "character": "アスカ",
+    "segments": [
+      "ああっ!!"
+    ],
+    "english": "[groans]"
+  },
+  {
+    "id": "eva-3.33-0169",
+    "time": "00:06:18.087",
+    "timeEnd": "00:06:21.840",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "激",
+        "reading": "はげ"
+      },
+      "しい",
+      {
+        "kanji": "爆発",
+        "reading": "ばくはつ"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0170",
+    "time": "00:06:24.176",
+    "timeEnd": "00:06:27.513",
+    "character": "アスカ",
+    "segments": [
+      "ぐうう… ううっ！"
+    ],
+    "english": "[whimpers]"
+  },
+  {
+    "id": "eva-3.33-0171",
+    "time": "00:06:27.638",
+    "timeEnd": "00:06:30.682",
+    "character": "アスカ",
+    "segments": [
+      "なんとかしなさいよ\nバカシンジ！"
+    ],
+    "english": "[strains] Damn it,\ndo something you idiot, Shinji!"
+  },
+  {
+    "id": "eva-3.33-0172",
+    "time": "00:06:38.816",
+    "timeEnd": "00:06:41.777",
+    "character": "",
+    "segments": [
+      "（ビームの",
+      {
+        "kanji": "音",
+        "reading": "おと"
+      },
+      "）"
+    ],
+    "english": "[classical choral music]"
+  },
+  {
+    "id": "eva-3.33-0173",
+    "time": "00:06:43.028",
+    "timeEnd": "00:06:44.154",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "爆",
+        "reading": "は"
+      },
+      "ぜる",
+      {
+        "kanji": "音",
+        "reading": "おと"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0174",
+    "time": "00:07:09.263",
+    "timeEnd": "00:07:11.473",
+    "character": "カヲル",
+    "segments": [
+      "おかえり ",
+      {
+        "kanji": "碇",
+        "reading": "いかり"
+      },
+      "シンジ",
+      {
+        "kanji": "君",
+        "reading": "くん"
+      }
+    ],
+    "english": "[Kaworu] Welcome back, Shinji Ikari."
+  },
+  {
+    "id": "eva-3.33-0175",
+    "time": "00:07:12.349",
+    "timeEnd": "00:07:13.350",
+    "character": "カヲル",
+    "segments": [
+      {
+        "kanji": "待",
+        "reading": "ま"
+      },
+      "っていたよ"
+    ],
+    "english": "I've been waiting for you."
+  },
+  {
+    "id": "eva-3.33-0176",
+    "time": "00:07:14.393",
+    "timeEnd": "00:07:19.439",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "呼吸",
+        "reading": "こきゅう"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": "[respirator breathing]"
+  },
+  {
+    "id": "eva-3.33-0177",
+    "time": "00:07:28.157",
+    "timeEnd": "00:07:32.536",
+    "character": "サクラ",
+    "segments": [
+      {
+        "kanji": "心肺",
+        "reading": "しんぱい"
+      },
+      {
+        "kanji": "機能",
+        "reading": "きのう"
+      },
+      "は",
+      {
+        "kanji": "正常",
+        "reading": "せいじょう"
+      },
+      "です\n",
+      {
+        "kanji": "四肢",
+        "reading": "しし"
+      },
+      "の",
+      {
+        "kanji": "麻痺",
+        "reading": "まひ"
+      },
+      "は",
+      {
+        "kanji": "認",
+        "reading": "みと"
+      },
+      "められません"
+    ],
+    "english": "[Sakura] Cardiovascular\nand lung functions normal.\nNo paralysis in his limbs either."
+  },
+  {
+    "id": "eva-3.33-0178",
+    "time": "00:07:32.828",
+    "timeEnd": "00:07:34.830",
+    "character": "サクラ",
+    "segments": [
+      "はい ",
+      {
+        "kanji": "目",
+        "reading": "め"
+      },
+      "は",
+      {
+        "kanji": "開",
+        "reading": "ひら"
+      },
+      "いています"
+    ],
+    "english": "Yes ma'am, his eyes are open."
+  },
+  {
+    "id": "eva-3.33-0179",
+    "time": "00:07:36.748",
+    "timeEnd": "00:07:38.625",
+    "character": "サクラ",
+    "segments": [
+      {
+        "kanji": "私",
+        "reading": "わたし"
+      },
+      "の",
+      {
+        "kanji": "言葉",
+        "reading": "ことば"
+      },
+      "が",
+      {
+        "kanji": "理解",
+        "reading": "りかい"
+      },
+      "できますか？"
+    ],
+    "english": "Do you understand what I am saying?"
+  },
+  {
+    "id": "eva-3.33-0180",
+    "time": "00:07:41.712",
+    "timeEnd": "00:07:44.131",
+    "character": "シンジ",
+    "segments": [
+      "ここ どこですか？"
+    ],
+    "english": "Uh, where am I?"
+  },
+  {
+    "id": "eva-3.33-0181",
+    "time": "00:07:44.590",
+    "timeEnd": "00:07:47.718",
+    "character": "サクラ",
+    "segments": [
+      {
+        "kanji": "言葉",
+        "reading": "ことば"
+      },
+      "を",
+      {
+        "kanji": "話",
+        "reading": "はな"
+      },
+      "せます\n",
+      {
+        "kanji": "意識",
+        "reading": "いしき"
+      },
+      "は",
+      {
+        "kanji": "戻",
+        "reading": "もど"
+      },
+      "ったようです"
+    ],
+    "english": "He's responsive.\nI think he's fully conscious."
+  },
+  {
+    "id": "eva-3.33-0182",
+    "time": "00:07:49.011",
+    "timeEnd": "00:07:52.389",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "確",
+        "reading": "たし"
+      },
+      "か ",
+      {
+        "kanji": "綾波",
+        "reading": "あやなみ"
+      },
+      "を",
+      {
+        "kanji": "助",
+        "reading": "たす"
+      },
+      "けて…"
+    ],
+    "english": "[Shinji] Last thing I remember\nis saving Ayanami and..."
+  },
+  {
+    "id": "eva-3.33-0183",
+    "time": "00:07:52.514",
+    "timeEnd": "00:07:56.727",
+    "character": "サクラ",
+    "segments": [
+      "はい　どうやら\n",
+      {
+        "kanji": "記憶",
+        "reading": "きおく"
+      },
+      "の",
+      {
+        "kanji": "継続",
+        "reading": "けいぞく"
+      },
+      {
+        "kanji": "性",
+        "reading": "せい"
+      },
+      "も",
+      {
+        "kanji": "認",
+        "reading": "みと"
+      },
+      "められます"
+    ],
+    "english": "[Sakura] Yes ma'am, he seems to\nexhibit continuity in his memory recall."
+  },
+  {
+    "id": "eva-3.33-0184",
+    "time": "00:07:57.311",
+    "timeEnd": "00:07:59.313",
+    "character": "シンジ",
+    "segments": [
+      "あの ",
+      {
+        "kanji": "綾",
+        "reading": "あや"
+      },
+      {
+        "kanji": "波",
+        "reading": "は"
+      },
+      "は？"
+    ],
+    "english": "[Shinji] Um, where's Ayanami?"
+  },
+  {
+    "id": "eva-3.33-0185",
+    "time": "00:07:59.688",
+    "timeEnd": "00:08:01.732",
+    "character": "シンジ",
+    "segments": [
+      "これが",
+      {
+        "kanji": "誰",
+        "reading": "だれ"
+      },
+      "かわかりますか？"
+    ],
+    "english": "Do you know who this is?"
+  },
+  {
+    "id": "eva-3.33-0186",
+    "time": "00:08:04.610",
+    "timeEnd": "00:08:06.737",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
+      "… ですけど"
+    ],
+    "english": "Er... That's me."
+  },
+  {
+    "id": "eva-3.33-0187",
+    "time": "00:08:07.529",
+    "timeEnd": "00:08:09.781",
+    "character": "サクラ",
+    "segments": [
+      {
+        "kanji": "自己",
+        "reading": "じこ"
+      },
+      {
+        "kanji": "認識",
+        "reading": "にんしき"
+      },
+      "もあります\n",
+      {
+        "kanji": "問題",
+        "reading": "もんだい"
+      },
+      "なさそうです"
+    ],
+    "english": "[Sakura] Self-aware, too.\nHe seems fine."
+  },
+  {
+    "id": "eva-3.33-0188",
+    "time": "00:08:10.324",
+    "timeEnd": "00:08:10.866",
+    "character": "サクラ",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なん"
+      },
+      "だ これ？"
+    ],
+    "english": "Do you feel the urge to urinate"
+  },
+  {
+    "id": "eva-3.33-0189",
+    "time": "00:08:10.866",
+    "timeEnd": "00:08:12.326",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なん"
+      },
+      "だ これ？"
+    ],
+    "english": "What is this?"
+  },
+  {
+    "id": "eva-3.33-0190",
+    "time": "00:08:10.866",
+    "timeEnd": "00:08:12.326",
+    "character": "サクラ",
+    "segments": [
+      {
+        "kanji": "尿意",
+        "reading": "にょうい"
+      },
+      "や\n",
+      {
+        "kanji": "空腹",
+        "reading": "くうふく"
+      },
+      {
+        "kanji": "感",
+        "reading": "かん"
+      },
+      "はありますか？"
+    ],
+    "english": "or any hunger?"
+  },
+  {
+    "id": "eva-3.33-0191",
+    "time": "00:08:12.326",
+    "timeEnd": "00:08:12.701",
+    "character": "サクラ",
+    "segments": [
+      {
+        "kanji": "尿意",
+        "reading": "にょうい"
+      },
+      "や\n",
+      {
+        "kanji": "空腹",
+        "reading": "くうふく"
+      },
+      {
+        "kanji": "感",
+        "reading": "かん"
+      },
+      "はありますか？"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0192",
+    "time": "00:08:12.743",
+    "timeEnd": "00:08:14.077",
+    "character": "",
+    "segments": [
+      "（ドアの",
+      {
+        "kanji": "開",
+        "reading": "ひら"
+      },
+      "く",
+      {
+        "kanji": "音",
+        "reading": "おと"
+      },
+      "）"
+    ],
+    "english": "[mechanical door]"
+  },
+  {
+    "id": "eva-3.33-0193",
+    "time": "00:08:15.037",
+    "timeEnd": "00:08:16.914",
+    "character": "女性オペレーター",
+    "segments": [
+      {
+        "kanji": "搬入",
+        "reading": "はんにゅう"
+      },
+      "リストの86％までクリア"
+    ],
+    "english": "[op woman]\nCargo loading. 86% complete..."
+  },
+  {
+    "id": "eva-3.33-0194",
+    "time": "00:08:17.039",
+    "timeEnd": "00:08:18.707",
+    "character": "高雄",
+    "segments": [
+      {
+        "kanji": "稼働",
+        "reading": "かどう"
+      },
+      {
+        "kanji": "中",
+        "reading": "ちゅう"
+      },
+      "の",
+      {
+        "kanji": "Ｎ２",
+        "reading": "エヌツー"
+      },
+      "リアクターは"
+    ],
+    "english": "Maintain all active N2 reactors at 90% output."
+  },
+  {
+    "id": "eva-3.33-0195",
+    "time": "00:08:18.790",
+    "timeEnd": "00:08:20.417",
+    "character": "高雄",
+    "segments": [
+      {
+        "kanji": "出力",
+        "reading": "しゅつりょく"
+      },
+      "で90％を",
+      {
+        "kanji": "維持",
+        "reading": "いじ"
+      }
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0196",
+    "time": "00:08:20.500",
+    "timeEnd": "00:08:24.922",
+    "character": "北上",
+    "segments": [
+      {
+        "kanji": "半径",
+        "reading": "はんけい"
+      },
+      "1200",
+      {
+        "kanji": "以内",
+        "reading": "いない"
+      },
+      "に",
+      {
+        "kanji": "艦",
+        "reading": "かん"
+      },
+      {
+        "kanji": "影",
+        "reading": "かげ"
+      },
+      "なし\n",
+      {
+        "kanji": "未",
+        "reading": "み"
+      },
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      },
+      {
+        "kanji": "飛行",
+        "reading": "ひこう"
+      },
+      {
+        "kanji": "物体",
+        "reading": "ぶったい"
+      },
+      "も",
+      {
+        "kanji": "認",
+        "reading": "みと"
+      },
+      "められず"
+    ],
+    "english": "No vessels within radius 1200. No unidentified flying objects detected."
+  },
+  {
+    "id": "eva-3.33-0197",
+    "time": "00:08:25.005",
+    "timeEnd": "00:08:26.757",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "乗員",
+        "reading": "じょういん"
+      },
+      "の",
+      {
+        "kanji": "移乗",
+        "reading": "いじょう"
+      },
+      "は\nＤブロックの",
+      {
+        "kanji": "船",
+        "reading": "ふね"
+      },
+      "を",
+      {
+        "kanji": "最",
+        "reading": "さい"
+      },
+      {
+        "kanji": "優先",
+        "reading": "ゆうせん"
+      }
+    ],
+    "english": "[Aoba]\nPriority One on boarding the crew..."
+  },
+  {
+    "id": "eva-3.33-0198",
+    "time": "00:08:26.840",
+    "timeEnd": "00:08:28.967",
+    "character": "日向",
+    "segments": [
+      {
+        "kanji": "食料",
+        "reading": "しょくりょう"
+      },
+      {
+        "kanji": "搬入",
+        "reading": "はんにゅう"
+      },
+      {
+        "kanji": "作業",
+        "reading": "さぎょう"
+      },
+      "の",
+      {
+        "kanji": "人手",
+        "reading": "ひとで"
+      },
+      "が\nまるで",
+      {
+        "kanji": "足",
+        "reading": "た"
+      },
+      "りない"
+    ],
+    "english": "[Hyuga] We are critically short on cargo\nhands working on loading provisions."
+  },
+  {
+    "id": "eva-3.33-0199",
+    "time": "00:08:29.092",
+    "timeEnd": "00:08:32.930",
+    "character": "長良",
+    "segments": [
+      {
+        "kanji": "両",
+        "reading": "りょう"
+      },
+      {
+        "kanji": "舷",
+        "reading": "ふなばた"
+      },
+      "３",
+      {
+        "kanji": "番",
+        "reading": "ばん"
+      },
+      "５",
+      {
+        "kanji": "番",
+        "reading": "ばん"
+      },
+      "のジャイロをチェック\n",
+      {
+        "kanji": "計器",
+        "reading": "けいき"
+      },
+      "にズレがある"
+    ],
+    "english": "[Nagara] Checking port and starboard\ngyroscopes 3 and 5."
+  },
+  {
+    "id": "eva-3.33-0200",
+    "time": "00:08:33.055",
+    "timeEnd": "00:08:35.349",
+    "character": "多摩",
+    "segments": [
+      {
+        "kanji": "艤",
+        "reading": "ぎ"
+      },
+      {
+        "kanji": "装",
+        "reading": "そう"
+      },
+      {
+        "kanji": "作業",
+        "reading": "さぎょう"
+      },
+      "\nロードマップをチェック"
+    ],
+    "english": "Check the outfitting work roadmap."
+  },
+  {
+    "id": "eva-3.33-0201",
+    "time": "00:08:35.807",
+    "timeEnd": "00:08:37.184",
+    "character": "シンジ",
+    "segments": [
+      "あ…"
+    ],
+    "english": "Ah..."
+  },
+  {
+    "id": "eva-3.33-0202",
+    "time": "00:08:38.227",
+    "timeEnd": "00:08:38.518",
+    "character": "サクラ",
+    "segments": [
+      "よっと"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0203",
+    "time": "00:08:38.518",
+    "timeEnd": "00:08:39.519",
+    "character": "サクラ",
+    "segments": [
+      "よっと"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0204",
+    "time": "00:08:38.518",
+    "timeEnd": "00:08:39.519",
+    "character": "",
+    "segments": [
+      "（ストッパーを",
+      {
+        "kanji": "下",
+        "reading": "お"
+      },
+      "ろす",
+      {
+        "kanji": "音",
+        "reading": "おと"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0205",
+    "time": "00:08:39.895",
+    "timeEnd": "00:08:42.856",
+    "character": "サクラ",
+    "segments": [
+      {
+        "kanji": "検体",
+        "reading": "けんたい"
+      },
+      " ＢＭ",
+      {
+        "kanji": "０３",
+        "reading": "マルサン"
+      },
+      " ",
+      {
+        "kanji": "拘引",
+        "reading": "こういん"
+      },
+      "しました"
+    ],
+    "english": "[Sakura] Subject BM03 is now in custody."
+  },
+  {
+    "id": "eva-3.33-0206",
+    "time": "00:08:42.981",
+    "timeEnd": "00:08:44.983",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      },
+      "　",
+      {
+        "kanji": "拘束",
+        "reading": "こうそく"
+      },
+      "を",
+      {
+        "kanji": "解",
+        "reading": "と"
+      },
+      "いて"
+    ],
+    "english": "[Misato] Roger. Unbind him."
+  },
+  {
+    "id": "eva-3.33-0207",
+    "time": "00:08:46.985",
+    "timeEnd": "00:08:47.986",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "下",
+        "reading": "さ"
+      },
+      "がっていいわ"
+    ],
+    "english": "Stand down."
+  },
+  {
+    "id": "eva-3.33-0208",
+    "time": "00:08:50.906",
+    "timeEnd": "00:08:54.159",
+    "character": "シンジ",
+    "segments": [
+      "んん… んっ…"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0209",
+    "time": "00:08:55.369",
+    "timeEnd": "00:08:57.788",
+    "character": "シンジ",
+    "segments": [
+      "うっ　はぁ…"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0210",
+    "time": "00:08:58.413",
+    "timeEnd": "00:09:00.165",
+    "character": "女性オペレーター",
+    "segments": [
+      {
+        "kanji": "通常",
+        "reading": "つうじょう"
+      },
+      {
+        "kanji": "操舵",
+        "reading": "そうだ"
+      },
+      {
+        "kanji": "装置",
+        "reading": "そうち"
+      },
+      "を",
+      {
+        "kanji": "再",
+        "reading": "さい"
+      },
+      "チェック\n",
+      {
+        "kanji": "問題",
+        "reading": "もんだい"
+      },
+      "なし"
+    ],
+    "english": "Rechecking normal steering systems. No issues."
+  },
+  {
+    "id": "eva-3.33-0211",
+    "time": "00:09:00.165",
+    "timeEnd": "00:09:01.166",
+    "character": "女性オペレーター",
+    "segments": [
+      {
+        "kanji": "通常",
+        "reading": "つうじょう"
+      },
+      {
+        "kanji": "操舵",
+        "reading": "そうだ"
+      },
+      {
+        "kanji": "装置",
+        "reading": "そうち"
+      },
+      "を",
+      {
+        "kanji": "再",
+        "reading": "さい"
+      },
+      "チェック\n",
+      {
+        "kanji": "問題",
+        "reading": "もんだい"
+      },
+      "なし"
+    ],
+    "english": "[op woman #1]\nResuming power inflow.\n[soft piano music]"
+  },
+  {
+    "id": "eva-3.33-0212",
+    "time": "00:09:00.165",
+    "timeEnd": "00:09:01.166",
+    "character": "シンジ",
+    "segments": [
+      "あ…"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0213",
+    "time": "00:09:09.424",
+    "timeEnd": "00:09:10.467",
+    "character": "",
+    "segments": [
+      "ん…"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0214",
+    "time": "00:09:11.927",
+    "timeEnd": "00:09:14.137",
+    "character": "シンジ",
+    "segments": [
+      "ミサト… さん？"
+    ],
+    "english": "Ms. Misato Katsuragi?"
+  },
+  {
+    "id": "eva-3.33-0215",
+    "time": "00:09:14.638",
+    "timeEnd": "00:09:17.224",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "碇",
+        "reading": "いかり"
+      },
+      "シンジ",
+      {
+        "kanji": "君",
+        "reading": "くん"
+      },
+      "\nで いいのよね？"
+    ],
+    "english": "Shinji Ikari. Correct?"
+  },
+  {
+    "id": "eva-3.33-0216",
+    "time": "00:09:17.724",
+    "timeEnd": "00:09:18.976",
+    "character": "リツコ",
+    "segments": [
+      "そうね"
+    ],
+    "english": "That's right."
+  },
+  {
+    "id": "eva-3.33-0217",
+    "time": "00:09:19.142",
+    "timeEnd": "00:09:23.063",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "物理",
+        "reading": "ぶつり"
+      },
+      {
+        "kanji": "的",
+        "reading": "てき"
+      },
+      {
+        "kanji": "情報",
+        "reading": "じょうほう"
+      },
+      "では\nコード",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "３の",
+      {
+        "kanji": "少年",
+        "reading": "しょうねん"
+      },
+      "と",
+      {
+        "kanji": "完全",
+        "reading": "かんぜん"
+      },
+      "に",
+      {
+        "kanji": "一致",
+        "reading": "いっち"
+      }
+    ],
+    "english": "[Ritsuko] Physiologically, he's a perfect\nmatch to the Third Boy's archive files."
+  },
+  {
+    "id": "eva-3.33-0218",
+    "time": "00:09:23.480",
+    "timeEnd": "00:09:26.191",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "生後",
+        "reading": "せいご"
+      },
+      "の",
+      {
+        "kanji": "歯",
+        "reading": "は"
+      },
+      "の",
+      {
+        "kanji": "治療",
+        "reading": "ちりょう"
+      },
+      {
+        "kanji": "痕",
+        "reading": "こん"
+      },
+      "など\n",
+      {
+        "kanji": "身体",
+        "reading": "しんたい"
+      },
+      {
+        "kanji": "組織",
+        "reading": "そしき"
+      },
+      "は"
+    ],
+    "english": "His body tissues, down to healed baby teeth,"
+  },
+  {
+    "id": "eva-3.33-0219",
+    "time": "00:09:26.275",
+    "timeEnd": "00:09:29.486",
+    "character": "リツコ",
+    "segments": [
+      "ニアサー",
+      {
+        "kanji": "時",
+        "reading": "じ"
+      },
+      "を\n100％",
+      {
+        "kanji": "再現",
+        "reading": "さいげん"
+      },
+      "しているわ"
+    ],
+    "english": "Dental records are an exact reproduction\nof him at the time of the N3I."
+  },
+  {
+    "id": "eva-3.33-0220",
+    "time": "00:09:29.611",
+    "timeEnd": "00:09:33.115",
+    "character": "リツコ",
+    "segments": [
+      "なお ",
+      {
+        "kanji": "深層",
+        "reading": "しんそう"
+      },
+      "シンクロテストの\n",
+      {
+        "kanji": "結果",
+        "reading": "けっか"
+      },
+      "は",
+      {
+        "kanji": "分析",
+        "reading": "ぶんせき"
+      },
+      {
+        "kanji": "中",
+        "reading": "ちゅう"
+      }
+    ],
+    "english": "We're analyzing the results\nof his deep synchronization test."
+  },
+  {
+    "id": "eva-3.33-0221",
+    "time": "00:09:33.240",
+    "timeEnd": "00:09:35.284",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "頸",
+        "reading": "けい"
+      },
+      {
+        "kanji": "部",
+        "reading": "ぶ"
+      },
+      "へのＤＳＳチョーカーは？"
+    ],
+    "english": "Is the DSS choker on his neck?"
+  },
+  {
+    "id": "eva-3.33-0222",
+    "time": "00:09:35.409",
+    "timeEnd": "00:09:38.078",
+    "character": "リツコ",
+    "segments": [
+      "すでに",
+      {
+        "kanji": "装着",
+        "reading": "そうちゃく"
+      },
+      {
+        "kanji": "済",
+        "reading": "ず"
+      },
+      "みよ　",
+      {
+        "kanji": "葛城",
+        "reading": "かつらぎ"
+      },
+      {
+        "kanji": "艦長",
+        "reading": "かんちょう"
+      }
+    ],
+    "english": "[Ritsuko] Already done,\nCaptain Katsuragi."
+  },
+  {
+    "id": "eva-3.33-0223",
+    "time": "00:09:38.620",
+    "timeEnd": "00:09:40.831",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "葛城",
+        "reading": "かつらぎ"
+      },
+      {
+        "kanji": "艦長",
+        "reading": "かんちょう"
+      },
+      "？"
+    ],
+    "english": "Captain Katsuragi?"
+  },
+  {
+    "id": "eva-3.33-0224",
+    "time": "00:09:41.164",
+    "timeEnd": "00:09:42.874",
+    "character": "シンジ",
+    "segments": [
+      "やっぱりミサトさん？"
+    ],
+    "english": "So it really is you, Ms. Misato?"
+  },
+  {
+    "id": "eva-3.33-0225",
+    "time": "00:09:43.000",
+    "timeEnd": "00:09:43.959",
+    "character": "",
+    "segments": [
+      "（ピピッという",
+      {
+        "kanji": "音",
+        "reading": "おと"
+      },
+      "）"
+    ],
+    "english": "[electrical chirp]"
+  },
+  {
+    "id": "eva-3.33-0226",
+    "time": "00:09:43.959",
+    "timeEnd": "00:09:44.251",
+    "character": "",
+    "segments": [
+      "（ピピッという",
+      {
+        "kanji": "音",
+        "reading": "おと"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0227",
+    "time": "00:09:43.959",
+    "timeEnd": "00:09:44.251",
+    "character": "リツコ",
+    "segments": [
+      "おっ あれ？"
+    ],
+    "english": "Hm?"
+  },
+  {
+    "id": "eva-3.33-0228",
+    "time": "00:09:44.251",
+    "timeEnd": "00:09:45.210",
+    "character": "リツコ",
+    "segments": [
+      "おっ あれ？"
+    ],
+    "english": "Oh?"
+  },
+  {
+    "id": "eva-3.33-0229",
+    "time": "00:09:49.923",
+    "timeEnd": "00:09:53.677",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "作動",
+        "reading": "さどう"
+      },
+      {
+        "kanji": "正常",
+        "reading": "せいじょう"
+      },
+      "\nパスコードを",
+      {
+        "kanji": "艦長",
+        "reading": "かんちょう"
+      },
+      {
+        "kanji": "専用",
+        "reading": "せんよう"
+      },
+      "に"
+    ],
+    "english": "It's functioning normally. Set to captain-only passcode."
+  },
+  {
+    "id": "eva-3.33-0230",
+    "time": "00:09:53.802",
+    "timeEnd": "00:09:54.803",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      }
+    ],
+    "english": "[Misato] Understood."
+  },
+  {
+    "id": "eva-3.33-0231",
+    "time": "00:09:57.806",
+    "timeEnd": "00:09:59.683",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
+      "なんですか？ これ"
+    ],
+    "english": "What is this?"
+  },
+  {
+    "id": "eva-3.33-0232",
+    "time": "00:09:59.808",
+    "timeEnd": "00:10:03.061",
+    "character": "シンジ",
+    "segments": [
+      "あ… ",
+      {
+        "kanji": "外",
+        "reading": "はず"
+      },
+      "してくださいよ もう！"
+    ],
+    "english": "Ah... please take it off!"
+  },
+  {
+    "id": "eva-3.33-0233",
+    "time": "00:10:03.603",
+    "timeEnd": "00:10:05.063",
+    "character": "ミサト",
+    "segments": [
+      "うっ…"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0234",
+    "time": "00:10:05.314",
+    "timeEnd": "00:10:08.025",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "絶対",
+        "reading": "ぜったい"
+      },
+      "に",
+      {
+        "kanji": "外",
+        "reading": "はず"
+      },
+      "しませんよ それ"
+    ],
+    "english": "That thing is never coming off."
+  },
+  {
+    "id": "eva-3.33-0235",
+    "time": "00:10:08.692",
+    "timeEnd": "00:10:11.653",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "面会",
+        "reading": "めんかい"
+      },
+      {
+        "kanji": "終了",
+        "reading": "しゅうりょう"
+      },
+      "　",
+      {
+        "kanji": "彼",
+        "reading": "かれ"
+      },
+      "を",
+      {
+        "kanji": "隔離",
+        "reading": "かくり"
+      },
+      {
+        "kanji": "室",
+        "reading": "しつ"
+      },
+      "へ"
+    ],
+    "english": "This conversation is over.\nTake him to quarantine."
+  },
+  {
+    "id": "eva-3.33-0236",
+    "time": "00:10:12.112",
+    "timeEnd": "00:10:13.113",
+    "character": "シンジ",
+    "segments": [
+      "えっ？"
+    ],
+    "english": "What?"
+  },
+  {
+    "id": "eva-3.33-0237",
+    "time": "00:10:13.155",
+    "timeEnd": "00:10:14.656",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "警報",
+        "reading": "けいほう"
+      },
+      "）"
+    ],
+    "english": "[alarm beeps]"
+  },
+  {
+    "id": "eva-3.33-0238",
+    "time": "00:10:14.656",
+    "timeEnd": "00:10:18.243",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "警報",
+        "reading": "けいほう"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0239",
+    "time": "00:10:14.656",
+    "timeEnd": "00:10:18.243",
+    "character": "北上",
+    "segments": [
+      "デコイ０１と０５が",
+      {
+        "kanji": "消滅",
+        "reading": "しょうめつ"
+      },
+      "\n",
+      {
+        "kanji": "波長",
+        "reading": "はちょう"
+      },
+      "も",
+      {
+        "kanji": "捕捉",
+        "reading": "ほそく"
+      }
+    ],
+    "english": "[Kitakami] We've lost decoys O-1 and O-5.\nDetecting wave patterns."
+  },
+  {
+    "id": "eva-3.33-0240",
+    "time": "00:10:18.410",
+    "timeEnd": "00:10:19.870",
+    "character": "北上",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
+      "だろ？ これ"
+    ],
+    "english": "What is this?"
+  },
+  {
+    "id": "eva-3.33-0241",
+    "time": "00:10:19.995",
+    "timeEnd": "00:10:21.371",
+    "character": "日向",
+    "segments": [
+      "パターン",
+      {
+        "kanji": "青",
+        "reading": "あお"
+      },
+      "だよ！"
+    ],
+    "english": "It's a Pattern Blue!"
+  },
+  {
+    "id": "eva-3.33-0242",
+    "time": "00:10:21.496",
+    "timeEnd": "00:10:25.042",
+    "character": "日向",
+    "segments": [
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      "を",
+      {
+        "kanji": "識別",
+        "reading": "しきべつ"
+      },
+      "　コード４Ｃ\nネーメズィスシリーズです"
+    ],
+    "english": "It's a Pattern Blue! Target classified\nas a Code 4C, Nemesis Series."
+  },
+  {
+    "id": "eva-3.33-0243",
+    "time": "00:10:25.834",
+    "timeEnd": "00:10:26.960",
+    "character": "日向",
+    "segments": [
+      "また",
+      {
+        "kanji": "来",
+        "reading": "き"
+      },
+      "たか"
+    ],
+    "english": "They don't give up."
+  },
+  {
+    "id": "eva-3.33-0244",
+    "time": "00:10:27.252",
+    "timeEnd": "00:10:31.673",
+    "character": "日向",
+    "segments": [
+      {
+        "kanji": "侵攻",
+        "reading": "しんこう"
+      },
+      "が",
+      {
+        "kanji": "立体",
+        "reading": "りったい"
+      },
+      {
+        "kanji": "的",
+        "reading": "てき"
+      },
+      "よ　まずは\n",
+      {
+        "kanji": "私",
+        "reading": "わたし"
+      },
+      "たちをここに",
+      {
+        "kanji": "封鎖",
+        "reading": "ふうさ"
+      },
+      "するつもりね"
+    ],
+    "english": "They're widening formation. All axis.\nThey're trying to pen us in."
+  },
+  {
+    "id": "eva-3.33-0245",
+    "time": "00:10:32.174",
+    "timeEnd": "00:10:36.178",
+    "character": "ミサト",
+    "segments": [
+      "まだここを",
+      {
+        "kanji": "動",
+        "reading": "うご"
+      },
+      "くわけにはいかない\n",
+      {
+        "kanji": "主",
+        "reading": "しゅ"
+      },
+      {
+        "kanji": "機関",
+        "reading": "きかん"
+      },
+      {
+        "kanji": "連作",
+        "reading": "れんさく"
+      },
+      {
+        "kanji": "業",
+        "reading": "ぎょう"
+      },
+      "のみ",
+      {
+        "kanji": "続行",
+        "reading": "ぞっこう"
+      }
+    ],
+    "english": "[Misato] We're not ready to move yet.\nHalt ops except main engine outfitting."
+  },
+  {
+    "id": "eva-3.33-0246",
+    "time": "00:10:37.054",
+    "timeEnd": "00:10:39.348",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "全",
+        "reading": "ぜん"
+      },
+      {
+        "kanji": "艦",
+        "reading": "かん"
+      },
+      " ",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "２",
+      {
+        "kanji": "種",
+        "reading": "しゅ"
+      },
+      {
+        "kanji": "戦闘",
+        "reading": "せんとう"
+      },
+      {
+        "kanji": "配置",
+        "reading": "はいち"
+      }
+    ],
+    "english": "All hands, battle stations condition 2!"
+  },
+  {
+    "id": "eva-3.33-0247",
+    "time": "00:10:39.556",
+    "timeEnd": "00:10:42.142",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      " ",
+      {
+        "kanji": "全",
+        "reading": "ぜん"
+      },
+      "ネーメズィスシリーズ"
+    ],
+    "english": "Target all Nemesis Series entities."
+  },
+  {
+    "id": "eva-3.33-0248",
+    "time": "00:10:42.267",
+    "timeEnd": "00:10:44.853",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      },
+      "\n",
+      {
+        "kanji": "全",
+        "reading": "ぜん"
+      },
+      {
+        "kanji": "艦",
+        "reading": "かん"
+      },
+      " ",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "２",
+      {
+        "kanji": "種",
+        "reading": "しゅ"
+      },
+      {
+        "kanji": "戦闘",
+        "reading": "せんとう"
+      },
+      {
+        "kanji": "配置",
+        "reading": "はいち"
+      }
+    ],
+    "english": "[Ritsuko] Assume battle stations\ncondition 2."
+  },
+  {
+    "id": "eva-3.33-0249",
+    "time": "00:10:45.145",
+    "timeEnd": "00:10:48.106",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "対空",
+        "reading": "たいくう"
+      },
+      " ",
+      {
+        "kanji": "対",
+        "reading": "たい"
+      },
+      {
+        "kanji": "水上",
+        "reading": "すいじょう"
+      },
+      {
+        "kanji": "及",
+        "reading": "およ"
+      },
+      "び",
+      {
+        "kanji": "水中",
+        "reading": "すいちゅう"
+      },
+      {
+        "kanji": "戦",
+        "reading": "せん"
+      },
+      " ",
+      {
+        "kanji": "用意",
+        "reading": "ようい"
+      }
+    ],
+    "english": "Ready anti-air, anti-surface\nand anti-submarine."
+  },
+  {
+    "id": "eva-3.33-0250",
+    "time": "00:10:48.482",
+    "timeEnd": "00:10:51.401",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "補給",
+        "reading": "ほきゅう"
+      },
+      {
+        "kanji": "作業",
+        "reading": "さぎょう"
+      },
+      "を",
+      {
+        "kanji": "中断",
+        "reading": "ちゅうだん"
+      },
+      "\n",
+      {
+        "kanji": "乗員",
+        "reading": "じょういん"
+      },
+      {
+        "kanji": "移乗",
+        "reading": "いじょう"
+      },
+      "を",
+      {
+        "kanji": "最",
+        "reading": "さい"
+      },
+      {
+        "kanji": "優先",
+        "reading": "ゆうせん"
+      }
+    ],
+    "english": "Abort loading and fueling.\nCrew to board immediately."
+  },
+  {
+    "id": "eva-3.33-0251",
+    "time": "00:10:51.651",
+    "timeEnd": "00:10:55.072",
+    "character": "アナウンス",
+    "segments": [
+      {
+        "kanji": "全",
+        "reading": "ぜん"
+      },
+      {
+        "kanji": "艦",
+        "reading": "かん"
+      },
+      " ",
+      {
+        "kanji": "補給",
+        "reading": "ほきゅう"
+      },
+      {
+        "kanji": "作業",
+        "reading": "さぎょう"
+      },
+      "を",
+      {
+        "kanji": "中断",
+        "reading": "ちゅうだん"
+      },
+      "\n",
+      {
+        "kanji": "乗員",
+        "reading": "じょういん"
+      },
+      {
+        "kanji": "移乗",
+        "reading": "いじょう"
+      },
+      "を",
+      {
+        "kanji": "最",
+        "reading": "さい"
+      },
+      {
+        "kanji": "優先",
+        "reading": "ゆうせん"
+      }
+    ],
+    "english": "All stations, discontinue loading."
+  },
+  {
+    "id": "eva-3.33-0252",
+    "time": "00:10:55.197",
+    "timeEnd": "00:10:59.368",
+    "character": "女性オペレーター１",
+    "segments": [
+      {
+        "kanji": "主",
+        "reading": "しゅ"
+      },
+      {
+        "kanji": "機関",
+        "reading": "きかん"
+      },
+      {
+        "kanji": "連作",
+        "reading": "れんさく"
+      },
+      {
+        "kanji": "業",
+        "reading": "ぎょう"
+      },
+      "は",
+      {
+        "kanji": "続行",
+        "reading": "ぞっこう"
+      },
+      "\n",
+      {
+        "kanji": "各",
+        "reading": "かく"
+      },
+      {
+        "kanji": "動力",
+        "reading": "どうりょく"
+      },
+      {
+        "kanji": "流入",
+        "reading": "りゅうにゅう"
+      },
+      "ラインの",
+      {
+        "kanji": "開閉",
+        "reading": "かいへい"
+      },
+      "を",
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      }
+    ],
+    "english": "Continue main engine work. Check all power inflow line valves."
+  },
+  {
+    "id": "eva-3.33-0253",
+    "time": "00:10:59.493",
+    "timeEnd": "00:11:02.579",
+    "character": "女性オペレーター２",
+    "segments": [
+      {
+        "kanji": "各",
+        "reading": "かく"
+      },
+      {
+        "kanji": "航空機",
+        "reading": "こうくうき"
+      },
+      "は",
+      {
+        "kanji": "現",
+        "reading": "げん"
+      },
+      {
+        "kanji": "空域",
+        "reading": "くういき"
+      },
+      "から\n",
+      {
+        "kanji": "直",
+        "reading": "ただ"
+      },
+      "ちに",
+      {
+        "kanji": "離脱",
+        "reading": "りだつ"
+      }
+    ],
+    "english": "All aircraft, leave the current airspace immediately."
+  },
+  {
+    "id": "eva-3.33-0254",
+    "time": "00:11:02.662",
+    "timeEnd": "00:11:05.248",
+    "character": "女性オペレーター２",
+    "segments": [
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "２",
+      {
+        "kanji": "集結",
+        "reading": "しゅうけつ"
+      },
+      "ポイントへ\n",
+      {
+        "kanji": "速",
+        "reading": "すみ"
+      },
+      "やかに",
+      {
+        "kanji": "移動",
+        "reading": "いどう"
+      },
+      {
+        "kanji": "願",
+        "reading": "ねが"
+      },
+      "います"
+    ],
+    "english": "Proceed at once to secondary rally point."
+  },
+  {
+    "id": "eva-3.33-0255",
+    "time": "00:11:05.540",
+    "timeEnd": "00:11:08.752",
+    "character": "男性オペレーター１",
+    "segments": [
+      {
+        "kanji": "積",
+        "reading": "つ"
+      },
+      "み",
+      {
+        "kanji": "残",
+        "reading": "のこ"
+      },
+      "しは",
+      {
+        "kanji": "置",
+        "reading": "お"
+      },
+      "いていけ\n",
+      {
+        "kanji": "乗組",
+        "reading": "のりくみ"
+      },
+      {
+        "kanji": "員",
+        "reading": "いん"
+      },
+      "の",
+      {
+        "kanji": "移動",
+        "reading": "いどう"
+      },
+      "が",
+      {
+        "kanji": "最",
+        "reading": "さい"
+      },
+      {
+        "kanji": "優先",
+        "reading": "ゆうせん"
+      },
+      "だ"
+    ],
+    "english": "Leave any cargo behind. Crew transfer takes priority."
+  },
+  {
+    "id": "eva-3.33-0256",
+    "time": "00:11:08.919",
+    "timeEnd": "00:11:12.005",
+    "character": "男性オペレーター２",
+    "segments": [
+      {
+        "kanji": "艤装",
+        "reading": "ぎそう"
+      },
+      {
+        "kanji": "作業",
+        "reading": "さぎょう"
+      },
+      "は",
+      {
+        "kanji": "続",
+        "reading": "つづ"
+      },
+      "けろ\n",
+      {
+        "kanji": "会",
+        "reading": "かい"
+      },
+      {
+        "kanji": "敵",
+        "reading": "てき"
+      },
+      "ギリギリまで",
+      {
+        "kanji": "組",
+        "reading": "く"
+      },
+      "み",
+      {
+        "kanji": "立",
+        "reading": "た"
+      },
+      "てを",
+      {
+        "kanji": "頼",
+        "reading": "たの"
+      },
+      "む"
+    ],
+    "english": "Keep outfitting work going. Assemble her right up until contact."
+  },
+  {
+    "id": "eva-3.33-0257",
+    "time": "00:11:12.130",
+    "timeEnd": "00:11:14.758",
+    "character": "男性オペレーター３",
+    "segments": [
+      {
+        "kanji": "動力",
+        "reading": "どうりょく"
+      },
+      "ラインを",
+      {
+        "kanji": "手伝",
+        "reading": "てつだ"
+      },
+      "える",
+      {
+        "kanji": "者",
+        "reading": "もの"
+      },
+      "は\n",
+      {
+        "kanji": "内火艇",
+        "reading": "ないかてい"
+      },
+      "に",
+      {
+        "kanji": "集合",
+        "reading": "しゅうごう"
+      },
+      "してくれ"
+    ],
+    "english": "Anyone who can help with the power lines, gather at the launches."
+  },
+  {
+    "id": "eva-3.33-0258",
+    "time": "00:11:14.841",
+    "timeEnd": "00:11:16.927",
+    "character": "女性オペレーター３",
+    "segments": [
+      {
+        "kanji": "各",
+        "reading": "かく"
+      },
+      {
+        "kanji": "砲塔",
+        "reading": "ほうとう"
+      },
+      " ",
+      {
+        "kanji": "各個",
+        "reading": "かっこ"
+      },
+      "に",
+      {
+        "kanji": "発射",
+        "reading": "はっしゃ"
+      },
+      {
+        "kanji": "準備",
+        "reading": "じゅんび"
+      }
+    ],
+    "english": "All turrets, prepare to fire independently."
+  },
+  {
+    "id": "eva-3.33-0259",
+    "time": "00:11:17.010",
+    "timeEnd": "00:11:19.721",
+    "character": "女性オペレーター４",
+    "segments": [
+      {
+        "kanji": "遠隔",
+        "reading": "えんかく"
+      },
+      {
+        "kanji": "操作",
+        "reading": "そうさ"
+      },
+      {
+        "kanji": "及",
+        "reading": "およ"
+      },
+      "び\n",
+      {
+        "kanji": "連動",
+        "reading": "れんどう"
+      },
+      "システムを",
+      {
+        "kanji": "起動",
+        "reading": "きどう"
+      }
+    ],
+    "english": "Activate remote-control and linked systems."
+  },
+  {
+    "id": "eva-3.33-0260",
+    "time": "00:11:19.846",
+    "timeEnd": "00:11:21.223",
+    "character": "女性オペレーター４",
+    "segments": [
+      {
+        "kanji": "不意",
+        "reading": "ふい"
+      },
+      "の",
+      {
+        "kanji": "交戦",
+        "reading": "こうせん"
+      },
+      "に",
+      {
+        "kanji": "備",
+        "reading": "そな"
+      },
+      "えてください"
+    ],
+    "english": "Prepare for sudden engagement."
+  },
+  {
+    "id": "eva-3.33-0261",
+    "time": "00:11:21.598",
+    "timeEnd": "00:11:25.769",
+    "character": "高雄",
+    "segments": [
+      {
+        "kanji": "主",
+        "reading": "おも"
+      },
+      {
+        "kanji": "機",
+        "reading": "き"
+      },
+      {
+        "kanji": "伝導",
+        "reading": "でんどう"
+      },
+      "システムは\n",
+      {
+        "kanji": "注入",
+        "reading": "ちゅうにゅう"
+      },
+      {
+        "kanji": "作業",
+        "reading": "さぎょう"
+      },
+      "を",
+      {
+        "kanji": "継続",
+        "reading": "けいぞく"
+      },
+      "　",
+      {
+        "kanji": "急",
+        "reading": "いそ"
+      },
+      "げよ！"
+    ],
+    "english": "Continue power\nto main engine conductors.\nHurry it up!"
+  },
+  {
+    "id": "eva-3.33-0262",
+    "time": "00:11:25.894",
+    "timeEnd": "00:11:29.398",
+    "character": "男性オペレーター４",
+    "segments": [
+      "Ｎ２リアクター\n",
+      {
+        "kanji": "出力",
+        "reading": "しゅつりょく"
+      },
+      "99％で",
+      {
+        "kanji": "稼働",
+        "reading": "かどう"
+      },
+      {
+        "kanji": "中",
+        "reading": "ちゅう"
+      }
+    ],
+    "english": "N2 reactor running at 99% output."
+  },
+  {
+    "id": "eva-3.33-0263",
+    "time": "00:11:29.481",
+    "timeEnd": "00:11:33.068",
+    "character": "女性オペレーター３",
+    "segments": [
+      {
+        "kanji": "注入",
+        "reading": "ちゅうにゅう"
+      },
+      {
+        "kanji": "作業",
+        "reading": "さぎょう"
+      },
+      {
+        "kanji": "続行",
+        "reading": "ぞっこう"
+      },
+      "\n90",
+      {
+        "kanji": "番",
+        "reading": "ばん"
+      },
+      "までのバルブを",
+      {
+        "kanji": "開放",
+        "reading": "かいほう"
+      }
+    ],
+    "english": "Continue injection. Open valves through Number 90."
+  },
+  {
+    "id": "eva-3.33-0264",
+    "time": "00:11:33.193",
+    "timeEnd": "00:11:34.986",
+    "character": "女性オペレーター１",
+    "segments": [
+      {
+        "kanji": "動力",
+        "reading": "どうりょく"
+      },
+      "パイプ",
+      {
+        "kanji": "接続",
+        "reading": "せつぞく"
+      },
+      {
+        "kanji": "完了",
+        "reading": "かんりょう"
+      }
+    ],
+    "english": "Power pipe connection complete."
+  },
+  {
+    "id": "eva-3.33-0265",
+    "time": "00:11:35.070",
+    "timeEnd": "00:11:37.906",
+    "character": "女性オペレーター２",
+    "segments": [
+      {
+        "kanji": "左舷",
+        "reading": "さげん"
+      },
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "３ ",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "４ハブステーション\n",
+      {
+        "kanji": "異常",
+        "reading": "いじょう"
+      },
+      "なし"
+    ],
+    "english": "No abnormalities at port hub stations 3 and 4."
+  },
+  {
+    "id": "eva-3.33-0266",
+    "time": "00:11:38.031",
+    "timeEnd": "00:11:40.867",
+    "character": "男性オペレーター５",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      },
+      "\n90",
+      {
+        "kanji": "番",
+        "reading": "ばん"
+      },
+      "までの",
+      {
+        "kanji": "全",
+        "reading": "ぜん"
+      },
+      "バルブを",
+      {
+        "kanji": "開放",
+        "reading": "かいほう"
+      }
+    ],
+    "english": "[op man #1] Roger.\nOpening all valves up to Number 90."
+  },
+  {
+    "id": "eva-3.33-0267",
+    "time": "00:11:40.992",
+    "timeEnd": "00:11:42.452",
+    "character": "男性オペレーター５",
+    "segments": [
+      "エネルギー",
+      {
+        "kanji": "流入",
+        "reading": "りゅうにゅう"
+      },
+      {
+        "kanji": "開始",
+        "reading": "かいし"
+      }
+    ],
+    "english": "Beginning power inflow."
+  },
+  {
+    "id": "eva-3.33-0268",
+    "time": "00:11:42.577",
+    "timeEnd": "00:11:45.288",
+    "character": "女性オペレーター１",
+    "segments": [
+      "Ｎ２リアクターへの",
+      {
+        "kanji": "動力",
+        "reading": "どうりょく"
+      },
+      {
+        "kanji": "流入",
+        "reading": "りゅうにゅう"
+      },
+      "\n",
+      {
+        "kanji": "順調",
+        "reading": "じゅんちょう"
+      },
+      "です"
+    ],
+    "english": "[op woman #1] Power supply\nto the N2 is holding steady."
+  },
+  {
+    "id": "eva-3.33-0269",
+    "time": "00:11:45.414",
+    "timeEnd": "00:11:49.334",
+    "character": "女性オペレーター２",
+    "segments": [
+      "Ｌ.Ｃ.Ｌ.",
+      {
+        "kanji": "循環",
+        "reading": "じゅんかん"
+      },
+      "ポンプを",
+      {
+        "kanji": "点検",
+        "reading": "てんけん"
+      },
+      {
+        "kanji": "中",
+        "reading": "ちゅう"
+      },
+      "\nろ",
+      {
+        "kanji": "過",
+        "reading": "か"
+      },
+      "システムを",
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      }
+    ],
+    "english": "Inspecting LCL circulation pumps. Checking filtration system."
+  },
+  {
+    "id": "eva-3.33-0270",
+    "time": "00:11:49.584",
+    "timeEnd": "00:11:50.836",
+    "character": "伊吹",
+    "segments": [
+      {
+        "kanji": "戦闘",
+        "reading": "せんとう"
+      },
+      {
+        "kanji": "配置",
+        "reading": "はいち"
+      },
+      "よ！"
+    ],
+    "english": "Battle stations!"
+  },
+  {
+    "id": "eva-3.33-0271",
+    "time": "00:11:51.169",
+    "timeEnd": "00:11:53.004",
+    "character": "伊吹",
+    "segments": [
+      "さっさと",
+      {
+        "kanji": "部署",
+        "reading": "ぶしょ"
+      },
+      "について"
+    ],
+    "english": "[Ibuki] It's battle stations, people!\nCome on, get to your posts!"
+  },
+  {
+    "id": "eva-3.33-0272",
+    "time": "00:11:53.171",
+    "timeEnd": "00:11:54.840",
+    "character": "伊吹",
+    "segments": [
+      "そこ！ グズグズしない"
+    ],
+    "english": "You there!\nGet the lead out!"
+  },
+  {
+    "id": "eva-3.33-0273",
+    "time": "00:11:54.923",
+    "timeEnd": "00:11:56.883",
+    "character": "整備員",
+    "segments": [
+      {
+        "kanji": "無理",
+        "reading": "むり"
+      },
+      "ですよ ",
+      {
+        "kanji": "整備",
+        "reading": "せいび"
+      },
+      {
+        "kanji": "長",
+        "reading": "ちょう"
+      }
+    ],
+    "english": "Come on, Chief..."
+  },
+  {
+    "id": "eva-3.33-0274",
+    "time": "00:11:57.008",
+    "timeEnd": "00:12:00.137",
+    "character": "整備員",
+    "segments": [
+      "なんせ",
+      {
+        "kanji": "民間",
+        "reading": "みんかん"
+      },
+      {
+        "kanji": "人",
+        "reading": "じん"
+      },
+      "も",
+      {
+        "kanji": "混",
+        "reading": "ま"
+      },
+      "じってる\n",
+      {
+        "kanji": "寄",
+        "reading": "よ"
+      },
+      "せ",
+      {
+        "kanji": "集",
+        "reading": "あつ"
+      },
+      "め",
+      {
+        "kanji": "集団",
+        "reading": "しゅうだん"
+      },
+      "ですよ"
+    ],
+    "english": "[Crewman] Chief, this is a makeshift crew.\nWe got civilians among us, remember?"
+  },
+  {
+    "id": "eva-3.33-0275",
+    "time": "00:12:00.262",
+    "timeEnd": "00:12:03.140",
+    "character": "整備員",
+    "segments": [
+      {
+        "kanji": "言",
+        "reading": "い"
+      },
+      "い",
+      {
+        "kanji": "訳",
+        "reading": "わけ"
+      },
+      " ",
+      {
+        "kanji": "無用",
+        "reading": "むよう"
+      },
+      "！\nさっさと",
+      {
+        "kanji": "手",
+        "reading": "て"
+      },
+      "を",
+      {
+        "kanji": "動",
+        "reading": "うご"
+      },
+      "かせ"
+    ],
+    "english": "No excuses! Get to work! Now!"
+  },
+  {
+    "id": "eva-3.33-0276",
+    "time": "00:12:03.807",
+    "timeEnd": "00:12:07.269",
+    "character": "整備長",
+    "segments": [
+      "チッ！ これだから",
+      {
+        "kanji": "若",
+        "reading": "わか"
+      },
+      "い",
+      {
+        "kanji": "男",
+        "reading": "おとこ"
+      },
+      "は"
+    ],
+    "english": "This is the problem with young men."
+  },
+  {
+    "id": "eva-3.33-0277",
+    "time": "00:12:07.602",
+    "timeEnd": "00:12:10.856",
+    "character": "多摩",
+    "segments": [
+      "えっと…\n",
+      {
+        "kanji": "艤装",
+        "reading": "ぎそう"
+      },
+      {
+        "kanji": "作業",
+        "reading": "さぎょう"
+      },
+      "はここで",
+      {
+        "kanji": "中断",
+        "reading": "ちゅうだん"
+      }
+    ],
+    "english": "Um... suspending outfitting work here."
+  },
+  {
+    "id": "eva-3.33-0278",
+    "time": "00:12:10.981",
+    "timeEnd": "00:12:13.733",
+    "character": "多摩",
+    "segments": [
+      {
+        "kanji": "隔壁",
+        "reading": "かくへき"
+      },
+      "の",
+      {
+        "kanji": "閉鎖",
+        "reading": "へいさ"
+      },
+      "を",
+      {
+        "kanji": "開始",
+        "reading": "かいし"
+      },
+      "って これか？"
+    ],
+    "english": "Closing and securing bulkheads.\nIs this it?"
+  },
+  {
+    "id": "eva-3.33-0279",
+    "time": "00:12:14.109",
+    "timeEnd": "00:12:18.155",
+    "character": "多摩",
+    "segments": [
+      {
+        "kanji": "対空",
+        "reading": "たいくう"
+      },
+      {
+        "kanji": "監視",
+        "reading": "かんし"
+      },
+      "を",
+      {
+        "kanji": "厳",
+        "reading": "げん"
+      },
+      "として\nソナーの",
+      {
+        "kanji": "方位",
+        "reading": "ほうい"
+      },
+      "は これ"
+    ],
+    "english": "Maintain strict anti-air watch. Sonar bearing goes here."
+  },
+  {
+    "id": "eva-3.33-0280",
+    "time": "00:12:18.280",
+    "timeEnd": "00:12:20.699",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "北上",
+        "reading": "ほくじょう"
+      },
+      "　",
+      {
+        "kanji": "甲板",
+        "reading": "かんぱん"
+      },
+      {
+        "kanji": "作業",
+        "reading": "さぎょう"
+      },
+      "の",
+      {
+        "kanji": "状況",
+        "reading": "じょうきょう"
+      },
+      "は？"
+    ],
+    "english": "What's the deck plating status?"
+  },
+  {
+    "id": "eva-3.33-0281",
+    "time": "00:12:21.032",
+    "timeEnd": "00:12:23.160",
+    "character": "青葉",
+    "segments": [
+      "それ ",
+      {
+        "kanji": "私",
+        "reading": "わたし"
+      },
+      "の",
+      {
+        "kanji": "担当",
+        "reading": "たんとう"
+      },
+      "ですか？"
+    ],
+    "english": "Wait, am I in charge of that?"
+  },
+  {
+    "id": "eva-3.33-0282",
+    "time": "00:12:23.410",
+    "timeEnd": "00:12:24.870",
+    "character": "北上",
+    "segments": [
+      {
+        "kanji": "兼任",
+        "reading": "けんにん"
+      },
+      "だ　",
+      {
+        "kanji": "当然",
+        "reading": "とうぜん"
+      },
+      "だろ！"
+    ],
+    "english": "It's shared duty, obviously!"
+  },
+  {
+    "id": "eva-3.33-0283",
+    "time": "00:12:24.953",
+    "timeEnd": "00:12:27.664",
+    "character": "青葉",
+    "segments": [
+      "ええ～っ！ マジィ？"
+    ],
+    "english": "What?! Seriously?"
+  },
+  {
+    "id": "eva-3.33-0284",
+    "time": "00:12:27.789",
+    "timeEnd": "00:12:29.291",
+    "character": "サクラ",
+    "segments": [
+      "よっこいしょっと"
+    ],
+    "english": "Heave-ho."
+  },
+  {
+    "id": "eva-3.33-0285",
+    "time": "00:12:30.208",
+    "timeEnd": "00:12:33.170",
+    "character": "サクラ",
+    "segments": [
+      {
+        "kanji": "移動",
+        "reading": "いどう"
+      },
+      "は",
+      {
+        "kanji": "危険",
+        "reading": "きけん"
+      },
+      "です\nここにいましょう"
+    ],
+    "english": "[sighs] Moving right now\nwould be too dangerous. We'll stay here."
+  },
+  {
+    "id": "eva-3.33-0286",
+    "time": "00:12:33.295",
+    "timeEnd": "00:12:33.837",
+    "character": "サクラ",
+    "segments": [
+      "よっと"
+    ],
+    "english": "There."
+  },
+  {
+    "id": "eva-3.33-0287",
+    "time": "00:12:33.837",
+    "timeEnd": "00:12:34.546",
+    "character": "サクラ",
+    "segments": [
+      "よっと"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0288",
+    "time": "00:12:33.837",
+    "timeEnd": "00:12:34.546",
+    "character": "アナウンス",
+    "segments": [
+      {
+        "kanji": "全",
+        "reading": "ぜん"
+      },
+      {
+        "kanji": "艦",
+        "reading": "かん"
+      },
+      " ",
+      {
+        "kanji": "対空",
+        "reading": "たいくう"
+      },
+      {
+        "kanji": "砲塔",
+        "reading": "ほうとう"
+      },
+      " ",
+      {
+        "kanji": "及",
+        "reading": "およ"
+      },
+      "び\n",
+      {
+        "kanji": "対空",
+        "reading": "たいくう"
+      },
+      {
+        "kanji": "誘導",
+        "reading": "ゆうどう"
+      },
+      {
+        "kanji": "弾",
+        "reading": "だん"
+      },
+      " ",
+      {
+        "kanji": "準備",
+        "reading": "じゅんび"
+      },
+      {
+        "kanji": "完了",
+        "reading": "かんりょう"
+      }
+    ],
+    "english": "All anti-air turrets and anti-air guided missiles are ready."
+  },
+  {
+    "id": "eva-3.33-0289",
+    "time": "00:12:34.546",
+    "timeEnd": "00:12:35.464",
+    "character": "アナウンス",
+    "segments": [
+      {
+        "kanji": "全",
+        "reading": "ぜん"
+      },
+      {
+        "kanji": "艦",
+        "reading": "かん"
+      },
+      " ",
+      {
+        "kanji": "対空",
+        "reading": "たいくう"
+      },
+      {
+        "kanji": "砲塔",
+        "reading": "ほうとう"
+      },
+      " ",
+      {
+        "kanji": "及",
+        "reading": "およ"
+      },
+      "び\n",
+      {
+        "kanji": "対空",
+        "reading": "たいくう"
+      },
+      {
+        "kanji": "誘導",
+        "reading": "ゆうどう"
+      },
+      {
+        "kanji": "弾",
+        "reading": "だん"
+      },
+      " ",
+      {
+        "kanji": "準備",
+        "reading": "じゅんび"
+      },
+      {
+        "kanji": "完了",
+        "reading": "かんりょう"
+      }
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0290",
+    "time": "00:12:35.464",
+    "timeEnd": "00:12:38.550",
+    "character": "アナウンス",
+    "segments": [
+      {
+        "kanji": "全",
+        "reading": "ぜん"
+      },
+      {
+        "kanji": "艦",
+        "reading": "かん"
+      },
+      " ",
+      {
+        "kanji": "対空",
+        "reading": "たいくう"
+      },
+      {
+        "kanji": "砲塔",
+        "reading": "ほうとう"
+      },
+      " ",
+      {
+        "kanji": "及",
+        "reading": "およ"
+      },
+      "び\n",
+      {
+        "kanji": "対空",
+        "reading": "たいくう"
+      },
+      {
+        "kanji": "誘導",
+        "reading": "ゆうどう"
+      },
+      {
+        "kanji": "弾",
+        "reading": "だん"
+      },
+      " ",
+      {
+        "kanji": "準備",
+        "reading": "じゅんび"
+      },
+      {
+        "kanji": "完了",
+        "reading": "かんりょう"
+      }
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0291",
+    "time": "00:12:35.464",
+    "timeEnd": "00:12:38.550",
+    "character": "サクラ",
+    "segments": [
+      "せやけど ",
+      {
+        "kanji": "艦橋",
+        "reading": "かんきょう"
+      },
+      "での",
+      {
+        "kanji": "戦闘",
+        "reading": "せんとう"
+      },
+      {
+        "kanji": "配置",
+        "reading": "はいち"
+      },
+      "\n",
+      {
+        "kanji": "緊張",
+        "reading": "きんちょう"
+      },
+      "するわぁ～"
+    ],
+    "english": "Still, a battle alert on the bridge is pretty nerve-racking."
+  },
+  {
+    "id": "eva-3.33-0292",
+    "time": "00:12:38.550",
+    "timeEnd": "00:12:38.800",
+    "character": "サクラ",
+    "segments": [
+      "せやけど ",
+      {
+        "kanji": "艦橋",
+        "reading": "かんきょう"
+      },
+      "での",
+      {
+        "kanji": "戦闘",
+        "reading": "せんとう"
+      },
+      {
+        "kanji": "配置",
+        "reading": "はいち"
+      },
+      "\n",
+      {
+        "kanji": "緊張",
+        "reading": "きんちょう"
+      },
+      "するわぁ～"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0293",
+    "time": "00:12:38.800",
+    "timeEnd": "00:12:40.760",
+    "character": "サクラ",
+    "segments": [
+      "せやけど ",
+      {
+        "kanji": "艦橋",
+        "reading": "かんきょう"
+      },
+      "での",
+      {
+        "kanji": "戦闘",
+        "reading": "せんとう"
+      },
+      {
+        "kanji": "配置",
+        "reading": "はいち"
+      },
+      "\n",
+      {
+        "kanji": "緊張",
+        "reading": "きんちょう"
+      },
+      "するわぁ～"
+    ],
+    "english": "So tense..."
+  },
+  {
+    "id": "eva-3.33-0294",
+    "time": "00:12:38.800",
+    "timeEnd": "00:12:40.760",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      },
+      "\n",
+      {
+        "kanji": "各",
+        "reading": "かく"
+      },
+      {
+        "kanji": "対空",
+        "reading": "たいくう"
+      },
+      "システムを",
+      {
+        "kanji": "連動",
+        "reading": "れんどう"
+      }
+    ],
+    "english": "Roger. Link all anti-air systems."
+  },
+  {
+    "id": "eva-3.33-0295",
+    "time": "00:12:40.760",
+    "timeEnd": "00:12:41.511",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      },
+      "\n",
+      {
+        "kanji": "各",
+        "reading": "かく"
+      },
+      {
+        "kanji": "対空",
+        "reading": "たいくう"
+      },
+      "システムを",
+      {
+        "kanji": "連動",
+        "reading": "れんどう"
+      }
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-3.33-0296",
+    "time": "00:12:41.761",
+    "timeEnd": "00:12:43.346",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "初号",
+        "reading": "しょごう"
+      },
+      {
+        "kanji": "機",
+        "reading": "き"
+      },
+      {
+        "kanji": "保護",
+        "reading": "ほご"
+      },
+      "を",
+      {
+        "kanji": "最",
+        "reading": "さい"
+      },
+      {
+        "kanji": "優先",
+        "reading": "ゆうせん"
+      }
+    ],
+    "english": "Priority on guarding Unit 01."
+  },
+  {
+    "id": "eva-3.33-0297",
+    "time": "00:12:43.763",
+    "timeEnd": "00:12:44.973",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "初号",
+        "reading": "しょごう"
+      },
+      {
+        "kanji": "機",
+        "reading": "き"
+      },
+      "？"
+    ],
+    "english": "Unit 01?"
+  },
+  {
+    "id": "eva-3.33-0298",
+    "time": "00:12:45.098",
+    "timeEnd": "00:12:48.977",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "荒波",
+        "reading": "あらなみ"
+      },
+      "の",
+      {
+        "kanji": "音",
+        "reading": "おと"
+      },
+      "）"
+    ],
+    "english": "[wind howls]"
+  }
+]

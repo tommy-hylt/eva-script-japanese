@@ -1,0 +1,21 @@
+{
+  "movieId": "eva-3.33",
+  "titleEn": "Evangelion: 3.33 You Can (Not) Redo",
+  "jpEntryCount": 1482,
+  "enEntryCount": 1094,
+  "entriesWithoutEnglish": 431,
+  "entriesWithSourceRuby": 41,
+  "entriesWithGeneratedRuby": 1192,
+  "carriedSpeakerEntries": 585,
+  "overriddenEntries": 390,
+  "generatedPartCount": 5,
+  "partSizes": [
+    298,
+    316,
+    310,
+    283,
+    275
+  ],
+  "firstTime": "00:00:35.786",
+  "lastTime": "01:35:30.517"
+}

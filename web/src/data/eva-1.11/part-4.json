@@ -1,0 +1,7010 @@
+[
+  {
+    "id": "eva-1.11-1013",
+    "time": "00:58:41.435",
+    "timeEnd": "00:58:42.436",
+    "character": "",
+    "segments": [
+      "（ノック）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1014",
+    "time": "00:58:46.815",
+    "timeEnd": "00:58:48.234",
+    "character": "シンジ",
+    "segments": [
+      "ごめんください"
+    ],
+    "english": "Anybody home?"
+  },
+  {
+    "id": "eva-1.11-1015",
+    "time": "00:58:52.404",
+    "timeEnd": "00:58:54.698",
+    "character": "シンジ",
+    "segments": [
+      "ごめんください　",
+      {
+        "kanji": "碇",
+        "reading": "いかり"
+      },
+      "だけど"
+    ],
+    "english": "Hello? It's me, Shinji."
+  },
+  {
+    "id": "eva-1.11-1016",
+    "time": "00:58:56.742",
+    "timeEnd": "00:58:57.952",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "綾",
+        "reading": "あや"
+      },
+      {
+        "kanji": "波",
+        "reading": "は"
+      },
+      " ",
+      {
+        "kanji": "入",
+        "reading": "はい"
+      },
+      "るよ"
+    ],
+    "english": "I'm coming in, okay?"
+  },
+  {
+    "id": "eva-1.11-1017",
+    "time": "00:59:03.332",
+    "timeEnd": "00:59:04.458",
+    "character": "シンジ",
+    "segments": [
+      "ちょ ちょ…"
+    ],
+    "english": "W-whoa..."
+  },
+  {
+    "id": "eva-1.11-1018",
+    "time": "00:59:26.605",
+    "timeEnd": "00:59:27.606",
+    "character": "シンジ",
+    "segments": [
+      "ああ…"
+    ],
+    "english": "Ah..."
+  },
+  {
+    "id": "eva-1.11-1019",
+    "time": "00:59:34.613",
+    "timeEnd": "00:59:35.781",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "綾",
+        "reading": "あや"
+      },
+      {
+        "kanji": "波",
+        "reading": "は"
+      },
+      "のかな？"
+    ],
+    "english": "Are these hers?"
+  },
+  {
+    "id": "eva-1.11-1020",
+    "time": "00:59:40.995",
+    "timeEnd": "00:59:42.079",
+    "character": "",
+    "segments": [
+      "（カーテンが",
+      {
+        "kanji": "開",
+        "reading": "ひら"
+      },
+      "く",
+      {
+        "kanji": "音",
+        "reading": "おと"
+      },
+      "）"
+    ],
+    "english": "[curtain draws]"
+  },
+  {
+    "id": "eva-1.11-1021",
+    "time": "00:59:44.748",
+    "timeEnd": "00:59:45.749",
+    "character": "シンジ",
+    "segments": [
+      "ああっ"
+    ],
+    "english": "[gasps]"
+  },
+  {
+    "id": "eva-1.11-1022",
+    "time": "00:59:50.129",
+    "timeEnd": "00:59:51.630",
+    "character": "シンジ",
+    "segments": [
+      "い… いや あの…"
+    ],
+    "english": "I... Uh..."
+  },
+  {
+    "id": "eva-1.11-1023",
+    "time": "00:59:54.675",
+    "timeEnd": "00:59:56.427",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
+      "は",
+      {
+        "kanji": "別",
+        "reading": "べつ"
+      },
+      "に… あっ"
+    ],
+    "english": "I wasn't trying to..."
+  },
+  {
+    "id": "eva-1.11-1024",
+    "time": "00:59:58.012",
+    "timeEnd": "00:59:59.179",
+    "character": "シンジ",
+    "segments": [
+      "ああっ　ううっ"
+    ],
+    "english": "Ah! Ugh..."
+  },
+  {
+    "id": "eva-1.11-1025",
+    "time": "01:00:02.308",
+    "timeEnd": "01:00:04.351",
+    "character": "シンジ",
+    "segments": [
+      "うわあっ\n（",
+      {
+        "kanji": "倒",
+        "reading": "たお"
+      },
+      "れる",
+      {
+        "kanji": "音",
+        "reading": "おと"
+      },
+      "）"
+    ],
+    "english": "Whoa! [thud]"
+  },
+  {
+    "id": "eva-1.11-1026",
+    "time": "01:00:28.959",
+    "timeEnd": "01:00:29.960",
+    "character": "レイ",
+    "segments": [
+      "どいてくれる？"
+    ],
+    "english": "Could you move now?\n[stammers]"
+  },
+  {
+    "id": "eva-1.11-1027",
+    "time": "01:00:31.795",
+    "timeEnd": "01:00:32.796",
+    "character": "シンジ",
+    "segments": [
+      "あっ… あっ"
+    ],
+    "english": "Ah... ah..."
+  },
+  {
+    "id": "eva-1.11-1028",
+    "time": "01:00:33.672",
+    "timeEnd": "01:00:35.341",
+    "character": "シンジ",
+    "segments": [
+      "うわっ！　あっ あの…"
+    ],
+    "english": "Whoa! Uh..."
+  },
+  {
+    "id": "eva-1.11-1029",
+    "time": "01:00:39.053",
+    "timeEnd": "01:00:40.054",
+    "character": "シンジ",
+    "segments": [
+      "ああっ"
+    ],
+    "english": "Ah!"
+  },
+  {
+    "id": "eva-1.11-1030",
+    "time": "01:00:43.932",
+    "timeEnd": "01:00:44.933",
+    "character": "シンジ",
+    "segments": [
+      "ああ…"
+    ],
+    "english": "Ah..."
+  },
+  {
+    "id": "eva-1.11-1031",
+    "time": "01:00:52.733",
+    "timeEnd": "01:00:53.734",
+    "character": "レイ",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
+      "？"
+    ],
+    "english": "What is it?"
+  },
+  {
+    "id": "eva-1.11-1032",
+    "time": "01:00:54.568",
+    "timeEnd": "01:00:58.739",
+    "character": "シンジ",
+    "segments": [
+      "えっ　あ… あの\n",
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
+      "は あの… その…"
+    ],
+    "english": "Uh... I... um..."
+  },
+  {
+    "id": "eva-1.11-1033",
+    "time": "01:01:02.242",
+    "timeEnd": "01:01:05.621",
+    "character": "シンジ",
+    "segments": [
+      "うっ ",
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
+      "は た… ",
+      {
+        "kanji": "頼",
+        "reading": "たの"
+      },
+      "まれて…"
+    ],
+    "english": "I was told to come..."
+  },
+  {
+    "id": "eva-1.11-1034",
+    "time": "01:01:05.704",
+    "timeEnd": "01:01:08.665",
+    "character": "シンジ",
+    "segments": [
+      "えっ つまり… ",
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
+      "だっけ…"
+    ],
+    "english": "I mean... what was it again..."
+  },
+  {
+    "id": "eva-1.11-1035",
+    "time": "01:01:09.041",
+    "timeEnd": "01:01:13.379",
+    "character": "シンジ",
+    "segments": [
+      "あっ カ… カード カードを\n",
+      {
+        "kanji": "新",
+        "reading": "あたら"
+      },
+      "しくなったから",
+      {
+        "kanji": "届",
+        "reading": "とど"
+      },
+      "けてくれって"
+    ],
+    "english": "Oh, the c-card. They told me to bring your new card."
+  },
+  {
+    "id": "eva-1.11-1036",
+    "time": "01:01:14.171",
+    "timeEnd": "01:01:15.172",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "唾",
+        "reading": "つば"
+      },
+      "を",
+      {
+        "kanji": "飲",
+        "reading": "の"
+      },
+      "み",
+      {
+        "kanji": "込",
+        "reading": "こ"
+      },
+      "む",
+      {
+        "kanji": "音",
+        "reading": "おと"
+      },
+      "）"
+    ],
+    "english": "[gulps]"
+  },
+  {
+    "id": "eva-1.11-1037",
+    "time": "01:01:16.256",
+    "timeEnd": "01:01:20.135",
+    "character": "シンジ",
+    "segments": [
+      "だから…　だから…\n",
+      {
+        "kanji": "別",
+        "reading": "べつ"
+      },
+      "に そんなつもりは…"
+    ],
+    "english": "So... really... I wasn't trying to do anything like that..."
+  },
+  {
+    "id": "eva-1.11-1038",
+    "time": "01:01:26.767",
+    "timeEnd": "01:01:29.269",
+    "character": "シンジ",
+    "segments": [
+      "リツコさんが\n",
+      {
+        "kanji": "渡",
+        "reading": "わた"
+      },
+      "すの",
+      {
+        "kanji": "忘",
+        "reading": "わす"
+      },
+      "れてたからって"
+    ],
+    "english": "Miss Ritsuko forgot to hand it over."
+  },
+  {
+    "id": "eva-1.11-1039",
+    "time": "01:01:29.978",
+    "timeEnd": "01:01:30.979",
+    "character": "シンジ",
+    "segments": [
+      "ホントなんだ"
+    ],
+    "english": "It's true."
+  },
+  {
+    "id": "eva-1.11-1040",
+    "time": "01:01:31.063",
+    "timeEnd": "01:01:33.065",
+    "character": "シンジ",
+    "segments": [
+      "それでチャイム",
+      {
+        "kanji": "鳴",
+        "reading": "な"
+      },
+      "らしても\n",
+      {
+        "kanji": "誰",
+        "reading": "だれ"
+      },
+      "も",
+      {
+        "kanji": "出",
+        "reading": "で"
+      },
+      "ないし"
+    ],
+    "english": "And even when I rang the bell, nobody answered."
+  },
+  {
+    "id": "eva-1.11-1041",
+    "time": "01:01:33.732",
+    "timeEnd": "01:01:35.609",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "鍵",
+        "reading": "かぎ"
+      },
+      "が",
+      {
+        "kanji": "開",
+        "reading": "ひら"
+      },
+      "いてたんで…"
+    ],
+    "english": "And the door was unlocked so..."
+  },
+  {
+    "id": "eva-1.11-1042",
+    "time": "01:01:36.151",
+    "timeEnd": "01:01:38.112",
+    "character": "",
+    "segments": [
+      "（ドアが",
+      {
+        "kanji": "閉",
+        "reading": "し"
+      },
+      "まる",
+      {
+        "kanji": "音",
+        "reading": "おと"
+      },
+      "）"
+    ],
+    "english": "[door squeaks and shuts]"
+  },
+  {
+    "id": "eva-1.11-1043",
+    "time": "01:01:47.913",
+    "timeEnd": "01:01:50.416",
+    "character": "アナウンス",
+    "segments": [
+      "セントラルドグマは",
+      {
+        "kanji": "現在",
+        "reading": "げんざい"
+      },
+      {
+        "kanji": "開放",
+        "reading": "かいほう"
+      },
+      {
+        "kanji": "中",
+        "reading": "ちゅう"
+      },
+      "です"
+    ],
+    "english": "[female PA] Access to Central Dogma\nis currently allowed."
+  },
+  {
+    "id": "eva-1.11-1044",
+    "time": "01:01:50.916",
+    "timeEnd": "01:01:52.167",
+    "character": "アナウンス",
+    "segments": [
+      "グループ３は",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "４",
+      {
+        "kanji": "直通",
+        "reading": "ちょくつう"
+      },
+      "ゲートを\n",
+      {
+        "kanji": "利用",
+        "reading": "りよう"
+      },
+      "してください"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1045",
+    "time": "01:01:52.167",
+    "timeEnd": "01:01:53.210",
+    "character": "アナウンス",
+    "segments": [
+      "グループ３は",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "４",
+      {
+        "kanji": "直通",
+        "reading": "ちょくつう"
+      },
+      "ゲートを\n",
+      {
+        "kanji": "利用",
+        "reading": "りよう"
+      },
+      "してください"
+    ],
+    "english": "Category three visitors,\nplease use gate number four."
+  },
+  {
+    "id": "eva-1.11-1046",
+    "time": "01:01:52.167",
+    "timeEnd": "01:01:53.210",
+    "character": "",
+    "segments": [
+      "（エラー",
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1047",
+    "time": "01:01:53.210",
+    "timeEnd": "01:01:54.169",
+    "character": "アナウンス",
+    "segments": [
+      "グループ３は",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "４",
+      {
+        "kanji": "直通",
+        "reading": "ちょくつう"
+      },
+      "ゲートを\n",
+      {
+        "kanji": "利用",
+        "reading": "りよう"
+      },
+      "してください"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1048",
+    "time": "01:01:55.629",
+    "timeEnd": "01:01:56.630",
+    "character": "",
+    "segments": [
+      "（エラー",
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": "[beep]"
+  },
+  {
+    "id": "eva-1.11-1049",
+    "time": "01:01:58.132",
+    "timeEnd": "01:02:01.885",
+    "character": "シンジ",
+    "segments": [
+      "これ ",
+      {
+        "kanji": "綾",
+        "reading": "あや"
+      },
+      {
+        "kanji": "波",
+        "reading": "は"
+      },
+      "の",
+      {
+        "kanji": "新",
+        "reading": "あたら"
+      },
+      "しいやつ\nリツコさんに",
+      {
+        "kanji": "頼",
+        "reading": "たの"
+      },
+      "まれて…"
+    ],
+    "english": "As I said before,\nthey issued you a new card.\nAnd they told me to bring it to you."
+  },
+  {
+    "id": "eva-1.11-1050",
+    "time": "01:02:03.137",
+    "timeEnd": "01:02:04.138",
+    "character": "シンジ",
+    "segments": [
+      "あっ"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1051",
+    "time": "01:02:05.180",
+    "timeEnd": "01:02:06.181",
+    "character": "レイ",
+    "segments": [
+      "ああ…"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1052",
+    "time": "01:02:10.060",
+    "timeEnd": "01:02:11.228",
+    "character": "シンジ",
+    "segments": [
+      "さっきはごめん"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1053",
+    "time": "01:02:12.104",
+    "timeEnd": "01:02:13.105",
+    "character": "レイ",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
+      "が？"
+    ],
+    "english": "- I'm sorry for earlier...\n- Sorry for what?"
+  },
+  {
+    "id": "eva-1.11-1054",
+    "time": "01:02:17.734",
+    "timeEnd": "01:02:20.112",
+    "character": "シンジ",
+    "segments": [
+      "ねえ ",
+      {
+        "kanji": "綾",
+        "reading": "あや"
+      },
+      {
+        "kanji": "波",
+        "reading": "は"
+      },
+      "は",
+      {
+        "kanji": "怖",
+        "reading": "こわ"
+      },
+      "くないの？"
+    ],
+    "english": "Hey... Ayanami...\nDon't you ever get scared?"
+  },
+  {
+    "id": "eva-1.11-1055",
+    "time": "01:02:21.071",
+    "timeEnd": "01:02:23.365",
+    "character": "シンジ",
+    "segments": [
+      "また あのエヴァンゲリオンに\n",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "るのが…"
+    ],
+    "english": "About having to pilot\nthe Evangelion again?"
+  },
+  {
+    "id": "eva-1.11-1056",
+    "time": "01:02:24.616",
+    "timeEnd": "01:02:25.617",
+    "character": "レイ",
+    "segments": [
+      "どうして？"
+    ],
+    "english": "Why would I?"
+  },
+  {
+    "id": "eva-1.11-1057",
+    "time": "01:02:26.869",
+    "timeEnd": "01:02:29.746",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "前",
+        "reading": "まえ"
+      },
+      "の",
+      {
+        "kanji": "実験",
+        "reading": "じっけん"
+      },
+      "で\n",
+      {
+        "kanji": "大",
+        "reading": "だい"
+      },
+      "ケガしたって",
+      {
+        "kanji": "聞",
+        "reading": "き"
+      },
+      "いたから"
+    ],
+    "english": "Well, I heard you got hurt pretty badly\nduring the last test."
+  },
+  {
+    "id": "eva-1.11-1058",
+    "time": "01:02:30.330",
+    "timeEnd": "01:02:32.958",
+    "character": "シンジ",
+    "segments": [
+      "それで あの… ",
+      {
+        "kanji": "平気",
+        "reading": "へいき"
+      },
+      "なのかなって"
+    ],
+    "english": "So I was wondering\nif you're worried or not."
+  },
+  {
+    "id": "eva-1.11-1059",
+    "time": "01:02:35.210",
+    "timeEnd": "01:02:37.045",
+    "character": "レイ",
+    "segments": [
+      "そう… ",
+      {
+        "kanji": "平気",
+        "reading": "へいき"
+      }
+    ],
+    "english": "I see. No. I'm not worried."
+  },
+  {
+    "id": "eva-1.11-1060",
+    "time": "01:02:37.921",
+    "timeEnd": "01:02:41.592",
+    "character": "シンジ",
+    "segments": [
+      "でも また いつ",
+      {
+        "kanji": "暴走",
+        "reading": "ぼうそう"
+      },
+      "して\n",
+      {
+        "kanji": "危",
+        "reading": "あぶ"
+      },
+      "ない",
+      {
+        "kanji": "目",
+        "reading": "め"
+      },
+      "に",
+      {
+        "kanji": "遭",
+        "reading": "あ"
+      },
+      "うか…"
+    ],
+    "english": "But the Eva could go berserk again."
+  },
+  {
+    "id": "eva-1.11-1061",
+    "time": "01:02:42.509",
+    "timeEnd": "01:02:43.802",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "使徒",
+        "reading": "しと"
+      },
+      "に",
+      {
+        "kanji": "負",
+        "reading": "ま"
+      },
+      "けて―"
+    ],
+    "english": "And hurt you."
+  },
+  {
+    "id": "eva-1.11-1062",
+    "time": "01:02:43.886",
+    "timeEnd": "01:02:46.138",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "殺",
+        "reading": "ころ"
+      },
+      "されるかもしれないんだよ\n",
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
+      "らは"
+    ],
+    "english": "Or an angel could kill you. And me too."
+  },
+  {
+    "id": "eva-1.11-1063",
+    "time": "01:02:47.681",
+    "timeEnd": "01:02:49.975",
+    "character": "レイ",
+    "segments": [
+      "あなた ",
+      {
+        "kanji": "碇",
+        "reading": "いかり"
+      },
+      {
+        "kanji": "司令",
+        "reading": "しれい"
+      },
+      "の",
+      {
+        "kanji": "子供",
+        "reading": "こども"
+      },
+      "でしょ"
+    ],
+    "english": "Tell me...\nYou're Commander Ikari's son, right?"
+  },
+  {
+    "id": "eva-1.11-1064",
+    "time": "01:02:50.225",
+    "timeEnd": "01:02:51.226",
+    "character": "シンジ",
+    "segments": [
+      "うん"
+    ],
+    "english": "Hmm."
+  },
+  {
+    "id": "eva-1.11-1065",
+    "time": "01:02:51.768",
+    "timeEnd": "01:02:54.730",
+    "character": "レイ",
+    "segments": [
+      {
+        "kanji": "信",
+        "reading": "しん"
+      },
+      "じられないの？\nお",
+      {
+        "kanji": "父",
+        "reading": "とう"
+      },
+      "さんの",
+      {
+        "kanji": "仕事",
+        "reading": "しごと"
+      },
+      "が"
+    ],
+    "english": "Don't you have faith in him?\nDon't you trust the work he does?"
+  },
+  {
+    "id": "eva-1.11-1066",
+    "time": "01:02:55.147",
+    "timeEnd": "01:02:57.733",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "当",
+        "reading": "あ"
+      },
+      "たり",
+      {
+        "kanji": "前",
+        "reading": "まえ"
+      },
+      "だよ　あんな",
+      {
+        "kanji": "父親",
+        "reading": "ちちおや"
+      },
+      "なんて"
+    ],
+    "english": "No! Of course not.\nI know what kind of father he is."
+  },
+  {
+    "id": "eva-1.11-1067",
+    "time": "01:02:59.818",
+    "timeEnd": "01:03:02.237",
+    "character": "シンジ",
+    "segments": [
+      "んっ？　あの…"
+    ],
+    "english": "Erm..."
+  },
+  {
+    "id": "eva-1.11-1068",
+    "time": "01:03:03.739",
+    "timeEnd": "01:03:04.740",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "殴",
+        "reading": "なぐ"
+      },
+      "る",
+      {
+        "kanji": "音",
+        "reading": "おと"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1069",
+    "time": "01:03:24.343",
+    "timeEnd": "01:03:27.095",
+    "character": "女性",
+    "segments": [
+      {
+        "kanji": "監視",
+        "reading": "かんし"
+      },
+      {
+        "kanji": "対象",
+        "reading": "たいしょう"
+      },
+      {
+        "kanji": "物",
+        "reading": "ぶつ"
+      },
+      "は",
+      {
+        "kanji": "小田原",
+        "reading": "おだわら"
+      },
+      {
+        "kanji": "防衛",
+        "reading": "ぼうえい"
+      },
+      {
+        "kanji": "線",
+        "reading": "せん"
+      },
+      "に",
+      {
+        "kanji": "侵入",
+        "reading": "しんにゅう"
+      }
+    ],
+    "english": "[female PA] Warning: target approaching\nOdawara Defense Line."
+  },
+  {
+    "id": "eva-1.11-1070",
+    "time": "01:03:27.179",
+    "timeEnd": "01:03:29.181",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "未",
+        "reading": "み"
+      },
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      },
+      {
+        "kanji": "飛行",
+        "reading": "ひこう"
+      },
+      {
+        "kanji": "物体",
+        "reading": "ぶったい"
+      },
+      "の",
+      {
+        "kanji": "分析",
+        "reading": "ぶんせき"
+      },
+      "を",
+      {
+        "kanji": "完了",
+        "reading": "かんりょう"
+      }
+    ],
+    "english": "[Aoba] Analysis of target complete."
+  },
+  {
+    "id": "eva-1.11-1071",
+    "time": "01:03:29.431",
+    "timeEnd": "01:03:31.350",
+    "character": "青葉",
+    "segments": [
+      "パターン",
+      {
+        "kanji": "青",
+        "reading": "あお"
+      },
+      "　",
+      {
+        "kanji": "使徒",
+        "reading": "しと"
+      },
+      "と",
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      }
+    ],
+    "english": "Pattern Blue confirmed.\nTarget is an angel."
+  },
+  {
+    "id": "eva-1.11-1072",
+    "time": "01:03:31.683",
+    "timeEnd": "01:03:33.685",
+    "character": "青葉",
+    "segments": [
+      "やはり",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "６の",
+      {
+        "kanji": "使徒",
+        "reading": "しと"
+      },
+      "だな"
+    ],
+    "english": "It appears to be the sixth angel."
+  },
+  {
+    "id": "eva-1.11-1073",
+    "time": "01:03:34.269",
+    "timeEnd": "01:03:37.648",
+    "character": "ゲンドウ",
+    "segments": [
+      "ああ　",
+      {
+        "kanji": "初号",
+        "reading": "しょごう"
+      },
+      {
+        "kanji": "機",
+        "reading": "き"
+      },
+      "を",
+      {
+        "kanji": "出撃",
+        "reading": "しゅつげき"
+      },
+      "させる"
+    ],
+    "english": "I agree. Launch Unit One\non intercept course."
+  },
+  {
+    "id": "eva-1.11-1074",
+    "time": "01:03:38.315",
+    "timeEnd": "01:03:40.317",
+    "character": "ミサト",
+    "segments": [
+      "エヴァ",
+      {
+        "kanji": "初号",
+        "reading": "しょごう"
+      },
+      {
+        "kanji": "機",
+        "reading": "き"
+      },
+      " ",
+      {
+        "kanji": "発進",
+        "reading": "はっしん"
+      },
+      {
+        "kanji": "準備",
+        "reading": "じゅんび"
+      }
+    ],
+    "english": "[Misato] Prep Eva Unit One for launch."
+  },
+  {
+    "id": "eva-1.11-1075",
+    "time": "01:03:41.109",
+    "timeEnd": "01:03:42.903",
+    "character": "女性",
+    "segments": [
+      {
+        "kanji": "対空",
+        "reading": "たいくう"
+      },
+      {
+        "kanji": "迎撃",
+        "reading": "げいげき"
+      },
+      {
+        "kanji": "兵",
+        "reading": "へい"
+      },
+      {
+        "kanji": "装",
+        "reading": "そう"
+      },
+      "に",
+      {
+        "kanji": "換",
+        "reading": "換"
+      },
+      {
+        "kanji": "装",
+        "reading": "そう"
+      }
+    ],
+    "english": "[female PA] Re-checking ordnance.\nAll green."
+  },
+  {
+    "id": "eva-1.11-1076",
+    "time": "01:03:45.531",
+    "timeEnd": "01:03:47.574",
+    "character": "青葉／女性",
+    "segments": [
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      "は",
+      {
+        "kanji": "芦ノ湖",
+        "reading": "あしのこ"
+      },
+      {
+        "kanji": "上空",
+        "reading": "じょうくう"
+      },
+      "に",
+      {
+        "kanji": "侵入",
+        "reading": "しんにゅう"
+      }
+    ],
+    "english": "[Aoba] Target approaching. It's above Lake Ashinoko. / [female crew] Eva Unit One prepped and ready for launch."
+  },
+  {
+    "id": "eva-1.11-1077",
+    "time": "01:03:47.741",
+    "timeEnd": "01:03:49.660",
+    "character": "女性",
+    "segments": [
+      "エヴァ",
+      {
+        "kanji": "初号",
+        "reading": "しょごう"
+      },
+      {
+        "kanji": "機",
+        "reading": "き"
+      },
+      " ",
+      {
+        "kanji": "発進",
+        "reading": "はっしん"
+      },
+      {
+        "kanji": "準備",
+        "reading": "じゅんび"
+      },
+      "よろし"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1078",
+    "time": "01:03:49.743",
+    "timeEnd": "01:03:50.744",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "発進",
+        "reading": "はっしん"
+      },
+      "！"
+    ],
+    "english": "Launch Eva!"
+  },
+  {
+    "id": "eva-1.11-1079",
+    "time": "01:03:59.836",
+    "timeEnd": "01:04:01.380",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      {
+        "kanji": "内部",
+        "reading": "ないぶ"
+      },
+      "に",
+      {
+        "kanji": "高",
+        "reading": "こう"
+      },
+      "エネルギー",
+      {
+        "kanji": "反応",
+        "reading": "はんのう"
+      },
+      "！"
+    ],
+    "english": "High energy readings\nfrom inside the target!"
+  },
+  {
+    "id": "eva-1.11-1080",
+    "time": "01:04:01.463",
+    "timeEnd": "01:04:02.464",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なん"
+      },
+      "ですって！"
+    ],
+    "english": "What is going on?"
+  },
+  {
+    "id": "eva-1.11-1081",
+    "time": "01:04:02.548",
+    "timeEnd": "01:04:03.549",
+    "character": "青葉",
+    "segments": [
+      "まさか！"
+    ],
+    "english": "Alert him!"
+  },
+  {
+    "id": "eva-1.11-1082",
+    "time": "01:04:06.426",
+    "timeEnd": "01:04:07.427",
+    "character": "青葉",
+    "segments": [
+      "よけて！"
+    ],
+    "english": "Take cover!"
+  },
+  {
+    "id": "eva-1.11-1083",
+    "time": "01:04:14.977",
+    "timeEnd": "01:04:15.978",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "発射",
+        "reading": "はっしゃ"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1084",
+    "time": "01:04:16.103",
+    "timeEnd": "01:04:21.817",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "被弾",
+        "reading": "ひだん"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1085",
+    "time": "01:04:23.151",
+    "timeEnd": "01:04:24.361",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "警報",
+        "reading": "けいほう"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1086",
+    "time": "01:04:24.444",
+    "timeEnd": "01:04:26.488",
+    "character": "",
+    "segments": [
+      "（うめき",
+      {
+        "kanji": "声",
+        "reading": "ごえ"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1087",
+    "time": "01:04:26.780",
+    "timeEnd": "01:04:28.407",
+    "character": "リツコ",
+    "segments": [
+      "シンクロ",
+      {
+        "kanji": "率",
+        "reading": "りつ"
+      },
+      "をミニマムに",
+      {
+        "kanji": "落",
+        "reading": "お"
+      },
+      "として"
+    ],
+    "english": "Lower synchronization rate!"
+  },
+  {
+    "id": "eva-1.11-1088",
+    "time": "01:04:28.490",
+    "timeEnd": "01:04:29.658",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "防護",
+        "reading": "ぼうご"
+      },
+      "アーマーを",
+      {
+        "kanji": "展開",
+        "reading": "てんかい"
+      },
+      "！"
+    ],
+    "english": "Deploy blast shield!"
+  },
+  {
+    "id": "eva-1.11-1089",
+    "time": "01:04:39.334",
+    "timeEnd": "01:04:41.795",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "使徒",
+        "reading": "しと"
+      },
+      "の",
+      {
+        "kanji": "叫",
+        "reading": "さけ"
+      },
+      "び",
+      {
+        "kanji": "声",
+        "reading": "ごえ"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1090",
+    "time": "01:04:41.878",
+    "timeEnd": "01:04:43.046",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "発射",
+        "reading": "はっしゃ"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1091",
+    "time": "01:04:43.130",
+    "timeEnd": "01:04:44.423",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "爆発",
+        "reading": "ばくはつ"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1092",
+    "time": "01:04:52.014",
+    "timeEnd": "01:04:54.600",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "迎撃",
+        "reading": "げいげき"
+      },
+      {
+        "kanji": "中止",
+        "reading": "ちゅうし"
+      },
+      "　エヴァ",
+      {
+        "kanji": "初号",
+        "reading": "しょごう"
+      },
+      {
+        "kanji": "機",
+        "reading": "き"
+      },
+      "を",
+      {
+        "kanji": "緊急",
+        "reading": "きんきゅう"
+      },
+      {
+        "kanji": "回収",
+        "reading": "かいしゅう"
+      }
+    ],
+    "english": "[Misato] Cancel mission!\nInitiate emergency recovery of Unit One!"
+  },
+  {
+    "id": "eva-1.11-1093",
+    "time": "01:04:54.683",
+    "timeEnd": "01:04:57.227",
+    "character": "日向",
+    "segments": [
+      "ダメです！\nカタパルト",
+      {
+        "kanji": "融解",
+        "reading": "ゆうかい"
+      },
+      "　",
+      {
+        "kanji": "作動",
+        "reading": "さどう"
+      },
+      "しません"
+    ],
+    "english": "[Hyuga] No go!\nThe catapult lift has melted."
+  },
+  {
+    "id": "eva-1.11-1094",
+    "time": "01:04:57.311",
+    "timeEnd": "01:04:58.312",
+    "character": "日向",
+    "segments": [
+      "Ａ.Ｔ.フィールドは？"
+    ],
+    "english": "- Status of A.T. field?\n- Deployed at maximum intensity."
+  },
+  {
+    "id": "eva-1.11-1095",
+    "time": "01:04:58.395",
+    "timeEnd": "01:05:01.982",
+    "character": "日向",
+    "segments": [
+      {
+        "kanji": "限界",
+        "reading": "げんかい"
+      },
+      "まで",
+      {
+        "kanji": "展開",
+        "reading": "てんかい"
+      },
+      {
+        "kanji": "中",
+        "reading": "ちゅう"
+      },
+      "\n",
+      {
+        "kanji": "形状",
+        "reading": "けいじょう"
+      },
+      "をかろうじて",
+      {
+        "kanji": "維持",
+        "reading": "いじ"
+      },
+      "しています"
+    ],
+    "english": "Barely enough\nto protect the Eva's integrity."
+  },
+  {
+    "id": "eva-1.11-1096",
+    "time": "01:05:04.276",
+    "timeEnd": "01:05:05.068",
+    "character": "シンジ",
+    "segments": [
+      "うわっ　ああっ"
+    ],
+    "english": "Aaah!"
+  },
+  {
+    "id": "eva-1.11-1097",
+    "time": "01:05:05.068",
+    "timeEnd": "01:05:06.778",
+    "character": "シンジ",
+    "segments": [
+      "うわっ　ああっ"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1098",
+    "time": "01:05:05.068",
+    "timeEnd": "01:05:06.778",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "警報",
+        "reading": "けいほう"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1099",
+    "time": "01:05:07.237",
+    "timeEnd": "01:05:09.156",
+    "character": "シンジ",
+    "segments": [
+      "イヤだ！　もうイヤだ！"
+    ],
+    "english": "[Shinji screaming] Help! I can't take it!\nLet me out! Father, please!"
+  },
+  {
+    "id": "eva-1.11-1100",
+    "time": "01:05:09.448",
+    "timeEnd": "01:05:12.409",
+    "character": "シンジ",
+    "segments": [
+      "ここから",
+      {
+        "kanji": "出",
+        "reading": "だ"
+      },
+      "してよ！\n",
+      {
+        "kanji": "出",
+        "reading": "だ"
+      },
+      "してよ ",
+      {
+        "kanji": "父",
+        "reading": "とう"
+      },
+      "さん！"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1101",
+    "time": "01:05:12.492",
+    "timeEnd": "01:05:14.870",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "作戦",
+        "reading": "さくせん"
+      },
+      {
+        "kanji": "要項",
+        "reading": "ようこう"
+      },
+      "を",
+      {
+        "kanji": "破棄",
+        "reading": "はき"
+      },
+      "\nパイロット",
+      {
+        "kanji": "保護",
+        "reading": "ほご"
+      },
+      "を",
+      {
+        "kanji": "優先",
+        "reading": "ゆうせん"
+      }
+    ],
+    "english": "Cancel operation!\nPrioritize pilot recovery!"
+  },
+  {
+    "id": "eva-1.11-1102",
+    "time": "01:05:15.037",
+    "timeEnd": "01:05:16.330",
+    "character": "伊吹",
+    "segments": [
+      "プラグを",
+      {
+        "kanji": "緊急",
+        "reading": "きんきゅう"
+      },
+      {
+        "kanji": "射出",
+        "reading": "しゃしゅつ"
+      },
+      "して！"
+    ],
+    "english": "Eject entry point now!"
+  },
+  {
+    "id": "eva-1.11-1103",
+    "time": "01:05:16.747",
+    "timeEnd": "01:05:17.748",
+    "character": "ゲンドウ",
+    "segments": [
+      "ダメだ"
+    ],
+    "english": "[Ikari] Ignore that order."
+  },
+  {
+    "id": "eva-1.11-1104",
+    "time": "01:05:17.831",
+    "timeEnd": "01:05:19.207",
+    "character": "",
+    "segments": [
+      "（シンジのうめき",
+      {
+        "kanji": "声",
+        "reading": "ごえ"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1105",
+    "time": "01:05:19.374",
+    "timeEnd": "01:05:20.792",
+    "character": "ゲンドウ",
+    "segments": [
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      " パイロットを",
+      {
+        "kanji": "失",
+        "reading": "うしな"
+      },
+      "うと―"
+    ],
+    "english": "Once there's no pilot in the Eva,"
+  },
+  {
+    "id": "eva-1.11-1106",
+    "time": "01:05:21.084",
+    "timeEnd": "01:05:23.837",
+    "character": "ゲンドウ",
+    "segments": [
+      "エヴァのＡ.Ｔ.フィールドは\n",
+      {
+        "kanji": "完全",
+        "reading": "かんぜん"
+      },
+      "に",
+      {
+        "kanji": "消失",
+        "reading": "しょうしつ"
+      },
+      "してしまう"
+    ],
+    "english": "the unit will immediately lose\nits protective A.T. field."
+  },
+  {
+    "id": "eva-1.11-1107",
+    "time": "01:05:24.421",
+    "timeEnd": "01:05:26.423",
+    "character": "ゲンドウ",
+    "segments": [
+      {
+        "kanji": "最",
+        "reading": "もっと"
+      },
+      "も",
+      {
+        "kanji": "憂慮",
+        "reading": "ゆうりょ"
+      },
+      "すべき",
+      {
+        "kanji": "事態",
+        "reading": "じたい"
+      },
+      "となるわ"
+    ],
+    "english": "Things will go from bad to worse."
+  },
+  {
+    "id": "eva-1.11-1108",
+    "time": "01:05:27.132",
+    "timeEnd": "01:05:28.133",
+    "character": "ミサト",
+    "segments": [
+      "しかし…"
+    ],
+    "english": "But Shinji..."
+  },
+  {
+    "id": "eva-1.11-1109",
+    "time": "01:05:31.553",
+    "timeEnd": "01:05:35.098",
+    "character": "",
+    "segments": [
+      "（うめき",
+      {
+        "kanji": "声",
+        "reading": "ごえ"
+      },
+      "）"
+    ],
+    "english": "[screaming]"
+  },
+  {
+    "id": "eva-1.11-1110",
+    "time": "01:05:35.182",
+    "timeEnd": "01:05:36.350",
+    "character": "ミサト",
+    "segments": [
+      "やむをえないわ"
+    ],
+    "english": "There's no other choice..."
+  },
+  {
+    "id": "eva-1.11-1111",
+    "time": "01:05:37.851",
+    "timeEnd": "01:05:40.729",
+    "character": "伊吹",
+    "segments": [
+      {
+        "kanji": "機体",
+        "reading": "きたい"
+      },
+      "を",
+      {
+        "kanji": "強制",
+        "reading": "きょうせい"
+      },
+      {
+        "kanji": "回収",
+        "reading": "かいしゅう"
+      },
+      "\n",
+      {
+        "kanji": "爆",
+        "reading": "爆"
+      },
+      {
+        "kanji": "砕",
+        "reading": "砕"
+      },
+      "ボルトに",
+      {
+        "kanji": "点火",
+        "reading": "てんか"
+      },
+      "して"
+    ],
+    "english": "[female PA] Second breastplate layer... / Emergency recovery! Blow the explosive bolts!"
+  },
+  {
+    "id": "eva-1.11-1112",
+    "time": "01:05:41.271",
+    "timeEnd": "01:05:43.398",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "爆発",
+        "reading": "ばくはつ"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": "[explosion]"
+  },
+  {
+    "id": "eva-1.11-1113",
+    "time": "01:05:52.699",
+    "timeEnd": "01:05:53.700",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "爆発",
+        "reading": "ばくはつ"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1114",
+    "time": "01:06:02.668",
+    "timeEnd": "01:06:04.252",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      "は",
+      {
+        "kanji": "攻撃",
+        "reading": "こうげき"
+      },
+      "を",
+      {
+        "kanji": "中止",
+        "reading": "ちゅうし"
+      }
+    ],
+    "english": "[Aoba] Target has ceased fire."
+  },
+  {
+    "id": "eva-1.11-1115",
+    "time": "01:06:04.461",
+    "timeEnd": "01:06:06.630",
+    "character": "伊吹",
+    "segments": [
+      {
+        "kanji": "初号",
+        "reading": "しょごう"
+      },
+      {
+        "kanji": "機",
+        "reading": "き"
+      },
+      {
+        "kanji": "回収",
+        "reading": "かいしゅう"
+      },
+      "！　99ケイジへ"
+    ],
+    "english": "[Ibuki] Expedite recovery!\nTake Unit One to Cage 99."
+  },
+  {
+    "id": "eva-1.11-1116",
+    "time": "01:06:06.713",
+    "timeEnd": "01:06:07.798",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "救護班",
+        "reading": "きゅうごはん"
+      },
+      " ",
+      {
+        "kanji": "待機",
+        "reading": "たいき"
+      }
+    ],
+    "english": "[Misato] Rescuers, stand by!"
+  },
+  {
+    "id": "eva-1.11-1117",
+    "time": "01:06:07.923",
+    "timeEnd": "01:06:10.050",
+    "character": "リツコ",
+    "segments": [
+      "プラグ",
+      {
+        "kanji": "内",
+        "reading": "ない"
+      },
+      "のＬＣＬ",
+      {
+        "kanji": "冷却",
+        "reading": "れいきゃく"
+      },
+      "を",
+      {
+        "kanji": "最",
+        "reading": "さい"
+      },
+      {
+        "kanji": "優先",
+        "reading": "ゆうせん"
+      }
+    ],
+    "english": "[Ritsuko] Priority One:\nL.C.L cooling in Entry Plug."
+  },
+  {
+    "id": "eva-1.11-1118",
+    "time": "01:06:10.300",
+    "timeEnd": "01:06:12.052",
+    "character": "日向",
+    "segments": [
+      "パイロット",
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      },
+      "　",
+      {
+        "kanji": "心音",
+        "reading": "しんおん"
+      },
+      {
+        "kanji": "微弱",
+        "reading": "びじゃく"
+      }
+    ],
+    "english": "[Hyuga] Pilot is alive! Heart rate, low!"
+  },
+  {
+    "id": "eva-1.11-1119",
+    "time": "01:06:12.135",
+    "timeEnd": "01:06:15.389",
+    "character": "日向",
+    "segments": [
+      "プラグスーツの",
+      {
+        "kanji": "生命",
+        "reading": "せいめい"
+      },
+      {
+        "kanji": "維持",
+        "reading": "いじ"
+      },
+      {
+        "kanji": "機能",
+        "reading": "きのう"
+      },
+      "を",
+      {
+        "kanji": "最大",
+        "reading": "さいだい"
+      },
+      "\n",
+      {
+        "kanji": "心臓",
+        "reading": "しんぞう"
+      },
+      "マッサージ"
+    ],
+    "english": "Increase Plugsuit life support\nto maximum. Cardiac massage!"
+  },
+  {
+    "id": "eva-1.11-1120",
+    "time": "01:06:15.472",
+    "timeEnd": "01:06:16.473",
+    "character": "日向",
+    "segments": [
+      "はい"
+    ],
+    "english": "Yes, ma'am."
+  },
+  {
+    "id": "eva-1.11-1121",
+    "time": "01:06:16.973",
+    "timeEnd": "01:06:17.974",
+    "character": "心臓マッサージの音",
+    "segments": [
+      "（シンジ）あっ"
+    ],
+    "english": "[cardiac compression]"
+  },
+  {
+    "id": "eva-1.11-1122",
+    "time": "01:06:18.058",
+    "timeEnd": "01:06:19.976",
+    "character": "日向",
+    "segments": [
+      "（",
+      {
+        "kanji": "日向",
+        "reading": "ひなた"
+      },
+      "）パルス",
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      }
+    ],
+    "english": "[Hyuga] Heart rate stabilizing."
+  },
+  {
+    "id": "eva-1.11-1123",
+    "time": "01:06:20.185",
+    "timeEnd": "01:06:21.436",
+    "character": "伊吹",
+    "segments": [
+      "プラグの",
+      {
+        "kanji": "強制",
+        "reading": "きょうせい"
+      },
+      {
+        "kanji": "排出",
+        "reading": "はいしゅつ"
+      }
+    ],
+    "english": "Force eject Entry Plug, now!"
+  },
+  {
+    "id": "eva-1.11-1124",
+    "time": "01:06:23.271",
+    "timeEnd": "01:06:25.273",
+    "character": "アナウンス",
+    "segments": [
+      "インテリアを",
+      {
+        "kanji": "離合",
+        "reading": "りごう"
+      },
+      {
+        "kanji": "可能",
+        "reading": "かのう"
+      },
+      {
+        "kanji": "位置",
+        "reading": "いち"
+      },
+      "で",
+      {
+        "kanji": "固定",
+        "reading": "こてい"
+      }
+    ],
+    "english": "[female PA] Plug surface temperature\nhas dropped to 300."
+  },
+  {
+    "id": "eva-1.11-1125",
+    "time": "01:06:25.440",
+    "timeEnd": "01:06:26.817",
+    "character": "アナウンス",
+    "segments": [
+      "ＬＣＬ",
+      {
+        "kanji": "緊急",
+        "reading": "きんきゅう"
+      },
+      {
+        "kanji": "排水",
+        "reading": "はいすい"
+      }
+    ],
+    "english": "- Drain L.C.L from Entry Plug!\n- Draining!"
+  },
+  {
+    "id": "eva-1.11-1126",
+    "time": "01:06:26.900",
+    "timeEnd": "01:06:27.901",
+    "character": "アナウンス",
+    "segments": [
+      "はい"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1127",
+    "time": "01:06:28.235",
+    "timeEnd": "01:06:29.861",
+    "character": "女性",
+    "segments": [
+      "ＬＣＬ",
+      {
+        "kanji": "排水",
+        "reading": "はいすい"
+      },
+      {
+        "kanji": "中",
+        "reading": "ちゅう"
+      }
+    ],
+    "english": "[female PA] Draining L.C.L."
+  },
+  {
+    "id": "eva-1.11-1128",
+    "time": "01:06:29.945",
+    "timeEnd": "01:06:31.071",
+    "character": "女性",
+    "segments": [
+      {
+        "kanji": "救護",
+        "reading": "きゅうご"
+      },
+      {
+        "kanji": "処置",
+        "reading": "しょち"
+      },
+      " ",
+      {
+        "kanji": "急",
+        "reading": "いそ"
+      },
+      "いで"
+    ],
+    "english": "Medical team to pilot!"
+  },
+  {
+    "id": "eva-1.11-1129",
+    "time": "01:06:36.493",
+    "timeEnd": "01:06:37.703",
+    "character": "",
+    "segments": [
+      "（ブザー）"
+    ],
+    "english": "[alert]"
+  },
+  {
+    "id": "eva-1.11-1130",
+    "time": "01:07:10.068",
+    "timeEnd": "01:07:12.571",
+    "character": "日向",
+    "segments": [
+      {
+        "kanji": "現在",
+        "reading": "げんざい"
+      },
+      " ",
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      "は",
+      {
+        "kanji": "我々",
+        "reading": "われわれ"
+      },
+      "の",
+      {
+        "kanji": "直上",
+        "reading": "ちょくじょう"
+      },
+      "に",
+      {
+        "kanji": "侵攻",
+        "reading": "しんこう"
+      }
+    ],
+    "english": "[Hyuga] The target\nis hovering directly above us."
+  },
+  {
+    "id": "eva-1.11-1131",
+    "time": "01:07:12.904",
+    "timeEnd": "01:07:14.865",
+    "character": "日向",
+    "segments": [
+      "ジオフロントに",
+      {
+        "kanji": "向",
+        "reading": "む"
+      },
+      "けて\nせん",
+      {
+        "kanji": "孔",
+        "reading": "こう"
+      },
+      {
+        "kanji": "中",
+        "reading": "ちゅう"
+      },
+      "です"
+    ],
+    "english": "It's drilling down toward the Geofront."
+  },
+  {
+    "id": "eva-1.11-1132",
+    "time": "01:07:14.948",
+    "timeEnd": "01:07:15.991",
+    "character": "ミサト",
+    "segments": [
+      "ヤツの",
+      {
+        "kanji": "狙",
+        "reading": "ねら"
+      },
+      "いは―"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1133",
+    "time": "01:07:16.074",
+    "timeEnd": "01:07:18.910",
+    "character": "ミサト",
+    "segments": [
+      "ここネルフ",
+      {
+        "kanji": "本部",
+        "reading": "ほんぶ"
+      },
+      "への",
+      {
+        "kanji": "直接",
+        "reading": "ちょくせつ"
+      },
+      {
+        "kanji": "攻撃",
+        "reading": "こうげき"
+      },
+      "か"
+    ],
+    "english": "[Misato] So this one wants to launch\na direct attack on NERV HQ, huh?"
+  },
+  {
+    "id": "eva-1.11-1134",
+    "time": "01:07:19.411",
+    "timeEnd": "01:07:21.830",
+    "character": "ミサト",
+    "segments": [
+      "では ",
+      {
+        "kanji": "各",
+        "reading": "かく"
+      },
+      {
+        "kanji": "部署",
+        "reading": "ぶしょ"
+      },
+      "の",
+      {
+        "kanji": "分析",
+        "reading": "ぶんせき"
+      },
+      {
+        "kanji": "結果",
+        "reading": "けっか"
+      },
+      "を",
+      {
+        "kanji": "報告",
+        "reading": "ほうこく"
+      },
+      "して"
+    ],
+    "english": "I want a report from\nall the heads of department in the agency."
+  },
+  {
+    "id": "eva-1.11-1135",
+    "time": "01:07:22.914",
+    "timeEnd": "01:07:26.501",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "先",
+        "reading": "さき"
+      },
+      "の",
+      {
+        "kanji": "戦闘",
+        "reading": "せんとう"
+      },
+      "データから\n",
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      "は",
+      {
+        "kanji": "一定",
+        "reading": "いってい"
+      },
+      {
+        "kanji": "距離",
+        "reading": "きょり"
+      },
+      {
+        "kanji": "内",
+        "reading": "ない"
+      },
+      "の",
+      {
+        "kanji": "外敵",
+        "reading": "がいてき"
+      },
+      "を―"
+    ],
+    "english": "Tac report from the first battle suggest\nthat the enemy automatically engages"
+  },
+  {
+    "id": "eva-1.11-1136",
+    "time": "01:07:26.585",
+    "timeEnd": "01:07:28.879",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "自動",
+        "reading": "じどう"
+      },
+      {
+        "kanji": "排除",
+        "reading": "はいじょ"
+      },
+      "するものと",
+      {
+        "kanji": "推察",
+        "reading": "すいさつ"
+      },
+      "されます"
+    ],
+    "english": "any hostile coming within a certain range."
+  },
+  {
+    "id": "eva-1.11-1137",
+    "time": "01:07:28.962",
+    "timeEnd": "01:07:31.715",
+    "character": "ミサト",
+    "segments": [
+      "エヴァによる",
+      {
+        "kanji": "近接",
+        "reading": "きんせつ"
+      },
+      {
+        "kanji": "戦闘",
+        "reading": "せんとう"
+      },
+      "は\nムリというわけね"
+    ],
+    "english": "So close combat is out of the question\nbecause we can't approach it."
+  },
+  {
+    "id": "eva-1.11-1138",
+    "time": "01:07:32.299",
+    "timeEnd": "01:07:33.425",
+    "character": "ミサト",
+    "segments": [
+      "Ａ.Ｔ.フィールドは どう？"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1139",
+    "time": "01:07:33.717",
+    "timeEnd": "01:07:34.718",
+    "character": "ミサト／日向",
+    "segments": [
+      {
+        "kanji": "健在",
+        "reading": "けんざい"
+      },
+      "です"
+    ],
+    "english": "- What do we know about its A.T. field? / - Still active."
+  },
+  {
+    "id": "eva-1.11-1140",
+    "time": "01:07:34.968",
+    "timeEnd": "01:07:37.888",
+    "character": "ミサト",
+    "segments": [
+      "おまけに",
+      {
+        "kanji": "位相",
+        "reading": "いそう"
+      },
+      "パターンが\n",
+      {
+        "kanji": "常時",
+        "reading": "じょうじ"
+      },
+      " ",
+      {
+        "kanji": "変化",
+        "reading": "へんか"
+      },
+      "しているため―"
+    ],
+    "english": "Furthermore, its phase pattern is randomly\nshifting and its exterior shape in flux."
+  },
+  {
+    "id": "eva-1.11-1141",
+    "time": "01:07:37.971",
+    "timeEnd": "01:07:41.391",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "外形",
+        "reading": "がいけい"
+      },
+      "も",
+      {
+        "kanji": "安定",
+        "reading": "あんてい"
+      },
+      "せず\n",
+      {
+        "kanji": "中和",
+        "reading": "ちゅうわ"
+      },
+      {
+        "kanji": "作業",
+        "reading": "さぎょう"
+      },
+      "は",
+      {
+        "kanji": "困難",
+        "reading": "こんなん"
+      },
+      "を",
+      {
+        "kanji": "極",
+        "reading": "きわ"
+      },
+      "めます"
+    ],
+    "english": "It'll be very difficult to neutralize."
+  },
+  {
+    "id": "eva-1.11-1142",
+    "time": "01:07:41.808",
+    "timeEnd": "01:07:45.103",
+    "character": "日向",
+    "segments": [
+      "マギによる",
+      {
+        "kanji": "計算",
+        "reading": "けいさん"
+      },
+      "では\n",
+      {
+        "kanji": "目標",
+        "reading": "もくひょう"
+      },
+      "のＡ.Ｔ.フィールドを―"
+    ],
+    "english": "According to MAGI calculation,\nin order to breach this A.T. field\nwith airdropped N2 mines,"
+  },
+  {
+    "id": "eva-1.11-1143",
+    "time": "01:07:45.187",
+    "timeEnd": "01:07:48.273",
+    "character": "日向",
+    "segments": [
+      "Ｎ２",
+      {
+        "kanji": "航空",
+        "reading": "こうくう"
+      },
+      {
+        "kanji": "爆雷",
+        "reading": "ばくらい"
+      },
+      "による",
+      {
+        "kanji": "攻撃",
+        "reading": "こうげき"
+      },
+      {
+        "kanji": "方法",
+        "reading": "ほうほう"
+      },
+      "で\n",
+      {
+        "kanji": "貫",
+        "reading": "つらぬ"
+      },
+      "くには―"
+    ],
+    "english": "the explosion would have to be so powerful"
+  },
+  {
+    "id": "eva-1.11-1144",
+    "time": "01:07:48.857",
+    "timeEnd": "01:07:52.194",
+    "character": "日向",
+    "segments": [
+      "ネルフ",
+      {
+        "kanji": "本部",
+        "reading": "ほんぶ"
+      },
+      "ごと",
+      {
+        "kanji": "破壊",
+        "reading": "はかい"
+      },
+      "する",
+      {
+        "kanji": "分量",
+        "reading": "ぶんりょう"
+      },
+      "が",
+      {
+        "kanji": "必要",
+        "reading": "ひつよう"
+      },
+      "\nとの",
+      {
+        "kanji": "結果",
+        "reading": "けっか"
+      },
+      "が",
+      {
+        "kanji": "出",
+        "reading": "で"
+      },
+      "ています"
+    ],
+    "english": "that NERV HQ would end up being\ncompletely obliterated in the process."
+  },
+  {
+    "id": "eva-1.11-1145",
+    "time": "01:07:52.527",
+    "timeEnd": "01:07:55.530",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "松代",
+        "reading": "まつしろ"
+      },
+      "のマギ２",
+      {
+        "kanji": "号",
+        "reading": "ごう"
+      },
+      "も\n",
+      {
+        "kanji": "同",
+        "reading": "おな"
+      },
+      "じ",
+      {
+        "kanji": "結論",
+        "reading": "けつろん"
+      },
+      "を",
+      {
+        "kanji": "出",
+        "reading": "だ"
+      },
+      "したわ"
+    ],
+    "english": "That’s true. MAGI-2 at Matsushiro\nreached the same conclusion."
+  },
+  {
+    "id": "eva-1.11-1146",
+    "time": "01:07:56.114",
+    "timeEnd": "01:07:58.116",
+    "character": "日向",
+    "segments": [
+      {
+        "kanji": "現在",
+        "reading": "げんざい"
+      },
+      " ",
+      {
+        "kanji": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "kanji": "政府",
+        "reading": "せいふ"
+      },
+      "と",
+      {
+        "kanji": "国連",
+        "reading": "こくれん"
+      },
+      {
+        "kanji": "軍",
+        "reading": "ぐん"
+      },
+      "が―"
+    ],
+    "english": "The Japanese government and the UN"
+  },
+  {
+    "id": "eva-1.11-1147",
+    "time": "01:07:58.450",
+    "timeEnd": "01:08:01.286",
+    "character": "日向",
+    "segments": [
+      "ネルフ",
+      {
+        "kanji": "本部",
+        "reading": "ほんぶ"
+      },
+      "ごとの",
+      {
+        "kanji": "自爆",
+        "reading": "じばく"
+      },
+      {
+        "kanji": "攻撃",
+        "reading": "こうげき"
+      },
+      "を\n",
+      {
+        "kanji": "提唱",
+        "reading": "ていしょう"
+      },
+      {
+        "kanji": "中",
+        "reading": "ちゅう"
+      },
+      "よ"
+    ],
+    "english": "are requesting that NERV HQ\nshould self-destruct to defeat this angel."
+  },
+  {
+    "id": "eva-1.11-1148",
+    "time": "01:08:01.953",
+    "timeEnd": "01:08:04.623",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "対岸",
+        "reading": "たいがん"
+      },
+      "の",
+      {
+        "kanji": "火事",
+        "reading": "かじ"
+      },
+      "と",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "って\nムチャ",
+      {
+        "kanji": "言",
+        "reading": "い"
+      },
+      "うわね"
+    ],
+    "english": "Easy for them to say.\nThey think it’s just our problem."
+  },
+  {
+    "id": "eva-1.11-1149",
+    "time": "01:08:05.040",
+    "timeEnd": "01:08:07.042",
+    "character": "ミサト",
+    "segments": [
+      "ここを",
+      {
+        "kanji": "失",
+        "reading": "うしな"
+      },
+      "えば\n",
+      {
+        "kanji": "全",
+        "reading": "すべ"
+      },
+      "て おしまいなのに…"
+    ],
+    "english": "Don't they know\nwe're all doomed if NERV HQ falls?"
+  },
+  {
+    "id": "eva-1.11-1150",
+    "time": "01:08:07.459",
+    "timeEnd": "01:08:11.880",
+    "character": "日向",
+    "segments": [
+      "しかし ",
+      {
+        "kanji": "問題",
+        "reading": "もんだい"
+      },
+      "の",
+      {
+        "kanji": "先端",
+        "reading": "せんたん"
+      },
+      {
+        "kanji": "部",
+        "reading": "ぶ"
+      },
+      "は\n",
+      {
+        "kanji": "装甲",
+        "reading": "そうこう"
+      },
+      {
+        "kanji": "複合",
+        "reading": "ふくごう"
+      },
+      {
+        "kanji": "帯",
+        "reading": "たい"
+      },
+      " ",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "２",
+      {
+        "kanji": "層",
+        "reading": "そう"
+      },
+      "を",
+      {
+        "kanji": "通過",
+        "reading": "つうか"
+      }
+    ],
+    "english": "But ma’am, the drilling is relentless.\nTwo layers of armor plates\nhave been pierced."
+  },
+  {
+    "id": "eva-1.11-1151",
+    "time": "01:08:12.130",
+    "timeEnd": "01:08:14.257",
+    "character": "日向",
+    "segments": [
+      {
+        "kanji": "既",
+        "reading": "すで"
+      },
+      "に",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "３",
+      {
+        "kanji": "層",
+        "reading": "そう"
+      },
+      "まで\n",
+      {
+        "kanji": "侵入",
+        "reading": "しんにゅう"
+      },
+      "しています"
+    ],
+    "english": "And now it’s boring\nthrough the third layer."
+  },
+  {
+    "id": "eva-1.11-1152",
+    "time": "01:08:14.591",
+    "timeEnd": "01:08:16.343",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "今日",
+        "reading": "きょう"
+      },
+      "まで\n",
+      {
+        "kanji": "完成",
+        "reading": "かんせい"
+      },
+      "していた22",
+      {
+        "kanji": "層",
+        "reading": "そう"
+      }
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1153",
+    "time": "01:08:16.593",
+    "timeEnd": "01:08:18.762",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "全",
+        "reading": "すべ"
+      },
+      "ての\nカクモ",
+      {
+        "kanji": "式",
+        "reading": "しき"
+      },
+      {
+        "kanji": "装甲",
+        "reading": "そうこう"
+      },
+      {
+        "kanji": "帯",
+        "reading": "たい"
+      },
+      "を",
+      {
+        "kanji": "貫",
+        "reading": "つらぬ"
+      },
+      "き"
+    ],
+    "english": "[Aoba] 22 layers of kakumo type armor belt\nplating have been installed so far."
+  },
+  {
+    "id": "eva-1.11-1154",
+    "time": "01:08:18.845",
+    "timeEnd": "01:08:21.223",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "本部",
+        "reading": "ほんぶ"
+      },
+      {
+        "kanji": "直上",
+        "reading": "ちょくじょう"
+      },
+      "への\n",
+      {
+        "kanji": "到達",
+        "reading": "とうたつ"
+      },
+      {
+        "kanji": "予想",
+        "reading": "よそう"
+      },
+      {
+        "kanji": "時刻",
+        "reading": "じこく"
+      },
+      "は―"
+    ],
+    "english": "Provided\nthe drilling speed remains constant..."
+  },
+  {
+    "id": "eva-1.11-1155",
+    "time": "01:08:21.348",
+    "timeEnd": "01:08:24.142",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "明朝",
+        "reading": "みょうちょう"
+      },
+      " ",
+      {
+        "kanji": "午前",
+        "reading": "ごぜん"
+      },
+      "０",
+      {
+        "kanji": "時",
+        "reading": "じ"
+      },
+      " 06",
+      {
+        "kanji": "分",
+        "reading": "ふん"
+      },
+      "54",
+      {
+        "kanji": "秒",
+        "reading": "びょう"
+      }
+    ],
+    "english": "Estimated time of final breach:\n6:54 after midnight."
+  },
+  {
+    "id": "eva-1.11-1156",
+    "time": "01:08:24.434",
+    "timeEnd": "01:08:26.520",
+    "character": "青葉",
+    "segments": [
+      "あと10",
+      {
+        "kanji": "時間",
+        "reading": "じかん"
+      },
+      "14",
+      {
+        "kanji": "分",
+        "reading": "ふん"
+      },
+      {
+        "kanji": "後",
+        "reading": "ご"
+      },
+      "です"
+    ],
+    "english": "In less than\nten hours and fifteen minutes."
+  },
+  {
+    "id": "eva-1.11-1157",
+    "time": "01:08:26.645",
+    "timeEnd": "01:08:28.480",
+    "character": "日向",
+    "segments": [
+      "おまけに\n",
+      {
+        "kanji": "零",
+        "reading": "れい"
+      },
+      {
+        "kanji": "号機",
+        "reading": "ごうき"
+      },
+      "は",
+      {
+        "kanji": "未",
+        "reading": "み"
+      },
+      {
+        "kanji": "調整",
+        "reading": "ちょうせい"
+      },
+      "のため―"
+    ],
+    "english": "[Hyuga] Unit Zero still needs critical\ncalibrations before it is operational."
+  },
+  {
+    "id": "eva-1.11-1158",
+    "time": "01:08:28.563",
+    "timeEnd": "01:08:29.815",
+    "character": "日向",
+    "segments": [
+      {
+        "kanji": "実戦",
+        "reading": "じっせん"
+      },
+      "は",
+      {
+        "kanji": "不可能",
+        "reading": "ふかのう"
+      }
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1159",
+    "time": "01:08:29.940",
+    "timeEnd": "01:08:33.902",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "初号",
+        "reading": "しょごう"
+      },
+      {
+        "kanji": "機",
+        "reading": "き"
+      },
+      "も",
+      {
+        "kanji": "先",
+        "reading": "さき"
+      },
+      "の",
+      {
+        "kanji": "損傷",
+        "reading": "そんしょう"
+      },
+      "で\n",
+      {
+        "kanji": "当分",
+        "reading": "とうぶん"
+      },
+      "は まともに",
+      {
+        "kanji": "動",
+        "reading": "うご"
+      },
+      "けないわよ"
+    ],
+    "english": "And Unit One won't be able to do much\nuntil extensive repairs are complete."
+  },
+  {
+    "id": "eva-1.11-1160",
+    "time": "01:08:35.153",
+    "timeEnd": "01:08:37.113",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "状況",
+        "reading": "じょうきょう"
+      },
+      "は",
+      {
+        "kanji": "芳",
+        "reading": "かんば"
+      },
+      "しくないわね"
+    ],
+    "english": "The outlook appears to be rather bleak."
+  },
+  {
+    "id": "eva-1.11-1161",
+    "time": "01:08:37.614",
+    "timeEnd": "01:08:39.866",
+    "character": "リツコ",
+    "segments": [
+      "まさに",
+      {
+        "kanji": "八方塞",
+        "reading": "はっぽうふさ"
+      },
+      "がりですね"
+    ],
+    "english": "We're short on both time and resources."
+  },
+  {
+    "id": "eva-1.11-1162",
+    "time": "01:08:40.116",
+    "timeEnd": "01:08:41.660",
+    "character": "日向",
+    "segments": [
+      {
+        "kanji": "白旗",
+        "reading": "はっき"
+      },
+      "でも",
+      {
+        "kanji": "挙",
+        "reading": "あ"
+      },
+      "げますか"
+    ],
+    "english": "[Hyuga] Maybe we should wave a white flag?"
+  },
+  {
+    "id": "eva-1.11-1163",
+    "time": "01:08:42.661",
+    "timeEnd": "01:08:43.829",
+    "character": "ミサト",
+    "segments": [
+      "そうね"
+    ],
+    "english": "I'll think about it.\nBut I just might have an idea."
+  },
+  {
+    "id": "eva-1.11-1164",
+    "time": "01:08:44.371",
+    "timeEnd": "01:08:47.749",
+    "character": "リツコ",
+    "segments": [
+      "でも その",
+      {
+        "kanji": "前",
+        "reading": "まえ"
+      },
+      "に ちょっち\nやっておきたいことがあるの"
+    ],
+    "english": "Something I want to try before giving up."
+  },
+  {
+    "id": "eva-1.11-1165",
+    "time": "01:08:48.375",
+    "timeEnd": "01:08:51.837",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "確",
+        "reading": "たし"
+      },
+      "か ",
+      {
+        "kanji": "戦",
+        "reading": "せん"
+      },
+      {
+        "kanji": "自",
+        "reading": "じ"
+      },
+      {
+        "kanji": "研",
+        "reading": "けん"
+      },
+      "の",
+      {
+        "kanji": "極秘",
+        "reading": "ごくひ"
+      },
+      {
+        "kanji": "資料",
+        "reading": "しりょう"
+      },
+      "\n",
+      {
+        "kanji": "諜報",
+        "reading": "ちょうほう"
+      },
+      {
+        "kanji": "部",
+        "reading": "ぶ"
+      },
+      "にあったわよね"
+    ],
+    "english": "Our Covert Ops has a file\non SSDF's secret research, right?"
+  },
+  {
+    "id": "eva-1.11-1166",
+    "time": "01:08:52.045",
+    "timeEnd": "01:08:53.046",
+    "character": "ミサト",
+    "segments": [
+      "えっ？"
+    ],
+    "english": "Uh-huh.\n[aircraft]"
+  },
+  {
+    "id": "eva-1.11-1167",
+    "time": "01:09:06.810",
+    "timeEnd": "01:09:07.853",
+    "character": "リツコ",
+    "segments": [
+      "しかし また―"
+    ],
+    "english": "[Ritsuko] I have to say."
+  },
+  {
+    "id": "eva-1.11-1168",
+    "time": "01:09:08.395",
+    "timeEnd": "01:09:12.148",
+    "character": "リツコ",
+    "segments": [
+      "ムチャな",
+      {
+        "kanji": "作戦",
+        "reading": "さくせん"
+      },
+      "を",
+      {
+        "kanji": "立",
+        "reading": "た"
+      },
+      "てたものね\n",
+      {
+        "kanji": "葛城",
+        "reading": "かつらぎ"
+      },
+      {
+        "kanji": "作戦",
+        "reading": "さくせん"
+      },
+      {
+        "kanji": "部長",
+        "reading": "ぶちょう"
+      },
+      "さん"
+    ],
+    "english": "This is your most reckless plan to date,\n\"Operations Chief Katsuragi\"."
+  },
+  {
+    "id": "eva-1.11-1169",
+    "time": "01:09:12.649",
+    "timeEnd": "01:09:14.150",
+    "character": "ミサト",
+    "segments": [
+      "ムチャとは また",
+      {
+        "kanji": "失礼",
+        "reading": "しつれい"
+      },
+      "ね"
+    ],
+    "english": "Reckless? That's not very nice."
+  },
+  {
+    "id": "eva-1.11-1170",
+    "time": "01:09:14.693",
+    "timeEnd": "01:09:18.864",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "残",
+        "reading": "のこ"
+      },
+      "り９",
+      {
+        "kanji": "時間",
+        "reading": "じかん"
+      },
+      "で",
+      {
+        "kanji": "実現",
+        "reading": "じつげん"
+      },
+      {
+        "kanji": "可能",
+        "reading": "かのう"
+      },
+      "\nおまけに",
+      {
+        "kanji": "最",
+        "reading": "もっと"
+      },
+      "も",
+      {
+        "kanji": "確実",
+        "reading": "かくじつ"
+      },
+      "なものよ"
+    ],
+    "english": "It's doable before our midnight deadline.\nAnd, anyway,\nwe both know it's our best shot."
+  },
+  {
+    "id": "eva-1.11-1171",
+    "time": "01:09:19.030",
+    "timeEnd": "01:09:21.992",
+    "character": "リツコ",
+    "segments": [
+      "“ヤシマ",
+      {
+        "kanji": "作戦",
+        "reading": "さくせん"
+      },
+      "”\nその",
+      {
+        "kanji": "名",
+        "reading": "な"
+      },
+      "のごとく―"
+    ],
+    "english": "[Ritsuko] Operation Yashima:\nas the name implies."
+  },
+  {
+    "id": "eva-1.11-1172",
+    "time": "01:09:22.409",
+    "timeEnd": "01:09:27.455",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "日本",
+        "reading": "にっぽん"
+      },
+      {
+        "kanji": "全土",
+        "reading": "ぜんど"
+      },
+      "から",
+      {
+        "kanji": "電力",
+        "reading": "でんりょく"
+      },
+      "を",
+      {
+        "kanji": "接収",
+        "reading": "せっしゅう"
+      },
+      "し\n",
+      {
+        "kanji": "戦",
+        "reading": "せん"
+      },
+      {
+        "kanji": "自",
+        "reading": "じ"
+      },
+      {
+        "kanji": "研",
+        "reading": "けん"
+      },
+      "が",
+      {
+        "kanji": "極秘",
+        "reading": "ごくひ"
+      },
+      "に",
+      {
+        "kanji": "試作",
+        "reading": "しさく"
+      },
+      {
+        "kanji": "開発",
+        "reading": "かいはつ"
+      },
+      {
+        "kanji": "中",
+        "reading": "ちゅう"
+      },
+      "の―"
+    ],
+    "english": "The entirety of Japan\nwill devote its electricity\nto power a self-propelled\nhigh-power positron cannon"
+  },
+  {
+    "id": "eva-1.11-1173",
+    "time": "01:09:27.831",
+    "timeEnd": "01:09:31.501",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "大",
+        "reading": "だい"
+      },
+      {
+        "kanji": "出力",
+        "reading": "しゅつりょく"
+      },
+      " ",
+      {
+        "kanji": "陽電子",
+        "reading": "ようでんし"
+      },
+      {
+        "kanji": "自",
+        "reading": "じ"
+      },
+      {
+        "kanji": "走",
+        "reading": "はし"
+      },
+      {
+        "kanji": "砲",
+        "reading": "ほう"
+      },
+      "まで\n",
+      {
+        "kanji": "強制",
+        "reading": "きょうせい"
+      },
+      {
+        "kanji": "徴発",
+        "reading": "ちょうはつ"
+      }
+    ],
+    "english": "you requisitioned from the SSDF."
+  },
+  {
+    "id": "eva-1.11-1174",
+    "time": "01:09:33.545",
+    "timeEnd": "01:09:36.756",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "未",
+        "reading": "み"
+      },
+      {
+        "kanji": "完成",
+        "reading": "かんせい"
+      },
+      "のため\n",
+      {
+        "kanji": "自律",
+        "reading": "じりつ"
+      },
+      {
+        "kanji": "調整",
+        "reading": "ちょうせい"
+      },
+      "できない",
+      {
+        "kanji": "部分",
+        "reading": "ぶぶん"
+      },
+      "は―"
+    ],
+    "english": "Since the cannon\nis not fully operational yet,"
+  },
+  {
+    "id": "eva-1.11-1175",
+    "time": "01:09:37.090",
+    "timeEnd": "01:09:39.259",
+    "character": "リツコ",
+    "segments": [
+      "エヴァを",
+      {
+        "kanji": "使",
+        "reading": "つか"
+      },
+      "って",
+      {
+        "kanji": "精密",
+        "reading": "せいみつ"
+      },
+      {
+        "kanji": "狙撃",
+        "reading": "そげき"
+      },
+      "させる"
+    ],
+    "english": "an Eva will execute\nthe high precision targeting."
+  },
+  {
+    "id": "eva-1.11-1176",
+    "time": "01:09:40.468",
+    "timeEnd": "01:09:41.887",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "国連",
+        "reading": "こくれん"
+      },
+      {
+        "kanji": "軍",
+        "reading": "ぐん"
+      },
+      "はいいとして"
+    ],
+    "english": "Convincing the UN Forces is one thing."
+  },
+  {
+    "id": "eva-1.11-1177",
+    "time": "01:09:42.387",
+    "timeEnd": "01:09:45.599",
+    "character": "リツコ",
+    "segments": [
+      "よく",
+      {
+        "kanji": "内務省",
+        "reading": "ないむしょう"
+      },
+      "と",
+      {
+        "kanji": "戦略",
+        "reading": "せんりゃく"
+      },
+      {
+        "kanji": "自衛隊",
+        "reading": "じえいたい"
+      },
+      "を\n",
+      {
+        "kanji": "説得",
+        "reading": "せっとく"
+      },
+      "できたわね"
+    ],
+    "english": "But the Home Ministry and\nthe Strategic Self Defense Forces as well?"
+  },
+  {
+    "id": "eva-1.11-1178",
+    "time": "01:09:47.017",
+    "timeEnd": "01:09:49.477",
+    "character": "ミサト",
+    "segments": [
+      "まっ いろいろと",
+      {
+        "kanji": "貸",
+        "reading": "か"
+      },
+      "しがあるのよ"
+    ],
+    "english": "Well, I called in a few favors."
+  },
+  {
+    "id": "eva-1.11-1179",
+    "time": "01:09:53.273",
+    "timeEnd": "01:09:54.816",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "蛇",
+        "reading": "じゃ"
+      },
+      "の",
+      {
+        "kanji": "道",
+        "reading": "みち"
+      },
+      "は",
+      {
+        "kanji": "蛇",
+        "reading": "へび"
+      },
+      "ね"
+    ],
+    "english": "[Ritsuko] It takes a fox to catch a fox."
+  },
+  {
+    "id": "eva-1.11-1180",
+    "time": "01:09:56.735",
+    "timeEnd": "01:09:59.404",
+    "character": "アナウンス",
+    "segments": [
+      {
+        "kanji": "今夜",
+        "reading": "こんや"
+      },
+      " ",
+      {
+        "kanji": "午前",
+        "reading": "ごぜん"
+      },
+      "０",
+      {
+        "kanji": "時",
+        "reading": "じ"
+      },
+      "より",
+      {
+        "kanji": "未明",
+        "reading": "みめい"
+      },
+      "にかけて"
+    ],
+    "english": "[beep]\n[female PA] Electrical black-out warning:\ntonight at midnight,"
+  },
+  {
+    "id": "eva-1.11-1181",
+    "time": "01:09:59.738",
+    "timeEnd": "01:10:02.032",
+    "character": "アナウンス",
+    "segments": [
+      {
+        "kanji": "全国",
+        "reading": "ぜんこく"
+      },
+      "で",
+      {
+        "kanji": "大",
+        "reading": "だい"
+      },
+      {
+        "kanji": "規模",
+        "reading": "きぼ"
+      },
+      "な",
+      {
+        "kanji": "停電",
+        "reading": "ていでん"
+      },
+      "があります"
+    ],
+    "english": "power will be cut off\nfor the entire country."
+  },
+  {
+    "id": "eva-1.11-1182",
+    "time": "01:10:02.741",
+    "timeEnd": "01:10:04.993",
+    "character": "アナウンス",
+    "segments": [
+      {
+        "kanji": "皆様",
+        "reading": "みなさま"
+      },
+      "のご",
+      {
+        "kanji": "協力",
+        "reading": "きょうりょく"
+      },
+      "をお",
+      {
+        "kanji": "願",
+        "reading": "ねが"
+      },
+      "いします"
+    ],
+    "english": "Thank you\nfor your cooperation in this matter."
+  },
+  {
+    "id": "eva-1.11-1183",
+    "time": "01:10:05.869",
+    "timeEnd": "01:10:06.953",
+    "character": "アナウンス",
+    "segments": [
+      {
+        "kanji": "繰",
+        "reading": "く"
+      },
+      "り",
+      {
+        "kanji": "返",
+        "reading": "かえ"
+      },
+      "します"
+    ],
+    "english": "I repeat."
+  },
+  {
+    "id": "eva-1.11-1184",
+    "time": "01:10:07.120",
+    "timeEnd": "01:10:09.497",
+    "character": "アナウンス",
+    "segments": [
+      {
+        "kanji": "午前",
+        "reading": "ごぜん"
+      },
+      "０",
+      {
+        "kanji": "時",
+        "reading": "じ"
+      },
+      "より",
+      {
+        "kanji": "未明",
+        "reading": "みめい"
+      },
+      "にかけて"
+    ],
+    "english": "Electrical black-out warning:\ntonight at midnight,"
+  },
+  {
+    "id": "eva-1.11-1185",
+    "time": "01:10:09.998",
+    "timeEnd": "01:10:12.626",
+    "character": "アナウンス",
+    "segments": [
+      {
+        "kanji": "全国",
+        "reading": "ぜんこく"
+      },
+      "で",
+      {
+        "kanji": "大",
+        "reading": "だい"
+      },
+      {
+        "kanji": "規模",
+        "reading": "きぼ"
+      },
+      "な",
+      {
+        "kanji": "停電",
+        "reading": "ていでん"
+      },
+      "があります"
+    ],
+    "english": "power will be cut off\nfor the entire country."
+  },
+  {
+    "id": "eva-1.11-1186",
+    "time": "01:10:13.543",
+    "timeEnd": "01:10:15.128",
+    "character": "トウジ／ケンスケ",
+    "segments": [
+      "じゃ ",
+      {
+        "kanji": "行",
+        "reading": "い"
+      },
+      "くで"
+    ],
+    "english": "[Tohji] Alright. Let's go. / [Kensuke] Yeah."
+  },
+  {
+    "id": "eva-1.11-1187",
+    "time": "01:10:15.211",
+    "timeEnd": "01:10:16.212",
+    "character": "ケンスケ",
+    "segments": [
+      "うん"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1188",
+    "time": "01:10:16.296",
+    "timeEnd": "01:10:20.592",
+    "character": "アナウンス",
+    "segments": [
+      {
+        "kanji": "繰",
+        "reading": "く"
+      },
+      "り",
+      {
+        "kanji": "返",
+        "reading": "かえ"
+      },
+      "します\n",
+      {
+        "kanji": "今夜",
+        "reading": "こんや"
+      },
+      {
+        "kanji": "午前",
+        "reading": "ごぜん"
+      },
+      "０",
+      {
+        "kanji": "時",
+        "reading": "じ"
+      },
+      "より",
+      {
+        "kanji": "未明",
+        "reading": "みめい"
+      },
+      "にかけて"
+    ],
+    "english": "[female PA] Electrical black-out warning:\ntonight at midnight..."
+  },
+  {
+    "id": "eva-1.11-1189",
+    "time": "01:10:21.009",
+    "timeEnd": "01:10:22.969",
+    "character": "アナウンス",
+    "segments": [
+      {
+        "kanji": "全国",
+        "reading": "ぜんこく"
+      },
+      "で",
+      {
+        "kanji": "大",
+        "reading": "だい"
+      },
+      {
+        "kanji": "規模",
+        "reading": "きぼ"
+      },
+      "な",
+      {
+        "kanji": "停電",
+        "reading": "ていでん"
+      },
+      "があります"
+    ],
+    "english": "[siren wailing]"
+  },
+  {
+    "id": "eva-1.11-1190",
+    "time": "01:10:23.428",
+    "timeEnd": "01:10:25.847",
+    "character": "アナウンス",
+    "segments": [
+      {
+        "kanji": "皆様",
+        "reading": "みなさま"
+      },
+      "のご",
+      {
+        "kanji": "協力",
+        "reading": "きょうりょく"
+      },
+      "をお",
+      {
+        "kanji": "願",
+        "reading": "ねが"
+      },
+      "いします"
+    ],
+    "english": "Electrical black-out warning:\ntonight at midnight..."
+  },
+  {
+    "id": "eva-1.11-1191",
+    "time": "01:10:48.036",
+    "timeEnd": "01:10:50.246",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "使徒",
+        "reading": "しと"
+      },
+      "の",
+      {
+        "kanji": "先端",
+        "reading": "せんたん"
+      },
+      {
+        "kanji": "部",
+        "reading": "ぶ"
+      },
+      "　",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "７",
+      {
+        "kanji": "装甲",
+        "reading": "そうこう"
+      },
+      {
+        "kanji": "板",
+        "reading": "いた"
+      },
+      "を",
+      {
+        "kanji": "突破",
+        "reading": "とっぱ"
+      }
+    ],
+    "english": "[Aoba] The angel's drill\nhas breached Armor Plate 7."
+  },
+  {
+    "id": "eva-1.11-1192",
+    "time": "01:10:50.455",
+    "timeEnd": "01:10:52.040",
+    "character": "青葉",
+    "segments": [
+      "エネルギーシステムの",
+      {
+        "kanji": "見通",
+        "reading": "みとお"
+      },
+      "しは？"
+    ],
+    "english": "How's our power supply doing?"
+  },
+  {
+    "id": "eva-1.11-1193",
+    "time": "01:10:52.165",
+    "timeEnd": "01:10:54.668",
+    "character": "女性",
+    "segments": [
+      {
+        "kanji": "電力",
+        "reading": "でんりょく"
+      },
+      {
+        "kanji": "系統",
+        "reading": "けいとう"
+      },
+      "は",
+      {
+        "kanji": "新御殿場",
+        "reading": "しんごてんば"
+      },
+      {
+        "kanji": "変電",
+        "reading": "へんでん"
+      },
+      {
+        "kanji": "所",
+        "reading": "しょ"
+      },
+      "と―"
+    ],
+    "english": "[female crew] Progression steady.\nPower will be directly routed through"
+  },
+  {
+    "id": "eva-1.11-1194",
+    "time": "01:10:54.751",
+    "timeEnd": "01:10:56.920",
+    "character": "女性",
+    "segments": [
+      {
+        "kanji": "予備",
+        "reading": "よび"
+      },
+      "２か",
+      {
+        "kanji": "所",
+        "reading": "しょ"
+      },
+      "から",
+      {
+        "kanji": "直接",
+        "reading": "ちょくせつ"
+      },
+      {
+        "kanji": "配電",
+        "reading": "はいでん"
+      },
+      "させます"
+    ],
+    "english": "Shingotenba substation and two backups."
+  },
+  {
+    "id": "eva-1.11-1195",
+    "time": "01:10:57.045",
+    "timeEnd": "01:10:59.547",
+    "character": "女性",
+    "segments": [
+      {
+        "kanji": "現在",
+        "reading": "げんざい"
+      },
+      " ",
+      {
+        "kanji": "引",
+        "reading": "ひ"
+      },
+      "き",
+      {
+        "kanji": "込",
+        "reading": "こ"
+      },
+      "み",
+      {
+        "kanji": "用",
+        "reading": "よう"
+      },
+      {
+        "kanji": "超",
+        "reading": "ちょう"
+      },
+      {
+        "kanji": "伝導",
+        "reading": "でんどう"
+      },
+      "ケーブルを"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1196",
+    "time": "01:10:59.631",
+    "timeEnd": "01:11:01.800",
+    "character": "女性",
+    "segments": [
+      {
+        "kanji": "下二子",
+        "reading": "しもふたご"
+      },
+      {
+        "kanji": "山",
+        "reading": "やま"
+      },
+      "に",
+      {
+        "kanji": "向",
+        "reading": "む"
+      },
+      "けて",
+      {
+        "kanji": "敷設",
+        "reading": "ふせつ"
+      },
+      {
+        "kanji": "中",
+        "reading": "ちゅう"
+      }
+    ],
+    "english": "We're currently laying down superconductor\npower lines toward Shimofutagoyama."
+  },
+  {
+    "id": "eva-1.11-1197",
+    "time": "01:11:01.883",
+    "timeEnd": "01:11:05.595",
+    "character": "女性",
+    "segments": [
+      {
+        "kanji": "変圧",
+        "reading": "へんあつ"
+      },
+      "システム",
+      {
+        "kanji": "込",
+        "reading": "こ"
+      },
+      "みで\n",
+      {
+        "kanji": "本日",
+        "reading": "ほんじつ"
+      },
+      "22",
+      {
+        "kanji": "時",
+        "reading": "じ"
+      },
+      "50",
+      {
+        "kanji": "分",
+        "reading": "ふん"
+      },
+      "までには"
+    ],
+    "english": "Estimated time of completion"
+  },
+  {
+    "id": "eva-1.11-1198",
+    "time": "01:11:05.720",
+    "timeEnd": "01:11:07.389",
+    "character": "女性",
+    "segments": [
+      {
+        "kanji": "全線",
+        "reading": "ぜんせん"
+      },
+      {
+        "kanji": "通電",
+        "reading": "つうでん"
+      },
+      "の",
+      {
+        "kanji": "予定",
+        "reading": "よてい"
+      },
+      "です"
+    ],
+    "english": "and final connection\nto the main transformer: 22:50 tonight."
+  },
+  {
+    "id": "eva-1.11-1199",
+    "time": "01:11:07.472",
+    "timeEnd": "01:11:09.391",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "狙撃",
+        "reading": "そげき"
+      },
+      "システムの",
+      {
+        "kanji": "進捗",
+        "reading": "しんちょく"
+      },
+      {
+        "kanji": "状況",
+        "reading": "じょうきょう"
+      },
+      "は？"
+    ],
+    "english": "Status report on ordnance preparation?"
+  },
+  {
+    "id": "eva-1.11-1200",
+    "time": "01:11:09.599",
+    "timeEnd": "01:11:11.059",
+    "character": "女性",
+    "segments": [
+      {
+        "kanji": "組",
+        "reading": "く"
+      },
+      "み",
+      {
+        "kanji": "立",
+        "reading": "た"
+      },
+      "て",
+      {
+        "kanji": "作業",
+        "reading": "さぎょう"
+      },
+      "に",
+      {
+        "kanji": "問題",
+        "reading": "もんだい"
+      },
+      "なし"
+    ],
+    "english": "[team leader] Assembly\nproceeding steadily."
+  },
+  {
+    "id": "eva-1.11-1201",
+    "time": "01:11:11.476",
+    "timeEnd": "01:11:13.561",
+    "character": "女性",
+    "segments": [
+      {
+        "kanji": "作戦",
+        "reading": "さくせん"
+      },
+      {
+        "kanji": "開始",
+        "reading": "かいし"
+      },
+      {
+        "kanji": "時刻",
+        "reading": "じこく"
+      },
+      "までには\nなんとかします"
+    ],
+    "english": "We'll have\nthe weapon operational by 23:00."
+  },
+  {
+    "id": "eva-1.11-1202",
+    "time": "01:11:13.812",
+    "timeEnd": "01:11:15.230",
+    "character": "ミサト",
+    "segments": [
+      "エヴァ",
+      {
+        "kanji": "初号",
+        "reading": "しょごう"
+      },
+      {
+        "kanji": "機",
+        "reading": "き"
+      },
+      "の",
+      {
+        "kanji": "状況",
+        "reading": "じょうきょう"
+      },
+      "は？"
+    ],
+    "english": "Status report on Eva One?"
+  },
+  {
+    "id": "eva-1.11-1203",
+    "time": "01:11:15.438",
+    "timeEnd": "01:11:18.566",
+    "character": "伊吹",
+    "segments": [
+      {
+        "kanji": "現在",
+        "reading": "げんざい"
+      },
+      " ",
+      {
+        "kanji": "狙撃",
+        "reading": "そげき"
+      },
+      {
+        "kanji": "専用",
+        "reading": "せんよう"
+      },
+      "のＧ",
+      {
+        "kanji": "型",
+        "reading": "かた"
+      },
+      {
+        "kanji": "装備",
+        "reading": "そうび"
+      },
+      "に",
+      {
+        "kanji": "換",
+        "reading": "換"
+      },
+      {
+        "kanji": "装",
+        "reading": "そう"
+      },
+      {
+        "kanji": "中",
+        "reading": "なか"
+      }
+    ],
+    "english": "[Ibuki] Currently undergoing refit\nto Type G sniper configuration."
+  },
+  {
+    "id": "eva-1.11-1204",
+    "time": "01:11:18.858",
+    "timeEnd": "01:11:20.694",
+    "character": "伊吹",
+    "segments": [
+      "あと２",
+      {
+        "kanji": "時間",
+        "reading": "じかん"
+      },
+      "で",
+      {
+        "kanji": "形",
+        "reading": "かたち"
+      },
+      "にできます"
+    ],
+    "english": "Unit one will be ready in 2 hours."
+  },
+  {
+    "id": "eva-1.11-1205",
+    "time": "01:11:20.860",
+    "timeEnd": "01:11:21.861",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "了解",
+        "reading": "りょうかい"
+      }
+    ],
+    "english": "Copy that!"
+  },
+  {
+    "id": "eva-1.11-1206",
+    "time": "01:11:21.945",
+    "timeEnd": "01:11:23.363",
+    "character": "伊吹",
+    "segments": [
+      "あとはパイロットの",
+      {
+        "kanji": "問題",
+        "reading": "もんだい"
+      },
+      "ね"
+    ],
+    "english": "The only thing missing now is the pilot."
+  },
+  {
+    "id": "eva-1.11-1207",
+    "time": "01:11:24.864",
+    "timeEnd": "01:11:27.367",
+    "character": "ミサト",
+    "segments": [
+      "でも ",
+      {
+        "kanji": "彼",
+        "reading": "かれ"
+      },
+      " もう",
+      {
+        "kanji": "一度",
+        "reading": "いちど"
+      },
+      " ",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "るかしら？"
+    ],
+    "english": "Do you think Shinji will agree\nto pilot the Eva again?"
+  },
+  {
+    "id": "eva-1.11-1208",
+    "time": "01:11:30.245",
+    "timeEnd": "01:11:33.164",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "初号",
+        "reading": "しょごう"
+      },
+      {
+        "kanji": "機",
+        "reading": "き"
+      },
+      "パイロットの",
+      {
+        "kanji": "処置",
+        "reading": "しょち"
+      },
+      "は\nどうするつもりだ？"
+    ],
+    "english": "[Fuyutsuki]\nSo what about Unit One's pilot?"
+  },
+  {
+    "id": "eva-1.11-1209",
+    "time": "01:11:33.832",
+    "timeEnd": "01:11:36.710",
+    "character": "ゲンドウ",
+    "segments": [
+      "ダミープラグは",
+      {
+        "kanji": "試験",
+        "reading": "しけん"
+      },
+      {
+        "kanji": "運用",
+        "reading": "うんよう"
+      },
+      {
+        "kanji": "前",
+        "reading": "まえ"
+      },
+      "の",
+      {
+        "kanji": "段階",
+        "reading": "だんかい"
+      },
+      "だ"
+    ],
+    "english": "[Ikari] The Dummy Plug\nis not even ready for the trial stage."
+  },
+  {
+    "id": "eva-1.11-1210",
+    "time": "01:11:37.335",
+    "timeEnd": "01:11:40.922",
+    "character": "ゲンドウ",
+    "segments": [
+      {
+        "kanji": "実用",
+        "reading": "じつよう"
+      },
+      {
+        "kanji": "化",
+        "reading": "か"
+      },
+      "に",
+      {
+        "kanji": "至",
+        "reading": "いた"
+      },
+      "るまでは\n",
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      "のパイロットに",
+      {
+        "kanji": "役立",
+        "reading": "やくだ"
+      },
+      "ってもらう"
+    ],
+    "english": "We're going to have to make do\nwith the current pilot we have until then."
+  },
+  {
+    "id": "eva-1.11-1211",
+    "time": "01:11:41.297",
+    "timeEnd": "01:11:43.508",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "最悪",
+        "reading": "さいあく"
+      },
+      "の",
+      {
+        "kanji": "場合",
+        "reading": "ばあい"
+      },
+      " ",
+      {
+        "kanji": "洗脳",
+        "reading": "せんのう"
+      },
+      "か"
+    ],
+    "english": "If nothing else works,\nthere's always brainwashing."
+  },
+  {
+    "id": "eva-1.11-1212",
+    "time": "01:11:43.675",
+    "timeEnd": "01:11:45.844",
+    "character": "冬月",
+    "segments": [
+      "ダメな",
+      {
+        "kanji": "時",
+        "reading": "とき"
+      },
+      "はレイを",
+      {
+        "kanji": "使",
+        "reading": "つか"
+      },
+      "うまでだ"
+    ],
+    "english": "[Ikari] If nothing else works,\nthere's always Rei."
+  },
+  {
+    "id": "eva-1.11-1213",
+    "time": "01:11:46.761",
+    "timeEnd": "01:11:47.929",
+    "character": "冬月",
+    "segments": [
+      "レイを",
+      {
+        "kanji": "初号",
+        "reading": "しょごう"
+      },
+      {
+        "kanji": "機",
+        "reading": "き"
+      },
+      "に？"
+    ],
+    "english": "You want her to pilot Unit One?"
+  },
+  {
+    "id": "eva-1.11-1214",
+    "time": "01:11:48.972",
+    "timeEnd": "01:11:50.598",
+    "character": "冬月",
+    "segments": [
+      "あまりに",
+      {
+        "kanji": "危険",
+        "reading": "きけん"
+      },
+      "すぎないか"
+    ],
+    "english": "Don't you think\nit's a rather dangerous option?"
+  },
+  {
+    "id": "eva-1.11-1215",
+    "time": "01:11:51.599",
+    "timeEnd": "01:11:53.601",
+    "character": "ゲンドウ",
+    "segments": [
+      "いかなる",
+      {
+        "kanji": "手段",
+        "reading": "しゅだん"
+      },
+      "を",
+      {
+        "kanji": "用",
+        "reading": "もち"
+      },
+      "いても―"
+    ],
+    "english": "We must win, no matter what."
+  },
+  {
+    "id": "eva-1.11-1216",
+    "time": "01:11:54.019",
+    "timeEnd": "01:11:56.938",
+    "character": "ゲンドウ",
+    "segments": [
+      {
+        "kanji": "我々",
+        "reading": "われわれ"
+      },
+      "は あと８",
+      {
+        "kanji": "体",
+        "reading": "たい"
+      },
+      "の",
+      {
+        "kanji": "使徒",
+        "reading": "しと"
+      },
+      "を\n",
+      {
+        "kanji": "倒",
+        "reading": "たお"
+      },
+      "さねばならん"
+    ],
+    "english": "We need to do whatever it takes\nto defeat eight more angels."
+  },
+  {
+    "id": "eva-1.11-1217",
+    "time": "01:11:58.648",
+    "timeEnd": "01:12:00.400",
+    "character": "冬月",
+    "segments": [
+      {
+        "kanji": "全",
+        "reading": "すべ"
+      },
+      "ては それからか"
+    ],
+    "english": "I suppose everything depends on that."
+  },
+  {
+    "id": "eva-1.11-1218",
+    "time": "01:12:01.317",
+    "timeEnd": "01:12:06.322",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "電車",
+        "reading": "でんしゃ"
+      },
+      "の",
+      {
+        "kanji": "音",
+        "reading": "おと"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1219",
+    "time": "01:12:09.868",
+    "timeEnd": "01:12:12.037",
+    "character": "シンジ",
+    "segments": [
+      "イヤなんだよ　エヴァに",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "るのが"
+    ],
+    "english": "I don't want to pilot my Eva anymore."
+  },
+  {
+    "id": "eva-1.11-1220",
+    "time": "01:12:13.872",
+    "timeEnd": "01:12:15.248",
+    "character": "シンジ",
+    "segments": [
+      "うまくいって",
+      {
+        "kanji": "当",
+        "reading": "あ"
+      },
+      "たり",
+      {
+        "kanji": "前",
+        "reading": "まえ"
+      }
+    ],
+    "english": "Everybody assumes success."
+  },
+  {
+    "id": "eva-1.11-1221",
+    "time": "01:12:15.623",
+    "timeEnd": "01:12:17.208",
+    "character": "シンジ",
+    "segments": [
+      "だから ",
+      {
+        "kanji": "誰",
+        "reading": "だれ"
+      },
+      "も",
+      {
+        "kanji": "褒",
+        "reading": "ほ"
+      },
+      "めてくれない"
+    ],
+    "english": "So I hardly ever get praised."
+  },
+  {
+    "id": "eva-1.11-1222",
+    "time": "01:12:17.709",
+    "timeEnd": "01:12:19.419",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "失敗",
+        "reading": "しっぱい"
+      },
+      "したら みんなに",
+      {
+        "kanji": "嫌",
+        "reading": "きら"
+      },
+      "われる"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1223",
+    "time": "01:12:19.878",
+    "timeEnd": "01:12:21.046",
+    "character": "シンジ",
+    "segments": [
+      "ひどけりゃ",
+      {
+        "kanji": "死",
+        "reading": "し"
+      },
+      "ぬだけ"
+    ],
+    "english": "And if I fail, people hate me. And worst,"
+  },
+  {
+    "id": "eva-1.11-1224",
+    "time": "01:12:22.213",
+    "timeEnd": "01:12:23.798",
+    "character": "シンジ",
+    "segments": [
+      "なんで ",
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
+      "は ここにいるんだ？"
+    ],
+    "english": "I'll just die. What am I doing here?"
+  },
+  {
+    "id": "eva-1.11-1225",
+    "time": "01:12:26.301",
+    "timeEnd": "01:12:27.761",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
+      "か",
+      {
+        "kanji": "変",
+        "reading": "か"
+      },
+      "わるかもって"
+    ],
+    "english": "I came here hoping for change."
+  },
+  {
+    "id": "eva-1.11-1226",
+    "time": "01:12:28.053",
+    "timeEnd": "01:12:30.722",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
+      "かいいこと あるかもと",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "って\nここに",
+      {
+        "kanji": "来",
+        "reading": "き"
+      },
+      "たんだ"
+    ],
+    "english": "I thought things might get better."
+  },
+  {
+    "id": "eva-1.11-1227",
+    "time": "01:12:31.264",
+    "timeEnd": "01:12:32.891",
+    "character": "シンジ",
+    "segments": [
+      "イヤな",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "いをするためじゃない"
+    ],
+    "english": "I didn't come here to be put through hell."
+  },
+  {
+    "id": "eva-1.11-1228",
+    "time": "01:12:33.558",
+    "timeEnd": "01:12:36.186",
+    "character": "レイ",
+    "segments": [
+      "そうやって\nイヤなことから",
+      {
+        "kanji": "逃",
+        "reading": "に"
+      },
+      "げ",
+      {
+        "kanji": "出",
+        "reading": "だ"
+      },
+      "して―"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1229",
+    "time": "01:12:36.394",
+    "timeEnd": "01:12:37.729",
+    "character": "レイ",
+    "segments": [
+      "ずっと",
+      {
+        "kanji": "生",
+        "reading": "い"
+      },
+      "きていくつもり？"
+    ],
+    "english": "Is that it? Are you going\nto live your life running away from pain?"
+  },
+  {
+    "id": "eva-1.11-1230",
+    "time": "01:12:39.272",
+    "timeEnd": "01:12:40.273",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "生",
+        "reading": "い"
+      },
+      "きる？"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1231",
+    "time": "01:12:41.107",
+    "timeEnd": "01:12:42.525",
+    "character": "シンジ",
+    "segments": [
+      "なんで",
+      {
+        "kanji": "生",
+        "reading": "い"
+      },
+      "きてんだ？　",
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
+      "は"
+    ],
+    "english": "Me? Live? What for?"
+  },
+  {
+    "id": "eva-1.11-1232",
+    "time": "01:12:43.735",
+    "timeEnd": "01:12:46.154",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "生",
+        "reading": "い"
+      },
+      "きていてもしょうがないと\n",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "っていたじゃないか"
+    ],
+    "english": "I used to wonder\nif there was any point in living."
+  },
+  {
+    "id": "eva-1.11-1233",
+    "time": "01:12:48.031",
+    "timeEnd": "01:12:51.242",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "父",
+        "reading": "とう"
+      },
+      "さんも ミサトさんも\n",
+      {
+        "kanji": "誰",
+        "reading": "だれ"
+      },
+      "も ",
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
+      "が",
+      {
+        "kanji": "要",
+        "reading": "い"
+      },
+      "らないんだ"
+    ],
+    "english": "No one wants me.\nNot my father. Not Miss Misato."
+  },
+  {
+    "id": "eva-1.11-1234",
+    "time": "01:12:51.868",
+    "timeEnd": "01:12:54.079",
+    "character": "シンジ",
+    "segments": [
+      "エヴァに",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "らない",
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
+      "は",
+      {
+        "kanji": "必要",
+        "reading": "ひつよう"
+      },
+      "ないんだ"
+    ],
+    "english": "No one wants me unless I pilot the Eva."
+  },
+  {
+    "id": "eva-1.11-1235",
+    "time": "01:12:55.538",
+    "timeEnd": "01:12:57.707",
+    "character": "シンジ",
+    "segments": [
+      "だから\n",
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
+      "は エヴァに",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "るしかないんだ"
+    ],
+    "english": "That's why I have to be the pilot."
+  },
+  {
+    "id": "eva-1.11-1236",
+    "time": "01:12:59.042",
+    "timeEnd": "01:13:01.044",
+    "character": "シンジ",
+    "segments": [
+      "だから ",
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
+      "は ここにいられるんだ"
+    ],
+    "english": "Otherwise, I can't stay here."
+  },
+  {
+    "id": "eva-1.11-1237",
+    "time": "01:13:02.045",
+    "timeEnd": "01:13:04.172",
+    "character": "シンジ",
+    "segments": [
+      "だけど エヴァに",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "ると…"
+    ],
+    "english": "That's all I have left.\nBut when I pilot the Eva, I end up..."
+  },
+  {
+    "id": "eva-1.11-1238",
+    "time": "01:13:05.632",
+    "timeEnd": "01:13:06.633",
+    "character": "シンジ",
+    "segments": [
+      "はっ"
+    ],
+    "english": "[gasps]"
+  },
+  {
+    "id": "eva-1.11-1239",
+    "time": "01:13:08.968",
+    "timeEnd": "01:13:10.428",
+    "character": "シンジ",
+    "segments": [
+      "また",
+      {
+        "kanji": "同",
+        "reading": "おな"
+      },
+      "じ",
+      {
+        "kanji": "天井",
+        "reading": "てんじょう"
+      },
+      "…"
+    ],
+    "english": "This ceiling again..."
+  },
+  {
+    "id": "eva-1.11-1240",
+    "time": "01:13:12.764",
+    "timeEnd": "01:13:14.474",
+    "character": "シンジ",
+    "segments": [
+      "エヴァに",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "ると こればかりだ"
+    ],
+    "english": "Seems like piloting always brings me here."
+  },
+  {
+    "id": "eva-1.11-1241",
+    "time": "01:13:14.724",
+    "timeEnd": "01:13:15.725",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "本",
+        "reading": "ほん"
+      },
+      "をめくる",
+      {
+        "kanji": "音",
+        "reading": "おと"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1242",
+    "time": "01:13:19.229",
+    "timeEnd": "01:13:20.230",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "綾",
+        "reading": "あや"
+      },
+      {
+        "kanji": "波",
+        "reading": "は"
+      },
+      "…"
+    ],
+    "english": "Ayanami?"
+  },
+  {
+    "id": "eva-1.11-1243",
+    "time": "01:13:22.315",
+    "timeEnd": "01:13:23.399",
+    "character": "シンジ",
+    "segments": [
+      "ずっと ここに？"
+    ],
+    "english": "You've been here all this time?"
+  },
+  {
+    "id": "eva-1.11-1244",
+    "time": "01:13:25.693",
+    "timeEnd": "01:13:28.154",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "明日",
+        "reading": "あした"
+      },
+      " ",
+      {
+        "kanji": "午前",
+        "reading": "ごぜん"
+      },
+      "０",
+      {
+        "kanji": "時",
+        "reading": "じ"
+      },
+      "より",
+      {
+        "kanji": "発動",
+        "reading": "はつどう"
+      },
+      "される―"
+    ],
+    "english": "Listen."
+  },
+  {
+    "id": "eva-1.11-1245",
+    "time": "01:13:28.446",
+    "timeEnd": "01:13:30.657",
+    "character": "レイ",
+    "segments": [
+      "ヤシマ",
+      {
+        "kanji": "作戦",
+        "reading": "さくせん"
+      },
+      "のスケジュールを\n",
+      {
+        "kanji": "伝",
+        "reading": "つた"
+      },
+      "えます"
+    ],
+    "english": "The timeline for the Operation Yashima\nset to start at midnight is as follows:"
+  },
+  {
+    "id": "eva-1.11-1246",
+    "time": "01:13:31.199",
+    "timeEnd": "01:13:36.830",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "碇",
+        "reading": "いかり"
+      },
+      " ",
+      {
+        "kanji": "綾",
+        "reading": "あや"
+      },
+      {
+        "kanji": "波",
+        "reading": "は"
+      },
+      " ",
+      {
+        "kanji": "両",
+        "reading": "りょう"
+      },
+      "パイロットは\n",
+      {
+        "kanji": "本日",
+        "reading": "ほんじつ"
+      },
+      "19：30 ",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "２ターミナルに",
+      {
+        "kanji": "集合",
+        "reading": "しゅうごう"
+      }
+    ],
+    "english": "first, Ayanami and Ikari\nwill report to Terminal two\nat 19:30."
+  },
+  {
+    "id": "eva-1.11-1247",
+    "time": "01:13:37.330",
+    "timeEnd": "01:13:42.043",
+    "character": "シンジ",
+    "segments": [
+      "20：00 ",
+      {
+        "kanji": "初号",
+        "reading": "しょごう"
+      },
+      {
+        "kanji": "機",
+        "reading": "き"
+      },
+      " および ",
+      {
+        "kanji": "零",
+        "reading": "れい"
+      },
+      {
+        "kanji": "号機",
+        "reading": "ごうき"
+      },
+      "に\n",
+      {
+        "kanji": "付随",
+        "reading": "ふずい"
+      },
+      "し ",
+      {
+        "kanji": "移動",
+        "reading": "いどう"
+      },
+      {
+        "kanji": "開始",
+        "reading": "かいし"
+      }
+    ],
+    "english": "At 20:00, both pilots\nwill accompany both Units One and Zero."
+  },
+  {
+    "id": "eva-1.11-1248",
+    "time": "01:13:42.460",
+    "timeEnd": "01:13:44.170",
+    "character": "シンジ",
+    "segments": [
+      "20：05 ",
+      {
+        "kanji": "発進",
+        "reading": "はっしん"
+      }
+    ],
+    "english": "At 20:05, we depart."
+  },
+  {
+    "id": "eva-1.11-1249",
+    "time": "01:13:44.712",
+    "timeEnd": "01:13:47.757",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "同",
+        "reading": "どう"
+      },
+      "30 ",
+      {
+        "kanji": "二子山",
+        "reading": "ふたごやま"
+      },
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "２",
+      {
+        "kanji": "要塞",
+        "reading": "ようさい"
+      },
+      "に",
+      {
+        "kanji": "到着",
+        "reading": "とうちゃく"
+      }
+    ],
+    "english": "At 20:30,\nwe arrive at Futagoyama Fortress two."
+  },
+  {
+    "id": "eva-1.11-1250",
+    "time": "01:13:48.258",
+    "timeEnd": "01:13:50.260",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "以降",
+        "reading": "いこう"
+      },
+      "は",
+      {
+        "kanji": "別命",
+        "reading": "べつめい"
+      },
+      "あるまで",
+      {
+        "kanji": "待機",
+        "reading": "たいき"
+      }
+    ],
+    "english": "Once there,\nwe are to await further instructions."
+  },
+  {
+    "id": "eva-1.11-1251",
+    "time": "01:13:51.052",
+    "timeEnd": "01:13:53.763",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "明日",
+        "reading": "あした"
+      },
+      " ",
+      {
+        "kanji": "日付",
+        "reading": "ひづけ"
+      },
+      {
+        "kanji": "変更",
+        "reading": "へんこう"
+      },
+      "と",
+      {
+        "kanji": "共",
+        "reading": "とも"
+      },
+      "に\n",
+      {
+        "kanji": "作戦",
+        "reading": "さくせん"
+      },
+      {
+        "kanji": "行動",
+        "reading": "こうどう"
+      },
+      {
+        "kanji": "開始",
+        "reading": "かいし"
+      }
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1252",
+    "time": "01:13:53.763",
+    "timeEnd": "01:13:54.430",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "明日",
+        "reading": "あした"
+      },
+      " ",
+      {
+        "kanji": "日付",
+        "reading": "ひづけ"
+      },
+      {
+        "kanji": "変更",
+        "reading": "へんこう"
+      },
+      "と",
+      {
+        "kanji": "共",
+        "reading": "とも"
+      },
+      "に\n",
+      {
+        "kanji": "作戦",
+        "reading": "さくせん"
+      },
+      {
+        "kanji": "行動",
+        "reading": "こうどう"
+      },
+      {
+        "kanji": "開始",
+        "reading": "かいし"
+      }
+    ],
+    "english": "Then, when the clock strikes midnight,\nOperation Yashima begins."
+  },
+  {
+    "id": "eva-1.11-1253",
+    "time": "01:13:53.763",
+    "timeEnd": "01:13:54.430",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "引",
+        "reading": "ひ"
+      },
+      "き",
+      {
+        "kanji": "出",
+        "reading": "だ"
+      },
+      "しを",
+      {
+        "kanji": "開",
+        "reading": "あ"
+      },
+      "ける",
+      {
+        "kanji": "音",
+        "reading": "おと"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1254",
+    "time": "01:13:54.430",
+    "timeEnd": "01:13:54.764",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "引",
+        "reading": "ひ"
+      },
+      "き",
+      {
+        "kanji": "出",
+        "reading": "だ"
+      },
+      "しを",
+      {
+        "kanji": "開",
+        "reading": "あ"
+      },
+      "ける",
+      {
+        "kanji": "音",
+        "reading": "おと"
+      },
+      "）"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1255",
+    "time": "01:13:56.391",
+    "timeEnd": "01:13:57.392",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "食事",
+        "reading": "しょくじ"
+      }
+    ],
+    "english": "Here's your meal."
+  },
+  {
+    "id": "eva-1.11-1256",
+    "time": "01:13:59.185",
+    "timeEnd": "01:14:01.062",
+    "character": "レイ",
+    "segments": [
+      {
+        "kanji": "何",
+        "reading": "なに"
+      },
+      "も",
+      {
+        "kanji": "食",
+        "reading": "た"
+      },
+      "べたくない"
+    ],
+    "english": "No thanks. I don't want it."
+  },
+  {
+    "id": "eva-1.11-1257",
+    "time": "01:14:01.563",
+    "timeEnd": "01:14:03.022",
+    "character": "シンジ",
+    "segments": [
+      "90",
+      {
+        "kanji": "分",
+        "reading": "ふん"
+      },
+      {
+        "kanji": "後",
+        "reading": "ご"
+      },
+      "に",
+      {
+        "kanji": "出発",
+        "reading": "しゅっぱつ"
+      },
+      "よ"
+    ],
+    "english": "We report in 90 minutes."
+  },
+  {
+    "id": "eva-1.11-1258",
+    "time": "01:14:04.190",
+    "timeEnd": "01:14:06.067",
+    "character": "シンジ",
+    "segments": [
+      "また あれに",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "れって",
+      {
+        "kanji": "言",
+        "reading": "い"
+      },
+      "うのか"
+    ],
+    "english": "So we have to pilot those things again?"
+  },
+  {
+    "id": "eva-1.11-1259",
+    "time": "01:14:06.651",
+    "timeEnd": "01:14:07.652",
+    "character": "レイ",
+    "segments": [
+      "そうよ"
+    ],
+    "english": "We do."
+  },
+  {
+    "id": "eva-1.11-1260",
+    "time": "01:14:07.735",
+    "timeEnd": "01:14:08.820",
+    "character": "シンジ",
+    "segments": [
+      "もう イヤだ"
+    ],
+    "english": "But I don't want to."
+  },
+  {
+    "id": "eva-1.11-1261",
+    "time": "01:14:09.737",
+    "timeEnd": "01:14:11.573",
+    "character": "シンジ",
+    "segments": [
+      "もう あんな",
+      {
+        "kanji": "怖",
+        "reading": "こわ"
+      },
+      "い",
+      {
+        "kanji": "思",
+        "reading": "おも"
+      },
+      "いしたくない"
+    ],
+    "english": "I can't go through\nthat kind of hell again."
+  },
+  {
+    "id": "eva-1.11-1262",
+    "time": "01:14:12.073",
+    "timeEnd": "01:14:13.283",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "怖",
+        "reading": "こわ"
+      },
+      "くて ",
+      {
+        "kanji": "怖",
+        "reading": "こわ"
+      },
+      "くて…"
+    ],
+    "english": "It's so... So scary."
+  },
+  {
+    "id": "eva-1.11-1263",
+    "time": "01:14:14.242",
+    "timeEnd": "01:14:16.035",
+    "character": "シンジ",
+    "segments": [
+      "でも ",
+      {
+        "kanji": "逃",
+        "reading": "に"
+      },
+      "げることもできないんだ"
+    ],
+    "english": "But I can even run away."
+  },
+  {
+    "id": "eva-1.11-1264",
+    "time": "01:14:16.494",
+    "timeEnd": "01:14:17.704",
+    "character": "レイ",
+    "segments": [
+      "エヴァが",
+      {
+        "kanji": "怖",
+        "reading": "こわ"
+      },
+      "いの？"
+    ],
+    "english": "[Rei] Are you scared of the Evas?"
+  },
+  {
+    "id": "eva-1.11-1265",
+    "time": "01:14:19.122",
+    "timeEnd": "01:14:20.498",
+    "character": "レイ",
+    "segments": [
+      "じゃ ",
+      {
+        "kanji": "寝",
+        "reading": "ね"
+      },
+      "てたら"
+    ],
+    "english": "Then, just stay and sleep."
+  },
+  {
+    "id": "eva-1.11-1266",
+    "time": "01:14:22.208",
+    "timeEnd": "01:14:23.209",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "寝",
+        "reading": "ね"
+      },
+      "てたらって…"
+    ],
+    "english": "Stay and sleep?"
+  },
+  {
+    "id": "eva-1.11-1267",
+    "time": "01:14:23.751",
+    "timeEnd": "01:14:25.211",
+    "character": "レイ",
+    "segments": [
+      {
+        "kanji": "初号",
+        "reading": "しょごう"
+      },
+      {
+        "kanji": "機",
+        "reading": "き"
+      },
+      "には",
+      {
+        "kanji": "私",
+        "reading": "わたし"
+      },
+      "が",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "る"
+    ],
+    "english": "Yes. I'll pilot Unit One."
+  },
+  {
+    "id": "eva-1.11-1268",
+    "time": "01:14:27.922",
+    "timeEnd": "01:14:29.299",
+    "character": "シンジ",
+    "segments": [
+      "あっ ",
+      {
+        "kanji": "綾",
+        "reading": "あや"
+      },
+      {
+        "kanji": "波",
+        "reading": "は"
+      },
+      "！"
+    ],
+    "english": "Ayanami!"
+  },
+  {
+    "id": "eva-1.11-1269",
+    "time": "01:14:30.383",
+    "timeEnd": "01:14:31.384",
+    "character": "レイ",
+    "segments": [
+      "さよなら"
+    ],
+    "english": "Farewell."
+  },
+  {
+    "id": "eva-1.11-1270",
+    "time": "01:14:47.859",
+    "timeEnd": "01:14:50.153",
+    "character": "青葉",
+    "segments": [
+      {
+        "kanji": "敵",
+        "reading": "てき"
+      },
+      {
+        "kanji": "先端",
+        "reading": "せんたん"
+      },
+      {
+        "kanji": "部",
+        "reading": "ぶ"
+      },
+      " ",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "17",
+      {
+        "kanji": "装甲",
+        "reading": "そうこう"
+      },
+      {
+        "kanji": "帯",
+        "reading": "たい"
+      },
+      "を",
+      {
+        "kanji": "突破",
+        "reading": "とっぱ"
+      }
+    ],
+    "english": "[Aoba] Target's drill\nhas breached Armor Plate number 17."
+  },
+  {
+    "id": "eva-1.11-1271",
+    "time": "01:14:50.236",
+    "timeEnd": "01:14:53.156",
+    "character": "女性",
+    "segments": [
+      "ネルフ",
+      {
+        "kanji": "本部",
+        "reading": "ほんぶ"
+      },
+      {
+        "kanji": "到達",
+        "reading": "とうたつ"
+      },
+      "まで\nあと４",
+      {
+        "kanji": "時間",
+        "reading": "じかん"
+      },
+      "55",
+      {
+        "kanji": "分",
+        "reading": "ふん"
+      }
+    ],
+    "english": "[female PA] Estimated time before\nfinal breach: 4 hours 55 minutes."
+  },
+  {
+    "id": "eva-1.11-1272",
+    "time": "01:14:53.323",
+    "timeEnd": "01:14:57.660",
+    "character": "男性",
+    "segments": [
+      {
+        "kanji": "西箱根",
+        "reading": "にしはこね"
+      },
+      {
+        "kanji": "新",
+        "reading": "しん"
+      },
+      {
+        "kanji": "線",
+        "reading": "せん"
+      },
+      " および\n",
+      {
+        "kanji": "南塔ノ沢",
+        "reading": "みなみとうのざわ"
+      },
+      " ",
+      {
+        "kanji": "架空",
+        "reading": "かくう"
+      },
+      "３",
+      {
+        "kanji": "号線",
+        "reading": "ごうせん"
+      },
+      "の",
+      {
+        "kanji": "通電",
+        "reading": "つうでん"
+      },
+      {
+        "kanji": "完了",
+        "reading": "かんりょう"
+      }
+    ],
+    "english": "Nishihakone Shinsen and Minami Tounosawa\nlink-up via Kakuu Route three, complete."
+  },
+  {
+    "id": "eva-1.11-1273",
+    "time": "01:14:57.827",
+    "timeEnd": "01:15:00.413",
+    "character": "女性",
+    "segments": [
+      {
+        "kanji": "現在",
+        "reading": "げんざい"
+      },
+      " ",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "16ＢＡＮＫ",
+      {
+        "kanji": "変電",
+        "reading": "へんでん"
+      },
+      {
+        "kanji": "設備",
+        "reading": "せつび"
+      },
+      "は―"
+    ],
+    "english": "[female PA] 50,000 volt standard\ninstallation will begin on schedule."
+  },
+  {
+    "id": "eva-1.11-1274",
+    "time": "01:15:00.496",
+    "timeEnd": "01:15:01.831",
+    "character": "女性",
+    "segments": [
+      {
+        "kanji": "設置",
+        "reading": "せっち"
+      },
+      {
+        "kanji": "工事",
+        "reading": "こうじ"
+      },
+      "を",
+      {
+        "kanji": "続行",
+        "reading": "ぞっこう"
+      },
+      {
+        "kanji": "中",
+        "reading": "ちゅう"
+      }
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1275",
+    "time": "01:15:02.248",
+    "timeEnd": "01:15:05.710",
+    "character": "女性",
+    "segments": [
+      "50",
+      {
+        "kanji": "万",
+        "reading": "まん"
+      },
+      "ボルト",
+      {
+        "kanji": "通常",
+        "reading": "つうじょう"
+      },
+      {
+        "kanji": "変圧",
+        "reading": "へんあつ"
+      },
+      {
+        "kanji": "器",
+        "reading": "き"
+      },
+      "の\n",
+      {
+        "kanji": "設置",
+        "reading": "せっち"
+      },
+      {
+        "kanji": "開始",
+        "reading": "かいし"
+      },
+      "は",
+      {
+        "kanji": "予定",
+        "reading": "よてい"
+      },
+      "どおり"
+    ],
+    "english": "Stage four...\nTransformer Group 28 has arrived\nfive minutes behind schedule."
+  },
+  {
+    "id": "eva-1.11-1276",
+    "time": "01:15:05.919",
+    "timeEnd": "01:15:07.337",
+    "character": "女性",
+    "segments": [
+      "タイムシートに",
+      {
+        "kanji": "変更",
+        "reading": "へんこう"
+      },
+      "なし"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1277",
+    "time": "01:15:07.962",
+    "timeEnd": "01:15:10.924",
+    "character": "男性",
+    "segments": [
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "28トランス",
+      {
+        "kanji": "群",
+        "reading": "ぐん"
+      },
+      "は５",
+      {
+        "kanji": "分",
+        "reading": "ふん"
+      },
+      {
+        "kanji": "遅延",
+        "reading": "ちえん"
+      },
+      "にて",
+      {
+        "kanji": "到着",
+        "reading": "とうちゃく"
+      }
+    ],
+    "english": "[male PA] Hurry with the shunting of\nrolling stock from No. 3 loading platform."
+  },
+  {
+    "id": "eva-1.11-1278",
+    "time": "01:15:11.257",
+    "timeEnd": "01:15:13.593",
+    "character": "男性",
+    "segments": [
+      {
+        "kanji": "担当",
+        "reading": "たんとう"
+      },
+      {
+        "kanji": "者",
+        "reading": "しゃ"
+      },
+      "は\n",
+      {
+        "kanji": "各",
+        "reading": "かく"
+      },
+      {
+        "kanji": "結線",
+        "reading": "けっせん"
+      },
+      {
+        "kanji": "作業",
+        "reading": "さぎょう"
+      },
+      "を",
+      {
+        "kanji": "急",
+        "reading": "いそ"
+      },
+      "いでください"
+    ],
+    "english": "[female PA] Supervisor,\nplease expedite link-up."
+  },
+  {
+    "id": "eva-1.11-1279",
+    "time": "01:15:14.719",
+    "timeEnd": "01:15:16.846",
+    "character": "女性",
+    "segments": [
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "４",
+      {
+        "kanji": "次",
+        "reading": "じ"
+      },
+      " ",
+      {
+        "kanji": "先行",
+        "reading": "せんこう"
+      },
+      "シミュレーション",
+      {
+        "kanji": "開始",
+        "reading": "かいし"
+      }
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1280",
+    "time": "01:15:17.096",
+    "timeEnd": "01:15:18.973",
+    "character": "女性",
+    "segments": [
+      {
+        "kanji": "復旧",
+        "reading": "ふっきゅう"
+      },
+      {
+        "kanji": "支援",
+        "reading": "しえん"
+      },
+      {
+        "kanji": "系統",
+        "reading": "けいとう"
+      },
+      "を",
+      {
+        "kanji": "再",
+        "reading": "さい"
+      },
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      },
+      {
+        "kanji": "中",
+        "reading": "ちゅう"
+      }
+    ],
+    "english": "Roger. Please forward completion report\nto power link C&C center."
+  },
+  {
+    "id": "eva-1.11-1281",
+    "time": "01:15:20.141",
+    "timeEnd": "01:15:22.310",
+    "character": "女性",
+    "segments": [
+      {
+        "kanji": "全",
+        "reading": "ぜん"
+      },
+      "ＳＭＥＳの",
+      {
+        "kanji": "設置",
+        "reading": "せっち"
+      },
+      {
+        "kanji": "完了",
+        "reading": "かんりょう"
+      }
+    ],
+    "english": "[male PA] 4th Electrical Relay\nGroup’s integrity has been checked."
+  },
+  {
+    "id": "eva-1.11-1282",
+    "time": "01:15:22.852",
+    "timeEnd": "01:15:26.105",
+    "character": "女性",
+    "segments": [
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "１",
+      {
+        "kanji": "集束",
+        "reading": "しゅうそく"
+      },
+      {
+        "kanji": "系統",
+        "reading": "けいとう"
+      },
+      "より\n",
+      {
+        "kanji": "動作",
+        "reading": "どうさ"
+      },
+      {
+        "kanji": "確認",
+        "reading": "かくにん"
+      },
+      "を",
+      {
+        "kanji": "順次",
+        "reading": "じゅんじ"
+      },
+      {
+        "kanji": "開始",
+        "reading": "かいし"
+      }
+    ],
+    "english": "All systems green.\n...Stage One power merge circuits..."
+  },
+  {
+    "id": "eva-1.11-1283",
+    "time": "01:15:26.397",
+    "timeEnd": "01:15:29.359",
+    "character": "女性",
+    "segments": [
+      {
+        "kanji": "全",
+        "reading": "ぜん"
+      },
+      {
+        "kanji": "超",
+        "reading": "ちょう"
+      },
+      {
+        "kanji": "伝導",
+        "reading": "でんどう"
+      },
+      "\n",
+      {
+        "kanji": "超",
+        "reading": "ちょう"
+      },
+      "々",
+      {
+        "kanji": "高圧",
+        "reading": "こうあつ"
+      },
+      {
+        "kanji": "最終",
+        "reading": "さいしゅう"
+      },
+      {
+        "kanji": "変圧",
+        "reading": "へんあつ"
+      },
+      {
+        "kanji": "器",
+        "reading": "き"
+      },
+      {
+        "kanji": "集団",
+        "reading": "しゅうだん"
+      },
+      "の"
+    ],
+    "english": "[female PA] Ultra-high voltage\nsuperconductor transformer arrays"
+  },
+  {
+    "id": "eva-1.11-1284",
+    "time": "01:15:29.442",
+    "timeEnd": "01:15:31.402",
+    "character": "女性",
+    "segments": [
+      {
+        "kanji": "開閉",
+        "reading": "かいへい"
+      },
+      "チェック",
+      {
+        "kanji": "完了",
+        "reading": "かんりょう"
+      },
+      "　",
+      {
+        "kanji": "問題",
+        "reading": "もんだい"
+      },
+      "なし"
+    ],
+    "english": "checked and certified."
+  },
+  {
+    "id": "eva-1.11-1285",
+    "time": "01:15:40.411",
+    "timeEnd": "01:15:42.872",
+    "character": "日向",
+    "segments": [
+      "これが",
+      {
+        "kanji": "大型",
+        "reading": "おおがた"
+      },
+      {
+        "kanji": "試作",
+        "reading": "しさく"
+      },
+      {
+        "kanji": "陽電子",
+        "reading": "ようでんし"
+      },
+      {
+        "kanji": "砲",
+        "reading": "ほう"
+      },
+      "ですか"
+    ],
+    "english": "[Hyuga] This is the experimental\nlarge-caliber positron cannon?"
+  },
+  {
+    "id": "eva-1.11-1286",
+    "time": "01:15:43.248",
+    "timeEnd": "01:15:46.459",
+    "character": "リツコ",
+    "segments": [
+      {
+        "kanji": "急造",
+        "reading": "きゅうぞう"
+      },
+      {
+        "kanji": "品",
+        "reading": "ひん"
+      },
+      "だけど\n",
+      {
+        "kanji": "設計",
+        "reading": "せっけい"
+      },
+      {
+        "kanji": "理論",
+        "reading": "りろん"
+      },
+      {
+        "kanji": "上",
+        "reading": "じょう"
+      },
+      "は",
+      {
+        "kanji": "問題",
+        "reading": "もんだい"
+      },
+      "なしね"
+    ],
+    "english": "[Ritsuko] Assembling it was a rush job,\nbut in theory, it should work."
+  },
+  {
+    "id": "eva-1.11-1287",
+    "time": "01:15:46.918",
+    "timeEnd": "01:15:48.002",
+    "character": "伊吹",
+    "segments": [
+      {
+        "kanji": "零",
+        "reading": "れい"
+      },
+      {
+        "kanji": "点",
+        "reading": "てん"
+      },
+      {
+        "kanji": "規正",
+        "reading": "きせい"
+      },
+      "は―"
+    ],
+    "english": "[Ibuki] We'll take care\nof battle sight zeroing"
+  },
+  {
+    "id": "eva-1.11-1288",
+    "time": "01:15:48.086",
+    "timeEnd": "01:15:50.713",
+    "character": "伊吹",
+    "segments": [
+      "こちらでムリやり\nＧ",
+      {
+        "kanji": "型",
+        "reading": "かた"
+      },
+      {
+        "kanji": "装備",
+        "reading": "そうび"
+      },
+      "とリンクさせます"
+    ],
+    "english": "by linking it to the Type G components."
+  },
+  {
+    "id": "eva-1.11-1289",
+    "time": "01:15:51.089",
+    "timeEnd": "01:15:52.924",
+    "character": "日向",
+    "segments": [
+      "まっ ",
+      {
+        "kanji": "当",
+        "reading": "あ"
+      },
+      "てにしてます"
+    ],
+    "english": "You bet! We're counting on you for that."
+  },
+  {
+    "id": "eva-1.11-1290",
+    "time": "01:15:53.675",
+    "timeEnd": "01:15:55.885",
+    "character": "日向",
+    "segments": [
+      {
+        "kanji": "当",
+        "reading": "あ"
+      },
+      "てになりそうもないのは\nパイロットね"
+    ],
+    "english": "I guess the one thing\nwe can't count on is the pilot."
+  },
+  {
+    "id": "eva-1.11-1291",
+    "time": "01:15:56.886",
+    "timeEnd": "01:15:59.305",
+    "character": "日向",
+    "segments": [
+      "ミサト うまくやるといいけど"
+    ],
+    "english": "But hopefully, Misato can take care of it."
+  },
+  {
+    "id": "eva-1.11-1292",
+    "time": "01:16:04.060",
+    "timeEnd": "01:16:07.272",
+    "character": "日向",
+    "segments": [
+      "シンジ",
+      {
+        "kanji": "君",
+        "reading": "くん"
+      },
+      "\n",
+      {
+        "kanji": "集合",
+        "reading": "しゅうごう"
+      },
+      {
+        "kanji": "時間",
+        "reading": "じかん"
+      },
+      "は とっくに",
+      {
+        "kanji": "過",
+        "reading": "す"
+      },
+      "ぎてるのよ"
+    ],
+    "english": "Hey Shinji, you were supposed\nto report for duty a while ago."
+  },
+  {
+    "id": "eva-1.11-1293",
+    "time": "01:16:10.608",
+    "timeEnd": "01:16:13.486",
+    "character": "日向",
+    "segments": [
+      "あなた ",
+      {
+        "kanji": "自分",
+        "reading": "じぶん"
+      },
+      "で",
+      {
+        "kanji": "決",
+        "reading": "き"
+      },
+      "めて\nここに",
+      {
+        "kanji": "残",
+        "reading": "のこ"
+      },
+      "ったんでしょ？"
+    ],
+    "english": "Apparently, you decided\nyou wanted to remain a pilot, right?"
+  },
+  {
+    "id": "eva-1.11-1294",
+    "time": "01:16:14.696",
+    "timeEnd": "01:16:16.739",
+    "character": "日向",
+    "segments": [
+      "だったら ",
+      {
+        "kanji": "自分",
+        "reading": "じぶん"
+      },
+      "の",
+      {
+        "kanji": "仕事",
+        "reading": "しごと"
+      },
+      "を\nきちんとしなさい"
+    ],
+    "english": "Then you have to follow through\nand actually come do your job."
+  },
+  {
+    "id": "eva-1.11-1295",
+    "time": "01:16:18.658",
+    "timeEnd": "01:16:21.411",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "怖",
+        "reading": "こわ"
+      },
+      "いんですよ　エヴァに",
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "るのが"
+    ],
+    "english": "[Shinji] Piloting the Eva is really scary."
+  },
+  {
+    "id": "eva-1.11-1296",
+    "time": "01:16:22.662",
+    "timeEnd": "01:16:24.372",
+    "character": "シンジ",
+    "segments": [
+      "ミサトさんたちはいいですよ"
+    ],
+    "english": "You people have it easy!"
+  },
+  {
+    "id": "eva-1.11-1297",
+    "time": "01:16:25.248",
+    "timeEnd": "01:16:28.251",
+    "character": "シンジ",
+    "segments": [
+      "いつも ",
+      {
+        "kanji": "安全",
+        "reading": "あんぜん"
+      },
+      "な",
+      {
+        "kanji": "地下",
+        "reading": "ちか"
+      },
+      {
+        "kanji": "本部",
+        "reading": "ほんぶ"
+      },
+      "にいて\n",
+      {
+        "kanji": "命令",
+        "reading": "めいれい"
+      },
+      "してるだけなんですから"
+    ],
+    "english": "All you do is stay below in HQ\nand give out orders."
+  },
+  {
+    "id": "eva-1.11-1298",
+    "time": "01:16:29.002",
+    "timeEnd": "01:16:30.712",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
+      "だけが",
+      {
+        "kanji": "怖",
+        "reading": "こわ"
+      },
+      "い",
+      {
+        "kanji": "目",
+        "reading": "め"
+      },
+      "に",
+      {
+        "kanji": "遭",
+        "reading": "あ"
+      },
+      "って！"
+    ],
+    "english": "I'm the one out there, doing scary stuff!"
+  },
+  {
+    "id": "eva-1.11-1299",
+    "time": "01:16:32.046",
+    "timeEnd": "01:16:33.715",
+    "character": "シンジ",
+    "segments": [
+      "ミサトさんたちは ずるいですよ"
+    ],
+    "english": "You're all a bunch of hypocrites!"
+  },
+  {
+    "id": "eva-1.11-1300",
+    "time": "01:16:41.931",
+    "timeEnd": "01:16:43.099",
+    "character": "ミサト",
+    "segments": [
+      "ちょっち つきあって"
+    ],
+    "english": "[Misato] Come with me for a sec."
+  },
+  {
+    "id": "eva-1.11-1301",
+    "time": "01:16:43.433",
+    "timeEnd": "01:16:44.767",
+    "character": "シンジ",
+    "segments": [
+      "えっ？　あっ"
+    ],
+    "english": "[Shinji gasps]"
+  },
+  {
+    "id": "eva-1.11-1302",
+    "time": "01:16:51.065",
+    "timeEnd": "01:16:52.066",
+    "character": "ミサト",
+    "segments": [
+      "15",
+      {
+        "kanji": "年",
+        "reading": "ねん"
+      },
+      {
+        "kanji": "前",
+        "reading": "まえ"
+      },
+      "―"
+    ],
+    "english": "[Misato] Fifteen years ago,"
+  },
+  {
+    "id": "eva-1.11-1303",
+    "time": "01:16:53.192",
+    "timeEnd": "01:16:56.362",
+    "character": "ミサト",
+    "segments": [
+      "セカンドインパクトで\n",
+      {
+        "kanji": "人類",
+        "reading": "じんるい"
+      },
+      "の",
+      {
+        "kanji": "半分",
+        "reading": "はんぶん"
+      },
+      "が",
+      {
+        "kanji": "失",
+        "reading": "うしな"
+      },
+      "われたわ"
+    ],
+    "english": "half of humanity died\nfollowing the Second Impact in Antarctica."
+  },
+  {
+    "id": "eva-1.11-1304",
+    "time": "01:16:57.572",
+    "timeEnd": "01:17:00.074",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "今",
+        "reading": "いま"
+      },
+      " ",
+      {
+        "kanji": "使徒",
+        "reading": "しと"
+      },
+      "がサードインパクトを\n",
+      {
+        "kanji": "引",
+        "reading": "ひ"
+      },
+      "き",
+      {
+        "kanji": "起",
+        "reading": "お"
+      },
+      "こせば―"
+    ],
+    "english": "If we let the angels set off\nthe Third Impact, we're done."
+  },
+  {
+    "id": "eva-1.11-1305",
+    "time": "01:17:00.450",
+    "timeEnd": "01:17:01.909",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "今度",
+        "reading": "こんど"
+      },
+      "こそ ",
+      {
+        "kanji": "人",
+        "reading": "ひと"
+      },
+      "は",
+      {
+        "kanji": "滅",
+        "reading": "ほろ"
+      },
+      "ぶ"
+    ],
+    "english": "What's left of humanity will perish."
+  },
+  {
+    "id": "eva-1.11-1306",
+    "time": "01:17:02.452",
+    "timeEnd": "01:17:03.536",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "一",
+        "reading": "いち"
+      },
+      {
+        "kanji": "人",
+        "reading": "にん"
+      },
+      {
+        "kanji": "残",
+        "reading": "のこ"
+      },
+      "らずね"
+    ],
+    "english": "No one will survive."
+  },
+  {
+    "id": "eva-1.11-1307",
+    "time": "01:17:04.579",
+    "timeEnd": "01:17:06.748",
+    "character": "シンジ",
+    "segments": [
+      {
+        "kanji": "聞",
+        "reading": "き"
+      },
+      "きましたよ その",
+      {
+        "kanji": "話",
+        "reading": "はなし"
+      },
+      "は",
+      {
+        "kanji": "何",
+        "reading": "なん"
+      },
+      {
+        "kanji": "度",
+        "reading": "ど"
+      },
+      "も"
+    ],
+    "english": "I know all that.\nI've heard it over and over again."
+  },
+  {
+    "id": "eva-1.11-1308",
+    "time": "01:17:10.877",
+    "timeEnd": "01:17:11.919",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "私",
+        "reading": "わたし"
+      },
+      "たちが―"
+    ],
+    "english": "What you don't know"
+  },
+  {
+    "id": "eva-1.11-1309",
+    "time": "01:17:12.003",
+    "timeEnd": "01:17:15.548",
+    "character": "ミサト",
+    "segments": [
+      "ネルフ",
+      {
+        "kanji": "本部",
+        "reading": "ほんぶ"
+      },
+      "レベル",
+      {
+        "kanji": "ＥＥＥ",
+        "reading": "トリプルイー"
+      },
+      "への\n",
+      {
+        "kanji": "使徒",
+        "reading": "しと"
+      },
+      {
+        "kanji": "侵入",
+        "reading": "しんにゅう"
+      },
+      "を",
+      {
+        "kanji": "許",
+        "reading": "ゆる"
+      },
+      "すと―"
+    ],
+    "english": "is that if an angel gets\ninto Level triple E, below NERV HQ,"
+  },
+  {
+    "id": "eva-1.11-1310",
+    "time": "01:17:17.050",
+    "timeEnd": "01:17:19.635",
+    "character": "ミサト",
+    "segments": [
+      "ここは",
+      {
+        "kanji": "自動的",
+        "reading": "じどうてき"
+      },
+      "に\n",
+      {
+        "kanji": "自爆",
+        "reading": "じばく"
+      },
+      "するようになっているの"
+    ],
+    "english": "this whole place\nwill automatically self-destruct."
+  },
+  {
+    "id": "eva-1.11-1311",
+    "time": "01:17:21.346",
+    "timeEnd": "01:17:23.348",
+    "character": "ミサト",
+    "segments": [
+      "たとえ ",
+      {
+        "kanji": "使徒",
+        "reading": "しと"
+      },
+      "と",
+      {
+        "kanji": "刺",
+        "reading": "さ"
+      },
+      "し",
+      {
+        "kanji": "違",
+        "reading": "ちが"
+      },
+      "えてでも"
+    ],
+    "english": "If we have to sacrifice ourselves"
+  },
+  {
+    "id": "eva-1.11-1312",
+    "time": "01:17:23.431",
+    "timeEnd": "01:17:25.475",
+    "character": "ミサト",
+    "segments": [
+      "サードインパクトを",
+      {
+        "kanji": "未然",
+        "reading": "みぜん"
+      },
+      "に",
+      {
+        "kanji": "防",
+        "reading": "ふせ"
+      },
+      "ぐ"
+    ],
+    "english": "to prevent the Third Impact, we'll do it."
+  },
+  {
+    "id": "eva-1.11-1313",
+    "time": "01:17:26.476",
+    "timeEnd": "01:17:30.104",
+    "character": "ミサト",
+    "segments": [
+      "その",
+      {
+        "kanji": "覚悟",
+        "reading": "かくご"
+      },
+      "を",
+      {
+        "kanji": "持",
+        "reading": "も"
+      },
+      "って\nここにいる",
+      {
+        "kanji": "全員",
+        "reading": "ぜんいん"
+      },
+      "が",
+      {
+        "kanji": "働",
+        "reading": "はたら"
+      },
+      "いているわ"
+    ],
+    "english": "Everyone who works here\nfully understands and accepts that risk."
+  },
+  {
+    "id": "eva-1.11-1314",
+    "time": "01:17:31.981",
+    "timeEnd": "01:17:34.233",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "電子",
+        "reading": "でんし"
+      },
+      "キーの",
+      {
+        "kanji": "操作",
+        "reading": "そうさ"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": "[beeping]"
+  },
+  {
+    "id": "eva-1.11-1315",
+    "time": "01:17:35.193",
+    "timeEnd": "01:17:36.652",
+    "character": "",
+    "segments": [
+      "（",
+      {
+        "kanji": "開",
+        "reading": "ひらき"
+      },
+      {
+        "kanji": "錠",
+        "reading": "じょう"
+      },
+      {
+        "kanji": "音",
+        "reading": "おん"
+      },
+      "）"
+    ],
+    "english": "[ping]"
+  },
+  {
+    "id": "eva-1.11-1316",
+    "time": "01:17:47.205",
+    "timeEnd": "01:17:49.707",
+    "character": "シンジ",
+    "segments": [
+      "ああっ　これって？"
+    ],
+    "english": "[gasps]\nI can’t believe it."
+  },
+  {
+    "id": "eva-1.11-1317",
+    "time": "01:17:52.293",
+    "timeEnd": "01:17:54.921",
+    "character": "シンジ",
+    "segments": [
+      "まさか… エヴァ？"
+    ],
+    "english": "It can't be...\nAn Eva?"
+  },
+  {
+    "id": "eva-1.11-1318",
+    "time": "01:17:55.296",
+    "timeEnd": "01:17:56.297",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "違",
+        "reading": "ちが"
+      },
+      "うわ"
+    ],
+    "english": "[Misato] It's not.\nThis being brought life to our planet..."
+  },
+  {
+    "id": "eva-1.11-1319",
+    "time": "01:17:56.881",
+    "timeEnd": "01:18:02.512",
+    "character": "ミサト",
+    "segments": [
+      "この",
+      {
+        "kanji": "星",
+        "reading": "ほし"
+      },
+      "の",
+      {
+        "kanji": "生命",
+        "reading": "せいめい"
+      },
+      "の",
+      {
+        "kanji": "始",
+        "reading": "はじ"
+      },
+      "まりでもあり\n",
+      {
+        "kanji": "終息",
+        "reading": "しゅうそく"
+      },
+      "の",
+      {
+        "kanji": "要",
+        "reading": "よう"
+      },
+      "ともなる",
+      {
+        "kanji": "第",
+        "reading": "だい"
+      },
+      "２の",
+      {
+        "kanji": "使徒",
+        "reading": "しと"
+      },
+      "―"
+    ],
+    "english": "And it could be\nthe agent of its extinction."
+  },
+  {
+    "id": "eva-1.11-1320",
+    "time": "01:18:03.137",
+    "timeEnd": "01:18:04.180",
+    "character": "ミサト",
+    "segments": [
+      "リリスよ"
+    ],
+    "english": "This is the second angel, Lilith."
+  },
+  {
+    "id": "eva-1.11-1321",
+    "time": "01:18:04.639",
+    "timeEnd": "01:18:05.640",
+    "character": "シンジ",
+    "segments": [
+      "リリス？"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1322",
+    "time": "01:18:05.890",
+    "timeEnd": "01:18:06.891",
+    "character": "シンジ／ミサト",
+    "segments": [
+      "そう"
+    ],
+    "english": "- Lilith? / - Yes."
+  },
+  {
+    "id": "eva-1.11-1323",
+    "time": "01:18:06.974",
+    "timeEnd": "01:18:09.268",
+    "character": "ミサト",
+    "segments": [
+      "サードインパクトのトリガーとも\n",
+      {
+        "kanji": "言",
+        "reading": "い"
+      },
+      "われているわ"
+    ],
+    "english": "Yes. Some believe\nit can trigger the Third Impact."
+  },
+  {
+    "id": "eva-1.11-1324",
+    "time": "01:18:10.728",
+    "timeEnd": "01:18:12.772",
+    "character": "ミサト",
+    "segments": [
+      "このリリスを",
+      {
+        "kanji": "守",
+        "reading": "まも"
+      },
+      "り―"
+    ],
+    "english": "You need to guard Lilith"
+  },
+  {
+    "id": "eva-1.11-1325",
+    "time": "01:18:12.855",
+    "timeEnd": "01:18:13.940",
+    "character": "ミサト",
+    "segments": [
+      "エヴァで",
+      {
+        "kanji": "戦",
+        "reading": "たたか"
+      },
+      "う"
+    ],
+    "english": "by piloting the Eva."
+  },
+  {
+    "id": "eva-1.11-1326",
+    "time": "01:18:14.524",
+    "timeEnd": "01:18:16.567",
+    "character": "ミサト",
+    "segments": [
+      "それは あなたにしか\nできないことなの"
+    ],
+    "english": "You are the only person who can do it."
+  },
+  {
+    "id": "eva-1.11-1327",
+    "time": "01:18:17.318",
+    "timeEnd": "01:18:21.656",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "私",
+        "reading": "わたし"
+      },
+      "たちは あなたとエヴァに\n",
+      {
+        "kanji": "人類",
+        "reading": "じんるい"
+      },
+      "の",
+      {
+        "kanji": "未来",
+        "reading": "みらい"
+      },
+      "を",
+      {
+        "kanji": "託",
+        "reading": "たく"
+      },
+      "しているのよ"
+    ],
+    "english": "Shinji, we are entrusting\nthe future of humanity\nto you and to your Eva."
+  },
+  {
+    "id": "eva-1.11-1328",
+    "time": "01:18:22.490",
+    "timeEnd": "01:18:23.991",
+    "character": "シンジ",
+    "segments": [
+      "そんな つらいこと…"
+    ],
+    "english": "All that responsibility.\nWhy does it have to be me?"
+  },
+  {
+    "id": "eva-1.11-1329",
+    "time": "01:18:24.659",
+    "timeEnd": "01:18:25.910",
+    "character": "ミサト",
+    "segments": [
+      "なんで ",
+      {
+        "kanji": "僕",
+        "reading": "ぼく"
+      },
+      "なんですか？"
+    ],
+    "english": ""
+  },
+  {
+    "id": "eva-1.11-1330",
+    "time": "01:18:26.786",
+    "timeEnd": "01:18:27.829",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "理由",
+        "reading": "りゆう"
+      },
+      "はないわ"
+    ],
+    "english": "There's no specific reason."
+  },
+  {
+    "id": "eva-1.11-1331",
+    "time": "01:18:28.204",
+    "timeEnd": "01:18:30.540",
+    "character": "ミサト",
+    "segments": [
+      "その",
+      {
+        "kanji": "運命",
+        "reading": "うんめい"
+      },
+      "が\nあなただったってだけ"
+    ],
+    "english": "Actually, fate chose you, Shinji."
+  },
+  {
+    "id": "eva-1.11-1332",
+    "time": "01:18:31.499",
+    "timeEnd": "01:18:36.087",
+    "character": "ミサト",
+    "segments": [
+      "ただし シンジ",
+      {
+        "kanji": "君",
+        "reading": "くん"
+      },
+      "１",
+      {
+        "kanji": "人",
+        "reading": "にん"
+      },
+      "が\n",
+      {
+        "kanji": "命",
+        "reading": "いのち"
+      },
+      "を",
+      {
+        "kanji": "懸",
+        "reading": "か"
+      },
+      "けて",
+      {
+        "kanji": "戦",
+        "reading": "たたか"
+      },
+      "っているわけじゃない"
+    ],
+    "english": "But, you know,\nyou're not the only one\nwho's putting his life on the line."
+  },
+  {
+    "id": "eva-1.11-1333",
+    "time": "01:18:37.255",
+    "timeEnd": "01:18:38.256",
+    "character": "ミサト",
+    "segments": [
+      "みんな",
+      {
+        "kanji": "一緒",
+        "reading": "いっしょ"
+      },
+      "よ"
+    ],
+    "english": "We all are."
+  },
+  {
+    "id": "eva-1.11-1334",
+    "time": "01:18:43.386",
+    "timeEnd": "01:18:44.387",
+    "character": "シンジ",
+    "segments": [
+      "もう",
+      {
+        "kanji": "一度",
+        "reading": "いちど"
+      },
+      "―"
+    ],
+    "english": "I'll do it, Misato. I'll pilot my Eva."
+  },
+  {
+    "id": "eva-1.11-1335",
+    "time": "01:18:45.138",
+    "timeEnd": "01:18:46.222",
+    "character": "ミサト",
+    "segments": [
+      {
+        "kanji": "乗",
+        "reading": "の"
+      },
+      "ってみます"
+    ],
+    "english": ""
+  }
+]

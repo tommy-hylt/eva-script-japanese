@@ -1,0 +1,21 @@
+{
+  "movieId": "eva-2.22",
+  "titleEn": "Evangelion: 2.22 You Can (Not) Advance",
+  "jpEntryCount": 1998,
+  "enEntryCount": 1310,
+  "entriesWithoutEnglish": 683,
+  "entriesWithSourceRuby": 0,
+  "entriesWithGeneratedRuby": 1515,
+  "carriedSpeakerEntries": 730,
+  "overriddenEntries": 840,
+  "generatedPartCount": 5,
+  "partSizes": [
+    405,
+    419,
+    369,
+    423,
+    382
+  ],
+  "firstTime": "00:00:31.991",
+  "lastTime": "01:51:58.879"
+}

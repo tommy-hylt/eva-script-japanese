@@ -1,0 +1,2701 @@
+{
+  "eva-1.11-0011": {
+    "english": "Huh?"
+  },
+  "eva-1.11-0013": {
+    "english": "Ugh... [crash]"
+  },
+  "eva-1.11-0015": {
+    "english": "[footsteps]"
+  },
+  "eva-1.11-0016": {
+    "english": "Ah... Aah!"
+  },
+  "eva-1.11-0019": {
+    "english": "[impact sound]"
+  },
+  "eva-1.11-0020": {
+    "english": "[explosion]"
+  },
+  "eva-1.11-0022": {
+    "english": "Whoa! [piercing sound]"
+  },
+  "eva-1.11-0023": {
+    "english": "Whoa!"
+  },
+  "eva-1.11-0024": {
+    "english": "Aah!"
+  },
+  "eva-1.11-0025": {
+    "english": "Uah! [brake sound]"
+  },
+  "eva-1.11-0026": {
+    "character": "ミサト",
+    "english": "Good morning. Sorry I'm late."
+  },
+  "eva-1.11-0028": {
+    "english": "[impact sound]"
+  },
+  "eva-1.11-0029": {
+    "english": "[explosion]"
+  },
+  "eva-1.11-0030": {
+    "english": "[warning alarm]"
+  },
+  "eva-1.11-0031": {
+    "english": "[warning alarm]"
+  },
+  "eva-1.11-0033": {
+    "english": "[warning alarm]"
+  },
+  "eva-1.11-0034": {
+    "english": "[warning alarm]"
+  },
+  "eva-1.11-0041": {
+    "english": "[impact sound]"
+  },
+  "eva-1.11-0042": {
+    "english": "[explosion]"
+  },
+  "eva-1.11-0046": {
+    "english": "Damn it!"
+  },
+  "eva-1.11-0048": {
+    "character": "冬月",
+    "english": "Is it because it's protected by an A.T. Field?"
+  },
+  "eva-1.11-0050": {
+    "english": "[incoming call tone]"
+  },
+  "eva-1.11-0051": {
+    "english": "Understood. / We'll activate it as planned."
+  },
+  "eva-1.11-0052": {
+    "character": "ミサト",
+    "english": "Wait... no way..."
+  },
+  "eva-1.11-0053": {
+    "character": "ミサト",
+    "english": "You're not planning to use an N2 mine, are you!?"
+  },
+  "eva-1.11-0054": {
+    "character": "ミサト",
+    "english": "Get down!"
+  },
+  "eva-1.11-0055": {
+    "english": "[explosion]"
+  },
+  "eva-1.11-0056": {
+    "english": "Ugh..."
+  },
+  "eva-1.11-0057": {
+    "english": "We did it!"
+  },
+  "eva-1.11-0058": {
+    "english": "Unfortunately, / it looks like it wasn't your turn after all."
+  },
+  "eva-1.11-0059": {
+    "english": "Shock wave incoming!"
+  },
+  "eva-1.11-0060": {
+    "english": "Are you okay?"
+  },
+  "eva-1.11-0061": {
+    "english": "Yeah. / My mouth feels gritty, though."
+  },
+  "eva-1.11-0062": {
+    "english": "That'll do."
+  },
+  "eva-1.11-0063": {
+    "english": "All right, here we go. Ready... and push!"
+  },
+  "eva-1.11-0064": {
+    "english": "Hrrgh..."
+  },
+  "eva-1.11-0065": {
+    "english": "Hup... All right!"
+  },
+  "eva-1.11-0067": {
+    "character": "シンジ"
+  },
+  "eva-1.11-0070": {
+    "character": "シンジ",
+    "english": "Yes."
+  },
+  "eva-1.11-0071": {
+    "english": "What about the target after that?"
+  },
+  "eva-1.11-0072": {
+    "english": "With that explosion, it must be finished."
+  },
+  "eva-1.11-0074": {
+    "english": "Ah!"
+  },
+  "eva-1.11-0075": {
+    "english": "Our trump card..."
+  },
+  "eva-1.11-0077": {
+    "english": "You monster!"
+  },
+  "eva-1.11-0083": {
+    "english": "...You really aren't asking anything, are you, Shinji?"
+  },
+  "eva-1.11-0084": {
+    "character": "シンジ",
+    "english": "Huh? No."
+  },
+  "eva-1.11-0085": {
+    "english": "I've been the one doing all the talking."
+  },
+  "eva-1.11-0086": {
+    "character": "シンジ",
+    "english": "Oh... sorry."
+  },
+  "eva-1.11-0087": {
+    "english": "You don't need to apologize, but..."
+  },
+  "eva-1.11-0088": {
+    "english": "Normally you'd ask, / \"What was that huge thing just now?\""
+  },
+  "eva-1.11-0089": {
+    "english": "\"What's happening?\" / Something like that, right?"
+  },
+  "eva-1.11-0090": {
+    "character": "シンジ",
+    "english": "Well... um..."
+  },
+  "eva-1.11-0091": {
+    "character": "シンジ",
+    "english": "I figured you wouldn't answer me / even if I asked..."
+  },
+  "eva-1.11-0092": {
+    "english": "You really overthink things / and jump to conclusions."
+  },
+  "eva-1.11-0093": {
+    "english": "That's not very childlike."
+  },
+  "eva-1.11-0094": {
+    "character": "シンジ",
+    "english": "It's fine."
+  },
+  "eva-1.11-0095": {
+    "character": "シンジ",
+    "english": "I'm just doing / what my teacher told me to."
+  },
+  "eva-1.11-0096": {
+    "english": "I see. Well, all right."
+  },
+  "eva-1.11-0097": {
+    "english": "By the way, that thing just now / was a mysterious life-form called an \"Angel.\""
+  },
+  "eva-1.11-0099": {
+    "character": "冬月",
+    "english": "It has an impressive self-regeneration ability."
+  },
+  "eva-1.11-0100": {
+    "character": "冬月",
+    "english": "An independently completed, perfectly pure life-form. / Naturally."
+  },
+  "eva-1.11-0101": {
+    "english": "The ones who ate the Fruit of Life..."
+  },
+  "eva-1.11-0102": {
+    "english": "Yes."
+  },
+  "eva-1.11-0103": {
+    "character": "ゲンドウ",
+    "english": "They exist / to destroy us who ate the Fruit of Knowledge."
+  },
+  "eva-1.11-0104": {
+    "english": "The gate is closing. / Please use caution."
+  },
+  "eva-1.11-0105": {
+    "english": "Special agency NERV?"
+  },
+  "eva-1.11-0106": {
+    "english": "Right. A secret organization / directly under the U.N."
+  },
+  "eva-1.11-0107": {
+    "character": "",
+    "english": ""
+  },
+  "eva-1.11-0108": {
+    "character": "",
+    "english": ""
+  },
+  "eva-1.11-0109": {
+    "character": "",
+    "english": ""
+  },
+  "eva-1.11-0110": {
+    "character": "シンジ",
+    "english": "That's where my father is, isn't it?"
+  },
+  "eva-1.11-0111": {
+    "character": "",
+    "english": ""
+  },
+  "eva-1.11-0112": {
+    "character": "",
+    "english": ""
+  },
+  "eva-1.11-0113": {
+    "character": "ミサト",
+    "english": "More or less."
+  },
+  "eva-1.11-0114": {
+    "character": "ミサト",
+    "english": "Do you know / what your father does?"
+  },
+  "eva-1.11-0115": {
+    "character": "",
+    "english": ""
+  },
+  "eva-1.11-0116": {
+    "character": "",
+    "english": ""
+  },
+  "eva-1.11-0117": {
+    "character": "",
+    "english": ""
+  },
+  "eva-1.11-0119": {
+    "character": "",
+    "english": ""
+  },
+  "eva-1.11-0120": {
+    "character": "",
+    "english": ""
+  },
+  "eva-1.11-0121": {
+    "character": "",
+    "english": ""
+  },
+  "eva-1.11-0122": {
+    "character": "",
+    "english": ""
+  },
+  "eva-1.11-0124": {
+    "character": "軍人Ａ"
+  },
+  "eva-1.11-0125": {
+    "english": "Let's see what you can do."
+  },
+  "eva-1.11-0126": {
+    "english": "Understood."
+  },
+  "eva-1.11-0127": {
+    "english": "Ikari, / we acknowledge that with our current weapons..."
+  },
+  "eva-1.11-0128": {
+    "english": "...we have no effective means / against the target."
+  },
+  "eva-1.11-0130": {
+    "character": "ゲンドウ"
+  },
+  "eva-1.11-0131": {
+    "character": "シンジ"
+  },
+  "eva-1.11-0132": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0133": {
+    "character": "シンジ",
+    "english": "Father..."
+  },
+  "eva-1.11-0135": {
+    "character": "シンジ",
+    "english": "Ah... yeah."
+  },
+  "eva-1.11-0136": {
+    "english": "[opens bag]"
+  },
+  "eva-1.11-0138": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0139": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0140": {
+    "character": "シンジ",
+    "english": "NERV..."
+  },
+  "eva-1.11-0141": {
+    "character": "シンジ",
+    "english": "Father's work..."
+  },
+  "eva-1.11-0142": {
+    "character": "シンジ"
+  },
+  "eva-1.11-0143": {
+    "character": "シンジ",
+    "english": "Right... There has to be a reason / Father would send me a letter out of nowhere..."
+  },
+  "eva-1.11-0144": {
+    "character": "シンジ",
+    "english": "...doesn't there?"
+  },
+  "eva-1.11-0147": {
+    "character": "シンジ",
+    "english": "Huh?"
+  },
+  "eva-1.11-0148": {
+    "english": "Wow... amazing!"
+  },
+  "eva-1.11-0149": {
+    "english": "It really is the GeoFront."
+  },
+  "eva-1.11-0150": {
+    "english": "Yep. That's our secret base, / NERV Headquarters."
+  },
+  "eva-1.11-0151": {
+    "english": "It's the key to rebuilding the world, / mankind's fortress."
+  },
+  "eva-1.11-0152": {
+    "english": "Uh... from the station's west exit, / turn right at North Gate 3..."
+  },
+  "eva-1.11-0153": {
+    "english": "Then take Route 8..."
+  },
+  "eva-1.11-0154": {
+    "english": "This facility is weirdly / overcomplicated, isn't it?"
+  },
+  "eva-1.11-0155": {
+    "english": "I'm pretty sure / this route is the right one..."
+  },
+  "eva-1.11-0156": {
+    "character": "シンジ",
+    "english": "Um... did you get lost?"
+  },
+  "eva-1.11-0157": {
+    "character": "ミサト",
+    "english": "I'm still not used to this place."
+  },
+  "eva-1.11-0158": {
+    "character": "ミサト",
+    "english": "Well, if we keep going, / we'll get there eventually."
+  },
+  "eva-1.11-0161": {
+    "english": "Thaw the left arm drive section / within the next three minutes."
+  },
+  "eva-1.11-0162": {
+    "character": "リツコ",
+    "english": "And don't forget / the apoptosis data."
+  },
+  "eva-1.11-0163": {
+    "character": "男性",
+    "english": "Understood."
+  },
+  "eva-1.11-0164": {
+    "character": "女性",
+    "english": "Report for Dr. Akagi."
+  },
+  "eva-1.11-0165": {
+    "character": "女性",
+    "english": "Operations Section 1 Lieutenant Colonel Katsuragi / and one other person have arrived in car S36."
+  },
+  "eva-1.11-0166": {
+    "character": "リツコ",
+    "english": "Unbelievable. Late again."
+  },
+  "eva-1.11-0168": {
+    "english": "Ugh..."
+  },
+  "eva-1.11-0170": {
+    "character": "リツコ",
+    "english": "You overshot / your scheduled arrival by twelve minutes."
+  },
+  "eva-1.11-0171": {
+    "character": "リツコ",
+    "english": "You were so late, / I came to meet you, Lieutenant Colonel Katsuragi."
+  },
+  "eva-1.11-0172": {
+    "character": "リツコ",
+    "english": "We have neither spare hands / nor spare time."
+  },
+  "eva-1.11-0174": {
+    "english": "[sigh]"
+  },
+  "eva-1.11-0175": {
+    "character": "リツコ",
+    "english": "This is that boy?"
+  },
+  "eva-1.11-0176": {
+    "character": "ミサト",
+    "english": "Right."
+  },
+  "eva-1.11-0177": {
+    "character": "リツコ",
+    "english": "I am Ritsuko Akagi, / head of Technical Bureau Section 1, Project E."
+  },
+  "eva-1.11-0178": {
+    "character": "リツコ",
+    "english": "Nice to meet you."
+  },
+  "eva-1.11-0179": {
+    "character": "シンジ",
+    "english": "Ah... yes."
+  },
+  "eva-1.11-0180": {
+    "character": "ミサト",
+    "english": "Then I'll leave the rest to you."
+  },
+  "eva-1.11-0181": {
+    "character": "リツコ",
+    "english": "Meeting again after three years..."
+  },
+  "eva-1.11-0183": {
+    "character": "冬月",
+    "english": "Understood. / All personnel, battle stations level one."
+  },
+  "eva-1.11-0184": {
+    "character": "女性",
+    "english": "Repeat: all personnel to battle stations level one."
+  },
+  "eva-1.11-0185": {
+    "character": "女性",
+    "english": "Prepare for ground interception."
+  },
+  "eva-1.11-0186": {
+    "english": "Shinji Ikari, / there's something I want to show you."
+  },
+  "eva-1.11-0187": {
+    "english": ""
+  },
+  "eva-1.11-0188": {
+    "english": "[switch clicks]"
+  },
+  "eva-1.11-0189": {
+    "english": ""
+  },
+  "eva-1.11-0191": {
+    "english": "What humans created..."
+  },
+  "eva-1.11-0192": {
+    "english": "The ultimate general-purpose humanoid decisive weapon."
+  },
+  "eva-1.11-0193": {
+    "english": "The artificial human Evangelion. / This is Unit-01."
+  },
+  "eva-1.11-0194": {
+    "english": "Humanity's final trump card."
+  },
+  "eva-1.11-0195": {
+    "character": "シンジ"
+  },
+  "eva-1.11-0198": {
+    "character": "シンジ",
+    "english": "Father..."
+  },
+  "eva-1.11-0199": {
+    "english": "Hmph..."
+  },
+  "eva-1.11-0201": {
+    "character": "リツコ",
+    "english": "Launch!? / Unit-00 is still frozen, isn't it?"
+  },
+  "eva-1.11-0202": {
+    "character": "リツコ",
+    "english": "You can't be planning / to use Unit-01, can you?"
+  },
+  "eva-1.11-0203": {
+    "character": "ゲンドウ",
+    "english": "There is no other way."
+  },
+  "eva-1.11-0204": {
+    "character": "リツコ",
+    "english": "Shinji Ikari."
+  },
+  "eva-1.11-0205": {
+    "character": "シンジ",
+    "english": "Ah, yes."
+  },
+  "eva-1.11-0206": {
+    "character": "リツコ",
+    "english": "You're the one who will pilot it."
+  },
+  "eva-1.11-0207": {
+    "character": "シンジ",
+    "english": "What?"
+  },
+  "eva-1.11-0208": {
+    "character": "シンジ"
+  },
+  "eva-1.11-0210": {
+    "character": "シンジ",
+    "english": "So I have to get in this thing..."
+  },
+  "eva-1.11-0211": {
+    "character": "シンジ",
+    "english": "...and fight that thing from before?"
+  },
+  "eva-1.11-0212": {
+    "character": "ゲンドウ"
+  },
+  "eva-1.11-0213": {
+    "character": "シンジ",
+    "english": "No way! / Why now of all times?"
+  },
+  "eva-1.11-0214": {
+    "character": "シンジ",
+    "english": "Didn't you decide / you had no use for me anymore!?"
+  },
+  "eva-1.11-0215": {
+    "character": "ゲンドウ",
+    "english": "I called you because I need you."
+  },
+  "eva-1.11-0216": {
+    "character": "シンジ"
+  },
+  "eva-1.11-0217": {
+    "character": "ゲンドウ"
+  },
+  "eva-1.11-0218": {
+    "character": "シンジ"
+  },
+  "eva-1.11-0219": {
+    "character": "シンジ",
+    "english": "There's no way I can do it! / I've never even seen or heard of this thing before!"
+  },
+  "eva-1.11-0220": {
+    "character": "ゲンドウ"
+  },
+  "eva-1.11-0221": {
+    "character": "シンジ"
+  },
+  "eva-1.11-0222": {
+    "character": "シンジ",
+    "english": "There's no way I can ride something like this!"
+  },
+  "eva-1.11-0226": {
+    "character": "冬月"
+  },
+  "eva-1.11-0227": {
+    "character": "",
+    "english": "[launch sound] [explosion]"
+  },
+  "eva-1.11-0228": {
+    "character": "女性",
+    "english": "Layer 1, armor plate 8 destroyed."
+  },
+  "eva-1.11-0229": {
+    "character": "ミサト",
+    "english": "Shinji, there's no time."
+  },
+  "eva-1.11-0230": {
+    "character": "男性",
+    "english": "Fires breaking out throughout D Block."
+  },
+  "eva-1.11-0231": {
+    "character": "男性",
+    "english": "Emergency closure of all corridors / within the designated area."
+  },
+  "eva-1.11-0232": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0233": {
+    "character": "シンジ"
+  },
+  "eva-1.11-0234": {
+    "character": "シンジ",
+    "english": "I finally came all the way here, / and now this? No way!"
+  },
+  "eva-1.11-0235": {
+    "character": "ミサト",
+    "english": "Shinji, / why did you come here?"
+  },
+  "eva-1.11-0236": {
+    "character": "ミサト",
+    "english": "You can't run away. / Not from your father."
+  },
+  "eva-1.11-0237": {
+    "character": "ミサト",
+    "english": "And more than anything, not from yourself."
+  },
+  "eva-1.11-0238": {
+    "character": "シンジ",
+    "english": "I know that."
+  },
+  "eva-1.11-0239": {
+    "character": "シンジ"
+  },
+  "eva-1.11-0240": {
+    "character": "ゲンドウ"
+  },
+  "eva-1.11-0241": {
+    "character": "冬月"
+  },
+  "eva-1.11-0243": {
+    "character": "冬月",
+    "english": "Understood."
+  },
+  "eva-1.11-0244": {
+    "character": "ゲンドウ"
+  },
+  "eva-1.11-0246": {
+    "character": "ゲンドウ",
+    "english": "The spare is no longer usable. / One more time."
+  },
+  "eva-1.11-0248": {
+    "character": "ゲンドウ",
+    "english": "Switch Unit-01's core unit / to L-00 type and restart it!"
+  },
+  "eva-1.11-0250": {
+    "character": "女性",
+    "english": "Initialize the startup command."
+  },
+  "eva-1.11-0251": {
+    "character": "シンジ",
+    "english": "I knew it..."
+  },
+  "eva-1.11-0252": {
+    "character": "シンジ",
+    "english": "I'm someone nobody needs."
+  },
+  "eva-1.11-0254": {
+    "character": "レイ",
+    "english": "Ugh... ah..."
+  },
+  "eva-1.11-0255": {
+    "character": "レイ",
+    "english": "Ugh... ugh..."
+  },
+  "eva-1.11-0256": {
+    "character": "レイ",
+    "english": "Hah..."
+  },
+  "eva-1.11-0258": {
+    "character": "",
+    "english": "[impact]"
+  },
+  "eva-1.11-0260": {
+    "character": "レイ",
+    "english": "Pant... pant..."
+  },
+  "eva-1.11-0262": {
+    "character": "レイ",
+    "english": "[groaning]"
+  },
+  "eva-1.11-0263": {
+    "character": "レイ",
+    "english": "Ugh... ngh..."
+  },
+  "eva-1.11-0268": {
+    "character": "女性",
+    "english": "Third cooling stage complete."
+  },
+  "eva-1.11-0269": {
+    "character": "男性",
+    "english": "Flywheel rotation stopped."
+  },
+  "eva-1.11-0270": {
+    "character": "男性",
+    "english": "Disconnect the link."
+  },
+  "eva-1.11-0271": {
+    "character": "女性",
+    "english": "No problems with auxiliary voltage."
+  },
+  "eva-1.11-0272": {
+    "character": "女性",
+    "english": "Shutdown signal plug ejection complete."
+  },
+  "eva-1.11-0273": {
+    "character": "女性",
+    "english": "Roger. Insert the entry plug."
+  },
+  "eva-1.11-0274": {
+    "character": "女性",
+    "english": "Unlock the spinal conduction system. / Prepare for connection."
+  },
+  "eva-1.11-0275": {
+    "character": "男性",
+    "english": "Probe needle insertion complete."
+  },
+  "eva-1.11-0276": {
+    "character": "女性",
+    "english": "Maintain plug depth at 20."
+  },
+  "eva-1.11-0277": {
+    "character": "女性",
+    "english": "Mental contamination reading / remains within baseline range."
+  },
+  "eva-1.11-0278": {
+    "character": "女性",
+    "english": "Maintain plus 02 to minus 05."
+  },
+  "eva-1.11-0282": {
+    "character": "シンジ",
+    "english": "Huh? What is this?"
+  },
+  "eva-1.11-0283": {
+    "character": "シンジ",
+    "english": "Whoa! Aah!"
+  },
+  "eva-1.11-0284": {
+    "character": "リツコ",
+    "english": "It's all right. / Once your lungs fill with LCL..."
+  },
+  "eva-1.11-0285": {
+    "character": "リツコ",
+    "english": "...it will take oxygen / directly into your blood."
+  },
+  "eva-1.11-0286": {
+    "character": "リツコ",
+    "english": "You'll get used to it soon."
+  },
+  "eva-1.11-0287": {
+    "character": "シンジ",
+    "english": "Whoa!"
+  },
+  "eva-1.11-0290": {
+    "character": "伊吹",
+    "english": "Beginning second contact."
+  },
+  "eva-1.11-0291": {
+    "character": "女性",
+    "english": "Connect the interface."
+  },
+  "eva-1.11-0293": {
+    "character": "女性",
+    "english": "LCL electrification state normal."
+  },
+  "eva-1.11-0294": {
+    "character": "リツコ",
+    "english": "Fix the thought pattern / with Japanese as the base principle..."
+  },
+  "eva-1.11-0295": {
+    "character": "リツコ",
+    "english": "Fix. Initial contact, / no problems across the board."
+  },
+  "eva-1.11-0299": {
+    "character": "伊吹",
+    "english": "Amazing, even without / plugsuit support."
+  },
+  "eva-1.11-0300": {
+    "character": "伊吹",
+    "english": "Harmonics all within normal range. / No berserk activity."
+  },
+  "eva-1.11-0301": {
+    "character": "伊吹",
+    "english": "We can do this."
+  },
+  "eva-1.11-0304": {
+    "character": "男性",
+    "english": "Release lock bolt number one!"
+  },
+  "eva-1.11-0305": {
+    "character": "女性",
+    "english": "Release confirmed."
+  },
+  "eva-1.11-0306": {
+    "character": "男性",
+    "english": "Umbilical bridge movement starting."
+  },
+  "eva-1.11-0307": {
+    "character": "男性",
+    "english": "Release lock bolt number two!"
+  },
+  "eva-1.11-0308": {
+    "character": "男性",
+    "english": "Remove first restraint. / Likewise remove second restraint."
+  },
+  "eva-1.11-0309": {
+    "character": "男性",
+    "english": "Disengage safety devices / one through fifteen."
+  },
+  "eva-1.11-0310": {
+    "character": "女性",
+    "english": "Disengagement confirmed."
+  },
+  "eva-1.11-0311": {
+    "character": "女性",
+    "english": "Unit-01 is now free."
+  },
+  "eva-1.11-0312": {
+    "character": "男性",
+    "english": "Internal power fully charged."
+  },
+  "eva-1.11-0313": {
+    "character": "男性",
+    "english": "No abnormalities in external power connection."
+  },
+  "eva-1.11-0314": {
+    "character": "男性",
+    "english": "Roger. / Move Evangelion Unit-01 to the launch opening."
+  },
+  "eva-1.11-0315": {
+    "character": "女性",
+    "english": "No issues with track displacement / on any linear rail."
+  },
+  "eva-1.11-0316": {
+    "character": "女性",
+    "english": "Electromagnetic induction system operating normally."
+  },
+  "eva-1.11-0317": {
+    "character": "女性",
+    "english": "Unit-01 currently moving along K52."
+  },
+  "eva-1.11-0318": {
+    "character": "女性",
+    "english": "Launch sequence proceeding / according to plan."
+  },
+  "eva-1.11-0319": {
+    "character": "女性",
+    "english": "Eva has arrived / at the launch hub terminal."
+  },
+  "eva-1.11-0321": {
+    "character": "リツコ",
+    "english": "Launch preparations complete."
+  },
+  "eva-1.11-0322": {
+    "character": "ゲンドウ",
+    "english": "Understood."
+  },
+  "eva-1.11-0323": {
+    "character": "冬月",
+    "english": "You're sure about this?"
+  },
+  "eva-1.11-0325": {
+    "character": "ゲンドウ"
+  },
+  "eva-1.11-0326": {
+    "character": "冬月",
+    "english": "Ikari, are you really sure / this is the right choice?"
+  },
+  "eva-1.11-0327": {
+    "character": "ゲンドウ",
+    "english": "Launch!"
+  },
+  "eva-1.11-0328": {
+    "character": "冬月",
+    "english": "Ngh..."
+  },
+  "eva-1.11-0330": {
+    "character": "シンジ"
+  },
+  "eva-1.11-0331": {
+    "character": "女性",
+    "english": "Release the final safety device."
+  },
+  "eva-1.11-0332": {
+    "character": "女性",
+    "english": "Evangelion Unit-01, lift-off!"
+  },
+  "eva-1.11-0335": {
+    "english": "Ah!"
+  },
+  "eva-1.11-0336": {
+    "english": "It walked."
+  },
+  "eva-1.11-0337": {
+    "english": "It's walking."
+  },
+  "eva-1.11-0338": {
+    "character": "シンジ",
+    "english": "Ngh..."
+  },
+  "eva-1.11-0341": {
+    "english": "Ah... aah!"
+  },
+  "eva-1.11-0342": {
+    "character": "シンジ",
+    "english": "[groan]"
+  },
+  "eva-1.11-0343": {
+    "character": "シンジ",
+    "english": ""
+  },
+  "eva-1.11-0345": {
+    "english": "It's not your arm / that's being grabbed."
+  },
+  "eva-1.11-0346": {
+    "english": "What about Eva's defense system?"
+  },
+  "eva-1.11-0348": {
+    "english": "No field deployment!"
+  },
+  "eva-1.11-0349": {
+    "character": "ミサト",
+    "english": "No good?"
+  },
+  "eva-1.11-0350": {
+    "character": "伊吹",
+    "english": ""
+  },
+  "eva-1.11-0352": {
+    "english": "Circuit severed!"
+  },
+  "eva-1.11-0353": {
+    "character": "日向",
+    "english": ""
+  },
+  "eva-1.11-0355": {
+    "english": "[punching]"
+  },
+  "eva-1.11-0356": {
+    "english": "Aah! Aah... [impact]"
+  },
+  "eva-1.11-0357": {
+    "character": "伊吹",
+    "english": "Cracks forming in the front cranium."
+  },
+  "eva-1.11-0358": {
+    "character": "伊吹",
+    "english": "The armor won't hold any longer."
+  },
+  "eva-1.11-0359": {
+    "english": "[punching]"
+  },
+  "eva-1.11-0360": {
+    "english": "[alarm]"
+  },
+  "eva-1.11-0361": {
+    "english": ""
+  },
+  "eva-1.11-0363": {
+    "character": "女性",
+    "english": "Problems maintaining activity."
+  },
+  "eva-1.11-0364": {
+    "character": "ミサト",
+    "english": "What's the situation?"
+  },
+  "eva-1.11-0366": {
+    "character": "ミサト",
+    "english": "Cut the circuit, stop the flow!"
+  },
+  "eva-1.11-0368": {
+    "character": "ミサト",
+    "english": "What about Shinji?"
+  },
+  "eva-1.11-0372": {
+    "character": "ミサト",
+    "english": "Damn... this is it."
+  },
+  "eva-1.11-0374": {
+    "character": "ミサト",
+    "english": "Force the plug to eject!"
+  },
+  "eva-1.11-0375": {
+    "character": "伊吹",
+    "english": "No good! It's completely out of control!"
+  },
+  "eva-1.11-0376": {
+    "character": "ミサト",
+    "english": "What!?"
+  },
+  "eva-1.11-0377": {
+    "character": "女性",
+    "english": "Eva restarting."
+  },
+  "eva-1.11-0378": {
+    "character": "女性",
+    "english": "Impossible! It shouldn't be able to move."
+  },
+  "eva-1.11-0379": {
+    "character": "ミサト",
+    "english": "No way..."
+  },
+  "eva-1.11-0380": {
+    "character": "ミサト",
+    "english": "It's going berserk!?"
+  },
+  "eva-1.11-0381": {
+    "english": "[roar]"
+  },
+  "eva-1.11-0382": {
+    "character": "冬月",
+    "english": "We've won."
+  },
+  "eva-1.11-0383": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0384": {
+    "character": "ミサト",
+    "english": "No... / As long as it has an A.T. Field..."
+  },
+  "eva-1.11-0385": {
+    "character": "ミサト",
+    "english": "you can't even make contact with an Angel."
+  },
+  "eva-1.11-0387": {
+    "character": "冬月",
+    "english": "Incredible."
+  },
+  "eva-1.11-0388": {
+    "character": "青葉",
+    "english": "Unit-01 is deploying / its own A.T. Field."
+  },
+  "eva-1.11-0389": {
+    "character": "青葉",
+    "english": "It's neutralizing the phase space."
+  },
+  "eva-1.11-0390": {
+    "character": "リツコ",
+    "english": "No, / it's corroding it."
+  },
+  "eva-1.11-0391": {
+    "character": "リツコ",
+    "english": "That A.T. Field / so easily..."
+  },
+  "eva-1.11-0392": {
+    "english": "[roar]"
+  },
+  "eva-1.11-0393": {
+    "english": "[launch]"
+  },
+  "eva-1.11-0394": {
+    "english": "[roar]"
+  },
+  "eva-1.11-0395": {
+    "english": "[punching]"
+  },
+  "eva-1.11-0396": {
+    "english": "[cry]"
+  },
+  "eva-1.11-0397": {
+    "english": "[explosion]"
+  },
+  "eva-1.11-0398": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0399": {
+    "character": "リツコ"
+  },
+  "eva-1.11-0400": {
+    "character": "リツコ"
+  },
+  "eva-1.11-0405": {
+    "character": "レイ"
+  },
+  "eva-1.11-0406": {
+    "character": "レイ",
+    "english": "Ayanami? / Shinji?"
+  },
+  "eva-1.11-0407": {
+    "character": "レイ"
+  },
+  "eva-1.11-0408": {
+    "character": "レイ",
+    "english": "Ikari? / Rei?"
+  },
+  "eva-1.11-0409": {
+    "character": "レイ",
+    "english": "No..."
+  },
+  "eva-1.11-0410": {
+    "character": "レイ",
+    "english": "Ayanami Rei."
+  },
+  "eva-1.11-0411": {
+    "character": "シンジ",
+    "english": "Hah!"
+  },
+  "eva-1.11-0412": {
+    "english": "[cicadas]"
+  },
+  "eva-1.11-0419": {
+    "english": "Compared with frozen Unit-00, / it's hardly a problem."
+  },
+  "eva-1.11-0433": {
+    "english": "The proper operation of NERV and the Evas..."
+  },
+  "eva-1.11-0443": {
+    "english": "[bed rolling]"
+  },
+  "eva-1.11-0445": {
+    "character": "リツコ",
+    "english": "It's more extensive than expected."
+  },
+  "eva-1.11-0448": {
+    "character": "伊吹",
+    "english": "It gives you a bad feeling."
+  },
+  "eva-1.11-0452": {
+    "character": "アナウンス",
+    "english": "Dr. Ugai of Internal Medicine 1, / Dr. Ugai."
+  },
+  "eva-1.11-0453": {
+    "character": "アナウンス",
+    "english": "Please contact Dr. Azuma / of Surgery 1 immediately."
+  },
+  "eva-1.11-0454": {
+    "character": "アナウンス",
+    "english": "The medical conference for Incident B / will be held as scheduled."
+  },
+  "eva-1.11-0455": {
+    "character": "アナウンス",
+    "english": "All personnel in charge, / please gather in Meeting Room 2."
+  },
+  "eva-1.11-0459": {
+    "character": "士官",
+    "english": "That shouldn't be a problem."
+  },
+  "eva-1.11-0460": {
+    "character": "シンジ",
+    "english": "Yes."
+  },
+  "eva-1.11-0461": {
+    "character": "ミサト",
+    "english": "Are you sure you're okay with that, Shinji?"
+  },
+  "eva-1.11-0462": {
+    "character": "シンジ",
+    "english": "It's fine. / Being alone is better."
+  },
+  "eva-1.11-0463": {
+    "character": "シンジ",
+    "english": "It's the same anywhere."
+  },
+  "eva-1.11-0464": {
+    "character": "ミサト",
+    "english": "What did you just say?"
+  },
+  "eva-1.11-0465": {
+    "character": "ミサト",
+    "english": "So, Shinji is..."
+  },
+  "eva-1.11-0466": {
+    "character": "ミサト",
+    "english": "going to stay with me."
+  },
+  "eva-1.11-0467": {
+    "character": "ミサト",
+    "english": "I already got approval from upstairs."
+  },
+  "eva-1.11-0468": {
+    "character": "ミサト",
+    "english": "And don't worry, / I'm not going to put the moves on a kid."
+  },
+  "eva-1.11-0470": {
+    "character": "リツコ",
+    "english": "You never change..."
+  },
+  "eva-1.11-0471": {
+    "character": "ミサト",
+    "english": "You're as humorless as ever."
+  },
+  "eva-1.11-0473": {
+    "character": "シンジ"
+  },
+  "eva-1.11-0475": {
+    "character": "主婦Ａ",
+    "english": "So you're moving away after all?"
+  },
+  "eva-1.11-0476": {
+    "character": "主婦Ｂ",
+    "english": "Yes. We never imagined / this place would really become a battlefield."
+  },
+  "eva-1.11-0477": {
+    "character": "主婦Ｂ",
+    "english": ""
+  },
+  "eva-1.11-0478": {
+    "character": "主婦Ａ",
+    "english": "Exactly."
+  },
+  "eva-1.11-0479": {
+    "character": "主婦Ａ",
+    "english": "My husband says / I should at least evacuate with the children."
+  },
+  "eva-1.11-0480": {
+    "character": "主婦Ａ",
+    "english": "Apparently, in just one day / the number of moving-out notices passed one hundred."
+  },
+  "eva-1.11-0482": {
+    "character": "主婦Ｂ",
+    "english": "Even if it's a fortress city..."
+  },
+  "eva-1.11-0483": {
+    "character": "主婦Ｂ",
+    "english": "you can't trust NERV / with a single thing."
+  },
+  "eva-1.11-0484": {
+    "character": "主婦Ａ",
+    "english": "Yesterday's incident..."
+  },
+  "eva-1.11-0488": {
+    "character": "シンジ"
+  },
+  "eva-1.11-0489": {
+    "character": "ミサト",
+    "english": "Heh-heh. / Somewhere nice."
+  },
+  "eva-1.11-0490": {
+    "character": "シンジ",
+    "english": "It feels like a lonely city."
+  },
+  "eva-1.11-0491": {
+    "character": "ミサト",
+    "english": "It's time."
+  },
+  "eva-1.11-0492": {
+    "english": "[siren]"
+  },
+  "eva-1.11-0493": {
+    "character": "シンジ",
+    "english": "Amazing! The buildings are growing out of the ground!"
+  },
+  "eva-1.11-0498": {
+    "character": "ミサト",
+    "english": "I think your luggage / has already arrived."
+  },
+  "eva-1.11-0499": {
+    "character": "ミサト",
+    "english": "Actually, / I only moved to this city myself the other day."
+  },
+  "eva-1.11-0500": {
+    "character": "ミサト",
+    "english": "Come on in."
+  },
+  "eva-1.11-0501": {
+    "character": "シンジ",
+    "english": "Uh..."
+  },
+  "eva-1.11-0502": {
+    "character": "シンジ",
+    "english": "Excuse me for intruding."
+  },
+  "eva-1.11-0505": {
+    "character": "シンジ",
+    "english": "I-I'm home..."
+  },
+  "eva-1.11-0506": {
+    "character": "ミサト",
+    "english": "Welcome home."
+  },
+  "eva-1.11-0507": {
+    "character": "ミサト",
+    "english": "Well, it's a bit messy..."
+  },
+  "eva-1.11-0508": {
+    "character": "ミサト",
+    "english": "but don't worry about it."
+  },
+  "eva-1.11-0509": {
+    "character": "シンジ",
+    "english": "This is... 'a bit' messy?"
+  },
+  "eva-1.11-0510": {
+    "character": "ミサト",
+    "english": "Oh, sorry. / Put the groceries in the fridge, okay?"
+  },
+  "eva-1.11-0511": {
+    "character": "シンジ",
+    "english": "Ah, okay."
+  },
+  "eva-1.11-0512": {
+    "character": "シンジ",
+    "english": "Ice... / snacks..."
+  },
+  "eva-1.11-0513": {
+    "character": "シンジ",
+    "english": "Nothing but beer..."
+  },
+  "eva-1.11-0514": {
+    "character": "シンジ",
+    "english": "What kind of life does she live?"
+  },
+  "eva-1.11-0516": {
+    "character": "ミサト",
+    "english": "Let's eat!"
+  },
+  "eva-1.11-0517": {
+    "character": "シンジ",
+    "english": "Thanks for the meal."
+  },
+  "eva-1.11-0518": {
+    "character": "ミサト",
+    "english": "Pwah... ahh..."
+  }
+,
+  "eva-1.11-0519": {
+    "character": "ミサト",
+    "english": "Boy, oh boy. This is what life is all about."
+  },
+  "eva-1.11-0520": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0521": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0522": {
+    "character": "シンジ",
+    "english": "No... um... I'm just not used to meals like this."
+  },
+  "eva-1.11-0523": {
+    "character": "ミサト",
+    "english": "Now, now. Don't be picky."
+  },
+  "eva-1.11-0524": {
+    "character": "シンジ"
+  },
+  "eva-1.11-0525": {
+    "character": "シンジ",
+    "english": "Uh... well..."
+  },
+  "eva-1.11-0526": {
+    "character": "ミサト",
+    "english": "It's fun, isn't it?"
+  },
+  "eva-1.11-0527": {
+    "character": "シンジ",
+    "english": "Huh?"
+  },
+  "eva-1.11-0528": {
+    "character": "ミサト",
+    "english": "Eating with other people like this."
+  },
+  "eva-1.11-0529": {
+    "character": "シンジ"
+  },
+  "eva-1.11-0532": {
+    "character": "シンジ"
+  },
+  "eva-1.11-0535": {
+    "character": "シンジ",
+    "english": "Uh... yes."
+  },
+  "eva-1.11-0536": {
+    "character": "ミサト",
+    "english": "Whew. Well, whatever."
+  },
+  "eva-1.11-0539": {
+    "character": "ペンペン",
+    "english": "[penguin squawking]"
+  },
+  "eva-1.11-0540": {
+    "character": "ペンペン",
+    "english": "[penguin squawking]"
+  },
+  "eva-1.11-0543": {
+    "character": "ミサト",
+    "english": "What?"
+  },
+  "eva-1.11-0544": {
+    "character": "シンジ",
+    "english": "Ah... ah..."
+  },
+  "eva-1.11-0545": {
+    "character": "ペンペン",
+    "english": "[penguin squawking]"
+  },
+  "eva-1.11-0546": {
+    "character": "ペンペン",
+    "english": "[penguin squawking]"
+  },
+  "eva-1.11-0548": {
+    "character": "ミサト",
+    "english": "Oh, him?"
+  },
+  "eva-1.11-0549": {
+    "character": "ミサト",
+    "english": "He's a hot-spring penguin, a kind of bird."
+  },
+  "eva-1.11-0550": {
+    "character": "ペンペン",
+    "english": "[penguin squawking]"
+  },
+  "eva-1.11-0551": {
+    "character": "シンジ"
+  },
+  "eva-1.11-0552": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0553": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0554": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0555": {
+    "character": "ミサト",
+    "english": "More importantly, shouldn't you cover yourself up first?"
+  },
+  "eva-1.11-0556": {
+    "character": "シンジ"
+  },
+  "eva-1.11-0561": {
+    "character": "シンジ"
+  },
+  "eva-1.11-0562": {
+    "character": "シンジ"
+  },
+  "eva-1.11-0565": {
+    "character": "ゲンドウ",
+    "english": "No problem."
+  },
+  "eva-1.11-0566": {
+    "character": "ゲンドウ",
+    "english": "Preparing Unit-00 for reactivation comes first."
+  },
+  "eva-1.11-0577": {
+    "character": "ミサト",
+    "english": "And yet, even though we defeated that angel..."
+  },
+  "eva-1.11-0578": {
+    "character": "ミサト",
+    "english": "I'm kind of surprised..."
+  },
+  "eva-1.11-0579": {
+    "character": "ミサト",
+    "english": "I'm not happy about it."
+  },
+  "eva-1.11-0588": {
+    "character": "ミサト",
+    "english": "There's one thing I forgot to tell you..."
+  },
+  "eva-1.11-0589": {
+    "character": "ミサト",
+    "english": "What you did today was something"
+  },
+  "eva-1.11-0590": {
+    "character": "ミサト",
+    "english": "people ought to praise you for."
+  },
+  "eva-1.11-0591": {
+    "character": "ミサト",
+    "english": "You can hold your head high."
+  },
+  "eva-1.11-0594": {
+    "character": "シンジ",
+    "english": "[punch] Ugh..."
+  },
+  "eva-1.11-0595": {
+    "character": "シンジ",
+    "english": "Ugh... ngh..."
+  },
+  "eva-1.11-0596": {
+    "character": "トウジ"
+  },
+  "eva-1.11-0597": {
+    "character": "トウジ"
+  },
+  "eva-1.11-0598": {
+    "character": "トウジ"
+  },
+  "eva-1.11-0599": {
+    "character": "ケンスケ"
+  },
+  "eva-1.11-0600": {
+    "character": "ケンスケ"
+  },
+  "eva-1.11-0602": {
+    "character": "ケンスケ",
+    "english": "Agh!"
+  },
+  "eva-1.11-0603": {
+    "character": "トウジ",
+    "english": "Guh... ugh..."
+  },
+  "eva-1.11-0604": {
+    "character": "トウジ",
+    "english": "Ngh..."
+  },
+  "eva-1.11-0607": {
+    "character": "リツコ",
+    "english": "All right, Shinji?"
+  },
+  "eva-1.11-0608": {
+    "character": "シンジ",
+    "english": "Yes."
+  },
+  "eva-1.11-0611": {
+    "character": "リツコ",
+    "english": "So aim for it..."
+  },
+  "eva-1.11-0614": {
+    "english": "[explosion]"
+  },
+  "eva-1.11-0617": {
+    "character": "リツコ",
+    "english": "Good."
+  },
+  "eva-1.11-0618": {
+    "character": "リツコ",
+    "english": "Keep practicing in induction mode."
+  },
+  "eva-1.11-0619": {
+    "character": "シンジ",
+    "english": "Yes."
+  },
+  "eva-1.11-0621": {
+    "character": "リツコ"
+  },
+  "eva-1.11-0622": {
+    "character": "ミサト",
+    "english": "He quietly does whatever people tell him."
+  },
+  "eva-1.11-0623": {
+    "character": "ミサト",
+    "english": "Maybe that's just how he gets through life."
+  },
+  "eva-1.11-0637": {
+    "character": "リツコ"
+  },
+  "eva-1.11-0638": {
+    "character": "リツコ"
+  },
+  "eva-1.11-0640": {
+    "character": "リツコ"
+  },
+  "eva-1.11-0641": {
+    "character": "リツコ"
+  },
+  "eva-1.11-0642": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0651": {
+    "character": "リツコ",
+    "english": "the more they end up wounding each other with the spikes all over their bodies."
+  },
+  "eva-1.11-0653": {
+    "character": "リツコ",
+    "english": "Right now, somewhere inside, Shinji is afraid of that pain..."
+  },
+  "eva-1.11-0654": {
+    "character": "リツコ",
+    "english": "and that's what makes him timid."
+  },
+  "eva-1.11-0655": {
+    "character": "生徒",
+    "english": "I can't believe it."
+  },
+  "eva-1.11-0656": {
+    "character": "生徒",
+    "english": "Seriously."
+  },
+  "eva-1.11-0659": {
+    "character": "ミサト",
+    "english": "and find the distance where neither side gets hurt too badly..."
+  },
+  "eva-1.11-0660": {
+    "character": "ミサト",
+    "english": "That's what growing up is."
+  },
+  "eva-1.11-0667": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0670": {
+    "character": "女性",
+    "english": "Pattern: blue."
+  },
+  "eva-1.11-0681": {
+    "character": "女性",
+    "english": "Forty-eight percent."
+  },
+  "eva-1.11-0684": {
+    "character": "アナウンス",
+    "english": "Elementary and junior-high students, remain with your classes."
+  },
+  "eva-1.11-0685": {
+    "character": "アナウンス",
+    "english": "Residents,"
+  },
+  "eva-1.11-0686": {
+    "character": "アナウンス",
+    "english": "please gather by your designated block."
+  },
+  "eva-1.11-0687": {
+    "character": "アナウンス",
+    "english": "The lost-child center for Ward Seven is..."
+  },
+  "eva-1.11-0693": {
+    "character": "",
+    "english": "[gunfire] [cannon fire]"
+  },
+  "eva-1.11-0694": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0695": {
+    "character": "リツコ"
+  },
+  "eva-1.11-0696": {
+    "character": "女性"
+  },
+  "eva-1.11-0697": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0698": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0700": {
+    "character": "伊吹",
+    "english": "Ionizing LCL."
+  },
+  "eva-1.11-0701": {
+    "character": "女性",
+    "english": "Pressure clamps unlocked."
+  },
+  "eva-1.11-0705": {
+    "character": "ケンスケ"
+  },
+  "eva-1.11-0706": {
+    "character": "トウジ",
+    "english": "Why?"
+  },
+  "eva-1.11-0707": {
+    "character": "ケンスケ",
+    "english": "Come on... okay?"
+  },
+  "eva-1.11-0708": {
+    "character": "トウジ"
+  },
+  "eva-1.11-0711": {
+    "character": "ヒカリ"
+  },
+  "eva-1.11-0713": {
+    "character": "ヒカリ"
+  },
+  "eva-1.11-0716": {
+    "character": "トウジ",
+    "english": "You mean the battle up top?"
+  },
+  "eva-1.11-0721": {
+    "character": "ケンスケ",
+    "english": "Come on, please."
+  },
+  "eva-1.11-0726": {
+    "character": "",
+    "english": "[beep]"
+  },
+  "eva-1.11-0727": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0729": {
+    "character": "リツコ",
+    "english": "All right."
+  },
+  "eva-1.11-0733": {
+    "character": "",
+    "english": "Launch!"
+  },
+  "eva-1.11-0734": {
+    "character": "ケンスケ"
+  },
+  "eva-1.11-0735": {
+    "character": "ケンスケ"
+  },
+  "eva-1.11-0736": {
+    "character": "ケンスケ"
+  },
+  "eva-1.11-0737": {
+    "character": "シンジ",
+    "english": "Target the core and pull the trigger..."
+  },
+  "eva-1.11-0739": {
+    "character": "伊吹",
+    "english": "A.T. Field deployed."
+  },
+  "eva-1.11-0740": {
+    "character": "シンジ",
+    "english": "Target the core and pull the trigger..."
+  },
+  "eva-1.11-0741": {
+    "character": "シンジ",
+    "english": "Target the core and pull the trigger..."
+  },
+  "eva-1.11-0742": {
+    "character": "ミサト",
+    "english": "Stick to the plan. Understood, Shinji?"
+  },
+  "eva-1.11-0743": {
+    "character": "シンジ",
+    "english": "Yes."
+  },
+  "eva-1.11-0744": {
+    "character": "シンジ"
+  },
+  "eva-1.11-0746": {
+    "character": "シンジ",
+    "english": "[groan]"
+  },
+  "eva-1.11-0749": {
+    "character": "シンジ",
+    "english": "[panting]"
+  },
+  "eva-1.11-0750": {
+    "character": "シンジ",
+    "english": "Ah!"
+  },
+  "eva-1.11-0752": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0753": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0754": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0755": {
+    "character": "シンジ",
+    "english": "[panting]"
+  },
+  "eva-1.11-0756": {
+    "character": "シンジ",
+    "english": "[panting]"
+  },
+  "eva-1.11-0757": {
+    "character": "ミサト",
+    "english": "Shinji? Shinji?"
+  },
+  "eva-1.11-0760": {
+    "character": "トウジ",
+    "english": "Sh-shut up!"
+  },
+  "eva-1.11-0761": {
+    "character": "シンジ",
+    "english": "[panting]"
+  },
+  "eva-1.11-0762": {
+    "character": "シンジ",
+    "english": "Ah..."
+  },
+  "eva-1.11-0766": {
+    "character": "シンジ",
+    "english": "Aah!"
+  },
+  "eva-1.11-0768": {
+    "character": "",
+    "english": "Aah!"
+  },
+  "eva-1.11-0772": {
+    "character": "シンジ",
+    "english": "Ugh..."
+  },
+  "eva-1.11-0775": {
+    "character": "ミサト",
+    "english": "Those are Shinji's classmates?"
+  },
+  "eva-1.11-0776": {
+    "character": "リツコ",
+    "english": "Why are they in a place like that?"
+  },
+  "eva-1.11-0778": {
+    "character": "トウジ"
+  },
+  "eva-1.11-0779": {
+    "character": "ケンスケ",
+    "english": "Is it because we're here?"
+  },
+  "eva-1.11-0780": {
+    "character": "ケンスケ",
+    "english": "He can't move freely."
+  },
+  "eva-1.11-0788": {
+    "character": "トウジ",
+    "english": "What the heck? It's just water."
+  },
+  "eva-1.11-0789": {
+    "character": "ケンスケ",
+    "english": "Whoa, my camera! My camera..."
+  },
+  "eva-1.11-0793": {
+    "character": "シンジ",
+    "english": "Ugh... ugh..."
+  },
+  "eva-1.11-0794": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0796": {
+    "character": "ミサト",
+    "english": ""
+  },
+  "eva-1.11-0797": {
+    "character": "トウジ",
+    "english": ""
+  },
+  "eva-1.11-0799": {
+    "character": "シンジ",
+    "english": "I mustn't run away. I mustn't run away..."
+  },
+  "eva-1.11-0800": {
+    "character": "シンジ",
+    "english": "I mustn't run away. I mustn't run away..."
+  },
+  "eva-1.11-0802": {
+    "character": "シンジ",
+    "english": "I mustn't run away. I mustn't run away..."
+  },
+  "eva-1.11-0803": {
+    "character": "シンジ",
+    "english": "I mustn't run away!"
+  },
+  "eva-1.11-0809": {
+    "character": "シンジ",
+    "english": "Agh!"
+  },
+  "eva-1.11-0811": {
+    "character": "シンジ",
+    "english": "Uoooh!"
+  },
+  "eva-1.11-0815": {
+    "character": "",
+    "english": "Unit-01 time limit..."
+  },
+  "eva-1.11-0818": {
+    "character": "",
+    "english": "25... 24..."
+  },
+  "eva-1.11-0819": {
+    "character": "",
+    "english": "23... 22..."
+  },
+  "eva-1.11-0820": {
+    "character": "",
+    "english": "13... 12... 11..."
+  },
+  "eva-1.11-0821": {
+    "character": "",
+    "english": "10... 9... 8..."
+  },
+  "eva-1.11-0822": {
+    "character": "",
+    "english": "7... 6... 5..."
+  },
+  "eva-1.11-0823": {
+    "character": "",
+    "english": "4... 3..."
+  },
+  "eva-1.11-0824": {
+    "character": "",
+    "english": "2... 1..."
+  },
+  "eva-1.11-0829": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0831": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0832": {
+    "character": "シンジ"
+  },
+  "eva-1.11-0833": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0834": {
+    "character": "ミサト",
+    "english": "You understand, right?"
+  },
+  "eva-1.11-0835": {
+    "character": "シンジ",
+    "english": "Yes."
+  },
+  "eva-1.11-0836": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0837": {
+    "character": "シンジ"
+  },
+  "eva-1.11-0838": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0839": {
+    "character": "シンジ"
+  },
+  "eva-1.11-0840": {
+    "character": "シンジ",
+    "english": "Isn't it fine? We won, didn't we?"
+  },
+  "eva-1.11-0842": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0844": {
+    "character": "ミサト",
+    "english": "That's enough."
+  },
+  "eva-1.11-0845": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0849": {
+    "character": "アナウンス"
+  },
+  "eva-1.11-0850": {
+    "character": "アナウンス",
+    "english": ""
+  },
+  "eva-1.11-0855": {
+    "character": "女性",
+    "english": "Come on, come on, cheap and cheerful!"
+  },
+  "eva-1.11-0856": {
+    "character": "女性",
+    "english": "Fresh young girls giving you an unbelievably generous deal!"
+  },
+  "eva-1.11-0857": {
+    "character": "女性",
+    "english": "We'll guide your utterly exhausted self straight to paradise!"
+  },
+  "eva-1.11-0858": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0861": {
+    "character": "先生",
+    "english": "Never mind. I'll hand back the test from the other day."
+  },
+  "eva-1.11-0866": {
+    "character": "ミサト",
+    "english": "Had enough wandering around, Shinji Ikari?"
+  },
+  "eva-1.11-0867": {
+    "character": "シンジ",
+    "english": "Not really."
+  },
+  "eva-1.11-0868": {
+    "character": "シンジ",
+    "english": "I stopped caring. About anything."
+  },
+  "eva-1.11-0873": {
+    "character": "シンジ",
+    "english": "If that's what everyone wants,"
+  },
+  "eva-1.11-0874": {
+    "character": "シンジ",
+    "english": "then it's fine with me."
+  },
+  "eva-1.11-0879": {
+    "character": "ミサト",
+    "english": "That's enough!"
+  },
+  "eva-1.11-0881": {
+    "character": "ミサト",
+    "english": "Whether you keep being an Eva pilot or not..."
+  },
+  "eva-1.11-0882": {
+    "character": "ミサト",
+    "english": "you have to decide that yourself."
+  },
+  "eva-1.11-0892": {
+    "character": "トウジ",
+    "english": "No holding back."
+  },
+  "eva-1.11-0895": {
+    "character": "ケンスケ",
+    "english": "Well, that's just the kind of straightforward guy he is."
+  },
+  "eva-1.11-0896": {
+    "character": "ケンスケ",
+    "english": "Just go along with it."
+  },
+  "eva-1.11-0897": {
+    "character": "",
+    "english": "[punch]"
+  },
+  "eva-1.11-0898": {
+    "character": "トウジ",
+    "english": "Ugh..."
+  },
+  "eva-1.11-0899": {
+    "character": "トウジ",
+    "english": "Now we're even. Sorry for hitting you, Ikari."
+  },
+  "eva-1.11-0900": {
+    "character": "シンジ",
+    "english": "Ah..."
+  },
+  "eva-1.11-0904": {
+    "character": "女子生徒",
+    "english": "Lose!"
+  },
+  "eva-1.11-0906": {
+    "character": "男子生徒",
+    "english": "All right, go, go!"
+  },
+  "eva-1.11-0907": {
+    "character": "男子生徒",
+    "english": "Come on, just one more time for me..."
+  },
+  "eva-1.11-0908": {
+    "character": "女子生徒",
+    "english": "No way, the boys are watching."
+  },
+  "eva-1.11-0909": {
+    "character": "女子生徒",
+    "english": "Nope."
+  },
+  "eva-1.11-0910": {
+    "character": "女子生徒",
+    "english": "Suzuhara's eyes are kind of pervy."
+  },
+  "eva-1.11-0911": {
+    "character": "女子生徒たち",
+    "english": "Ikari!"
+  },
+  "eva-1.11-0916": {
+    "character": "リツコ",
+    "english": "Her past history is blank."
+  },
+  "eva-1.11-0917": {
+    "character": "リツコ",
+    "english": "Everything has been erased."
+  },
+  "eva-1.11-0918": {
+    "character": "シンジ",
+    "english": "To save Ayanami..."
+  },
+  "eva-1.11-0919": {
+    "character": "シンジ",
+    "english": "Father..."
+  },
+  "eva-1.11-0923": {
+    "character": "女性",
+    "english": "Main conduction system shorting! Flow is reversing!"
+  },
+  "eva-1.11-0925": {
+    "character": "女性"
+  },
+  "eva-1.11-0926": {
+    "character": "伊吹",
+    "english": "Plug depth unstable."
+  },
+  "eva-1.11-0927": {
+    "character": "伊吹",
+    "english": "It's being pulled into the Eva."
+  },
+  "eva-1.11-0930": {
+    "character": "伊吹"
+  },
+  "eva-1.11-0931": {
+    "character": "ゲンドウ"
+  },
+  "eva-1.11-0932": {
+    "character": "リツコ",
+    "english": "Yes, sir."
+  },
+  "eva-1.11-0935": {
+    "character": "男性"
+  },
+  "eva-1.11-0936": {
+    "character": "",
+    "english": "[thud]"
+  },
+  "eva-1.11-0937": {
+    "character": ""
+  },
+  "eva-1.11-0938": {
+    "character": "",
+    "english": "[growling]"
+  },
+  "eva-1.11-0939": {
+    "character": ""
+  },
+  "eva-1.11-0940": {
+    "character": "ゲンドウ"
+  },
+  "eva-1.11-0941": {
+    "character": "女性",
+    "english": "Unit-00 is still out of control!"
+  },
+  "eva-1.11-0943": {
+    "character": "ゲンドウ",
+    "english": "Rei!"
+  },
+  "eva-1.11-0945": {
+    "character": "伊吹",
+    "english": "8... 7... 6... 5..."
+  },
+  "eva-1.11-0946": {
+    "character": "伊吹",
+    "english": "4... 3... 2... 1..."
+  },
+  "eva-1.11-0947": {
+    "character": "伊吹",
+    "english": "Unit-00 completely shut down."
+  },
+  "eva-1.11-0953": {
+    "character": "レイ",
+    "english": "[Rei panting]"
+  },
+  "eva-1.11-0954": {
+    "character": "ゲンドウ",
+    "english": "I see."
+  },
+  "eva-1.11-0960": {
+    "character": "ミサト",
+    "english": "Isn't that a little too hasty?"
+  },
+  "eva-1.11-0962": {
+    "character": "リツコ",
+    "english": "Increasing our fighting strength is an urgent necessity."
+  },
+  "eva-1.11-0963": {
+    "character": "ミサト",
+    "english": "That's true, but..."
+  },
+  "eva-1.11-0971": {
+    "character": "女性",
+    "english": "Entry plug personal data..."
+  },
+  "eva-1.11-0972": {
+    "character": "女性",
+    "english": "Copy to Melchior across all ranges."
+  },
+  "eva-1.11-0973": {
+    "character": "女性",
+    "english": "Melchior acknowledged. Circuit connected."
+  },
+  "eva-1.11-0974": {
+    "character": "女性",
+    "english": "Beginning third cooling stage."
+  },
+  "eva-1.11-0975": {
+    "character": "女性",
+    "english": "Copy Caspar's situational data to Melchior."
+  },
+  "eva-1.11-0976": {
+    "character": "女性",
+    "english": "Unit-01 plug depth is currently 0.8."
+  },
+  "eva-1.11-0977": {
+    "character": "女性",
+    "english": "Measurement error is within tolerance."
+  },
+  "eva-1.11-0978": {
+    "character": "女性",
+    "english": "Minus 150 minutes until Unit-00 conductive test resumes."
+  },
+  "eva-1.11-0984": {
+    "character": "リツコ"
+  },
+  "eva-1.11-0985": {
+    "character": "ミサト"
+  },
+  "eva-1.11-0986": {
+    "character": "ミサト",
+    "english": "This time it isn't a romance."
+  },
+  "eva-1.11-0987": {
+    "character": "リツコ"
+  },
+  "eva-1.11-0994": {
+    "character": "リツコ"
+  },
+  "eva-1.11-0995": {
+    "character": "リツコ"
+  },
+  "eva-1.11-0996": {
+    "character": "ミサト",
+    "english": "Why is Commander Ikari so uninterested in his own son?"
+  },
+  "eva-1.11-0999": {
+    "character": "ミサト",
+    "english": "Men these days are only interested in themselves."
+  },
+  "eva-1.11-1000": {
+    "character": "ミサト",
+    "english": "It's a hard era for women."
+  },
+  "eva-1.11-1014": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1015": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1016": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1017": {
+    "character": "シンジ",
+    "english": "W-whoa..."
+  },
+  "eva-1.11-1018": {
+    "character": "シンジ",
+    "english": "Ah..."
+  },
+  "eva-1.11-1019": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1021": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1022": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1023": {
+    "character": "シンジ",
+    "english": "I wasn't trying to..."
+  },
+  "eva-1.11-1024": {
+    "character": "シンジ",
+    "english": "Ah! Ugh..."
+  },
+  "eva-1.11-1025": {
+    "character": "シンジ",
+    "english": "Whoa! [thud]"
+  },
+  "eva-1.11-1026": {
+    "character": "レイ"
+  },
+  "eva-1.11-1027": {
+    "character": "シンジ",
+    "english": "Ah... ah..."
+  },
+  "eva-1.11-1028": {
+    "character": "シンジ",
+    "english": "Whoa! Uh..."
+  },
+  "eva-1.11-1029": {
+    "character": "シンジ",
+    "english": "Ah!"
+  },
+  "eva-1.11-1030": {
+    "character": "シンジ",
+    "english": "Ah..."
+  },
+  "eva-1.11-1032": {
+    "character": "シンジ",
+    "english": "Uh... I... um..."
+  },
+  "eva-1.11-1033": {
+    "character": "シンジ",
+    "english": "I was told to come..."
+  },
+  "eva-1.11-1034": {
+    "character": "シンジ",
+    "english": "I mean... what was it again..."
+  },
+  "eva-1.11-1035": {
+    "character": "シンジ",
+    "english": "Oh, the c-card. They told me to bring your new card."
+  },
+  "eva-1.11-1037": {
+    "character": "シンジ",
+    "english": "So... really... I wasn't trying to do anything like that..."
+  },
+  "eva-1.11-1038": {
+    "character": "シンジ",
+    "english": "Miss Ritsuko forgot to hand it over."
+  },
+  "eva-1.11-1039": {
+    "character": "シンジ",
+    "english": "It's true."
+  },
+  "eva-1.11-1040": {
+    "character": "シンジ",
+    "english": "And even when I rang the bell, nobody answered."
+  },
+  "eva-1.11-1041": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1049": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1050": {
+    "character": "シンジ",
+    "english": ""
+  },
+  "eva-1.11-1051": {
+    "character": "レイ",
+    "english": ""
+  },
+  "eva-1.11-1063": {
+    "character": "レイ"
+  },
+  "eva-1.11-1065": {
+    "character": "レイ"
+  },
+  "eva-1.11-1073": {
+    "character": "ゲンドウ"
+  },
+  "eva-1.11-1076": {
+    "character": "青葉／女性",
+    "english": "[Aoba] Target approaching. It's above Lake Ashinoko. / [female crew] Eva Unit One prepped and ready for launch."
+  },
+  "eva-1.11-1077": {
+    "character": "女性",
+    "english": ""
+  },
+  "eva-1.11-1078": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1101": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1102": {
+    "character": "伊吹"
+  },
+  "eva-1.11-1108": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1111": {
+    "character": "伊吹",
+    "english": "[female PA] Second breastplate layer... / Emergency recovery! Blow the explosive bolts!"
+  },
+  "eva-1.11-1121": {
+    "english": "[cardiac compression]"
+  },
+  "eva-1.11-1122": {
+    "character": "日向",
+    "english": "[Hyuga] Heart rate stabilizing."
+  },
+  "eva-1.11-1123": {
+    "character": "伊吹"
+  },
+  "eva-1.11-1132": {
+    "character": "ミサト",
+    "english": ""
+  },
+  "eva-1.11-1139": {
+    "character": "ミサト／日向",
+    "english": "- What do we know about its A.T. field? / - Still active."
+  },
+  "eva-1.11-1145": {
+    "character": "リツコ"
+  },
+  "eva-1.11-1146": {
+    "character": "日向"
+  },
+  "eva-1.11-1147": {
+    "character": "日向"
+  },
+  "eva-1.11-1148": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1149": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1151": {
+    "character": "日向"
+  },
+  "eva-1.11-1153": {
+    "character": "青葉"
+  },
+  "eva-1.11-1154": {
+    "character": "青葉"
+  },
+  "eva-1.11-1162": {
+    "character": "日向"
+  },
+  "eva-1.11-1163": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1166": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1169": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1170": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1178": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1186": {
+    "character": "トウジ／ケンスケ",
+    "english": "[Tohji] Alright. Let's go. / [Kensuke] Yeah."
+  },
+  "eva-1.11-1187": {
+    "character": "ケンスケ",
+    "english": ""
+  },
+  "eva-1.11-1197": {
+    "character": "女性"
+  },
+  "eva-1.11-1198": {
+    "character": "女性"
+  },
+  "eva-1.11-1199": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1202": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1205": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1207": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1209": {
+    "character": "ゲンドウ"
+  },
+  "eva-1.11-1210": {
+    "character": "ゲンドウ"
+  },
+  "eva-1.11-1211": {
+    "character": "冬月"
+  },
+  "eva-1.11-1215": {
+    "character": "ゲンドウ"
+  },
+  "eva-1.11-1216": {
+    "character": "ゲンドウ"
+  },
+  "eva-1.11-1228": {
+    "character": "レイ",
+    "english": ""
+  },
+  "eva-1.11-1245": {
+    "character": "レイ"
+  },
+  "eva-1.11-1255": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1256": {
+    "character": "レイ"
+  },
+  "eva-1.11-1257": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1258": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1259": {
+    "character": "レイ"
+  },
+  "eva-1.11-1260": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1261": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1262": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1263": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1267": {
+    "character": "レイ"
+  },
+  "eva-1.11-1307": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1322": {
+    "character": "シンジ／ミサト",
+    "english": "- Lilith? / - Yes."
+  },
+  "eva-1.11-1328": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1330": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1331": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1334": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1336": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1338": {
+    "character": "ミサト／シンジ",
+    "english": "- Shinji. / - Yes, ma'am."
+  },
+  "eva-1.11-1339": {
+    "character": "ミサト／シンジ",
+    "english": "- You will be the gunner in Unit One. / - Yes, ma'am."
+  },
+  "eva-1.11-1341": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1342": {
+    "character": "レイ"
+  },
+  "eva-1.11-1351": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1360": {
+    "character": "リツコ"
+  },
+  "eva-1.11-1362": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1363": {
+    "character": "リツコ／シンジ",
+    "english": "- Correct. / - But what..."
+  },
+  "eva-1.11-1370": {
+    "character": "レイ／リツコ",
+    "english": "- I'm supposed to protect Unit One? / - Yes."
+  },
+  "eva-1.11-1371": {
+    "character": "レイ"
+  },
+  "eva-1.11-1376": {
+    "character": "レイ"
+  },
+  "eva-1.11-1377": {
+    "character": "レイ"
+  },
+  "eva-1.11-1378": {
+    "character": "レイ"
+  },
+  "eva-1.11-1380": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1389": {
+    "character": "ケンスケ"
+  },
+  "eva-1.11-1390": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1391": {
+    "character": "レイ"
+  },
+  "eva-1.11-1393": {
+    "character": "シンジ／レイ",
+    "english": "- It's your link? / - Yes, my link."
+  },
+  "eva-1.11-1395": {
+    "character": "シンジ／レイ",
+    "english": "- You mean, to my father? / - To everyone."
+  },
+  "eva-1.11-1405": {
+    "character": "ミサト",
+    "english": ""
+  },
+  "eva-1.11-1406": {
+    "character": "アナウンス／ミサト",
+    "english": "- Midnight, ma'am. / - Listen, Shinji."
+  },
+  "eva-1.11-1407": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1408": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1409": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1413": {
+    "character": "男性",
+    "english": ""
+  },
+  "eva-1.11-1423": {
+    "character": "女性",
+    "english": ""
+  },
+  "eva-1.11-1424": {
+    "character": "女性",
+    "english": "[female PA] Bringing Shinyugawara Auxiliary Substation online as well."
+  },
+  "eva-1.11-1435": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1436": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1440": {
+    "character": "女性"
+  },
+  "eva-1.11-1441": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1442": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1449": {
+    "character": "男性",
+    "english": ""
+  },
+  "eva-1.11-1457": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1490": {
+    "character": "日向"
+  },
+  "eva-1.11-1491": {
+    "character": "日向／伊吹",
+    "english": "- No! We missed! / - Impossible! The timing was perfect!"
+  },
+  "eva-1.11-1501": {
+    "character": "日向"
+  },
+  "eva-1.11-1503": {
+    "character": "青葉"
+  },
+  "eva-1.11-1504": {
+    "character": "青葉"
+  },
+  "eva-1.11-1515": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1516": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1527": {
+    "character": "ゲンドウ"
+  },
+  "eva-1.11-1529": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1531": {
+    "character": "ミサト／シンジ",
+    "english": "- Shinji. / - Yes, ma'am."
+  },
+  "eva-1.11-1532": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1534": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1535": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1536": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1537": {
+    "character": "ミサト／シンジ",
+    "english": "- Go for it. / - Yes, ma'am."
+  },
+  "eva-1.11-1539": {
+    "character": "日向",
+    "english": ""
+  },
+  "eva-1.11-1540": {
+    "character": "日向"
+  },
+  "eva-1.11-1557": {
+    "character": "ミサト"
+  },
+  "eva-1.11-1559": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1565": {
+    "character": "リツコ"
+  },
+  "eva-1.11-1567": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1568": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1575": {
+    "character": "日向"
+  },
+  "eva-1.11-1578": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1579": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1591": {
+    "character": "レイ"
+  },
+  "eva-1.11-1593": {
+    "character": "レイ"
+  },
+  "eva-1.11-1594": {
+    "character": "レイ"
+  },
+  "eva-1.11-1595": {
+    "character": "シンジ"
+  },
+  "eva-1.11-1598": {
+    "character": "カヲル",
+    "english": ""
+  },
+  "eva-1.11-1603": {
+    "character": "カヲル",
+    "english": ""
+  },
+  "eva-1.11-1618": {
+    "character": "ミサト"
+  }
+}

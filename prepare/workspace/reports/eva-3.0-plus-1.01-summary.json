@@ -1,0 +1,22 @@
+{
+  "movieId": "eva-3.0-plus-1.01",
+  "titleEn": "Evangelion: 3.0+1.01 Thrice Upon a Time",
+  "jpEntryCount": 2492,
+  "enEntryCount": 2126,
+  "entriesWithoutEnglish": 534,
+  "entriesWithSourceRuby": 30,
+  "entriesWithGeneratedRuby": 2046,
+  "carriedSpeakerEntries": 1139,
+  "overriddenEntries": 897,
+  "generatedPartCount": 6,
+  "partSizes": [
+    434,
+    388,
+    390,
+    426,
+    423,
+    431
+  ],
+  "firstTime": "00:00:02.208",
+  "lastTime": "02:33:28.375"
+}

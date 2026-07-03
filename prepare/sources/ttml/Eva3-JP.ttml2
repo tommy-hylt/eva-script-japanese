@@ -1,0 +1,1510 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:version="2" xml:lang="jp"> 
+ <head> 
+  <styling> 
+   <initial tts:fontSize="4vh" /> 
+   <initial tts:lineHeight="5vh" /> 
+   <initial tts:showBackground="whenActive" /> 
+   <style tts:textAlign="center" xml:id="s1"></style> 
+   <style tts:textAlign="start" xml:id="s2"></style> 
+   <style tts:ruby="container" xml:id="s3"></style> 
+   <style tts:ruby="base" xml:id="s4"></style> 
+   <style tts:ruby="text" tts:rubyPosition="before" xml:id="s5"></style> 
+   <style tts:fontShear="16.78842%" xml:id="s6"></style> 
+   <style tts:ruby="text" tts:rubyPosition="after" xml:id="s7"></style> 
+   <style tts:fontSize="1.5em 1.0em" xml:id="s8"></style> 
+   <style tts:textCombine="all" xml:id="s9"></style> 
+   <style tts:fontShear="16.78842%" tts:textAlign="center" xml:id="s10"></style> 
+  </styling> 
+  <layout> 
+   <region tts:displayAlign="after" tts:extent="80vw 15vh" tts:position="center bottom 10vh" xml:id="横下" /> 
+   <region tts:extent="15vw 80vh" tts:position="right 10vw center" tts:writingMode="tbrl" xml:id="縦右" /> 
+   <region tts:displayAlign="after" tts:extent="15vw 80vh" tts:position="left 10vw center" tts:writingMode="tbrl" xml:id="縦左" /> 
+  </layout> 
+ </head> 
+ <body region="横下" xml:space="preserve"> 
+  <div> 
+   <p begin="00:00:35.786" end="00:00:37.621" style="s1"><span style="s2">（無線のノイズ音）</span></p> 
+   <p begin="00:00:37.747" end="00:00:41.375" style="s1"><span style="s2">（<span style="s3"><span style="s4">青</span><span style="s5">あお</span></span><span style="s3"><span style="s4">葉</span><span style="s5">ば</span></span>）追跡班<br />両機の現在位置を報告</span></p> 
+   <p begin="00:00:41.625" end="00:00:44.420" style="s1"><span style="s2">（女性オペレーター）<br />ポッドツーダッシュ<br />作戦高度に到達</span></p> 
+   <p begin="00:00:44.587" end="00:00:46.088" style="s1"><span style="s2">予定軌道に乗った</span></p> 
+   <p begin="00:00:46.172" end="00:00:50.134" style="s1"><span style="s2">（男性オペレーター）<br />ポッドエイト　軌道投入に問題発生<br />高度が足りない</span></p> 
+   <p begin="00:00:50.259" end="00:00:51.302" style="s1"><span style="s2">（青葉）確認した</span></p> 
+   <p begin="00:00:51.385" end="00:00:54.472" style="s1"><span style="s2">以後はツーダッシュ単独での<br />オペレーションに切り替える</span></p> 
+   <p begin="00:00:54.597" end="00:00:58.642" style="s1"><span style="s2">（男性オペレーター）<br />了解　ポッドエイトは直援<br />シフトをセブンに移行</span></p> 
+   <p begin="00:00:58.893" end="00:01:03.272" style="s1"><span style="s2">（リツコ）ポッドツーダッシュ<br />不帰投点を通過　エリア88に侵入</span></p> 
+   <p begin="00:01:03.564" end="00:01:06.734" style="s1"><span style="s2">（ミサト）了解<br />これよりＵＳ作戦を開始</span></p> 
+   <p begin="00:01:06.817" end="00:01:11.238" style="s1"><span style="s2">（女性オペレーター）<br />了解　ポッドツーダッシュ<br />作戦最終軌道に投入開始</span></p> 
+   <p begin="00:01:11.405" end="00:01:12.823" style="s1"><span style="s2">減速行動に移る</span></p> 
+   <p begin="00:01:12.948" end="00:01:15.868" style="s1"><span style="s2">（男性オペレーター）<br />第１段 全エンジンを点火<br />燃焼を開始</span></p> 
+   <p begin="00:01:16.285" end="00:01:19.330" style="s1"><span style="s2">（燃焼音）</span></p> 
+   <p begin="00:01:20.206" end="00:01:23.834" style="s1"><span style="s2">（女性オペレーター）<br />Ｓ１Ｃ　燃焼終了　減速を確認</span></p> 
+   <p begin="00:01:23.959" end="00:01:26.253" style="s1"><span style="s2">（<span style="s3"><span style="s4">多摩</span><span style="s5">たま</span></span>）第１段<br />ブースターユニットをジェットソン</span></p> 
+   <p begin="00:01:27.922" end="00:01:31.592" style="s1"><span style="s2">（<span style="s3"><span style="s4">北</span><span style="s5">きた</span></span><span style="s3"><span style="s4">上</span><span style="s5">かみ</span></span>）分離を確認<br />電装系をチェック　異常なし</span></p> 
+   <p begin="00:01:31.717" end="00:01:36.180" style="s1"><span style="s2">（男性オペレーター）<br />了解した　燃焼タイミングはオート<br />第２段 全エンジンを点火</span></p> 
+   <p begin="00:01:36.305" end="00:01:39.683" style="s1"><span style="s2">（燃焼音）</span></p> 
+   <p begin="00:01:40.184" end="00:01:43.521" style="s1"><span style="s2">（女性オペレーター）<br />Ｓ１Ｃ 燃焼終了<br />圧力弁を閉鎖</span></p> 
+   <p begin="00:01:43.604" end="00:01:45.648" style="s1"><span style="s2">（多摩）第２段<br />ブースターユニットをジェットソン</span></p> 
+   <p begin="00:01:45.731" end="00:01:46.565" region="縦右">（切り離す音）</p> 
+   <p begin="00:01:46.565" end="00:01:46.732" region="縦右">（切り離す音）</p> 
+   <p begin="00:01:46.565" end="00:01:46.732" style="s1"><span style="s2">（女性オペレーター）<br />減速行動を終了</span></p> 
+   <p begin="00:01:46.732" end="00:01:48.275" style="s1"><span style="s2">（女性オペレーター）<br />減速行動を終了</span></p> 
+   <p begin="00:01:48.526" end="00:01:53.405" style="s1"><span style="s2">（男性オペレーター）<br />最終作戦軌道への投入準備<br />機首を反転　回頭開始</span></p> 
+   <p begin="00:01:53.531" end="00:01:56.200" style="s1"><span style="s2">（男性オペレーター）<br />降下角度　確認<br />誤差修正内</span></p> 
+   <p begin="00:01:56.408" end="00:02:00.538" style="s1"><span style="s2">（女性オペレーター）<br />相対速度 再計算<br />座標高度を再確認</span></p> 
+   <p begin="00:02:00.746" end="00:02:02.248" style="s1"><span style="s2">全て問題なし</span></p> 
+   <p begin="00:02:02.331" end="00:02:04.291" style="s1"><span style="s2">（女性オペレーター）<br />軌道最終修正 完了</span></p> 
+   <p begin="00:02:04.416" end="00:02:06.377" style="s1"><span style="s2">（女性オペレーター）<br />180度 回頭完了</span></p> 
+   <p begin="00:02:06.460" end="00:02:10.047" style="s1"><span style="s2">（<span style="s3"><span style="s4">日向</span><span style="s5">ひゅうが</span></span>）<br />了解　ポッドツーダッシュ<br />交差軌道への遷移スタート</span></p> 
+   <p begin="00:02:10.172" end="00:02:12.258" style="s1"><span style="s2">これより作戦行動に移る</span></p> 
+   <p begin="00:02:12.383" end="00:02:16.220" style="s1"><span style="s2">（青葉）<br />現時点で全てのリモート誘導を切る<br />以後の制御はローカル</span></p> 
+   <p begin="00:02:16.345" end="00:02:17.012" style="s1"><span style="s2">（日向）グッドラック</span></p> 
+   <p begin="00:02:17.012" end="00:02:17.346" style="s1"><span style="s2">（日向）グッドラック</span></p> 
+   <p begin="00:02:17.012" end="00:02:17.346" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:17.346" end="00:02:17.429" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:17.429" end="00:02:18.722" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:17.429" end="00:02:18.722" style="s1"><span style="s2">（パイロットの呼吸音）</span></p> 
+   <p begin="00:02:18.722" end="00:02:18.806" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:18.806" end="00:02:22.685" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:18.806" end="00:02:22.685" style="s1"><span style="s2">（女性オペレーター）<br />目標との交差軌道に乗った<br />接触まで あと<span style="s3"><span style="s4">８０</span><span style="s7">はちまる</span></span></span></p> 
+   <p begin="00:02:22.685" end="00:02:23.394" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:23.394" end="00:02:24.770" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:23.394" end="00:02:24.770" style="s1"><span style="s2">（女性オペレーター）<br />目標物を確認</span></p> 
+   <p begin="00:02:24.770" end="00:02:24.895" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:24.895" end="00:02:26.564" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:24.895" end="00:02:26.564" style="s1"><span style="s2">（青葉）接触地点に変更なし</span></p> 
+   <p begin="00:02:26.564" end="00:02:26.647" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:26.647" end="00:02:28.691" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:26.647" end="00:02:28.691" style="s1"><span style="s2">（北上）<br />シフトエムを維持 問題なし</span></p> 
+   <p begin="00:02:28.691" end="00:02:29.024" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:29.024" end="00:02:30.943" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:29.024" end="00:02:30.943" style="s1"><span style="s2">（ミサト）<br />ツーダッシュはランデブー用意</span></p> 
+   <p begin="00:02:30.943" end="00:02:31.026" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:31.026" end="00:02:36.240" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:31.026" end="00:02:36.240" style="s1"><span style="s2">エイトは高度不足のため<br />再突入までの96秒間だけ援護可能</span></p> 
+   <p begin="00:02:36.240" end="00:02:36.323" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:36.323" end="00:02:37.491" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:36.323" end="00:02:37.491" style="s1"><span style="s2">それまでにケリをつけて</span></p> 
+   <p begin="00:02:37.575" end="00:02:38.701" style="s1"><span style="s2">（パイロット）はっ</span></p> 
+   <p begin="00:02:37.575" end="00:02:38.701" region="縦右">（警報）</p> 
+   <p begin="00:02:39.034" end="00:02:42.204" style="s1"><span style="s2">（日向）目標宙域に反射波あり<br />妨害が入った</span></p> 
+   <p begin="00:02:39.034" end="00:02:42.204" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:42.204" end="00:02:42.538" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:42.538" end="00:02:45.416" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:42.538" end="00:02:45.416" style="s1"><span style="s2">（青葉）<br />自動防衛システムの質量兵器だ<br />問題ない</span></p> 
+   <p begin="00:02:45.416" end="00:02:45.624" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:45.624" end="00:02:47.585" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:45.624" end="00:02:47.585" style="s1"><span style="s2">（爆発音）</span></p> 
+   <p begin="00:02:47.585" end="00:02:47.793" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:47.793" end="00:02:49.128" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:47.793" end="00:02:49.128" style="s1"><span style="s2">（男性オペレーター）<br />爆散円 発生！</span></p> 
+   <p begin="00:02:49.128" end="00:02:49.211" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:49.211" end="00:02:52.339" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:49.211" end="00:02:52.339" style="s1"><span style="s2">到達まで ３… ２… １</span></p> 
+   <p begin="00:02:52.423" end="00:02:53.841" style="s1"><span style="s2">（パイロット）あっ</span></p> 
+   <p begin="00:02:52.423" end="00:02:53.841" region="縦右">（激しい衝撃音）</p> 
+   <p begin="00:02:54.008" end="00:02:56.677" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:56.677" end="00:02:59.680" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:56.677" end="00:02:59.680" style="s1"><span style="s2">（青葉）<br />続いて第２波　パターン青<br />やっかいな連中だ</span></p> 
+   <p begin="00:02:59.680" end="00:02:59.763" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:59.763" end="00:03:02.766" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:02:59.763" end="00:03:02.766" style="s1"><span style="s2">（男性オペレーター）<br />接近中の物体を識別<br />コード４Ａと確認</span></p> 
+   <p begin="00:03:02.766" end="00:03:02.850" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:03:02.850" end="00:03:05.686" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:03:02.850" end="00:03:05.686" style="s1"><span style="s2">（飛行音）</span></p> 
+   <p begin="00:03:05.686" end="00:03:11.984" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:03:11.984" end="00:03:13.193" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:03:11.984" end="00:03:13.193" style="s1"><span style="s2">（パイロット）<br />アンチＡ.Ｔ.フィールド</span></p> 
+   <p begin="00:03:13.193" end="00:03:16.071" region="縦右" style="s6">（マリの鼻歌）</p> 
+   <p begin="00:03:16.405" end="00:03:17.656" style="s1"><span style="s2">（散弾が飛び散る音）</span></p> 
+   <p begin="00:03:18.073" end="00:03:19.783" style="s1"><span style="s2">（パイロット）<br />チッ！ タチ悪い！</span></p> 
+   <p begin="00:03:19.909" end="00:03:23.120" style="s1"><span style="s2">ええい！ やっぱり 邪魔！</span></p> 
+   <p begin="00:03:23.913" end="00:03:26.165" style="s1"><span style="s2">（アスカ）コネメガネ<br />いつまで歌ってんの！</span></p> 
+   <p begin="00:03:26.290" end="00:03:27.291" region="縦右">（攻撃を弾く音）</p> 
+   <p begin="00:03:26.290" end="00:03:27.291" style="s1"><span style="s2">うっとうしい！</span></p> 
+   <p begin="00:03:27.291" end="00:03:27.875" style="s1"><span style="s2">うっとうしい！</span></p> 
+   <p begin="00:03:27.958" end="00:03:28.959" region="縦右">（攻撃を弾く音）</p> 
+   <p begin="00:03:29.043" end="00:03:30.044" style="s1"><span style="s2">（爆発音）</span></p> 
+   <p begin="00:03:30.252" end="00:03:32.671" style="s1"><span style="s2">うっ 援護射撃 ２秒遅い！</span></p> 
+   <p begin="00:03:35.883" end="00:03:38.344" style="s1"><span style="s2">（マリ）<br />そっちの位置… ３秒早い</span></p> 
+   <p begin="00:03:38.594" end="00:03:41.138" style="s1"><span style="s2">（アスカ）臨機応変<br />合わせなさいよっ！</span></p> 
+   <p begin="00:03:41.263" end="00:03:43.015" style="s1"><span style="s2">（マリ）仰せのとおりに<span style="s8">―</span></span></p> 
+   <p begin="00:03:43.223" end="00:03:44.683" style="s1"><span style="s2">お姫様！</span></p> 
+   <p begin="00:03:44.892" end="00:03:46.185" style="s1"><span style="s2">（発砲音）</span></p> 
+   <p begin="00:03:51.941" end="00:03:55.903" style="s1"><span style="s2">フラーレンシフトを抜けた<br />最終防衛エリア89を突破</span></p> 
+   <p begin="00:03:56.070" end="00:03:59.323" style="s1"><span style="s2">あ！ 目標物が移動してる</span></p> 
+   <p begin="00:04:02.409" end="00:04:04.954" style="s1"><span style="s2">軌道修正が追いつかない<br />このまま強行する！</span></p> 
+   <p begin="00:04:05.245" end="00:04:06.288" style="s1"><span style="s2">（発射音）</span></p> 
+   <p begin="00:04:12.962" end="00:04:15.130" style="s1"><span style="s2">（アスカ）<br />うう… ぐう… うっ！</span></p> 
+   <p begin="00:04:15.422" end="00:04:18.175" style="s1"><span style="s2">（ワイヤーを巻き上げる音）</span></p> 
+   <p begin="00:04:25.307" end="00:04:27.434" style="s1"><span style="s2">（アスカ）ううっ… 減速！</span></p> 
+   <p begin="00:04:32.940" end="00:04:35.859" style="s1"><span style="s2">８… ７… ６…</span></p> 
+   <p begin="00:04:36.026" end="00:04:38.946" style="s1"><span style="s2">５… ４… ３…</span></p> 
+   <p begin="00:04:39.238" end="00:04:40.656" style="s1"><span style="s2">２… １…</span></p> 
+   <p begin="00:04:41.323" end="00:04:42.700" style="s1"><span style="s2">燃焼終了！</span></p> 
+   <p begin="00:04:50.207" end="00:04:51.208" region="縦左" style="s6">（北上）ツーダッシュ　</p> 
+   <p begin="00:04:51.291" end="00:04:52.710" region="縦左" style="s6">最終ブースターを<br />ジェットソン</p> 
+   <p begin="00:04:52.710" end="00:04:52.876" region="縦左" style="s6">最終ブースターを<br />ジェットソン</p> 
+   <p begin="00:04:52.710" end="00:04:52.876" style="s1"><span style="s2">（荒い息）</span></p> 
+   <p begin="00:04:52.876" end="00:04:52.960" style="s1"><span style="s2">（荒い息）</span></p> 
+   <p begin="00:04:52.960" end="00:04:55.045" style="s1"><span style="s2">（荒い息）</span></p> 
+   <p begin="00:04:52.960" end="00:04:55.045" region="縦左" style="s6">再突入保安距離を確保</p> 
+   <p begin="00:04:55.045" end="00:04:55.170" style="s1"><span style="s2">（荒い息）</span></p> 
+   <p begin="00:04:55.170" end="00:04:55.963" style="s1"><span style="s2">（荒い息）</span></p> 
+   <p begin="00:04:55.170" end="00:04:55.963" region="縦左" style="s6">（男性オペレーター）<br />起動誤差は修正範囲内<br />突入角度を再計算</p> 
+   <p begin="00:04:55.963" end="00:04:56.088" region="縦左" style="s6">（男性オペレーター）<br />起動誤差は修正範囲内<br />突入角度を再計算</p> 
+   <p begin="00:04:56.088" end="00:04:59.299" region="縦左" style="s6">（男性オペレーター）<br />起動誤差は修正範囲内<br />突入角度を再計算</p> 
+   <p begin="00:04:56.088" end="00:04:59.299" style="s1"><span style="s2">強奪成功　帰投するわ</span></p> 
+   <p begin="00:04:59.383" end="00:05:03.679" style="s1"><span style="s2">（ミサト）<br />了解　回収地点にて待つ<br />合流コードはサターン<span style="s3"><span style="s4">Ⅴ</span><span style="s7">ふぁいぶ</span></span></span></p> 
+   <p begin="00:05:03.804" end="00:05:04.680" style="s1"><span style="s2">了解</span></p> 
+   <p begin="00:05:04.680" end="00:05:04.805" style="s1"><span style="s2">了解</span></p> 
+   <p begin="00:05:04.680" end="00:05:04.805" region="縦右">（警報）</p> 
+   <p begin="00:05:04.805" end="00:05:05.681" region="縦右">（警報）</p> 
+   <p begin="00:05:05.681" end="00:05:08.225" region="縦右">（警報）</p> 
+   <p begin="00:05:05.681" end="00:05:08.225" style="s1"><span style="s2">パターン青!? どこにいるの？</span></p> 
+   <p begin="00:05:11.603" end="00:05:14.898" style="s1"><span style="s2">（女性オペレーター）<br />障害物はコード４Ｂ<br />フィールド反射膜を展開中</span></p> 
+   <p begin="00:05:15.024" end="00:05:19.278" style="s1"><span style="s2">（アスカ）チッ！ しゃらくさい<br />再突入直前だっちゅーの</span></p> 
+   <p begin="00:05:19.486" end="00:05:21.071" style="s1"><span style="s2">コネメガネ 援護！</span></p> 
+   <p begin="00:05:21.238" end="00:05:22.072" region="縦右">（発砲音）</p> 
+   <p begin="00:05:22.072" end="00:05:22.239" region="縦右">（発砲音）</p> 
+   <p begin="00:05:22.072" end="00:05:22.239" style="s1"><span style="s2">（マリ）<br />めんご！ 高度不足でお先に</span></p> 
+   <p begin="00:05:22.239" end="00:05:25.117" style="s1"><span style="s2">（マリ）<br />めんご！ 高度不足でお先に</span></p> 
+   <p begin="00:05:25.242" end="00:05:28.954" style="s1"><span style="s2">あとはセルフサービスで<br />よろ<span style="s3"><span style="s4">Ｐ</span><span style="s7">ぴ</span></span>く～っ</span></p> 
+   <p begin="00:05:29.079" end="00:05:30.497" style="s1"><span style="s2">チッ！ 役立たず</span></p> 
+   <p begin="00:05:30.998" end="00:05:34.376" style="s1"><span style="s2">（アスカ）もう しつこい！<br />こんなの聞いてないわよっ！</span></p> 
+   <p begin="00:05:38.881" end="00:05:39.882" style="s1"><span style="s2">えっ!?</span></p> 
+   <p begin="00:05:43.886" end="00:05:45.721" style="s1"><span style="s2">うわっ あちちちっ！</span></p> 
+   <p begin="00:05:45.888" end="00:05:47.431" style="s1"><span style="s2">何 この光!?</span></p> 
+   <p begin="00:05:47.556" end="00:05:49.933" style="s1"><span style="s2">Ａ.Ｔ.フィールドが<br />中和してない!!</span></p> 
+   <p begin="00:05:50.017" end="00:05:52.269" style="s1"><span style="s2">コアブロックをやらないと！</span></p> 
+   <p begin="00:05:52.394" end="00:05:53.854" style="s1"><span style="s2">（アスカ）逃げんなごらぁ～!!</span></p> 
+   <p begin="00:05:53.854" end="00:05:54.772" style="s1"><span style="s2">（アスカ）逃げんなごらぁ～!!</span></p> 
+   <p begin="00:05:53.854" end="00:05:54.772" region="縦右">（警告音）</p> 
+   <p begin="00:05:54.772" end="00:05:55.898" region="縦右">（警告音）</p> 
+   <p begin="00:05:55.898" end="00:05:56.899" region="縦右">（警告音）</p> 
+   <p begin="00:05:55.898" end="00:05:56.899" style="s1"><span style="s2">やばい…</span></p> 
+   <p begin="00:05:56.899" end="00:05:56.982" region="縦右">（警告音）</p> 
+   <p begin="00:05:56.982" end="00:05:59.026" region="縦右">（警告音）</p> 
+   <p begin="00:05:56.982" end="00:05:59.026" style="s1"><span style="s2">降下角度が維持できない<br />このままじゃ機体が分解する</span></p> 
+   <p begin="00:05:59.026" end="00:06:00.986" style="s1"><span style="s2">降下角度が維持できない<br />このままじゃ機体が分解する</span></p> 
+   <p begin="00:06:01.153" end="00:06:03.947" style="s1"><span style="s2">（ミサト）ツーダッシュ！<br />作戦遂行を最優先</span></p> 
+   <p begin="00:06:04.073" end="00:06:06.825" style="s1"><span style="s2">機体を捨てても<br />目標物を離さないで</span></p> 
+   <p begin="00:06:06.950" end="00:06:09.036" style="s1"><span style="s2">（アスカ）<br />わかってるっつーの!!</span></p> 
+   <p begin="00:06:10.245" end="00:06:11.580" style="s1"><span style="s2">（爆発音）</span></p> 
+   <p begin="00:06:11.663" end="00:06:12.664" style="s1"><span style="s2">ああっ!!</span></p> 
+   <p begin="00:06:18.087" end="00:06:21.840" style="s1"><span style="s2">（激しい爆発音）</span></p> 
+   <p begin="00:06:24.176" end="00:06:27.513" style="s1"><span style="s2">（アスカ）ぐうう… ううっ！</span></p> 
+   <p begin="00:06:27.638" end="00:06:30.682" style="s1"><span style="s2">なんとかしなさいよ<br />バカシンジ！</span></p> 
+   <p begin="00:06:38.816" end="00:06:41.777" style="s1"><span style="s2">（ビームの音）</span></p> 
+   <p begin="00:06:43.028" end="00:06:44.154" style="s1"><span style="s2">（<span style="s3"><span style="s4">爆</span><span style="s5">は</span></span>ぜる音）</span></p> 
+   <p begin="00:07:09.263" end="00:07:11.473" style="s1"><span style="s2">（カヲル）<br />おかえり <span style="s3"><span style="s4">碇</span><span style="s7">いかり</span></span>シンジ君</span></p> 
+   <p begin="00:07:12.349" end="00:07:13.350" style="s1"><span style="s2">待っていたよ</span></p> 
+   <p begin="00:07:14.393" end="00:07:19.439" style="s1"><span style="s2">（呼吸音）</span></p> 
+   <p begin="00:07:28.157" end="00:07:32.536" style="s1"><span style="s2">（サクラ）心肺機能は正常です<br />四肢の麻痺は認められません</span></p> 
+   <p begin="00:07:32.828" end="00:07:34.830" style="s1"><span style="s2">はい 目は開いています</span></p> 
+   <p begin="00:07:36.748" end="00:07:38.625" style="s1"><span style="s2">（サクラ）<br />私の言葉が理解できますか？</span></p> 
+   <p begin="00:07:41.712" end="00:07:44.131" style="s1"><span style="s2">（シンジ）ここ どこですか？</span></p> 
+   <p begin="00:07:44.590" end="00:07:47.718" style="s1"><span style="s2">（サクラ）言葉を話せます<br />意識は戻ったようです</span></p> 
+   <p begin="00:07:49.011" end="00:07:52.389" style="s1"><span style="s2">（シンジ）確か <span style="s3"><span style="s4">綾波</span><span style="s5">あやなみ</span></span>を助けて…</span></p> 
+   <p begin="00:07:52.514" end="00:07:56.727" style="s1"><span style="s2">（サクラ）はい　どうやら<br />記憶の継続性も認められます</span></p> 
+   <p begin="00:07:57.311" end="00:07:59.313" style="s1"><span style="s2">（シンジ）あの 綾波は？</span></p> 
+   <p begin="00:07:59.688" end="00:08:01.732" style="s1"><span style="s2">これが誰かわかりますか？</span></p> 
+   <p begin="00:08:04.610" end="00:08:06.737" style="s1"><span style="s2">僕… ですけど</span></p> 
+   <p begin="00:08:07.529" end="00:08:09.781" style="s1"><span style="s2">（サクラ）自己認識もあります<br />問題なさそうです</span></p> 
+   <p begin="00:08:10.324" end="00:08:10.866" style="s1"><span style="s2">（シンジ）何だ これ？</span></p> 
+   <p begin="00:08:10.866" end="00:08:12.326" style="s1"><span style="s2">（シンジ）何だ これ？</span></p> 
+   <p begin="00:08:10.866" end="00:08:12.326" region="縦右">（サクラ）尿意や<br />空腹感はありますか？</p> 
+   <p begin="00:08:12.326" end="00:08:12.701" region="縦右">（サクラ）尿意や<br />空腹感はありますか？</p> 
+   <p begin="00:08:12.743" end="00:08:14.077" style="s1"><span style="s2">（ドアの開く音）</span></p> 
+   <p begin="00:08:15.037" end="00:08:16.914" style="s1"><span style="s2">（女性オペレーター）<br />搬入リストの86％までクリア</span></p> 
+   <p begin="00:08:17.039" end="00:08:18.707" style="s1"><span style="s2">（高雄）<br />稼働中の<span style="s3"><span style="s4">Ｎ２</span><span style="s7">エヌツー</span></span>リアクターは</span></p> 
+   <p begin="00:08:18.790" end="00:08:20.417" style="s1"><span style="s2">出力で90％を維持</span></p> 
+   <p begin="00:08:20.500" end="00:08:24.922" style="s1"><span style="s2">（北上）<br />半径1200以内に艦影なし<br />未確認飛行物体も認められず</span></p> 
+   <p begin="00:08:25.005" end="00:08:26.757" style="s1"><span style="s2">（青葉）乗員の移乗は<br />Ｄブロックの船を最優先</span></p> 
+   <p begin="00:08:26.840" end="00:08:28.967" style="s1"><span style="s2">（日向）<br />食料搬入作業の人手が<br />まるで足りない</span></p> 
+   <p begin="00:08:29.092" end="00:08:32.930" style="s1"><span style="s2">（長良）<br />両舷３番５番のジャイロをチェック<br />計器にズレがある</span></p> 
+   <p begin="00:08:33.055" end="00:08:35.349" style="s1"><span style="s2">（多摩）<span style="s3"><span style="s4">艤</span><span style="s5">ぎ</span></span><span style="s3"><span style="s4">装</span><span style="s5">そう</span></span>作業<br />ロードマップをチェック</span></p> 
+   <p begin="00:08:35.807" end="00:08:37.184" style="s1"><span style="s2">（シンジ）あ…</span></p> 
+   <p begin="00:08:38.227" end="00:08:38.518" region="縦右">（サクラ）よっと</p> 
+   <p begin="00:08:38.518" end="00:08:39.519" region="縦右">（サクラ）よっと</p> 
+   <p begin="00:08:38.518" end="00:08:39.519" style="s1"><span style="s2">（ストッパーを下ろす音）</span></p> 
+   <p begin="00:08:39.895" end="00:08:42.856" style="s1"><span style="s2">検体 ＢＭ<span style="s3"><span style="s4">０３</span><span style="s5">マルサン</span></span> 拘引しました</span></p> 
+   <p begin="00:08:42.981" end="00:08:44.983" style="s1"><span style="s2">（ミサト）了解　拘束を解いて</span></p> 
+   <p begin="00:08:46.985" end="00:08:47.986" style="s1"><span style="s2">下がっていいわ</span></p> 
+   <p begin="00:08:50.906" end="00:08:54.159" style="s1"><span style="s2">（シンジ）んん… んっ…</span></p> 
+   <p begin="00:08:55.369" end="00:08:57.788" style="s1"><span style="s2">うっ　はぁ…</span></p> 
+   <p begin="00:08:58.413" end="00:09:00.165" style="s1"><span style="s2">（女性オペレーター）<br />通常操舵装置を再チェック<br />問題なし</span></p> 
+   <p begin="00:09:00.165" end="00:09:01.166" style="s1"><span style="s2">（女性オペレーター）<br />通常操舵装置を再チェック<br />問題なし</span></p> 
+   <p begin="00:09:00.165" end="00:09:01.166" region="縦右">（シンジ）あ…</p> 
+   <p begin="00:09:09.424" end="00:09:10.467" style="s1"><span style="s2">ん…</span></p> 
+   <p begin="00:09:11.927" end="00:09:14.137" style="s1"><span style="s2">ミサト… さん？</span></p> 
+   <p begin="00:09:14.638" end="00:09:17.224" style="s1"><span style="s2">（ミサト）<span style="s3"><span style="s4">碇</span><span style="s5">いかり</span></span>シンジ君<br />で いいのよね？</span></p> 
+   <p begin="00:09:17.724" end="00:09:18.976" style="s1"><span style="s2">（リツコ）そうね</span></p> 
+   <p begin="00:09:19.142" end="00:09:23.063" style="s1"><span style="s2">物理的情報では<br />コード第３の少年と完全に一致</span></p> 
+   <p begin="00:09:23.480" end="00:09:26.191" style="s1"><span style="s2">生後の歯の治療痕など<br />身体組織は</span></p> 
+   <p begin="00:09:26.275" end="00:09:29.486" style="s1"><span style="s2">ニアサー時を<br />100％再現しているわ</span></p> 
+   <p begin="00:09:29.611" end="00:09:33.115" style="s1"><span style="s2">なお 深層シンクロテストの<br />結果は分析中</span></p> 
+   <p begin="00:09:33.240" end="00:09:35.284" style="s1"><span style="s2"><span style="s3"><span style="s4">頸</span><span style="s5">けい</span></span><span style="s3"><span style="s4">部</span><span style="s5">ぶ</span></span>へのＤＳＳチョーカーは？</span></p> 
+   <p begin="00:09:35.409" end="00:09:38.078" style="s1"><span style="s2">（リツコ）<br />すでに装着済みよ　<span style="s3"><span style="s4">葛城</span><span style="s7">かつらぎ</span></span>艦長</span></p> 
+   <p begin="00:09:38.620" end="00:09:40.831" style="s1"><span style="s2">葛城艦長？</span></p> 
+   <p begin="00:09:41.164" end="00:09:42.874" style="s1"><span style="s2">やっぱりミサトさん？</span></p> 
+   <p begin="00:09:43.000" end="00:09:43.959" region="縦右">（ピピッという音）</p> 
+   <p begin="00:09:43.959" end="00:09:44.251" region="縦右">（ピピッという音）</p> 
+   <p begin="00:09:43.959" end="00:09:44.251" style="s1"><span style="s2">おっ あれ？</span></p> 
+   <p begin="00:09:44.251" end="00:09:45.210" style="s1"><span style="s2">おっ あれ？</span></p> 
+   <p begin="00:09:49.923" end="00:09:53.677" style="s1"><span style="s2">作動正常<br />パスコードを艦長専用に</span></p> 
+   <p begin="00:09:53.802" end="00:09:54.803" style="s1"><span style="s2">（ミサト）了解</span></p> 
+   <p begin="00:09:57.806" end="00:09:59.683" style="s1"><span style="s2">何なんですか？ これ</span></p> 
+   <p begin="00:09:59.808" end="00:10:03.061" style="s1"><span style="s2">あ… 外してくださいよ もう！</span></p> 
+   <p begin="00:10:03.603" end="00:10:05.063" style="s1"><span style="s2">うっ…</span></p> 
+   <p begin="00:10:05.314" end="00:10:08.025" style="s1"><span style="s2">絶対に外しませんよ それ</span></p> 
+   <p begin="00:10:08.692" end="00:10:11.653" style="s1"><span style="s2">面会終了　彼を隔離室へ</span></p> 
+   <p begin="00:10:12.112" end="00:10:13.113" style="s1"><span style="s2">えっ？</span></p> 
+   <p begin="00:10:13.155" end="00:10:14.656" region="縦右">（警報）</p> 
+   <p begin="00:10:14.656" end="00:10:18.243" region="縦右">（警報）</p> 
+   <p begin="00:10:14.656" end="00:10:18.243" style="s1"><span style="s2">（北上）<br />デコイ０１と０５が消滅<br />波長も捕捉</span></p> 
+   <p begin="00:10:18.410" end="00:10:19.870" style="s1"><span style="s2">何だろ？ これ</span></p> 
+   <p begin="00:10:19.995" end="00:10:21.371" style="s1"><span style="s2">（日向）パターン青だよ！</span></p> 
+   <p begin="00:10:21.496" end="00:10:25.042" style="s1"><span style="s2">目標を識別　コード４Ｃ<br />ネーメズィスシリーズです</span></p> 
+   <p begin="00:10:25.834" end="00:10:26.960" style="s1"><span style="s2">また来たか</span></p> 
+   <p begin="00:10:27.252" end="00:10:31.673" style="s1"><span style="s2">侵攻が立体的よ　まずは<br />私たちをここに封鎖するつもりね</span></p> 
+   <p begin="00:10:32.174" end="00:10:36.178" style="s1"><span style="s2">（ミサト）<br />まだここを動くわけにはいかない<br />主機関連作業のみ続行</span></p> 
+   <p begin="00:10:37.054" end="00:10:39.348" style="s1"><span style="s2">全艦 第２種戦闘配置</span></p> 
+   <p begin="00:10:39.556" end="00:10:42.142" style="s1"><span style="s2">目標 全ネーメズィスシリーズ</span></p> 
+   <p begin="00:10:42.267" end="00:10:44.853" style="s1"><span style="s2">（リツコ）了解<br />全艦 第２種戦闘配置</span></p> 
+   <p begin="00:10:45.145" end="00:10:48.106" style="s1"><span style="s2">対空 対水上及び水中戦 用意</span></p> 
+   <p begin="00:10:48.482" end="00:10:51.401" style="s1"><span style="s2">（青葉）補給作業を中断<br />乗員移乗を最優先</span></p> 
+   <p begin="00:10:51.651" end="00:10:55.072" style="s1"><span style="s2">（アナウンス）<br />全艦 補給作業を中断<br />乗員移乗を最優先</span></p> 
+   <p begin="00:10:55.197" end="00:10:59.368" style="s1"><span style="s2">（女性オペレーター１）<br />主機関連作業は続行<br />各動力流入ラインの開閉を確認</span></p> 
+   <p begin="00:10:59.493" end="00:11:02.579" style="s1"><span style="s2">（女性オペレーター２）<br />各航空機は現空域から<br />直ちに離脱</span></p> 
+   <p begin="00:11:02.662" end="00:11:05.248" style="s1"><span style="s2">第２集結ポイントへ<br />速やかに移動願います</span></p> 
+   <p begin="00:11:05.540" end="00:11:08.752" style="s1"><span style="s2">（男性オペレーター１）<br />積み残しは置いていけ<br />乗組員の移動が最優先だ</span></p> 
+   <p begin="00:11:08.919" end="00:11:12.005" style="s1"><span style="s2">（男性オペレーター２）<br />艤装作業は続けろ<br />会敵ギリギリまで組み立てを頼む</span></p> 
+   <p begin="00:11:12.130" end="00:11:14.758" style="s1"><span style="s2">（男性オペレーター３）<br />動力ラインを手伝える者は<br />内火艇に集合してくれ</span></p> 
+   <p begin="00:11:14.841" end="00:11:16.927" style="s1"><span style="s2">（女性オペレーター３）<br />各砲塔 各個に発射準備</span></p> 
+   <p begin="00:11:17.010" end="00:11:19.721" style="s1"><span style="s2">（女性オペレーター４）<br />遠隔操作及び<br />連動システムを起動</span></p> 
+   <p begin="00:11:19.846" end="00:11:21.223" style="s1"><span style="s2">不意の交戦に備えてください</span></p> 
+   <p begin="00:11:21.598" end="00:11:25.769" style="s1"><span style="s2">（高雄）主機伝導システムは<br />注入作業を継続　急げよ！</span></p> 
+   <p begin="00:11:25.894" end="00:11:29.398" style="s1"><span style="s2">（男性オペレーター４）<br />Ｎ２リアクター<br />出力99％で稼働中</span></p> 
+   <p begin="00:11:29.481" end="00:11:33.068" style="s1"><span style="s2">（女性オペレーター３）<br />注入作業続行<br />90番までのバルブを開放</span></p> 
+   <p begin="00:11:33.193" end="00:11:34.986" style="s1"><span style="s2">（女性オペレーター１）<br />動力パイプ接続完了</span></p> 
+   <p begin="00:11:35.070" end="00:11:37.906" style="s1"><span style="s2">（女性オペレーター２）<br />左舷第３ 第４ハブステーション<br />異常なし</span></p> 
+   <p begin="00:11:38.031" end="00:11:40.867" style="s1"><span style="s2">（男性オペレーター５）了解<br />90番までの全バルブを開放</span></p> 
+   <p begin="00:11:40.992" end="00:11:42.452" style="s1"><span style="s2">エネルギー流入開始</span></p> 
+   <p begin="00:11:42.577" end="00:11:45.288" style="s1"><span style="s2">（女性オペレーター１）<br />Ｎ２リアクターへの動力流入<br />順調です</span></p> 
+   <p begin="00:11:45.414" end="00:11:49.334" style="s1"><span style="s2">（女性オペレーター２）<br />Ｌ.Ｃ.Ｌ.循環ポンプを点検中<br />ろ過システムを確認</span></p> 
+   <p begin="00:11:49.584" end="00:11:50.836" style="s1"><span style="s2">（<span style="s3"><span style="s4">伊</span><span style="s5">い</span></span><span style="s3"><span style="s4">吹</span><span style="s5">ぶき</span></span>）戦闘配置よ！</span></p> 
+   <p begin="00:11:51.169" end="00:11:53.004" style="s1"><span style="s2">さっさと部署について</span></p> 
+   <p begin="00:11:53.171" end="00:11:54.840" style="s1"><span style="s2">そこ！ グズグズしない</span></p> 
+   <p begin="00:11:54.923" end="00:11:56.883" style="s1"><span style="s2">（整備員）<br />無理ですよ 整備長</span></p> 
+   <p begin="00:11:57.008" end="00:12:00.137" style="s1"><span style="s2">なんせ民間人も混じってる<br />寄せ集め集団ですよ</span></p> 
+   <p begin="00:12:00.262" end="00:12:03.140" style="s1"><span style="s2">言い訳 無用！<br />さっさと手を動かせ</span></p> 
+   <p begin="00:12:03.807" end="00:12:07.269" style="s1"><span style="s2">チッ！ これだから若い男は</span></p> 
+   <p begin="00:12:07.602" end="00:12:10.856" style="s1"><span style="s2">（多摩）えっと…<br />艤装作業はここで中断</span></p> 
+   <p begin="00:12:10.981" end="00:12:13.733" style="s1"><span style="s2">隔壁の閉鎖を開始って これか？</span></p> 
+   <p begin="00:12:14.109" end="00:12:18.155" style="s1"><span style="s2">対空監視を<span style="s3"><span style="s4">厳</span><span style="s5">げん</span></span>として<br />ソナーの方位は これ</span></p> 
+   <p begin="00:12:18.280" end="00:12:20.699" style="s1"><span style="s2">（青葉）<br />北上　甲板作業の状況は？</span></p> 
+   <p begin="00:12:21.032" end="00:12:23.160" style="s1"><span style="s2">それ 私の担当ですか？</span></p> 
+   <p begin="00:12:23.410" end="00:12:24.870" style="s1"><span style="s2">（青葉）兼任だ　当然だろ！</span></p> 
+   <p begin="00:12:24.953" end="00:12:27.664" style="s1"><span style="s2">（北上）ええ～っ！ マジィ？</span></p> 
+   <p begin="00:12:27.789" end="00:12:29.291" style="s1"><span style="s2">（サクラ）よっこいしょっと</span></p> 
+   <p begin="00:12:30.208" end="00:12:33.170" style="s1"><span style="s2">移動は危険です<br />ここにいましょう</span></p> 
+   <p begin="00:12:33.295" end="00:12:33.837" style="s1"><span style="s2">よっと</span></p> 
+   <p begin="00:12:33.837" end="00:12:34.546" style="s1"><span style="s2">よっと</span></p> 
+   <p begin="00:12:33.837" end="00:12:34.546" region="縦右" style="s6">（アナウンス）<br />全艦 対空砲塔 及び<br />対空誘導弾 準備完了</p> 
+   <p begin="00:12:34.546" end="00:12:35.464" region="縦右" style="s6">（アナウンス）<br />全艦 対空砲塔 及び<br />対空誘導弾 準備完了</p> 
+   <p begin="00:12:35.464" end="00:12:38.550" region="縦右" style="s6">（アナウンス）<br />全艦 対空砲塔 及び<br />対空誘導弾 準備完了</p> 
+   <p begin="00:12:35.464" end="00:12:38.550" style="s1"><span style="s2">せやけど 艦橋での戦闘配置<br />緊張するわぁ～</span></p> 
+   <p begin="00:12:38.550" end="00:12:38.800" style="s1"><span style="s2">せやけど 艦橋での戦闘配置<br />緊張するわぁ～</span></p> 
+   <p begin="00:12:38.800" end="00:12:40.760" style="s1"><span style="s2">せやけど 艦橋での戦闘配置<br />緊張するわぁ～</span></p> 
+   <p begin="00:12:38.800" end="00:12:40.760" region="縦右">（ミサト）了解<br />各対空システムを連動</p> 
+   <p begin="00:12:40.760" end="00:12:41.511" region="縦右">（ミサト）了解<br />各対空システムを連動</p> 
+   <p begin="00:12:41.761" end="00:12:43.346" region="縦右">初号機保護を最優先</p> 
+   <p begin="00:12:43.763" end="00:12:44.973" style="s1"><span style="s2">初号機？</span></p> 
+   <p begin="00:12:45.098" end="00:12:48.977" style="s1"><span style="s2">（荒波の音）</span></p> 
+   <p begin="00:12:53.899" end="00:12:56.818" style="s1"><span style="s2">来ました！ 目標の光の柱を確認</span></p> 
+   <p begin="00:12:56.943" end="00:12:59.779" style="s1"><span style="s2">えっと…<br />数が何だか増えてます</span></p> 
+   <p begin="00:12:59.905" end="00:13:02.240" style="s1"><span style="s2">（青葉）<br />目標コアブロックは捕捉不能</span></p> 
+   <p begin="00:13:02.365" end="00:13:05.368" style="s1"><span style="s2">おそらく擬装コクーン内に<br />潜伏中と思われます</span></p> 
+   <p begin="00:13:05.535" end="00:13:08.872" style="s1"><span style="s2">マズイわね<br />このままだと飽和攻撃を浴びるわ</span></p> 
+   <p begin="00:13:08.997" end="00:13:10.749" style="s1"><span style="s2">（北上）<br />接触まで あと600秒！</span></p> 
+   <p begin="00:13:10.874" end="00:13:14.503" style="s1"><span style="s2">葛城艦長<br />艦隊の即時散開を提案します</span></p> 
+   <p begin="00:13:16.129" end="00:13:18.423" style="s1"><span style="s2">（リツコ）<br />乗員の定数 及び練度不足</span></p> 
+   <p begin="00:13:18.548" end="00:13:21.343" style="s1"><span style="s2">おまけに本艦は<br />艤装途中の未完成</span></p> 
+   <p begin="00:13:21.510" end="00:13:25.055" style="s1"><span style="s2">とどめに 攻撃目標たる<br />コアブロックも捕捉できない</span></p> 
+   <p begin="00:13:25.180" end="00:13:28.099" style="s1"><span style="s2">つまり 現状での勝算はゼロです</span></p> 
+   <p begin="00:13:28.517" end="00:13:33.188" style="s1"><span style="s2">ここはいつも通りに撤退を<br /><span style="s3"><span style="s4">為</span><span style="s7">な</span></span>す<span style="s3"><span style="s4">術</span><span style="s7">すべ</span></span>がないのよ 葛城艦長！</span></p> 
+   <p begin="00:13:34.147" end="00:13:38.527" style="s1"><span style="s2">だからこそ 現状を変えて<br />後顧の憂いを断つ</span></p> 
+   <p begin="00:13:39.027" end="00:13:41.154" style="s1"><span style="s2">副長　飛ぶわよ</span></p> 
+   <p begin="00:13:41.363" end="00:13:43.907" style="s1"><span style="s2">飛ぶ？<br />まさか 主機を使う気!?</span></p> 
+   <p begin="00:13:44.366" end="00:13:46.284" style="s1"><span style="s2">全艦 発進準備</span></p> 
+   <p begin="00:13:46.576" end="00:13:48.203" style="s1"><span style="s2">主機点火準備！</span></p> 
+   <p begin="00:13:48.537" end="00:13:49.955" style="s1"><span style="s2">（北上･多摩）えええっ！</span></p> 
+   <p begin="00:13:50.163" end="00:13:52.624" style="s1"><span style="s2">いきなり本艦での実戦はムチャよ<br />葛城艦長</span></p> 
+   <p begin="00:13:52.874" end="00:13:56.086" style="s1"><span style="s2">（多摩）同意します！<br />試運転もなしに危険すぎます</span></p> 
+   <p begin="00:13:56.378" end="00:13:59.631" style="s1"><span style="s2">（長良）<br />重力制御 未経験です<br />自信ありません</span></p> 
+   <p begin="00:14:00.048" end="00:14:03.760" style="s1"><span style="s2">勝てない<span style="s3"><span style="s4">戦</span><span style="s5">いくさ</span></span>は なしがいいな<br />私 まだ死にたくないです</span></p> 
+   <p begin="00:14:03.885" end="00:14:06.346" region="縦右">死ぬ時ゃ死ぬ<br />そんだけだ</p> 
+   <p begin="00:14:06.429" end="00:14:08.014" region="縦右">若いもんが細かく言うな</p> 
+   <p begin="00:14:08.139" end="00:14:11.810" region="縦右">えええ！ 年寄りなら<br />慎重にいくもんでしょお</p> 
+   <p begin="00:14:11.977" end="00:14:13.562" region="縦右">ムチャは承知</p> 
+   <p begin="00:14:13.687" end="00:14:16.273" region="縦右">本艦をおとりに<br />目標を引きずり出します</p> 
+   <p begin="00:14:16.898" end="00:14:19.484" style="s1"><span style="s2">神殺しの力<br />見極めるだけよ</span></p> 
+   <p begin="00:14:19.609" end="00:14:22.988" style="s1"><span style="s2">しかし 肝心の点火システムは<br />未設置なのよ</span></p> 
+   <p begin="00:14:23.238" end="00:14:25.115" style="s1"><span style="s2">まさか エヴァを使う気？</span></p> 
+   <p begin="00:14:25.657" end="00:14:26.658" style="s1"><span style="s2">マリ？</span></p> 
+   <p begin="00:14:26.741" end="00:14:28.451" style="s1"><span style="s2">（マリ）８号機 まだ無理</span></p> 
+   <p begin="00:14:28.577" end="00:14:29.578" style="s1"><span style="s2">アスカ</span></p> 
+   <p begin="00:14:29.744" end="00:14:30.745" style="s1"><span style="s2">アスカ？</span></p> 
+   <p begin="00:14:30.912" end="00:14:32.497" style="s1"><span style="s2">（空気の排出音）</span></p> 
+   <p begin="00:14:32.956" end="00:14:36.418" style="s1"><span style="s2">（アスカ）もうやってる　要は<br />点火器をぶち込みゃいいんでしょ</span></p> 
+   <p begin="00:14:36.793" end="00:14:37.794" style="s1"><span style="s2">頼むわ</span></p> 
+   <p begin="00:14:37.877" end="00:14:40.880" style="s1"><span style="s2">（リツコ）しかし主機周辺は<br />結界密度の問題が</span></p> 
+   <p begin="00:14:41.006" end="00:14:42.924" style="s1"><span style="s2">それに換装作業中でしょ</span></p> 
+   <p begin="00:14:43.049" end="00:14:46.928" style="s1"><span style="s2">（アスカ）<br />ま 目的優先 人命軽視は<br />大佐のモットーだしね</span></p> 
+   <p begin="00:14:47.304" end="00:14:50.724" style="s1"><span style="s2">気にせず出るわよ<br />エヴァ改２号機 起動！</span></p> 
+   <p begin="00:14:52.142" end="00:14:53.893" style="s1"><span style="s2">（伊吹）改２号機 発進</span></p> 
+   <p begin="00:14:54.019" end="00:14:56.771" style="s1"><span style="s2">（北上）<br />了解　エヴァ改２号機 発進中</span></p> 
+   <p begin="00:14:56.896" end="00:15:01.109" style="s1"><span style="s2">続いて水中モーター及び<br />レフトコンテナ１番を投下</span></p> 
+   <p begin="00:15:06.948" end="00:15:10.160" style="s1"><span style="s2">（アスカ）ったく　せっかくの<br />ニュースタイルだっちゅーのに</span></p> 
+   <p begin="00:15:10.285" end="00:15:12.454" style="s1"><span style="s2">何とも地味な出陣ね</span></p> 
+   <p begin="00:15:12.954" end="00:15:14.331" style="s1"><span style="s2">あっ…</span></p> 
+   <p begin="00:15:18.126" end="00:15:21.504" style="s1"><span style="s2">やっぱりエヴァ２号機　よかった</span></p> 
+   <p begin="00:15:22.213" end="00:15:24.049" style="s1"><span style="s2">無事だったんだ　アスカ</span></p> 
+   <p begin="00:15:27.218" end="00:15:29.596" style="s1"><span style="s2">ミサトさん 僕は？</span></p> 
+   <p begin="00:15:30.263" end="00:15:32.557" style="s1"><span style="s2">全艦 第１種戦闘配置</span></p> 
+   <p begin="00:15:33.391" end="00:15:35.644" style="s1"><span style="s2">（アナウンス）<br />全艦 第１種戦闘配置</span></p> 
+   <p begin="00:15:35.769" end="00:15:38.897" style="s1"><span style="s2">繰り返す<br />全艦 第１種戦闘配置</span></p> 
+   <p begin="00:15:39.064" end="00:15:42.776" style="s1"><span style="s2">（リツコ）戦闘指揮系統を移行<br />主要員は戦闘艦橋へ</span></p> 
+   <p begin="00:15:42.901" end="00:15:44.486" style="s1"><span style="s2">（ミサト）重力バラスト 準備</span></p> 
+   <p begin="00:15:44.736" end="00:15:46.696" style="s1"><span style="s2">（長良）<br />了解　全ベントをチェック</span></p> 
+   <p begin="00:15:47.030" end="00:15:49.449" style="s1"><span style="s2">（ミサト）艦の主制御を<br />アンカリングプラグへ集中</span></p> 
+   <p begin="00:15:49.574" end="00:15:52.619" style="s1"><span style="s2">（高雄）了解　ディセント準備<br />インジェクター確認</span></p> 
+   <p begin="00:15:52.744" end="00:15:54.120" style="s1"><span style="s2">カウント入ります</span></p> 
+   <p begin="00:15:54.204" end="00:15:56.539" style="s1"><span style="s2">（アナウンス）<br />ヒルムシュタムタワー 移動準備</span></p> 
+   <p begin="00:15:56.665" end="00:15:59.376" style="s1"><span style="s2">ミサトさん！<br />初号機 ここにあるんでしょ</span></p> 
+   <p begin="00:16:00.960" end="00:16:03.505" style="s1"><span style="s2">僕も乗ります<br />アスカを手伝います！</span></p> 
+   <p begin="00:16:03.672" end="00:16:04.714" style="s1"><span style="s2">チッ！</span></p> 
+   <p begin="00:16:07.634" end="00:16:10.887" style="s1"><span style="s2">僕は乗らなくていいんですか？<br />ミサトさん！</span></p> 
+   <p begin="00:16:10.970" end="00:16:13.098" style="s1"><span style="s2">（アナウンス）<br />プラグ内 電荷用意<br />エントリーを準備</span></p> 
+   <p begin="00:16:13.181" end="00:16:16.017" style="s1"><span style="s2">（リツコ）そうよ　あなたが<br />エヴァに乗る必要はありません</span></p> 
+   <p begin="00:16:16.184" end="00:16:19.270" style="s1"><span style="s2">（アナウンス）<br />ヒルムシュタムタワー分離<br />移動開始</span></p> 
+   <p begin="00:16:19.354" end="00:16:22.732" style="s1"><span style="s2">現在 指揮系統を<br />戦闘艦橋へ移行中…</span></p> 
+   <p begin="00:16:22.899" end="00:16:25.527" style="s1"><span style="s2">（シンジ）必要ないって…</span></p> 
+   <p begin="00:16:25.694" end="00:16:29.489" style="s1"><span style="s2">あの じゃあ僕は<br />何をすればいいんですか？</span></p> 
+   <p begin="00:16:31.199" end="00:16:32.283" style="s1"><span style="s2">ミサトさん！</span></p> 
+   <p begin="00:16:33.159" end="00:16:34.911" style="s1"><span style="s2">碇シンジ君</span></p> 
+   <p begin="00:16:37.539" end="00:16:39.249" style="s1"><span style="s2">あなたは もう…</span></p> 
+   <p begin="00:16:39.457" end="00:16:40.792" style="s1"><span style="s2">何もしないで</span></p> 
+   <p begin="00:16:49.259" end="00:16:50.927" style="s1"><span style="s2">（ロックする音）</span></p> 
+   <p begin="00:16:52.887" end="00:16:55.598" style="s1"><span style="s2">（男性オペレーター）<br />Ｌ.Ｃ.Ｌ.ガス充満<br />電荷密度クリア</span></p> 
+   <p begin="00:16:52.887" end="00:16:55.598" region="縦右">（警報）</p> 
+   <p begin="00:16:55.724" end="00:16:56.766" style="s1"><span style="s2">（リツコ）エントリースタート</span></p> 
+   <p begin="00:16:57.016" end="00:17:01.604" style="s1"><span style="s2">（女性オペレーター）<br />Ｌ.Ｃ.Ｌ.電荷状態は正常<br />各演算統合システムをスタート</span></p> 
+   <p begin="00:17:01.730" end="00:17:02.731" style="s1"><span style="s2">（ミサト）状況は？</span></p> 
+   <p begin="00:17:02.814" end="00:17:03.898" style="s1"><span style="s2">（北上）<br />総員 点呼完了　移乗を確認</span></p> 
+   <p begin="00:17:03.898" end="00:17:05.734" style="s1"><span style="s2">（北上）<br />総員 点呼完了　移乗を確認</span></p> 
+   <p begin="00:17:03.898" end="00:17:05.734" region="縦右" style="s6">（女性オペレーター）<br />初期コンタクト問題なし<br />第１次リストをクリア</p> 
+   <p begin="00:17:05.734" end="00:17:07.652" region="縦右" style="s6">（女性オペレーター）<br />初期コンタクト問題なし<br />第１次リストをクリア</p> 
+   <p begin="00:17:07.736" end="00:17:10.488" style="s1"><span style="s2">（多摩）全隔壁の閉鎖を確認<br />耐圧チェックを終了</span></p> 
+   <p begin="00:17:10.613" end="00:17:12.323" style="s1"><span style="s2">（女性オペレーター）<br />補機 出力上昇中</span></p> 
+   <p begin="00:17:12.407" end="00:17:15.118" style="s1"><span style="s2">（高雄）主機システム<br />点火用動力を注入中</span></p> 
+   <p begin="00:17:15.201" end="00:17:16.953" style="s1"><span style="s2">臨界まで あと５％</span></p> 
+   <p begin="00:17:17.036" end="00:17:20.081" style="s1"><span style="s2">（長良）ジャイロコンパス始動<br />スタビライザー問題なし</span></p> 
+   <p begin="00:17:20.206" end="00:17:23.960" style="s1"><span style="s2">（女性オペレーター）<br />視覚化情報処理を開始<br />主モニター 点灯します</span></p> 
+   <p begin="00:17:24.586" end="00:17:28.757" style="s1"><span style="s2">（日向）目標 依然として接近中<br />包囲陣形を取りつつあり</span></p> 
+   <p begin="00:17:28.882" end="00:17:32.677" style="s1"><span style="s2">（青葉）<br />改２号機 推進機を廃棄<br />左腕を換装中</span></p> 
+   <p begin="00:17:32.802" end="00:17:34.804" style="s1"><span style="s2">（アスカ）あーら よっと</span></p> 
+   <p begin="00:17:37.557" end="00:17:38.767" style="s1"><span style="s2">よっ ほっ</span></p> 
+   <p begin="00:17:39.934" end="00:17:41.060" style="s1"><span style="s2">うん</span></p> 
+   <p begin="00:17:41.352" end="00:17:42.353" style="s1"><span style="s2">さてと</span></p> 
+   <p begin="00:17:43.730" end="00:17:44.898" style="s1"><span style="s2">やるか！</span></p> 
+   <p begin="00:17:51.946" end="00:17:53.907" style="s1"><span style="s2">Ａ.Ｔ.フィールド 展開</span></p> 
+   <p begin="00:17:56.785" end="00:17:58.203" style="s1"><span style="s2">（青葉）光の柱に変化</span></p> 
+   <p begin="00:17:58.286" end="00:18:00.497" style="s1"><span style="s2">（北上）みるみる<br />エネルギーが増大してます！</span></p> 
+   <p begin="00:18:00.580" end="00:18:01.873" style="s1"><span style="s2">（日向）全体が移動を開始</span></p> 
+   <p begin="00:18:05.460" end="00:18:07.086" style="s1"><span style="s2">味方巡洋艦 蒸発！</span></p> 
+   <p begin="00:18:07.295" end="00:18:11.049" style="s1"><span style="s2">飽和攻撃よ<br />本艦に取りつかれたら万事休すね</span></p> 
+   <p begin="00:18:11.800" end="00:18:14.010" style="s1"><span style="s2">（北上）接触まで あと360秒</span></p> 
+   <p begin="00:18:21.309" end="00:18:22.894" style="s1"><span style="s2">せえぇえのっ!!</span></p> 
+   <p begin="00:18:22.977" end="00:18:24.020" style="s1"><span style="s2">（突き刺す音）</span></p> 
+   <p begin="00:18:25.855" end="00:18:27.774" style="s1"><span style="s2">（青葉）改２号機 作業開始</span></p> 
+   <p begin="00:18:27.899" end="00:18:30.026" style="s1"><span style="s2">（男性オペレーター）<br />流入圧力 300％！</span></p> 
+   <p begin="00:18:30.151" end="00:18:33.279" style="s1"><span style="s2">（高雄）<br />構わん フライホイールへ<br />全てのエネルギーを回せ</span></p> 
+   <p begin="00:18:33.363" end="00:18:34.364" style="s1"><span style="s2">最優先だ！</span></p> 
+   <p begin="00:18:35.782" end="00:18:36.783" style="s1"><span style="s2">（爆発音）</span></p> 
+   <p begin="00:18:44.332" end="00:18:46.876" style="s1"><span style="s2">（多摩）第７コンバータ群 爆発！</span></p> 
+   <p begin="00:18:44.332" end="00:18:46.876" region="縦右" style="s6">（女性オペレーター）<br />第<span style="s9">83</span>ライン 炎上中</p> 
+   <p begin="00:18:47.001" end="00:18:48.837" style="s1"><span style="s2">（高雄）<br />ダウンしたラインに構うな！</span></p> 
+   <p begin="00:18:48.920" end="00:18:52.090" style="s1"><span style="s2">強制注入を続けろ<br />圧力計は全て無視だ</span></p> 
+   <p begin="00:18:52.215" end="00:18:55.885" style="s1"><span style="s2">（多摩）<br />フライホイール圧着版<br />ロック解除　回転開始</span></p> 
+   <p begin="00:19:04.018" end="00:19:06.312" style="s1"><span style="s2">（男性オペレーター）<br />主機エネルギーポンプ 運転開始</span></p> 
+   <p begin="00:19:06.396" end="00:19:08.815" style="s1"><span style="s2">（多摩）<br />補機回転 出力80％へ</span></p> 
+   <p begin="00:19:08.898" end="00:19:10.775" style="s1"><span style="s2">（高雄）触媒を強制投入</span></p> 
+   <p begin="00:19:10.859" end="00:19:12.527" style="s1"><span style="s2">（蒸気の音）</span></p> 
+   <p begin="00:19:15.864" end="00:19:18.199" style="s1"><span style="s2">（力む声）</span></p> 
+   <p begin="00:19:26.082" end="00:19:27.083" style="s1"><span style="s2">あとは</span></p> 
+   <p begin="00:19:30.044" end="00:19:31.588" style="s1"><span style="s2">あと35秒！</span></p> 
+   <p begin="00:19:31.838" end="00:19:32.964" style="s1"><span style="s2">（女性オペレーター）<br />回転数上昇中　１万 １万２千</span></p> 
+   <p begin="00:19:32.964" end="00:19:35.425" style="s1"><span style="s2">（女性オペレーター）<br />回転数上昇中　１万 １万２千</span></p> 
+   <p begin="00:19:32.964" end="00:19:35.425" region="縦右">（青葉）<br />改２号機 点火位置</p> 
+   <p begin="00:19:35.592" end="00:19:36.593" style="s1"><span style="s2">（多摩）来ましたっ！</span></p> 
+   <p begin="00:19:36.676" end="00:19:39.762" style="s1"><span style="s2">フライホイール充填102％<br />臨界突破！</span></p> 
+   <p begin="00:19:39.888" end="00:19:41.598" style="s1"><span style="s2">（高雄）始動 最終段階です</span></p> 
+   <p begin="00:19:41.681" end="00:19:43.892" style="s1"><span style="s2">（ミサト）<br />了解　操艦系を切り替え</span></p> 
+   <p begin="00:19:43.975" end="00:19:48.271" style="s1"><span style="s2">（長良）<br />了解　時空間制御を開始<br />立体式操舵に移行します</span></p> 
+   <p begin="00:19:49.564" end="00:19:51.983" style="s1"><span style="s2">点火と同時に<br />Ａ.Ｔ.フィールドを展開</span></p> 
+   <p begin="00:19:52.066" end="00:19:54.360" style="s1"><span style="s2">回転数３万６千<br />オールグリーン！</span></p> 
+   <p begin="00:19:54.485" end="00:19:56.613" style="s1"><span style="s2">（高雄）<br />コンタクト 行けます！</span></p> 
+   <p begin="00:19:56.821" end="00:19:58.990" style="s1"><span style="s2">カウント省略　メイン接続</span></p> 
+   <p begin="00:19:59.115" end="00:20:00.867" style="s1"><span style="s2">接続！</span></p> 
+   <p begin="00:20:04.120" end="00:20:05.121" style="s1"><span style="s2">点火！</span></p> 
+   <p begin="00:20:05.204" end="00:20:06.956" style="s1"><span style="s2">でぇえいっ！</span></p> 
+   <p begin="00:20:11.920" end="00:20:13.796" style="s1"><span style="s2">（爆発音）</span></p> 
+   <p begin="00:20:21.596" end="00:20:22.889" style="s1"><span style="s2">障害物 クリア</span></p> 
+   <p begin="00:20:23.014" end="00:20:25.433" style="s1"><span style="s2">各部確認　僚艦は全て退避！</span></p> 
+   <p begin="00:20:25.558" end="00:20:27.977" style="s1"><span style="s2">行くわよ　ヴンダー発進！</span></p> 
+   <p begin="00:20:28.102" end="00:20:31.314" style="s1"><span style="s2">（飛行音）</span></p> 
+   <p begin="00:20:28.102" end="00:20:31.314" region="縦右" style="s6">♪～</p> 
+   <p begin="00:20:31.314" end="00:20:34.651" region="縦右" style="s6">♪～</p> 
+   <p begin="00:21:14.691" end="00:21:16.317" style="s1"><span style="s2">（爆発音）</span></p> 
+   <p begin="00:21:16.401" end="00:21:17.694" style="s1"><span style="s2">（オペレーターたちの悲鳴）</span></p> 
+   <p begin="00:21:17.860" end="00:21:19.821" style="s1"><span style="s2">（多摩）<br />主翼を貫通　損害不明</span></p> 
+   <p begin="00:21:19.904" end="00:21:22.031" style="s1"><span style="s2">構うな！ <span style="s3"><span style="s4">殲滅</span><span style="s5">せんめつ</span></span>戦 用意</span></p> 
+   <p begin="00:21:22.156" end="00:21:24.325" style="s1"><span style="s2">艦を倒立　ゴースターン！</span></p> 
+   <p begin="00:21:24.450" end="00:21:26.494" style="s1"><span style="s2">ゴースターン ようそろ！</span></p> 
+   <p begin="00:21:32.125" end="00:21:35.461" style="s1"><span style="s2">このままコアブロックを<br />擬装コクーンから引きずり出す！</span></p> 
+   <p begin="00:21:36.587" end="00:21:39.173" style="s1"><span style="s2">（金属がきしむ音）</span></p> 
+   <p begin="00:21:40.133" end="00:21:42.677" style="s1"><span style="s2">（多摩）主翼ビームに亀裂発生！</span></p> 
+   <p begin="00:21:40.133" end="00:21:42.677" region="縦右">（亀裂が広がる音）</p> 
+   <p begin="00:21:42.844" end="00:21:45.888" style="s1"><span style="s2">舵 そのまま<br />主機 全力運転</span></p> 
+   <p begin="00:21:46.014" end="00:21:47.890" style="s1"><span style="s2">（高雄）両舷一杯！</span></p> 
+   <p begin="00:21:48.057" end="00:21:49.600" style="s1"><span style="s2">（長良）最大戦速！</span></p> 
+   <p begin="00:21:49.684" end="00:21:52.353" style="s1"><span style="s2">（噴射上昇音）</span></p> 
+   <p begin="00:22:10.705" end="00:22:13.124" style="s1"><span style="s2">（破砕音）</span></p> 
+   <p begin="00:22:16.085" end="00:22:17.920" style="s1"><span style="s2">（北上）<br />出た！ コアブロックです</span></p> 
+   <p begin="00:22:18.046" end="00:22:20.631" style="s1"><span style="s2">（ミサト）今だ！<br />取り舵一杯 振り回せ！</span></p> 
+   <p begin="00:22:21.007" end="00:22:22.467" style="s1"><span style="s2">りょーかい!!</span></p> 
+   <p begin="00:22:47.617" end="00:22:50.036" style="s1"><span style="s2">（ミサト）<br />スラスター 全開　急制動！</span></p> 
+   <p begin="00:22:50.578" end="00:22:53.539" style="s1"><span style="s2">（高速回転音）</span></p> 
+   <p begin="00:22:56.417" end="00:22:59.295" style="s1"><span style="s2">（衝突音）</span></p> 
+   <p begin="00:22:59.796" end="00:23:00.922" style="s1"><span style="s2">目標 沈黙！</span></p> 
+   <p begin="00:23:01.089" end="00:23:04.634" style="s1"><span style="s2">主砲 発射準備！<br />エネルギー貫通弾を<span style="s3"><span style="s4">装填</span><span style="s7">そうてん</span></span></span></p> 
+   <p begin="00:23:04.759" end="00:23:08.137" style="s1"><span style="s2">全砲塔に主機を直結<br />給弾用回路 開け</span></p> 
+   <p begin="00:23:08.221" end="00:23:10.014" style="s1"><span style="s2">（高雄）了解　回路開きます</span></p> 
+   <p begin="00:23:10.264" end="00:23:12.600" style="s1"><span style="s2">測的誤差 ギリギリまで修正中！</span></p> 
+   <p begin="00:23:12.725" end="00:23:14.310" style="s1"><span style="s2">（女性オペレーター）<br />射撃盤 連動せず</span></p> 
+   <p begin="00:23:14.435" end="00:23:17.605" style="s1"><span style="s2">（日向）各砲 直接照準及び<br />手動追尾は行けます！</span></p> 
+   <p begin="00:23:17.730" end="00:23:18.940" style="s1"><span style="s2">（ミサト）ならば結構</span></p> 
+   <p begin="00:23:19.065" end="00:23:20.066" style="s1"><span style="s2">撃てぇ!!</span></p> 
+   <p begin="00:23:20.149" end="00:23:22.944" style="s1"><span style="s2">（連続発砲音）</span></p> 
+   <p begin="00:23:23.236" end="00:23:24.237" style="s1"><span style="s2">（破砕音）</span></p> 
+   <p begin="00:23:31.661" end="00:23:32.662" style="s1"><span style="s2">（被弾音）</span></p> 
+   <p begin="00:23:44.132" end="00:23:45.466" style="s1"><span style="s2">（青葉）目標 殲滅</span></p> 
+   <p begin="00:23:45.550" end="00:23:50.054" style="s1"><span style="s2">（ミサト）<br />全艦 第２種警戒態勢<br />改２号機の回収用意</span></p> 
+   <p begin="00:23:45.550" end="00:23:50.054" region="縦右" style="s6">～♪</p> 
+   <p begin="00:23:50.054" end="00:23:50.263" region="縦右" style="s6">～♪</p> 
+   <p begin="00:23:50.263" end="00:23:51.973" region="縦右" style="s6">～♪</p> 
+   <p begin="00:23:50.263" end="00:23:51.973" style="s1"><span style="s2">主翼の応急処置を急いで</span></p> 
+   <p begin="00:23:53.307" end="00:23:54.725" style="s1"><span style="s2">すっごい…</span></p> 
+   <p begin="00:23:55.017" end="00:23:56.227" style="s1"><span style="s2">ホントに勝っちゃった</span></p> 
+   <p begin="00:23:56.644" end="00:23:58.855" style="s1"><span style="s2">まったくムチャをする…</span></p> 
+   <p begin="00:23:59.188" end="00:24:02.525" style="s1"><span style="s2">フッ <span style="s3"><span style="s4">加持</span><span style="s5">かじ</span></span>の話より面白い艦長だ</span></p> 
+   <p begin="00:24:02.900" end="00:24:04.819" style="s1"><span style="s2">これが神殺しの力</span></p> 
+   <p begin="00:24:05.570" end="00:24:08.197" style="s1"><span style="s2">ヴンダー　まさに希望の船ね</span></p> 
+   <p begin="00:24:08.322" end="00:24:11.409" style="s1"><span style="s2">（ヴンダーの飛行音）</span></p> 
+   <p begin="00:24:47.403" end="00:24:51.866" style="s1"><span style="s2">（サクラ）検体ＢＭ０３<br />仮称 碇シンジさん</span></p> 
+   <p begin="00:24:52.033" end="00:24:54.243" style="s1"><span style="s2">副長から説明があるそうです</span></p> 
+   <p begin="00:24:54.994" end="00:24:56.579" style="s1"><span style="s2">（シンジ）これが初号機？</span></p> 
+   <p begin="00:24:56.913" end="00:25:02.043" style="s1"><span style="s2">（リツコ）ええ　初号機は現在<br />本艦の主機として使用中</span></p> 
+   <p begin="00:25:02.168" end="00:25:04.045" style="s1"><span style="s2">ゆえにパイロットは不要です</span></p> 
+   <p begin="00:25:05.254" end="00:25:07.215" style="s1"><span style="s2">（シンジ）<br />ホントにいらないんですね</span></p> 
+   <p begin="00:25:07.465" end="00:25:08.466" style="s1"><span style="s2">（リツコ）それと<span style="s8">―</span></span></p> 
+   <p begin="00:25:08.549" end="00:25:11.344" style="s1"><span style="s2">あなたの深層シンクロテストの<br />結果が出ました</span></p> 
+   <p begin="00:25:11.886" end="00:25:14.847" style="s1"><span style="s2">シンクロ率は0.00％</span></p> 
+   <p begin="00:25:14.972" end="00:25:18.309" style="s1"><span style="s2">仮にあなたがエヴァに搭乗しても<br />起動しません</span></p> 
+   <p begin="00:25:18.643" end="00:25:21.854" style="s1"><span style="s2">（サクラ）そっかあ<br />よかったですね 碇さん</span></p> 
+   <p begin="00:25:22.063" end="00:25:24.941" style="s1"><span style="s2">（リツコ）とはいえ<br />先に突如12秒間も<span style="s8">―</span></span></p> 
+   <p begin="00:25:25.024" end="00:25:27.777" style="s1"><span style="s2">覚醒状態と化した事実は<br />看過できない</span></p> 
+   <p begin="00:25:28.402" end="00:25:29.487" style="s1"><span style="s2">ゆえに あなたには<span style="s8">―</span></span></p> 
+   <p begin="00:25:29.612" end="00:25:32.156" style="s1"><span style="s2">ＤＳＳチョーカーを<br />装着させてあります</span></p> 
+   <p begin="00:25:32.657" end="00:25:34.116" style="s1"><span style="s2">（シンジ）何ですか これ？</span></p> 
+   <p begin="00:25:34.242" end="00:25:36.160" style="s1"><span style="s2">（リツコ）私たちへの保険</span></p> 
+   <p begin="00:25:36.285" end="00:25:39.080" style="s1"><span style="s2">覚醒回避のための<br />物理的安全装置</span></p> 
+   <p begin="00:25:39.497" end="00:25:43.167" style="s1"><span style="s2">私たちの不信と<br />あなたへの罰の象徴です</span></p> 
+   <p begin="00:25:43.376" end="00:25:44.710" style="s1"><span style="s2">（シンジ）どういうことですか？</span></p> 
+   <p begin="00:25:45.294" end="00:25:48.714" style="s1"><span style="s2">（リツコ）エヴァ搭乗時<br />自己の感情に飲み込まれ</span></p> 
+   <p begin="00:25:48.839" end="00:25:52.218" style="s1"><span style="s2">覚醒リスクを抑えられない事態に<br />達した場合</span></p> 
+   <p begin="00:25:52.385" end="00:25:55.346" style="s1"><span style="s2">あなたの一命をもって<br />せき止めるということです</span></p> 
+   <p begin="00:25:57.390" end="00:25:58.724" style="s1"><span style="s2">（シンジ）それって…</span></p> 
+   <p begin="00:25:59.934" end="00:26:01.644" style="s1"><span style="s2">死ぬってことですか？</span></p> 
+   <p begin="00:26:02.186" end="00:26:03.771" style="s1"><span style="s2">（リツコ）否定はしません</span></p> 
+   <p begin="00:26:04.188" end="00:26:06.148" style="s1"><span style="s2">そんな…</span></p> 
+   <p begin="00:26:06.816" end="00:26:10.778" style="s1"><span style="s2">ミサトさん<br />どういう事なんですか？ 死ぬって</span></p> 
+   <p begin="00:26:11.112" end="00:26:12.488" style="s1"><span style="s2">変ですよ ミサトさん！</span></p> 
+   <p begin="00:26:12.613" end="00:26:15.241" style="s1"><span style="s2">急に こんなことになってて<br />ワケわかんないですよっ！</span></p> 
+   <p begin="00:26:15.408" end="00:26:17.618" style="s1"><span style="s2">混乱するのも無理ないわ　少尉</span></p> 
+   <p begin="00:26:17.827" end="00:26:18.828" style="s1"><span style="s2">あ ハイ！</span></p> 
+   <p begin="00:26:18.953" end="00:26:20.288" style="s1"><span style="s2">彼に官姓名を</span></p> 
+   <p begin="00:26:20.371" end="00:26:21.372" style="s1"><span style="s2">（サクラ）ハイ</span></p> 
+   <p begin="00:26:22.123" end="00:26:26.585" style="s1"><span style="s2">えっと いまさらですが<br />碇さんの管理担当医官</span></p> 
+   <p begin="00:26:27.336" end="00:26:31.048" style="s1"><span style="s2"><span style="s3"><span style="s4">鈴原</span><span style="s5">すずはら</span></span>サクラ少尉です<br />よろしくです</span></p> 
+   <p begin="00:26:31.173" end="00:26:32.591" style="s1"><span style="s2">（シンジ）あ ハイ</span></p> 
+   <p begin="00:26:34.969" end="00:26:38.097" style="s1"><span style="s2">でも“鈴原”って トウジの？</span></p> 
+   <p begin="00:26:38.264" end="00:26:39.598" style="s1"><span style="s2">あ はい</span></p> 
+   <p begin="00:26:39.724" end="00:26:43.519" style="s1"><span style="s2">お兄ちゃんがお世話になりました<br />妹のサクラです</span></p> 
+   <p begin="00:26:43.686" end="00:26:46.147" style="s1"><span style="s2">（シンジ）<br />妹？ お姉さんじゃなくて？</span></p> 
+   <p begin="00:26:46.314" end="00:26:49.275" style="s1"><span style="s2">ハイ 妹です　フッ…</span></p> 
+   <p begin="00:26:49.567" end="00:26:52.028" style="s1"><span style="s2">妹？ 何で？</span></p> 
+   <p begin="00:26:52.653" end="00:26:55.614" style="s1"><span style="s2">（アスカ）あれから<br />14年たってるってことよ</span></p> 
+   <p begin="00:26:55.823" end="00:26:56.949" style="s1"><span style="s2">バカシンジ</span></p> 
+   <p begin="00:26:57.033" end="00:26:59.577" style="s1"><span style="s2">（シンジ）<br />えっ？ あ　アスカ！</span></p> 
+   <p begin="00:27:03.331" end="00:27:04.540" style="s1"><span style="s2">よかった！</span></p> 
+   <p begin="00:27:04.665" end="00:27:07.168" style="s1"><span style="s2">やっぱり無事だったんだね<br />アスカッ！</span></p> 
+   <p begin="00:27:07.376" end="00:27:08.502" style="s1"><span style="s2">あはっ　わっ！</span></p> 
+   <p begin="00:27:08.586" end="00:27:09.628" style="s1"><span style="s2">（ひびが入る音）</span></p> 
+   <p begin="00:27:12.173" end="00:27:16.510" style="s1"><span style="s2">ダメね　抑えきれない<br />ずーっと我慢してたし</span></p> 
+   <p begin="00:27:22.683" end="00:27:23.768" style="s1"><span style="s2">何なんだよ…</span></p> 
+   <p begin="00:27:24.560" end="00:27:26.562" style="s1"><span style="s2">（アスカ）怒りと悲しみの累積</span></p> 
+   <p begin="00:27:27.772" end="00:27:29.690" style="s1"><span style="s2">何の事だよ</span></p> 
+   <p begin="00:27:30.024" end="00:27:32.109" style="s1"><span style="s2">あれ？ アスカ 左目？</span></p> 
+   <p begin="00:27:32.234" end="00:27:34.320" style="s1"><span style="s2">あんたには関係ない</span></p> 
+   <p begin="00:27:34.445" end="00:27:40.409" style="s1"><span style="s2">（シンジ）<br />アスカ さっき14年って…<br />でも眼帯以外 変わってない？</span></p> 
+   <p begin="00:27:40.701" end="00:27:43.120" style="s1"><span style="s2">そう　エヴァの呪縛</span></p> 
+   <p begin="00:27:43.871" end="00:27:44.872" style="s1"><span style="s2">呪縛？</span></p> 
+   <p begin="00:27:47.083" end="00:27:48.125" style="s1"><span style="s2">（イスが動く音）</span></p> 
+   <p begin="00:27:48.209" end="00:27:50.503" style="s1"><span style="s2">（シンジ）ちょっと待ってよ！<br />アスカなら知ってんだろ</span></p> 
+   <p begin="00:27:50.711" end="00:27:52.671" style="s1"><span style="s2">ねぇ 綾波はどこなんだよ！</span></p> 
+   <p begin="00:27:53.756" end="00:27:54.757" style="s1"><span style="s2">（アスカ）知らない</span></p> 
+   <p begin="00:27:55.049" end="00:27:58.302" style="s1"><span style="s2">（シンジ）知らないって<br />助けたんだよ あの時！</span></p> 
+   <p begin="00:27:58.552" end="00:28:00.763" style="s1"><span style="s2">（アスカ）ヒト１人に大げさね</span></p> 
+   <p begin="00:28:00.888" end="00:28:03.682" style="s1"><span style="s2">もうそんな事に<br />反応してるヒマなんてないのよ</span></p> 
+   <p begin="00:28:03.808" end="00:28:04.934" style="s1"><span style="s2">この世界には</span></p> 
+   <p begin="00:28:05.309" end="00:28:08.062" style="s1"><span style="s2">そうでしょ　葛城大佐</span></p> 
+   <p begin="00:28:09.688" end="00:28:10.439" region="縦右">（ドアの開閉音）</p> 
+   <p begin="00:28:10.439" end="00:28:11.482" region="縦右">（ドアの開閉音）</p> 
+   <p begin="00:28:10.439" end="00:28:11.482" style="s1"><span style="s2">アスカッ！</span></p> 
+   <p begin="00:28:11.482" end="00:28:12.066" region="縦右">（ドアの開閉音）</p> 
+   <p begin="00:28:12.066" end="00:28:13.067" region="縦右">（ドアの開閉音）</p> 
+   <p begin="00:28:12.066" end="00:28:13.067" style="s1"><span style="s2">（シンジ）ミサトさん<span style="s8">―</span></span></p> 
+   <p begin="00:28:13.275" end="00:28:15.486" style="s1"><span style="s2">綾波はどこなんですか？<br />教えてください！</span></p> 
+   <p begin="00:28:15.569" end="00:28:19.448" style="s1"><span style="s2">シンジ君　綾波レイは<br />もう存在しないのよ</span></p> 
+   <p begin="00:28:19.824" end="00:28:22.868" style="s1"><span style="s2">（シンジ）いいえ<br />確かに助けだしたんです！</span></p> 
+   <p begin="00:28:23.035" end="00:28:25.246" style="s1"><span style="s2">きっとまだ<br />初号機のプラグの中にいます</span></p> 
+   <p begin="00:28:25.329" end="00:28:26.789" style="s1"><span style="s2">よく探してくださいっ！</span></p> 
+   <p begin="00:28:26.914" end="00:28:30.251" style="s1"><span style="s2">（リツコ）<br />当然 すでに初号機内は<br />全て探索済みです</span></p> 
+   <p begin="00:28:30.584" end="00:28:32.795" style="s1"><span style="s2">結果 発見されたのは<br />あなたと…</span></p> 
+   <p begin="00:28:32.962" end="00:28:33.963" style="s1"><span style="s2">（ボタンを押す音）</span></p> 
+   <p begin="00:28:34.755" end="00:28:36.882" style="s1"><span style="s2">（リツコ）<br />なぜか これが復元されていたわ</span></p> 
+   <p begin="00:28:37.591" end="00:28:40.386" style="s1"><span style="s2">検査結果に問題ないので<br />返還しておきます</span></p> 
+   <p begin="00:28:41.262" end="00:28:42.805" style="s1"><span style="s2">父さんの…</span></p> 
+   <p begin="00:28:43.848" end="00:28:48.644" style="s1"><span style="s2">あの時 綾波が持っていた…<br />やっぱり助けたんじゃないか</span></p> 
+   <p begin="00:28:48.769" end="00:28:50.146" style="s1"><span style="s2">（衝撃音）</span></p> 
+   <p begin="00:28:50.271" end="00:28:50.980" style="s1"><span style="s2">（シンジ）何だ？</span></p> 
+   <p begin="00:28:50.980" end="00:28:52.565" style="s1"><span style="s2">（シンジ）何だ？</span></p> 
+   <p begin="00:28:50.980" end="00:28:52.565" region="縦右">（着信音）</p> 
+   <p begin="00:28:52.982" end="00:28:53.983" style="s1"><span style="s2">私です</span></p> 
+   <p begin="00:28:54.275" end="00:28:56.735" style="s1"><span style="s2">（日向）目標 後甲板です<br />いきなり取りつかれました</span></p> 
+   <p begin="00:28:57.403" end="00:28:58.654" style="s1"><span style="s2">本命のお出ましか</span></p> 
+   <p begin="00:28:58.946" end="00:29:02.992" style="s1"><span style="s2">（ミサト）全艦 第１種戦闘配置<br />初号機保護を最優先</span></p> 
+   <p begin="00:29:03.117" end="00:29:04.869" style="s1"><span style="s2">（アスカ）<br />８号機 もう行けるでしょ！</span></p> 
+   <p begin="00:29:05.161" end="00:29:08.038" style="s1"><span style="s2">（マリ）モチのロン<br />今やってるよ 姫</span></p> 
+   <p begin="00:29:08.330" end="00:29:11.167" style="s1"><span style="s2">それより ワンコ君どうだった？</span></p> 
+   <p begin="00:29:11.417" end="00:29:13.002" style="s1"><span style="s2">おとなしくお座りしてた？</span></p> 
+   <p begin="00:29:13.502" end="00:29:16.422" style="s1"><span style="s2">（アスカ）何も変わらず<br />寝癖でバカな顔してた</span></p> 
+   <p begin="00:29:16.589" end="00:29:20.050" style="s1"><span style="s2">（マリ）その顔<br />見に行ったんじゃニャいの？</span></p> 
+   <p begin="00:29:20.134" end="00:29:22.470" style="s1"><span style="s2">（アスカ）<br />違う！ 殴りに行っただけ</span></p> 
+   <p begin="00:29:22.636" end="00:29:23.929" style="s1"><span style="s2">これでスッキリした！</span></p> 
+   <p begin="00:29:24.180" end="00:29:26.056" style="s1"><span style="s2">（シンジ）<br />ミサトさん！ リツコさん！</span></p> 
+   <p begin="00:29:26.307" end="00:29:29.643" style="s1"><span style="s2">一体 何が来たんですか!?<br />新しい使徒ですか？</span></p> 
+   <p begin="00:29:29.768" end="00:29:32.563" style="s1"><span style="s2">（レイの声）イカリ君 どこ？</span></p> 
+   <p begin="00:29:32.730" end="00:29:34.023" style="s1"><span style="s2">（シンジ）綾波？</span></p> 
+   <p begin="00:29:34.982" end="00:29:36.942" style="s1"><span style="s2">今の綾波の声ですよね？<br />ミサト…</span></p> 
+   <p begin="00:29:36.942" end="00:29:37.651" style="s1"><span style="s2">今の綾波の声ですよね？<br />ミサト…</span></p> 
+   <p begin="00:29:36.942" end="00:29:37.651" region="縦右">（ボタンを押す音）</p> 
+   <p begin="00:29:37.651" end="00:29:38.444" style="s1"><span style="s2">今の綾波の声ですよね？<br />ミサト…</span></p> 
+   <p begin="00:29:41.071" end="00:29:43.782" style="s1"><span style="s2">うっ　何なんだよ もう!!</span></p> 
+   <p begin="00:29:43.949" end="00:29:46.535" style="s1"><span style="s2">（サクラ）準備できました<br />碇さん こっちへ！</span></p> 
+   <p begin="00:29:46.660" end="00:29:49.246" style="s1"><span style="s2">（レイの声）イカリ君 どこ？</span></p> 
+   <p begin="00:29:49.872" end="00:29:51.332" style="s1"><span style="s2">（シンジ）やっぱり綾波だ</span></p> 
+   <p begin="00:29:51.749" end="00:29:54.126" style="s1"><span style="s2">うっ　綾波ですよ！</span></p> 
+   <p begin="00:29:54.335" end="00:29:57.004" style="s1"><span style="s2">（シンジ）うっ！<br />（サクラ）碇さん！ 急いで！</span></p> 
+   <p begin="00:29:57.338" end="00:29:58.756" style="s1"><span style="s2">（シンジ）ハァ…</span></p> 
+   <p begin="00:29:59.840" end="00:30:01.467" style="s1"><span style="s2">もういいよ</span></p> 
+   <p begin="00:30:01.717" end="00:30:03.385" style="s1"><span style="s2">綾波！ ここだっ!!</span></p> 
+   <p begin="00:30:03.385" end="00:30:03.886" style="s1"><span style="s2">綾波！ ここだっ!!</span></p> 
+   <p begin="00:30:03.385" end="00:30:03.886" region="縦右">（爆発音）</p> 
+   <p begin="00:30:03.886" end="00:30:04.261" region="縦右">（爆発音）</p> 
+   <p begin="00:30:04.261" end="00:30:05.679" region="縦右">（爆発音）</p> 
+   <p begin="00:30:04.261" end="00:30:05.679" style="s1"><span style="s2">（サクラ）きゃあ～!!</span></p> 
+   <p begin="00:30:06.430" end="00:30:08.474" style="s1"><span style="s2">（破壊音）</span></p> 
+   <p begin="00:30:16.565" end="00:30:18.984" style="s1"><span style="s2">エヴァ？ <span style="s3"><span style="s4">零</span><span style="s5">ゼロ</span></span>号機？</span></p> 
+   <p begin="00:30:19.360" end="00:30:21.904" style="s1"><span style="s2">（レイの声）イカリ君 こっちへ</span></p> 
+   <p begin="00:30:23.489" end="00:30:26.659" style="s1"><span style="s2">（ミサト）ダメよ シンジ君<br />ここにいなさい</span></p> 
+   <p begin="00:30:27.451" end="00:30:29.411" style="s1"><span style="s2">何だよ ミサトさん</span></p> 
+   <p begin="00:30:29.537" end="00:30:31.580" style="s1"><span style="s2">さっきまで“いらない”って<br />言ってたじゃないか！</span></p> 
+   <p begin="00:30:31.789" end="00:30:33.999" style="s1"><span style="s2">（ミサト）しかし<br />身柄は私たちで保護します</span></p> 
+   <p begin="00:30:34.208" end="00:30:36.335" style="s1"><span style="s2">そんなの勝手すぎですよ！</span></p> 
+   <p begin="00:30:37.002" end="00:30:40.005" style="s1"><span style="s2">（砲撃音）</span></p> 
+   <p begin="00:30:42.007" end="00:30:44.176" style="s1"><span style="s2">やめてください<br />相手はエヴァですよ！</span></p> 
+   <p begin="00:30:44.260" end="00:30:47.930" style="s1"><span style="s2">（ミサト）だからこそよ<br />ネルフのエヴァは全て殲滅します</span></p> 
+   <p begin="00:30:48.472" end="00:30:51.308" style="s1"><span style="s2">ネルフの？<br />ここもネルフじゃないですか！</span></p> 
+   <p begin="00:30:51.559" end="00:30:55.646" style="s1"><span style="s2">私たちはヴィレ<br />ネルフ壊滅を目的とする組織です</span></p> 
+   <p begin="00:30:56.313" end="00:30:57.523" style="s1"><span style="s2">（シンジ）そんな…</span></p> 
+   <p begin="00:30:58.107" end="00:31:01.068" style="s1"><span style="s2">いや でも乗っているのは<br />綾波なんですよ！</span></p> 
+   <p begin="00:31:01.151" end="00:31:03.696" style="s1"><span style="s2">（ミサト）違うわ<br />レイはもういないのよ　シンジ君</span></p> 
+   <p begin="00:31:03.862" end="00:31:05.030" style="s1"><span style="s2">ウソだ!!</span></p> 
+   <p begin="00:31:05.114" end="00:31:08.284" style="s1"><span style="s2">だって ここにいるでしょ！<br />ミサトさんのわからずや</span></p> 
+   <p begin="00:31:08.742" end="00:31:09.785" style="s1"><span style="s2">もういいよっ！</span></p> 
+   <p begin="00:31:09.910" end="00:31:12.454" style="s1"><span style="s2">（激しい被弾音）</span></p> 
+   <p begin="00:31:13.122" end="00:31:14.248" style="s1"><span style="s2">碇さん！</span></p> 
+   <p begin="00:31:15.749" end="00:31:19.837" style="s1"><span style="s2">勝手もいいですけど<br />エヴァにだけは乗らんでくださいよ</span></p> 
+   <p begin="00:31:20.629" end="00:31:22.464" style="s1"><span style="s2">ホンマ 勘弁してほしいわ</span></p> 
+   <p begin="00:31:22.923" end="00:31:25.759" style="s1"><span style="s2">（被弾音）</span></p> 
+   <p begin="00:31:28.554" end="00:31:29.805" style="s1"><span style="s2">（サクラ）あ… きゃあ!!</span></p> 
+   <p begin="00:31:31.432" end="00:31:32.850" style="s1"><span style="s2">逃がすな！ コネメガネ！</span></p> 
+   <p begin="00:31:32.975" end="00:31:34.018" style="s1"><span style="s2">合点承知</span></p> 
+   <p begin="00:31:37.229" end="00:31:42.443" style="s1"><span style="s2">（マリ）♪～<br />的を狙えば はずさないよ～</span></p> 
+   <p begin="00:31:43.777" end="00:31:45.988" style="s1"><span style="s2">ヘイ カモーン</span></p> 
+   <p begin="00:31:49.325" end="00:31:50.326" style="s1"><span style="s2">（被弾音）</span></p> 
+   <p begin="00:31:50.784" end="00:31:51.994" style="s1"><span style="s2">よっしゃぁ!!</span></p> 
+   <p begin="00:31:52.494" end="00:31:55.080" style="s1"><span style="s2">（銃声）</span></p> 
+   <p begin="00:31:57.708" end="00:31:59.710" style="s1"><span style="s2">やっぱし アダムスの器か？</span></p> 
+   <p begin="00:32:04.006" end="00:32:05.007" style="s1"><span style="s2">（エンジンの爆音）</span></p> 
+   <p begin="00:32:06.550" end="00:32:09.094" style="s1"><span style="s2">（マリ）<br />あいさつぐらいしてけ<br />おらぁー!!</span></p> 
+   <p begin="00:32:11.221" end="00:32:13.557" style="s1"><span style="s2">（リツコ）<br />彼を初号機に優先して<br />奪取ということは</span></p> 
+   <p begin="00:32:13.766" end="00:32:16.018" style="s1"><span style="s2">トリガーとしての可能性が<br />まだあるということよ</span></p> 
+   <p begin="00:32:16.310" end="00:32:18.520" style="s1"><span style="s2">ミサト ＤＳＳチョーカーを！</span></p> 
+   <p begin="00:32:22.191" end="00:32:27.821" style="s1"><span style="s2">（ピーッという電子音）</span></p> 
+   <p begin="00:32:33.661" end="00:32:36.413" style="s1"><span style="s2">（リツコ）<br />副長より通達　追撃不要</span></p> 
+   <p begin="00:32:36.538" end="00:32:40.542" style="s1"><span style="s2">各員は損傷箇所の応急処置と<br />艤装作業を再開</span></p> 
+   <p begin="00:32:40.668" end="00:32:42.336" region="縦右" style="s6">（青葉）<br />了解　追撃不要</p> 
+   <p begin="00:32:42.336" end="00:32:42.753" region="縦右" style="s6">（青葉）<br />了解　追撃不要</p> 
+   <p begin="00:32:42.336" end="00:32:42.753" style="s1"><span style="s2">（アスカ）ふん　あれじゃ</span></p> 
+   <p begin="00:32:42.753" end="00:32:42.836" style="s1"><span style="s2">（アスカ）ふん　あれじゃ</span></p> 
+   <p begin="00:32:42.836" end="00:32:44.463" style="s1"><span style="s2">（アスカ）ふん　あれじゃ</span></p> 
+   <p begin="00:32:42.836" end="00:32:44.463" region="縦右" style="s6">各員は<br />損傷箇所の応急処置</p> 
+   <p begin="00:32:44.463" end="00:32:44.713" region="縦右" style="s6">各員は<br />損傷箇所の応急処置</p> 
+   <p begin="00:32:44.797" end="00:32:45.005" style="s1"><span style="s2">バカじゃなく… ガキね</span></p> 
+   <p begin="00:32:45.005" end="00:32:47.049" style="s1"><span style="s2">バカじゃなく… ガキね</span></p> 
+   <p begin="00:32:45.005" end="00:32:47.049" region="縦右" style="s6">及び艤装作業を再開</p> 
+   <p begin="00:32:51.679" end="00:32:52.680" style="s1"><span style="s2">はっ…</span></p> 
+   <p begin="00:32:59.186" end="00:33:00.396" style="s1"><span style="s2">（シンジ）うっ…</span></p> 
+   <p begin="00:33:04.191" end="00:33:06.777" style="s1"><span style="s2">やっぱり助けてたじゃないか…</span></p> 
+   <p begin="00:33:07.528" end="00:33:08.737" style="s1"><span style="s2">ミサトさんのウソつき</span></p> 
+   <p begin="00:33:10.489" end="00:33:11.490" style="s1"><span style="s2">（レイ）こっちへ</span></p> 
+   <p begin="00:33:19.164" end="00:33:21.125" style="s1"><span style="s2">（シンジ）あっ あの…</span></p> 
+   <p begin="00:33:34.763" end="00:33:36.765" style="s1"><span style="s2">（ブレーキ音）</span></p> 
+   <p begin="00:33:36.890" end="00:33:40.686" style="s1"><span style="s2">（シンジ）ジオフロントなのに<br />空が見えてる？</span></p> 
+   <p begin="00:33:49.403" end="00:33:51.822" style="s1"><span style="s2">あれが… ネルフ本部？</span></p> 
+   <p begin="00:33:53.574" end="00:33:54.575" style="s1"><span style="s2">何があったんだ？</span></p> 
+   <p begin="00:34:21.518" end="00:34:25.022" style="s1"><span style="s2">（風の音）</span></p> 
+   <p begin="00:34:25.647" end="00:34:28.650" style="s1"><span style="s2">ホントに14年もたってるんだ</span></p> 
+   <p begin="00:34:29.443" end="00:34:32.279" region="縦右" style="s6">♪～<br />（ピアノの音色）</p> 
+   <p begin="00:34:32.279" end="00:34:33.280" region="縦右" style="s6">♪～<br />（ピアノの音色）</p> 
+   <p begin="00:34:32.279" end="00:34:33.280" style="s1"><span style="s2">ん？</span></p> 
+   <p begin="00:34:33.280" end="00:34:35.407" region="縦右" style="s6">♪～<br />（ピアノの音色）</p> 
+   <p begin="00:34:54.092" end="00:35:00.140" region="縦右" style="s6">～♪</p> 
+   <p begin="00:35:00.390" end="00:35:03.185" style="s1"><span style="s2">あっ… んん…</span></p> 
+   <p begin="00:35:03.727" end="00:35:04.561" style="s1"><span style="s2">（エレベーターの停止音）</span></p> 
+   <p begin="00:35:04.561" end="00:35:04.728" style="s1"><span style="s2">（エレベーターの停止音）</span></p> 
+   <p begin="00:35:04.561" end="00:35:04.728" region="縦右">（レイ）ここ</p> 
+   <p begin="00:35:04.728" end="00:35:05.562" region="縦右">（レイ）ここ</p> 
+   <p begin="00:35:07.523" end="00:35:08.524" style="s1"><span style="s2">（シンジ）んっ 何だ？</span></p> 
+   <p begin="00:35:11.401" end="00:35:12.569" style="s1"><span style="s2">エヴァ</span></p> 
+   <p begin="00:35:12.694" end="00:35:13.862" style="s1"><span style="s2">（ゲンドウ）そうだ</span></p> 
+   <p begin="00:35:17.658" end="00:35:18.867" style="s1"><span style="s2">父さん？</span></p> 
+   <p begin="00:35:19.076" end="00:35:23.997" style="s1"><span style="s2">（ゲンドウ）<br />エヴァンゲリオン第13号機<br />お前とそのパイロットの機体だ</span></p> 
+   <p begin="00:35:26.375" end="00:35:28.335" style="s1"><span style="s2">（シンジ）さっきのピアノの？</span></p> 
+   <p begin="00:35:29.837" end="00:35:33.173" style="s1"><span style="s2">（ゲンドウ）時が来たら<br />その少年とこのエヴァに乗れ</span></p> 
+   <p begin="00:35:33.841" end="00:35:35.217" style="s1"><span style="s2">話は終わりだ</span></p> 
+   <p begin="00:35:36.009" end="00:35:38.220" style="s1"><span style="s2">あ ちょっと待ってよ 父さん！</span></p> 
+   <p begin="00:35:38.387" end="00:35:41.807" style="s1"><span style="s2">（シンジ）まだ聞きたい事とか<br />話したい事がいっぱいあるんだ！</span></p> 
+   <p begin="00:35:41.890" end="00:35:43.392" style="s1"><span style="s2">父さん!!</span></p> 
+   <p begin="00:35:47.855" end="00:35:49.064" style="s1"><span style="s2">ハァ…</span></p> 
+   <p begin="00:35:50.107" end="00:35:52.526" style="s1"><span style="s2">（通話中の音）</span></p> 
+   <p begin="00:35:53.318" end="00:35:58.198" style="s1"><span style="s2">（シンジ）<br />ダイヤルもないし こっちからは<br />どこにもかけられないのか…</span></p> 
+   <p begin="00:35:58.282" end="00:35:59.283" style="s1"><span style="s2">（受話器を置く音）</span></p> 
+   <p begin="00:36:08.500" end="00:36:09.793" style="s1"><span style="s2">（深いため息）</span></p> 
+   <p begin="00:36:18.802" end="00:36:21.346" style="s1"><span style="s2">（シンジ）<br />やっぱり お礼言っとかなきゃ</span></p> 
+   <p begin="00:36:21.597" end="00:36:22.598" style="s1"><span style="s2">（ドアが開く音）</span></p> 
+   <p begin="00:36:27.019" end="00:36:30.689" style="s1"><span style="s2">（足音）</span></p> 
+   <p begin="00:36:27.019" end="00:36:30.689" region="縦右" style="s6">♪～</p> 
+   <p begin="00:36:30.689" end="00:36:31.356" region="縦右" style="s6">♪～</p> 
+   <p begin="00:36:31.356" end="00:36:33.066" region="縦右" style="s6">♪～</p> 
+   <p begin="00:36:31.356" end="00:36:33.066" style="s1"><span style="s2">（シンジ）綾波～！</span></p> 
+   <p begin="00:36:35.569" end="00:36:37.905" style="s1"><span style="s2">どこだよ 綾波！</span></p> 
+   <p begin="00:36:38.906" end="00:36:40.574" style="s1"><span style="s2">綾波～！</span></p> 
+   <p begin="00:37:14.816" end="00:37:16.860" style="s1"><span style="s2">何だろ ここ？</span></p> 
+   <p begin="00:37:16.944" end="00:37:19.112" region="縦右">～<span style="s6">♪</span></p> 
+   <p begin="00:37:19.112" end="00:37:22.032" region="縦右">～<span style="s6">♪</span></p> 
+   <p begin="00:37:19.112" end="00:37:22.032" style="s1"><span style="s2">綾波？ やっと見つけた</span></p> 
+   <p begin="00:37:22.908" end="00:37:24.785" style="s1"><span style="s2">（駆け寄る足音）</span></p> 
+   <p begin="00:37:24.910" end="00:37:26.662" style="s1"><span style="s2">（シンジ）<br />綾波　ずいぶん探したよ</span></p> 
+   <p begin="00:37:26.787" end="00:37:28.121" style="s1"><span style="s2">うわ あっ！</span></p> 
+   <p begin="00:37:28.205" end="00:37:32.042" style="s1"><span style="s2">ちょっ ちょっと！ あの… 服<br />何か服着てよ！</span></p> 
+   <p begin="00:37:33.627" end="00:37:35.796" style="s1"><span style="s2">命令 ならそうする</span></p> 
+   <p begin="00:37:36.004" end="00:37:37.422" style="s1"><span style="s2">（プラグスーツの装着音）</span></p> 
+   <p begin="00:37:37.631" end="00:37:38.799" style="s1"><span style="s2">（シンジ）入るよ</span></p> 
+   <p begin="00:37:39.591" end="00:37:40.592" style="s1"><span style="s2">…っと</span></p> 
+   <p begin="00:37:42.511" end="00:37:46.932" style="s1"><span style="s2">あ あの…<br />綾波 これありがとう</span></p> 
+   <p begin="00:37:48.183" end="00:37:49.726" style="s1"><span style="s2">ずっとお礼言いたかったんだ</span></p> 
+   <p begin="00:37:53.563" end="00:37:54.564" style="s1"><span style="s2">あ…</span></p> 
+   <p begin="00:37:57.526" end="00:38:01.113" style="s1"><span style="s2">あっ プラグスーツ<br />新しくなったんだ</span></p> 
+   <p begin="00:38:01.238" end="00:38:04.032" style="s1"><span style="s2">似合うけど 黒だとちょっと…</span></p> 
+   <p begin="00:38:09.871" end="00:38:14.710" style="s1"><span style="s2">何だか ずいぶん<br />変わっちゃったんだね ネルフ本部</span></p> 
+   <p begin="00:38:17.170" end="00:38:22.175" style="s1"><span style="s2">何でミサトさんは使徒じゃなくて<br />ネルフと戦ってるんだ？</span></p> 
+   <p begin="00:38:22.592" end="00:38:24.845" style="s1"><span style="s2">父さんは<br />ここで何する気なんだ？</span></p> 
+   <p begin="00:38:25.804" end="00:38:27.347" style="s1"><span style="s2">みんな どうしちゃったんだろ？</span></p> 
+   <p begin="00:38:27.514" end="00:38:29.474" style="s1"><span style="s2">ねえ 綾波は何か知らないの？</span></p> 
+   <p begin="00:38:31.226" end="00:38:32.227" style="s1"><span style="s2">知らない</span></p> 
+   <p begin="00:38:32.519" end="00:38:37.441" style="s1"><span style="s2">（シンジ）そっか…<br />うん そうかもな</span></p> 
+   <p begin="00:38:38.191" end="00:38:41.111" style="s1"><span style="s2">ねえ 綾波は<br />いつ初号機から戻ったの？</span></p> 
+   <p begin="00:38:44.698" end="00:38:46.408" style="s1"><span style="s2">フウ…</span></p> 
+   <p begin="00:38:48.076" end="00:38:51.413" style="s1"><span style="s2">ここ 部屋にもなってないよ</span></p> 
+   <p begin="00:38:52.873" end="00:38:55.292" style="s1"><span style="s2">綾波らしいと言えば そうだけど…</span></p> 
+   <p begin="00:38:55.876" end="00:38:59.421" style="s1"><span style="s2">学校とか なさそうだし<br />いつもどうしてるの？</span></p> 
+   <p begin="00:38:59.713" end="00:39:01.882" style="s1"><span style="s2">（レイ）命令を待ってる</span></p> 
+   <p begin="00:39:03.717" end="00:39:07.554" style="s1"><span style="s2">（シンジ）<br />あ… ここ本もないんだ<br />本とか読んでないの？</span></p> 
+   <p begin="00:39:08.388" end="00:39:13.477" style="s1"><span style="s2">本？ アヤナミレイなら<br />そうするの？</span></p> 
+   <p begin="00:39:13.727" end="00:39:18.065" style="s1"><span style="s2">（シンジ）<br />うん　よく読んでたじゃないか<br />部屋にもあったし</span></p> 
+   <p begin="00:39:18.273" end="00:39:19.274" style="s1"><span style="s2">そう</span></p> 
+   <p begin="00:39:19.399" end="00:39:23.570" style="s1"><span style="s2">（シンジ）<br />そうだ　本 ここの図書室で<br />探して持ってくるよ</span></p> 
+   <p begin="00:39:23.862" end="00:39:28.366" style="s1"><span style="s2">あの 英語の本がいいかな？<br />いつも持ってて好きみたいだし</span></p> 
+   <p begin="00:39:28.784" end="00:39:29.785" style="s1"><span style="s2">好き？</span></p> 
+   <p begin="00:39:30.077" end="00:39:33.038" style="s1"><span style="s2">うん… だと思うけど</span></p> 
+   <p begin="00:39:33.914" end="00:39:36.124" style="s1"><span style="s2">好きって 何？</span></p> 
+   <p begin="00:39:45.092" end="00:39:48.595" style="s1"><span style="s2">（冬月）ゼーレは まだ<br />沈黙を守ったままか</span></p> 
+   <p begin="00:39:49.596" end="00:39:53.725" style="s1"><span style="s2">（ゲンドウ）人類補完計画は<br /><span style="s3"><span style="s4">死</span><span style="s7">し</span></span><span style="s3"><span style="s4">海文書</span><span style="s7">かいもんじょ</span></span>通りに遂行される</span></p> 
+   <p begin="00:39:54.267" end="00:39:57.437" style="s1"><span style="s2">もはや 我々と語る必要はない</span></p> 
+   <p begin="00:39:58.188" end="00:40:02.234" style="s1"><span style="s2">（冬月）碇　今度は<br />第13号機を使うつもりか？</span></p> 
+   <p begin="00:40:04.820" end="00:40:08.949" style="s1"><span style="s2">まあいい<br />俺はお前の計画についていくだけだ</span></p> 
+   <p begin="00:40:09.783" end="00:40:11.451" style="s1"><span style="s2">ユイ君のためにもな</span></p> 
+   <p begin="00:40:11.701" end="00:40:17.207" style="s1"><span style="s2">（シンジ）<br />ん… ダメだ　動かないや</span></p> 
+   <p begin="00:40:18.083" end="00:40:19.209" style="s1"><span style="s2">ハァ…</span></p> 
+   <p begin="00:40:24.631" end="00:40:27.134" style="s1"><span style="s2">（ミサト）何もしないで<br />（アスカ）あんたには関係ない</span></p> 
+   <p begin="00:40:27.217" end="00:40:28.969" style="s1"><span style="s2">エヴァにだけは<br />乗らんでくださいよ</span></p> 
+   <p begin="00:40:29.052" end="00:40:30.804" style="s1"><span style="s2">（ゲンドウ）エヴァに乗れ<br />（レイ）知らない</span></p> 
+   <p begin="00:40:39.646" end="00:40:40.856" style="s1"><span style="s2">あ…</span></p> 
+   <p begin="00:40:42.232" end="00:40:45.527" style="s1"><span style="s2">（物音）</span></p> 
+   <p begin="00:40:53.201" end="00:40:54.286" style="s1"><span style="s2">（シンジ）ハァ…</span></p> 
+   <p begin="00:41:06.256" end="00:41:08.800" style="s1"><span style="s2">（草花が風に揺れる音）</span></p> 
+   <p begin="00:41:14.139" end="00:41:15.348" style="s1"><span style="s2">ハァ…</span></p> 
+   <p begin="00:41:17.100" end="00:41:25.692" region="縦右">♪<span style="s6">（ピアノの音色）</span></p> 
+   <p begin="00:41:25.775" end="00:41:28.904" style="s1"><span style="s2">（カヲル）<br />降りてきなよ 碇君　話そうよ</span></p> 
+   <p begin="00:41:34.367" end="00:41:37.829" style="s1"><span style="s2">あっ… あの<br />話をするんじゃないの？</span></p> 
+   <p begin="00:41:38.079" end="00:41:42.083" style="s1"><span style="s2">（カヲル）<br />ピアノの連弾も音階の会話さ<br />やってみなよ</span></p> 
+   <p begin="00:41:42.209" end="00:41:43.293" style="s1"><span style="s2">（シンジ）うーん…</span></p> 
+   <p begin="00:41:44.961" end="00:41:47.631" style="s1"><span style="s2">（シンジ）<br />いいよ　僕には無理だよ</span></p> 
+   <p begin="00:41:48.089" end="00:41:52.385" style="s1"><span style="s2">生きていくためには<br />新しい事を始める変化も大切だ</span></p> 
+   <p begin="00:41:53.470" end="00:41:54.471" style="s1"><span style="s2">んっ</span></p> 
+   <p begin="00:41:55.805" end="00:41:56.973" style="s1"><span style="s2">♪（ピアノの音色）</span></p> 
+   <p begin="00:41:56.973" end="00:41:58.016" style="s1"><span style="s2">♪（ピアノの音色）</span></p> 
+   <p begin="00:41:56.973" end="00:41:58.016" region="縦右">（カヲル）簡単さ</p> 
+   <p begin="00:41:58.808" end="00:41:59.809" style="s1"><span style="s2">君はこっちで<span style="s8">―</span></span></p> 
+   <p begin="00:41:59.893" end="00:42:02.646" style="s1"><span style="s2">鍵盤をたたくだけでいいんだ</span></p> 
+   <p begin="00:42:06.608" end="00:42:12.447" style="s1"><span style="s2">（鍵盤をたたく音）</span></p> 
+   <p begin="00:42:14.324" end="00:42:16.284" style="s1"><span style="s2">（軽快なピアノの音）</span></p> 
+   <p begin="00:42:16.409" end="00:42:18.995" style="s1"><span style="s2">さ　弾いてみなよ</span></p> 
+   <p begin="00:42:20.664" end="00:42:21.998" style="s1"><span style="s2">（シンジ）うん…</span></p> 
+   <p begin="00:42:23.416" end="00:42:29.214" style="s1"><span style="s2">（たどたどしいピアノの音）</span></p> 
+   <p begin="00:42:31.758" end="00:42:34.761" style="s10"><span style="s2">♪～</span></p> 
+   <p begin="00:42:42.936" end="00:42:45.647" style="s1"><span style="s2">いいね！ いいよ 君との音</span></p> 
+   <p begin="00:43:21.433" end="00:43:24.894" style="s1"><span style="s2">音が楽しい<br />２人って すごいね</span></p> 
+   <p begin="00:43:24.894" end="00:43:25.979" style="s1"><span style="s2">音が楽しい<br />２人って すごいね</span></p> 
+   <p begin="00:43:24.894" end="00:43:25.979" region="縦右" style="s6">～♪</p> 
+   <p begin="00:43:25.979" end="00:43:28.898" region="縦右" style="s6">～♪</p> 
+   <p begin="00:43:31.568" end="00:43:35.697" style="s1"><span style="s2">（シンジ）ありがとう<br />何だか久しぶりに楽しかったよ</span></p> 
+   <p begin="00:43:35.864" end="00:43:37.157" style="s1"><span style="s2">（カヲル）僕もさ</span></p> 
+   <p begin="00:43:37.324" end="00:43:40.952" style="s1"><span style="s2">またやろう<br />いつでも来てよ　碇シンジ君</span></p> 
+   <p begin="00:43:41.411" end="00:43:44.664" style="s1"><span style="s2">うん　あっ あの 君は？</span></p> 
+   <p begin="00:43:45.165" end="00:43:47.751" style="s1"><span style="s2">僕はカヲル　<span style="s3"><span style="s4">渚</span><span style="s5">なぎさ</span></span>カヲル</span></p> 
+   <p begin="00:43:49.002" end="00:43:52.088" style="s1"><span style="s2">君と同じ<br />運命を仕組まれた子どもさ</span></p> 
+   <p begin="00:43:58.011" end="00:43:59.346" style="s1"><span style="s2">（シンジ）またいない…</span></p> 
+   <p begin="00:44:00.430" end="00:44:01.723" style="s1"><span style="s2">本もそのままか</span></p> 
+   <p begin="00:44:09.981" end="00:44:14.694" style="s1"><span style="s2">（足音）</span></p> 
+   <p begin="00:44:18.740" end="00:44:21.576" style="s1"><span style="s2">（カヲル）<br />おはよう　碇シンジ君</span></p> 
+   <p begin="00:44:22.452" end="00:44:23.703" style="s1"><span style="s2">今日は早いね</span></p> 
+   <p begin="00:44:24.621" end="00:44:26.539" style="s1"><span style="s2">ほかにすることがないから</span></p> 
+   <p begin="00:44:26.623" end="00:44:29.626" style="s10"><span style="s2">♪～</span></p> 
+   <p begin="00:44:45.600" end="00:44:51.606" style="s10"><span style="s2">♪</span></p> 
+   <p begin="00:44:56.152" end="00:44:59.280" style="s1"><span style="s2">（シンジ）どうしたら<br />もっとうまく弾けるのかな？</span></p> 
+   <p begin="00:44:59.572" end="00:45:02.075" style="s1"><span style="s2">（カヲル）<br />うまく弾く必要はないよ</span></p> 
+   <p begin="00:45:02.242" end="00:45:04.786" style="s1"><span style="s2">ただ気持ちのいい音を出せばいい</span></p> 
+   <p begin="00:45:06.579" end="00:45:09.207" style="s1"><span style="s2">（シンジ）じゃあ もっと<br />いい音を出したいんだけど</span></p> 
+   <p begin="00:45:09.290" end="00:45:10.625" style="s1"><span style="s2">どうすればいい？</span></p> 
+   <p begin="00:45:11.042" end="00:45:15.547" style="s1"><span style="s2">（カヲル）反復練習さ<br />同じ事を何度も繰り返す</span></p> 
+   <p begin="00:45:15.922" end="00:45:18.883" style="s1"><span style="s2">自分が“いいな”って<br />感じられるまでね</span></p> 
+   <p begin="00:45:19.259" end="00:45:20.635" style="s1"><span style="s2">それしかない</span></p> 
+   <p begin="00:45:24.514" end="00:45:29.144" style="s1"><span style="s2">～<span style="s6">♪</span></span></p> 
+   <p begin="00:45:36.484" end="00:45:37.652" style="s1"><span style="s2">ああ…</span></p> 
+   <p begin="00:45:50.540" end="00:45:54.169" style="s1"><span style="s2">（カヲル）いいよ　任せて<br />動くようにすればいいんだね</span></p> 
+   <p begin="00:45:54.294" end="00:45:56.504" style="s1"><span style="s2">（シンジ）うん　ありがとう</span></p> 
+   <p begin="00:45:56.629" end="00:45:59.591" style="s1"><span style="s2">何だか悪いかな<br />こんな事まで頼んじゃって</span></p> 
+   <p begin="00:45:59.841" end="00:46:03.720" style="s1"><span style="s2">（カヲル）<br />気にする事はないよ<br />友達だからね</span></p> 
+   <p begin="00:46:04.471" end="00:46:05.638" style="s1"><span style="s2">あは</span></p> 
+   <p begin="00:46:08.308" end="00:46:11.811" style="s1"><span style="s2">（カヲル）暗くなってきたね<br />今日は これで戻ろう</span></p> 
+   <p begin="00:46:12.437" end="00:46:17.192" style="s1"><span style="s2">（シンジ）<br />ねえ もう少しここにいない？<br />このまま星を見ようよ</span></p> 
+   <p begin="00:46:17.400" end="00:46:18.401" style="s1"><span style="s2">（カヲル）星を？</span></p> 
+   <p begin="00:46:21.154" end="00:46:22.572" style="s1"><span style="s2">星が好きなのかい？</span></p> 
+   <p begin="00:46:23.198" end="00:46:24.324" style="s1"><span style="s2">（シンジ）うん</span></p> 
+   <p begin="00:46:25.366" end="00:46:28.203" style="s1"><span style="s2">この宇宙の大きさを感じてると</span></p> 
+   <p begin="00:46:28.703" end="00:46:32.582" style="s1"><span style="s2">小さい時から なんだか<br />すごく安らぐっていうか</span></p> 
+   <p begin="00:46:33.500" end="00:46:36.544" style="s1"><span style="s2">14年くらいじゃ<br />何にも変わらないのが<span style="s8">―</span></span></p> 
+   <p begin="00:46:36.669" end="00:46:38.379" style="s1"><span style="s2">うれしいっていうか</span></p> 
+   <p begin="00:46:39.088" end="00:46:41.549" style="s1"><span style="s2">自分の事なんて<br />どうでもいい気がして</span></p> 
+   <p begin="00:46:42.133" end="00:46:44.093" style="s1"><span style="s2">落ち着くっていうか…</span></p> 
+   <p begin="00:46:44.677" end="00:46:47.722" style="s1"><span style="s2">あの… うまく言えないよ</span></p> 
+   <p begin="00:46:47.972" end="00:46:50.141" style="s1"><span style="s2">（カヲル）<br />君の気持ちは伝わるよ</span></p> 
+   <p begin="00:46:50.850" end="00:46:55.605" style="s1"><span style="s2">変化を求めず<br />虚無と無慈悲な<span style="s3"><span style="s4">深淵</span><span style="s7">しんえん</span></span>の世界を好む</span></p> 
+   <p begin="00:46:56.147" end="00:47:00.860" style="s1"><span style="s2">君らしいよ<br />いいね　２人で横たわるって</span></p> 
+   <p begin="00:47:01.819" end="00:47:04.322" style="s1"><span style="s2">こんなに心地よいとは<br />知らなかったよ</span></p> 
+   <p begin="00:47:05.281" end="00:47:07.575" style="s1"><span style="s2">ありがとう　誘ってくれて</span></p> 
+   <p begin="00:47:07.700" end="00:47:09.744" style="s1"><span style="s2">（シンジ）いやそんな 別に…</span></p> 
+   <p begin="00:47:09.953" end="00:47:12.121" style="s1"><span style="s2">渚君と星を見たら あの…</span></p> 
+   <p begin="00:47:12.330" end="00:47:15.750" style="s1"><span style="s2">楽しいかなって<br />ちょっと思っただけ… あっ</span></p> 
+   <p begin="00:47:16.376" end="00:47:17.418" style="s1"><span style="s2">楽しいよ</span></p> 
+   <p begin="00:47:19.420" end="00:47:22.173" style="s1"><span style="s2">僕は君と会うために<br />生まれてきたんだね</span></p> 
+   <p begin="00:47:30.139" end="00:47:32.267" style="s1"><span style="s2">（扉の開閉音）</span></p> 
+   <p begin="00:47:33.434" end="00:47:34.435" style="s1"><span style="s2">ん？</span></p> 
+   <p begin="00:47:37.105" end="00:47:38.356" style="s1"><span style="s2">あ…</span></p> 
+   <p begin="00:47:38.856" end="00:47:41.526" style="s1"><span style="s2">今度のは<br />ちょっと大っきいかな</span></p> 
+   <p begin="00:47:41.651" end="00:47:43.361" style="s1"><span style="s2">ん？ あれ？</span></p> 
+   <p begin="00:47:46.239" end="00:47:47.448" style="s1"><span style="s2">あぁっ！</span></p> 
+   <p begin="00:47:49.492" end="00:47:51.828" style="s1"><span style="s2">（カヲル）ハイ<br />これで動くようになったよ</span></p> 
+   <p begin="00:47:52.745" end="00:47:54.247" style="s1"><span style="s2">（シンジ）ありがとう</span></p> 
+   <p begin="00:47:54.372" end="00:47:57.584" style="s1"><span style="s2">すごいね渚君<br />何でも出来ちゃうんだ</span></p> 
+   <p begin="00:47:57.709" end="00:48:00.128" style="s1"><span style="s2">（カヲル）<br />こんなのは知識にすぎない</span></p> 
+   <p begin="00:48:00.253" end="00:48:03.089" style="s1"><span style="s2">君より少し この世界に<br />とどまっているからだよ</span></p> 
+   <p begin="00:48:04.007" end="00:48:06.342" style="s1"><span style="s2">でも… すごいよ</span></p> 
+   <p begin="00:48:08.177" end="00:48:11.472" style="s1"><span style="s2">元気 少ないね<br />どうしたんだい？</span></p> 
+   <p begin="00:48:15.268" end="00:48:17.854" style="s1"><span style="s2">心配になったんだ　友達が</span></p> 
+   <p begin="00:48:18.896" end="00:48:19.897" style="s1"><span style="s2">友達？</span></p> 
+   <p begin="00:48:20.189" end="00:48:21.399" style="s1"><span style="s2">（シンジ）うん</span></p> 
+   <p begin="00:48:21.858" end="00:48:26.487" style="s1"><span style="s2">ネルフ本部の上に街があって<br />みんな そこにいたんだ</span></p> 
+   <p begin="00:48:26.779" end="00:48:30.074" style="s1"><span style="s2">トウジやケンスケ<br />委員長やクラスのみんなも</span></p> 
+   <p begin="00:48:30.908" end="00:48:34.829" style="s1"><span style="s2">僕は14年間も初号機の中で<br />眠ってたみたいなんだ…</span></p> 
+   <p begin="00:48:35.496" end="00:48:39.083" style="s1"><span style="s2">その間に<br />何もかも変わっちゃったんだよ</span></p> 
+   <p begin="00:48:39.584" end="00:48:42.920" style="s1"><span style="s2">その変化に耐えきれず<br />つらいんだね</span></p> 
+   <p begin="00:48:43.921" end="00:48:47.842" style="s1"><span style="s2">（シンジ）<br />何だか怖いんだ　街が…</span></p> 
+   <p begin="00:48:49.302" end="00:48:54.265" style="s1"><span style="s2">みんなが どうなっちゃってるのか<br />ワケわからなくて怖いんだ</span></p> 
+   <p begin="00:48:54.474" end="00:48:56.059" style="s1"><span style="s2">そう 怖いんだよ！</span></p> 
+   <p begin="00:49:04.651" end="00:49:05.777" style="s1"><span style="s2">知りたいかい？</span></p> 
+   <p begin="00:49:09.072" end="00:49:11.616" style="s1"><span style="s2">（強風の音）</span></p> 
+   <p begin="00:49:11.783" end="00:49:14.744" style="s1"><span style="s2">（シンジの荒い息づかい）</span></p> 
+   <p begin="00:49:15.328" end="00:49:17.372" style="s1"><span style="s2">（吹きつける風の音）</span></p> 
+   <p begin="00:49:18.665" end="00:49:19.832" style="s1"><span style="s2">（シンジ）うわっ！ あっ</span></p> 
+   <p begin="00:49:21.501" end="00:49:22.502" style="s1"><span style="s2">うう…</span></p> 
+   <p begin="00:49:29.550" end="00:49:30.551" style="s1"><span style="s2">あっ</span></p> 
+   <p begin="00:49:34.263" end="00:49:34.847" style="s1"><span style="s2">渚君？ 渚君!!</span></p> 
+   <p begin="00:49:34.847" end="00:49:36.224" style="s1"><span style="s2">渚君？ 渚君!!</span></p> 
+   <p begin="00:49:34.847" end="00:49:36.224" region="縦右">（強風の音）</p> 
+   <p begin="00:49:36.224" end="00:49:36.349" region="縦右">（強風の音）</p> 
+   <p begin="00:49:36.349" end="00:49:37.684" region="縦右">（強風の音）</p> 
+   <p begin="00:49:36.349" end="00:49:37.684" style="s1"><span style="s2">あっ！</span></p> 
+   <p begin="00:49:37.684" end="00:49:38.351" region="縦右">（強風の音）</p> 
+   <p begin="00:49:38.351" end="00:49:39.519" region="縦右">（強風の音）</p> 
+   <p begin="00:49:38.351" end="00:49:39.519" style="s1"><span style="s2">うっ…</span></p> 
+   <p begin="00:49:42.397" end="00:49:44.482" style="s1"><span style="s2">（近づく足音）</span></p> 
+   <p begin="00:49:49.862" end="00:49:51.239" style="s1"><span style="s2">（シンジ）ああ…</span></p> 
+   <p begin="00:49:51.698" end="00:49:54.075" style="s1"><span style="s2">（カヲル）さあ もう少しだ</span></p> 
+   <p begin="00:50:06.504" end="00:50:11.592" style="s1"><span style="s2">（シンジ）ハァ ハァ ハァ…</span></p> 
+   <p begin="00:50:11.759" end="00:50:13.553" style="s1"><span style="s2">（カヲル）もうすぐ雲が切れる</span></p> 
+   <p begin="00:50:14.429" end="00:50:16.472" style="s1"><span style="s2">君の知りたい真実が見えるよ</span></p> 
+   <p begin="00:50:21.394" end="00:50:22.937" style="s1"><span style="s2">（シンジの息をのむ声）</span></p> 
+   <p begin="00:50:24.814" end="00:50:25.857" style="s1"><span style="s2">何だ これ？</span></p> 
+   <p begin="00:50:32.113" end="00:50:35.116" style="s1"><span style="s2">（カヲル）君が初号機と<br />同化している間に起こった<span style="s8">―</span></span></p> 
+   <p begin="00:50:35.241" end="00:50:37.410" style="s1"><span style="s2">サードインパクトの結果だよ</span></p> 
+   <p begin="00:50:40.747" end="00:50:44.375" style="s1"><span style="s2">（シンジ）<br />これじゃ… 街のみんなは</span></p> 
+   <p begin="00:50:44.917" end="00:50:48.087" style="s1"><span style="s2">この星での大量絶滅は<br />珍しい事じゃない</span></p> 
+   <p begin="00:50:48.671" end="00:50:51.340" style="s1"><span style="s2">（カヲル）<br />むしろ進化を促す面もある</span></p> 
+   <p begin="00:50:52.049" end="00:50:57.180" style="s1"><span style="s2">生命とは本来 世界に合わせて<br />自らを変えていく存在だからね</span></p> 
+   <p begin="00:50:57.972" end="00:51:03.436" style="s1"><span style="s2">しかし リリンは自らではなく<br />世界のほうを変えていく</span></p> 
+   <p begin="00:51:04.312" end="00:51:09.567" style="s1"><span style="s2">だから 自らを人工的に<br />進化させるための儀式を起こした</span></p> 
+   <p begin="00:51:10.610" end="00:51:13.112" style="s1"><span style="s2"><span style="s3"><span style="s4">古</span><span style="s5">いにしえ</span></span>の生命体をニエとし</span></p> 
+   <p begin="00:51:13.237" end="00:51:17.408" style="s1"><span style="s2">生命の実を与えた新たな生命体を<br />作り出すためにね</span></p> 
+   <p begin="00:51:18.284" end="00:51:22.330" style="s1"><span style="s2">全てが太古より<br />プログラムされていた絶滅行動だ</span></p> 
+   <p begin="00:51:23.039" end="00:51:26.709" style="s1"><span style="s2">ネルフでは<br />“人類補完計画”と呼んでいたよ</span></p> 
+   <p begin="00:51:27.919" end="00:51:30.797" style="s1"><span style="s2">ネルフが これを…</span></p> 
+   <p begin="00:51:31.839" end="00:51:35.009" style="s1"><span style="s2">父さんは何をやってるんだ</span></p> 
+   <p begin="00:51:37.804" end="00:51:38.971" style="s1"><span style="s2">碇シンジ君</span></p> 
+   <p begin="00:51:40.223" end="00:51:44.519" style="s1"><span style="s2">一度 覚醒し<br />ガフの扉を開いたエヴァ初号機は</span></p> 
+   <p begin="00:51:44.644" end="00:51:47.522" style="s1"><span style="s2">サードインパクトの<br />トリガーとなってしまった</span></p> 
+   <p begin="00:51:48.314" end="00:51:51.150" style="s1"><span style="s2">リリンの言う<br />ニアサードインパクト</span></p> 
+   <p begin="00:51:52.026" end="00:51:54.570" style="s1"><span style="s2">全てのきっかけは<br />君なんだよ</span></p> 
+   <p begin="00:51:54.821" end="00:51:56.155" style="s1"><span style="s2">（息をのむ声）</span></p> 
+   <p begin="00:51:58.574" end="00:52:04.539" style="s1"><span style="s2">（シンジ）違う　僕はただ<br />綾波を助けたかっただけだ</span></p> 
+   <p begin="00:52:06.040" end="00:52:09.794" style="s1"><span style="s2">（カヲル）そうだね<br />しかし それが原因だよ</span></p> 
+   <p begin="00:52:11.003" end="00:52:12.630" style="s1"><span style="s2">（シンジ）そんな…</span></p> 
+   <p begin="00:52:15.007" end="00:52:17.051" style="s1"><span style="s2">僕は知らないよ！</span></p> 
+   <p begin="00:52:17.176" end="00:52:20.304" style="s1"><span style="s2">そんな事 急に言われたって<br />どうしようもないよ!!</span></p> 
+   <p begin="00:52:20.513" end="00:52:24.100" style="s1"><span style="s2">（カヲル）そう<br />どうしようもない君の過去</span></p> 
+   <p begin="00:52:24.976" end="00:52:27.186" style="s1"><span style="s2">君が知りたかった真実だ</span></p> 
+   <p begin="00:52:28.229" end="00:52:32.817" style="s1"><span style="s2">結果として リリンは<br />君に罪の代償を与えた</span></p> 
+   <p begin="00:52:33.359" end="00:52:36.445" style="s1"><span style="s2">それが<br />その首のモノじゃないのかい？</span></p> 
+   <p begin="00:52:36.612" end="00:52:39.740" style="s1"><span style="s2">（シンジ）は… 罪だなんて</span></p> 
+   <p begin="00:52:40.449" end="00:52:43.494" style="s1"><span style="s2">何もしてないよ！<br />僕は関係ないよっ!!</span></p> 
+   <p begin="00:52:44.245" end="00:52:46.539" style="s1"><span style="s2">（カヲル）君になくても<br />他人からはあるのさ</span></p> 
+   <p begin="00:52:48.082" end="00:52:51.210" style="s1"><span style="s2">ただ… 償えない罪はない</span></p> 
+   <p begin="00:52:52.211" end="00:52:55.590" style="s1"><span style="s2">希望は残っているよ<br />どんな時にもね</span></p> 
+   <p begin="00:52:55.965" end="00:52:56.966" style="s1"><span style="s2">ああ…</span></p> 
+   <p begin="00:53:13.065" end="00:53:16.652" style="s1"><span style="s2">（冬月）ゼーレの少年が<br />第３の少年と接触</span></p> 
+   <p begin="00:53:16.777" end="00:53:18.696" style="s1"><span style="s2">外界の様を見せたようだ</span></p> 
+   <p begin="00:53:19.405" end="00:53:21.949" style="s1"><span style="s2">はたして どう受け止めるのか…</span></p> 
+   <p begin="00:53:22.909" end="00:53:24.535" style="s1"><span style="s2">いいのか 碇</span></p> 
+   <p begin="00:53:25.161" end="00:53:28.205" style="s1"><span style="s2">ゼーレのシナリオを<br />我々で書き換える</span></p> 
+   <p begin="00:53:28.915" end="00:53:31.959" style="s1"><span style="s2">あらゆる存在は<br />そのための道具にすぎん</span></p> 
+   <p begin="00:53:32.460" end="00:53:36.839" style="s1"><span style="s2">お前の生き様を見せても<br />息子のためにはならんとするか</span></p> 
+   <p begin="00:53:38.382" end="00:53:40.343" style="s1"><span style="s2">（冬月）私はそうは思わんがな</span></p> 
+   <p begin="00:53:43.179" end="00:53:48.351" style="s1"><span style="s2">（シンジ）何でだよ<br />あんな事になってるなんて</span></p> 
+   <p begin="00:53:52.480" end="00:53:58.694" style="s1"><span style="s2">そうだ　綾波は助けたんだ<br />それでいいじゃないか</span></p> 
+   <p begin="00:54:06.327" end="00:54:09.997" style="s1"><span style="s2">（水泡の音）</span></p> 
+   <p begin="00:54:22.259" end="00:54:25.846" style="s1"><span style="s2">（シンジ）またいない…<br />まだ読んでない</span></p> 
+   <p begin="00:54:28.140" end="00:54:29.850" style="s1"><span style="s2">（シンジ）何だよ</span></p> 
+   <p begin="00:54:30.184" end="00:54:33.104" style="s1"><span style="s2">綾波も どうしちゃったんだよ<br />もうっ！</span></p> 
+   <p begin="00:54:42.446" end="00:54:45.449" style="s1"><span style="s2">（冬月）第３の少年<br />将棋はうてるか？</span></p> 
+   <p begin="00:54:46.492" end="00:54:49.203" style="s1"><span style="s2">（シンジ）<br />ええ　ルールくらいは</span></p> 
+   <p begin="00:54:49.662" end="00:54:52.540" style="s1"><span style="s2">（冬月）<br />結構だ　つきあいたまえ</span></p> 
+   <p begin="00:54:52.665" end="00:54:54.375" style="s1"><span style="s2">“<span style="s3"><span style="s4">飛車角金</span><span style="s5">ひしゃかくきん</span></span>”は落としてやる</span></p> 
+   <p begin="00:55:02.675" end="00:55:04.969" style="s1"><span style="s2">心を静かに落ち着かせる</span></p> 
+   <p begin="00:55:05.803" end="00:55:08.097" style="s1"><span style="s2">戦いに勝つために必要な事だ</span></p> 
+   <p begin="00:55:09.473" end="00:55:12.351" style="s1"><span style="s2">31手先で君の詰みだ</span></p> 
+   <p begin="00:55:12.435" end="00:55:13.436" style="s1"><span style="s2">ん…</span></p> 
+   <p begin="00:55:15.229" end="00:55:16.313" style="s1"><span style="s2">うーん</span></p> 
+   <p begin="00:55:21.527" end="00:55:22.945" style="s1"><span style="s2">（冬月）これなら楽しめるか</span></p> 
+   <p begin="00:55:25.489" end="00:55:29.201" style="s1"><span style="s2">老人の趣味につきあってくれて<br />礼を言う</span></p> 
+   <p begin="00:55:33.122" end="00:55:36.792" style="s1"><span style="s2">私も臆病でね<br />口実でもなければ<span style="s8">―</span></span></p> 
+   <p begin="00:55:36.876" end="00:55:39.295" style="s1"><span style="s2">こうして君と話す機会を<br />持てなかった</span></p> 
+   <p begin="00:55:40.546" end="00:55:42.965" style="s1"><span style="s2">君は お母さんを覚えているかね？</span></p> 
+   <p begin="00:55:44.216" end="00:55:47.928" style="s1"><span style="s2">いえ　まだ小さかったし</span></p> 
+   <p begin="00:55:48.262" end="00:55:52.558" style="s1"><span style="s2">それに母のモノは<br />父が全部処分したので</span></p> 
+   <p begin="00:55:53.350" end="00:55:55.561" style="s1"><span style="s2">え？ あっ</span></p> 
+   <p begin="00:55:57.313" end="00:55:58.314" style="s1"><span style="s2">（シンジ）このヒトは…</span></p> 
+   <p begin="00:56:00.357" end="00:56:01.358" style="s1"><span style="s2">綾波？</span></p> 
+   <p begin="00:56:01.776" end="00:56:06.113" region="縦右">君の母親だ<br />旧姓は綾波ユイ</p> 
+   <p begin="00:56:06.530" end="00:56:08.741" region="縦右">大学では<br />私の教え子だった</p> 
+   <p begin="00:56:10.242" end="00:56:12.286" region="縦右">今はエヴァ初号機の</p> 
+   <p begin="00:56:12.369" end="00:56:13.954" region="縦右">制御システムと<br />なっている</p> 
+   <p begin="00:56:14.038" end="00:56:15.039" style="s1"><span style="s2">はぁ！</span></p> 
+   <p begin="00:56:15.289" end="00:56:17.416" style="s1"><span style="s2">（変圧器の稼働音）</span></p> 
+   <p begin="00:56:17.541" end="00:56:20.628" style="s1"><span style="s2">（冬月）ふむ<br />ようやく電源が復旧したか</span></p> 
+   <p begin="00:56:20.753" end="00:56:21.295" style="s1"><span style="s2">（照明が切り替わる音）</span></p> 
+   <p begin="00:56:21.295" end="00:56:22.296" style="s1"><span style="s2">（照明が切り替わる音）</span></p> 
+   <p begin="00:56:21.295" end="00:56:22.296" region="縦右">（シンジ）はっ！</p> 
+   <p begin="00:56:23.589" end="00:56:26.634" style="s1"><span style="s2">（冬月）<br />エヴァの極初期型制御システムだ</span></p> 
+   <p begin="00:56:27.051" end="00:56:31.722" style="s1"><span style="s2">ここでユイ君が発案した<br />コアへのダイレクトエントリーを</span></p> 
+   <p begin="00:56:31.847" end="00:56:34.183" style="s1"><span style="s2">自らが被験者となり試みた</span></p> 
+   <p begin="00:56:35.142" end="00:56:38.771" style="s1"><span style="s2">君も見ていたよ<br />記憶が消去されているがな</span></p> 
+   <p begin="00:56:45.444" end="00:56:48.864" style="s1"><span style="s2">結果　ユイ君はここで消え</span></p> 
+   <p begin="00:56:49.031" end="00:56:52.243" style="s1"><span style="s2">彼女の情報だけが<br />アヤナミシリーズに残された</span></p> 
+   <p begin="00:56:52.660" end="00:56:58.207" style="s1"><span style="s2">君の知っている綾波レイは<br />ユイ君の複製体の１つだ</span></p> 
+   <p begin="00:56:58.374" end="00:57:03.420" style="s1"><span style="s2">その娘も君の母親同様<br />初号機の中に保存されている</span></p> 
+   <p begin="00:57:03.546" end="00:57:05.589" style="s1"><span style="s2">全ては碇の計画だよ</span></p> 
+   <p begin="00:57:06.966" end="00:57:08.467" style="s1"><span style="s2">（シンジ）そんな…</span></p> 
+   <p begin="00:57:10.136" end="00:57:13.139" style="s1"><span style="s2">（冬月）<br />世界を崩す事は造作もない</span></p> 
+   <p begin="00:57:14.098" end="00:57:17.643" style="s1"><span style="s2">だが 造り直すとなると<br />そうもいかん</span></p> 
+   <p begin="00:57:17.977" end="00:57:21.522" style="s1"><span style="s2">時と同じく<br />世界に可逆性はないからな</span></p> 
+   <p begin="00:57:22.648" end="00:57:24.233" style="s1"><span style="s2">ヒトの心にも</span></p> 
+   <p begin="00:57:24.775" end="00:57:28.612" style="s1"><span style="s2">だから今<br />碇は自分の願いをかなえるために</span></p> 
+   <p begin="00:57:28.696" end="00:57:30.447" style="s1"><span style="s2">あらゆる犠牲を払っている</span></p> 
+   <p begin="00:57:30.865" end="00:57:32.658" style="s1"><span style="s2">自分の魂もだ</span></p> 
+   <p begin="00:57:33.993" end="00:57:36.996" style="s1"><span style="s2">君には少し<br />真実を伝えておきたかった</span></p> 
+   <p begin="00:57:37.454" end="00:57:38.956" style="s1"><span style="s2">父親の事も</span></p> 
+   <p begin="00:57:51.010" end="00:57:53.554" style="s1"><span style="s2">まったく嫌な役だ</span></p> 
+   <p begin="00:57:54.555" end="00:57:57.892" style="s1"><span style="s2">ユイ君…<br />これでいいんだな</span></p> 
+   <p begin="00:58:05.191" end="00:58:07.401" style="s1"><span style="s2">（ゲンドウ）<br />最後の契約の時が来る</span></p> 
+   <p begin="00:58:09.612" end="00:58:12.907" style="s1"><span style="s2">もうすぐ会えるな… ユイ</span></p> 
+   <p begin="00:58:21.207" end="00:58:23.959" style="s1"><span style="s2">（シンジ）<br />何で本 読まないんだよ</span></p> 
+   <p begin="00:58:25.419" end="00:58:26.962" style="s1"><span style="s2">（レイ）命令にないから</span></p> 
+   <p begin="00:58:27.421" end="00:58:28.964" style="s1"><span style="s2">（シンジ）命令か…</span></p> 
+   <p begin="00:58:30.716" end="00:58:32.092" style="s1"><span style="s2">じゃあ もういいよっ！</span></p> 
+   <p begin="00:58:32.218" end="00:58:33.886" style="s1"><span style="s2">（本が崩れ落ちる音）</span></p> 
+   <p begin="00:58:34.011" end="00:58:38.098" style="s1"><span style="s2">（シンジ）くっ…<br />ねえ 綾波だよね</span></p> 
+   <p begin="00:58:38.390" end="00:58:41.268" style="s1"><span style="s2">（レイ）そう　アヤナミレイ</span></p> 
+   <p begin="00:58:41.393" end="00:58:44.438" style="s1"><span style="s2">（シンジ）だったら<br />あの時 助けたよね!!</span></p> 
+   <p begin="00:58:44.772" end="00:58:45.773" style="s1"><span style="s2">知らない</span></p> 
+   <p begin="00:58:46.232" end="00:58:47.566" style="s1"><span style="s2">くっ…</span></p> 
+   <p begin="00:58:49.026" end="00:58:50.027" style="s1"><span style="s2">うっ！</span></p> 
+   <p begin="00:58:50.945" end="00:58:54.448" style="s1"><span style="s2">（遠ざかる足音）</span></p> 
+   <p begin="00:58:54.698" end="00:58:55.699" style="s1"><span style="s2">イカリ君？</span></p> 
+   <p begin="00:59:01.413" end="00:59:07.378" style="s1"><span style="s2">（シンジ）<br />助けてなかったんだ… 綾波…</span></p> 
+   <p begin="00:59:07.920" end="00:59:11.340" style="s1"><span style="s2">（ミサト）<br />何もしないで 何もしないで…</span></p> 
+   <p begin="00:59:11.757" end="00:59:13.133" style="s1"><span style="s2">（シンジ）父さん…</span></p> 
+   <p begin="00:59:13.759" end="00:59:17.137" style="s1"><span style="s2">（ゲンドウ）<br />エヴァに乗れ エヴァに乗れ…</span></p> 
+   <p begin="00:59:17.388" end="00:59:19.974" style="s1"><span style="s2">（サクラ）エヴァにだけは<br />乗らんでくださいよ…</span></p> 
+   <p begin="00:59:20.224" end="00:59:21.183" style="s1"><span style="s2">（シンジ）母さん…</span></p> 
+   <p begin="00:59:21.267" end="00:59:22.601" style="s1"><span style="s2">（ミサト）何もしないで…</span></p> 
+   <p begin="00:59:23.686" end="00:59:26.397" style="s1"><span style="s2">（ゲンドウ）エヴァに乗れ…<br />（アスカ）あんたには関係ない…</span></p> 
+   <p begin="00:59:26.480" end="00:59:28.482" style="s1"><span style="s2">（レイ）知らない…</span></p> 
+   <p begin="00:59:29.608" end="00:59:31.151" style="s1"><span style="s2">（シンジ）ミサトさん…</span></p> 
+   <p begin="00:59:31.235" end="00:59:32.444" style="s1"><span style="s2">（レイ）知らない<br />（ミサト）何もしないで</span></p> 
+   <p begin="00:59:32.528" end="00:59:34.154" style="s1"><span style="s2">（ゲンドウ）エヴァに乗れ<br />（アスカ）あんたには関係ない</span></p> 
+   <p begin="00:59:34.280" end="00:59:36.615" style="s1"><span style="s2">（サクラ）エヴァにだけは<br />乗らないでくださいよ</span></p> 
+   <p begin="00:59:36.740" end="00:59:40.995" style="s1"><span style="s2">（シンジの息づかい）</span></p> 
+   <p begin="00:59:44.164" end="00:59:47.918" style="s1"><span style="s2">（次第に荒くなる息）</span></p> 
+   <p begin="00:59:49.128" end="00:59:51.088" style="s1"><span style="s2">（レイ）知らない<br />（ゲンドウ）エヴァに乗れ</span></p> 
+   <p begin="00:59:58.178" end="01:00:00.514" style="s1"><span style="s2">（シンジ）<br />何してたんだ 僕は…</span></p> 
+   <p begin="01:00:06.312" end="01:00:07.771" style="s1"><span style="s2">うああっ!!</span></p> 
+   <p begin="01:00:16.613" end="01:00:20.868" style="s1"><span style="s2">（あふれ出る液体の音）</span></p> 
+   <p begin="01:00:24.496" end="01:00:27.207" style="s1"><span style="s2">（<span style="s3"><span style="s4">轟音</span><span style="s5">ごうおん</span></span>）</span></p> 
+   <p begin="01:00:36.592" end="01:00:39.803" style="s1"><span style="s2">（冬月）最後の執行者が<br />ついに完成したか</span></p> 
+   <p begin="01:00:40.012" end="01:00:43.474" style="s1"><span style="s2">（ゲンドウ）ああ<br />これで道具は全てそろった</span></p> 
+   <p begin="01:00:43.557" end="01:00:45.851" style="s1"><span style="s2">（ピアノの音）</span></p> 
+   <p begin="01:00:46.977" end="01:00:48.562" style="s1"><span style="s2">（カヲル）時が満ちた</span></p> 
+   <p begin="01:00:49.271" end="01:00:51.899" style="s1"><span style="s2">いよいよだね　碇シンジ君</span></p> 
+   <p begin="01:00:52.149" end="01:00:52.775" region="縦右">（壁にぶつける音）</p> 
+   <p begin="01:00:52.775" end="01:00:53.150" region="縦右">（壁にぶつける音）</p> 
+   <p begin="01:00:52.775" end="01:00:53.150" style="s1"><span style="s2">（シンジ）イヤだっ！</span></p> 
+   <p begin="01:00:53.150" end="01:00:53.776" style="s1"><span style="s2">（シンジ）イヤだっ！</span></p> 
+   <p begin="01:00:55.027" end="01:00:57.237" style="s1"><span style="s2">エヴァなんか<br />もう乗りたくない！</span></p> 
+   <p begin="01:00:57.613" end="01:00:59.990" style="s1"><span style="s2">綾波を助けてなかったんだ！</span></p> 
+   <p begin="01:01:00.366" end="01:01:02.659" style="s1"><span style="s2">エヴァに乗ったって<br />いいことなんかなかったんだ！</span></p> 
+   <p begin="01:01:02.743" end="01:01:05.204" style="s1"><span style="s2">もうイヤだ！<br />何もしたくない!!</span></p> 
+   <p begin="01:01:06.205" end="01:01:07.456" style="s1"><span style="s2">（カヲル）そうして<span style="s8">―</span></span></p> 
+   <p begin="01:01:07.623" end="01:01:10.876" style="s1"><span style="s2">つらい感情の記憶ばかりを<br />リフレインさせても</span></p> 
+   <p begin="01:01:11.043" end="01:01:12.669" style="s1"><span style="s2">いい事は何も生まれない</span></p> 
+   <p begin="01:01:14.129" end="01:01:15.923" style="s1"><span style="s2">（シンジ）<br />いい事なんかないよっ!!</span></p> 
+   <p begin="01:01:16.632" end="01:01:19.051" style="s1"><span style="s2">渚君が見せたんじゃないか</span></p> 
+   <p begin="01:01:19.259" end="01:01:22.054" style="s1"><span style="s2">あの真っ赤な<br />どうしようもない世界を</span></p> 
+   <p begin="01:01:22.471" end="01:01:24.139" style="s1"><span style="s2">（カヲル）<br />エヴァで変わった事は</span></p> 
+   <p begin="01:01:24.264" end="01:01:26.809" style="s1"><span style="s2">エヴァで<br />再び変えてしまえばいい</span></p> 
+   <p begin="01:01:27.017" end="01:01:30.104" style="s1"><span style="s2">（シンジ）そんな事 言ったって<br />エヴァも父さんもミサトさんも</span></p> 
+   <p begin="01:01:30.229" end="01:01:31.772" style="s1"><span style="s2">何もかも信じられないよっ!!</span></p> 
+   <p begin="01:01:33.148" end="01:01:35.609" style="s1"><span style="s2">でも 僕は信じてほしい</span></p> 
+   <p begin="01:01:35.901" end="01:01:36.985" style="s1"><span style="s2">出来ないよっ!!</span></p> 
+   <p begin="01:01:39.238" end="01:01:43.242" style="s1"><span style="s2">（シンジ）ミサトさんたちが<br />僕に これを着けたんだ</span></p> 
+   <p begin="01:01:43.617" end="01:01:45.744" style="s1"><span style="s2">もうエヴァには乗るなって</span></p> 
+   <p begin="01:01:46.161" end="01:01:48.080" style="s1"><span style="s2">乗ったら死ぬって脅されて</span></p> 
+   <p begin="01:01:49.873" end="01:01:54.461" style="s1"><span style="s2">もう エヴァなんか<br />どうでもいいんだ</span></p> 
+   <p begin="01:01:55.879" end="01:01:57.089" style="s1"><span style="s2">（シンジ）はっ</span></p> 
+   <p begin="01:01:55.879" end="01:01:57.089" region="縦右">（電子音）</p> 
+   <p begin="01:01:57.214" end="01:01:58.340" style="s1"><span style="s2">あっ…</span></p> 
+   <p begin="01:01:58.424" end="01:01:59.425" style="s1"><span style="s2">（カヲル）わかっている</span></p> 
+   <p begin="01:02:00.634" end="01:02:03.345" style="s1"><span style="s2">リリンの呪いと<br />エヴァの覚醒リスクは</span></p> 
+   <p begin="01:02:03.512" end="01:02:05.139" style="s1"><span style="s2">僕が引き受けるよ</span></p> 
+   <p begin="01:02:05.848" end="01:02:06.849" style="s1"><span style="s2">あっ…</span></p> 
+   <p begin="01:02:07.516" end="01:02:08.475" region="縦右">（電子音）</p> 
+   <p begin="01:02:08.475" end="01:02:09.143" region="縦右">（電子音）</p> 
+   <p begin="01:02:08.475" end="01:02:09.143" style="s1"><span style="s2">（シンジ）あ…</span></p> 
+   <p begin="01:02:09.143" end="01:02:10.102" style="s1"><span style="s2">（シンジ）あ…</span></p> 
+   <p begin="01:02:11.645" end="01:02:13.105" style="s1"><span style="s2">渚君…</span></p> 
+   <p begin="01:02:14.148" end="01:02:15.816" style="s1"><span style="s2">気にしなくていいよ</span></p> 
+   <p begin="01:02:16.191" end="01:02:19.820" style="s1"><span style="s2">もともとは僕を恐れたリリンが<br />作ったモノだからね</span></p> 
+   <p begin="01:02:19.945" end="01:02:22.448" style="s1"><span style="s2">いずれは<br />こうするつもりだったんだ</span></p> 
+   <p begin="01:02:25.200" end="01:02:26.201" style="s1"><span style="s2">（カヲル）碇シンジ君</span></p> 
+   <p begin="01:02:27.119" end="01:02:30.914" style="s1"><span style="s2">君の希望はドグマの爆心地に残る<br />２本の槍だけだ</span></p> 
+   <p begin="01:02:31.290" end="01:02:34.251" style="s1"><span style="s2">それが補完計画発動の<br />キーとなっている</span></p> 
+   <p begin="01:02:34.960" end="01:02:37.337" style="s1"><span style="s2">僕らでその槍を手にすればいい</span></p> 
+   <p begin="01:02:37.963" end="01:02:39.756" style="s1"><span style="s2">そうすれば ネルフも<span style="s8">―</span></span></p> 
+   <p begin="01:02:39.840" end="01:02:42.509" style="s1"><span style="s2">フォースインパクトを<br />起こせなくなるし</span></p> 
+   <p begin="01:02:42.634" end="01:02:47.222" style="s1"><span style="s2">第13号機とセットで使えば<br />世界の修復も可能だ</span></p> 
+   <p begin="01:02:48.724" end="01:02:50.058" style="s1"><span style="s2">そうだね</span></p> 
+   <p begin="01:02:51.685" end="01:02:54.980" style="s1"><span style="s2">うん　君になら出来るよ</span></p> 
+   <p begin="01:02:55.481" end="01:02:57.441" style="s1"><span style="s2">君となら だよ</span></p> 
+   <p begin="01:02:58.150" end="01:03:01.862" style="s1"><span style="s2">（カヲル）エヴァ第13号機は<br />ダブルエントリーシステムなんだ</span></p> 
+   <p begin="01:03:02.488" end="01:03:04.865" style="s1"><span style="s2">２人でリリンの希望となろう</span></p> 
+   <p begin="01:03:05.324" end="01:03:09.286" style="s1"><span style="s2">今の君に必要な事は<br />何よりも希望</span></p> 
+   <p begin="01:03:09.661" end="01:03:12.956" style="s1"><span style="s2">そして しょく罪と<br />心の余裕だからね</span></p> 
+   <p begin="01:03:15.167" end="01:03:19.713" style="s1"><span style="s2">すごいや<br />何でもわかっちゃうんだ</span></p> 
+   <p begin="01:03:20.255" end="01:03:22.883" style="s1"><span style="s2">いつも君の事しか<br />考えていないから</span></p> 
+   <p begin="01:03:25.761" end="01:03:28.055" style="s1"><span style="s2">ありがとう　渚君</span></p> 
+   <p begin="01:03:28.514" end="01:03:30.265" style="s1"><span style="s2">“カヲル”でいいよ</span></p> 
+   <p begin="01:03:30.682" end="01:03:32.935" style="s1"><span style="s2">あ あの…</span></p> 
+   <p begin="01:03:33.685" end="01:03:35.604" style="s1"><span style="s2">僕も“シンジ”でいいよ</span></p> 
+   <p begin="01:03:39.358" end="01:03:41.068" style="s1"><span style="s2">ピアノと同じだ</span></p> 
+   <p begin="01:03:41.193" end="01:03:44.821" style="s1"><span style="s2">２人一緒ならいい事があるよ<br />シンジ君</span></p> 
+   <p begin="01:03:45.197" end="01:03:46.406" style="s1"><span style="s2">（シンジ）うん</span></p> 
+   <p begin="01:03:47.199" end="01:03:49.576" style="s1"><span style="s2">行こう　カヲル君</span></p> 
+   <p begin="01:03:49.660" end="01:03:50.661" style="s1"><span style="s2">（スイッチを押す音）</span></p> 
+   <p begin="01:03:50.744" end="01:03:52.246" style="s1"><span style="s2">（プラグスーツの装着音）</span></p> 
+   <p begin="01:03:52.329" end="01:03:55.415" style="s1"><span style="s2">（ゲートが開く音）</span></p> 
+   <p begin="01:04:28.907" end="01:04:30.659" style="s1"><span style="s2">（２人）<br />エヴァンゲリオン第13号機</span></p> 
+   <p begin="01:04:30.951" end="01:04:31.952" style="s1"><span style="s2">起動！</span></p> 
+   <p begin="01:04:33.453" end="01:04:36.790" style="s1"><span style="s2">（青葉）信号来ました！<br />新型エヴァの起動を確認</span></p> 
+   <p begin="01:04:56.685" end="01:04:58.645" style="s1"><span style="s2">（シンジ）<br />僕らだけじゃないんだ</span></p> 
+   <p begin="01:04:59.104" end="01:05:00.897" style="s1"><span style="s2">（カヲル）<br /><span style="s3"><span style="s4">Mark.09</span><span style="s7">マークナイン</span></span>のことかい？</span></p> 
+   <p begin="01:05:01.023" end="01:05:05.235" style="s1"><span style="s2">援護のためだよ<br />ヴィレの動きを警戒しているのさ</span></p> 
+   <p begin="01:05:05.444" end="01:05:07.654" style="s1"><span style="s2">（シンジ）<br />そんなの僕らだけで十分だよ</span></p> 
+   <p begin="01:05:09.197" end="01:05:10.616" style="s1"><span style="s2">（シンジ）綾波じゃないのに</span></p> 
+   <p begin="01:05:11.158" end="01:05:12.868" style="s1"><span style="s2">アヤナミじゃ… ない？</span></p> 
+   <p begin="01:05:18.415" end="01:05:19.416" style="s1"><span style="s2">（シンジ）壁が…</span></p> 
+   <p begin="01:05:19.791" end="01:05:23.295" style="s1"><span style="s2">（カヲル）ああ　全て<br />インフィニティのなり損ないたちだ</span></p> 
+   <p begin="01:05:28.133" end="01:05:30.677" style="s1"><span style="s2">（カヲル）君は気にしなくていい<br />（シンジ）あ…</span></p> 
+   <p begin="01:05:32.846" end="01:05:35.140" style="s1"><span style="s2">（カヲル）<br />もうすぐリリスの結界だ</span></p> 
+   <p begin="01:05:35.265" end="01:05:37.643" style="s1"><span style="s2">メインシャフトを<br />完全にふさいでいて</span></p> 
+   <p begin="01:05:37.768" end="01:05:41.355" style="s1"><span style="s2">この14年間<br />誰の侵入も許していない</span></p> 
+   <p begin="01:05:41.605" end="01:05:42.731" style="s1"><span style="s2">（シンジ）うわぁ</span></p> 
+   <p begin="01:05:46.735" end="01:05:49.237" style="s1"><span style="s2">まるで大きなフタみたいだ</span></p> 
+   <p begin="01:05:49.446" end="01:05:50.864" style="s1"><span style="s2">（カヲル）大丈夫さ</span></p> 
+   <p begin="01:05:50.989" end="01:05:53.700" style="s1"><span style="s2">これを突破するための<br />13号機だからね</span></p> 
+   <p begin="01:05:54.076" end="01:05:55.535" style="s1"><span style="s2">２人なら出来るよ</span></p> 
+   <p begin="01:05:55.827" end="01:05:56.828" style="s1"><span style="s2">うん</span></p> 
+   <p begin="01:06:01.708" end="01:06:02.834" style="s1"><span style="s2">（電子音）</span></p> 
+   <p begin="01:06:05.962" end="01:06:10.300" style="s1"><span style="s2">テンポを合わせよう<br />ピアノの連弾を思い出して…</span></p> 
+   <p begin="01:06:13.970" end="01:06:15.305" style="s1"><span style="s2">行くよ　シンジ君</span></p> 
+   <p begin="01:06:16.431" end="01:06:17.683" style="s1"><span style="s2">（電子音）</span></p> 
+   <p begin="01:06:20.060" end="01:06:21.186" style="s1"><span style="s2">（破壊音）</span></p> 
+   <p begin="01:06:33.115" end="01:06:35.951" style="s1"><span style="s2">（崩壊音）</span></p> 
+   <p begin="01:06:37.828" end="01:06:38.829" style="s1"><span style="s2">やった</span></p> 
+   <p begin="01:06:56.596" end="01:07:00.434" style="s1"><span style="s2">（カヲル）着いたよ<br />セントラルドグマの最深部</span></p> 
+   <p begin="01:07:04.563" end="01:07:06.690" style="s1"><span style="s2">サードインパクトの爆心地だ</span></p> 
+   <p begin="01:07:11.695" end="01:07:13.780" style="s1"><span style="s2">（シンジ）これがリリス？</span></p> 
+   <p begin="01:07:13.905" end="01:07:15.365" style="s1"><span style="s2">（カヲル）だったモノだ</span></p> 
+   <p begin="01:07:15.699" end="01:07:17.284" style="s1"><span style="s2">その<span style="s3"><span style="s4">骸</span><span style="s5">むくろ</span></span>だよ</span></p> 
+   <p begin="01:07:17.659" end="01:07:21.288" style="s1"><span style="s2">ミサトさん…<br />命がけで守ってたのに</span></p> 
+   <p begin="01:07:23.290" end="01:07:25.500" style="s1"><span style="s2">（シンジ）ん？ あれはエヴァ？</span></p> 
+   <p begin="01:07:25.584" end="01:07:28.545" style="s1"><span style="s2">そう　エヴァ<span style="s3"><span style="s4">Mark.06</span><span style="s5">マークシックス</span></span></span></p> 
+   <p begin="01:07:29.254" end="01:07:30.964" style="s1"><span style="s2">自律型に改造され</span></p> 
+   <p begin="01:07:31.089" end="01:07:34.134" style="s1"><span style="s2">リリンに利用された機体の<br />成れの果てさ</span></p> 
+   <p begin="01:07:39.139" end="01:07:42.392" style="s1"><span style="s2">（シンジ）<br />あそこに刺さってるのが目標物？</span></p> 
+   <p begin="01:07:42.642" end="01:07:45.812" style="s1"><span style="s2">そう　ロンギヌスとカシウス</span></p> 
+   <p begin="01:07:45.937" end="01:07:50.442" style="s1"><span style="s2">２本の槍を持ち帰るには<br />魂が２つ必要なんだ</span></p> 
+   <p begin="01:07:50.776" end="01:07:53.528" style="s1"><span style="s2">そのための<br />ダブルエントリーシステムさ</span></p> 
+   <p begin="01:07:53.653" end="01:07:58.158" style="s1"><span style="s2">それなら あっちのパイロットでも<br />いいんじゃないの？</span></p> 
+   <p begin="01:07:58.408" end="01:08:01.286" style="s1"><span style="s2">いや　リリンの模造品では無理だ</span></p> 
+   <p begin="01:08:01.578" end="01:08:03.789" style="s1"><span style="s2">魂の場所が違うからね</span></p> 
+   <p begin="01:08:04.289" end="01:08:06.291" style="s1"><span style="s2">さあ 始めるよ</span></p> 
+   <p begin="01:08:07.709" end="01:08:10.670" style="s1"><span style="s2">（骸骨が割れる音）</span></p> 
+   <p begin="01:08:13.799" end="01:08:15.550" style="s1"><span style="s2">（カヲル）ちょっと待って</span></p> 
+   <p begin="01:08:15.801" end="01:08:17.219" style="s1"><span style="s2">変だ</span></p> 
+   <p begin="01:08:17.344" end="01:08:18.845" style="s1"><span style="s2">（シンジ）<br />どうしたの？ カヲル君</span></p> 
+   <p begin="01:08:21.640" end="01:08:26.478" style="s1"><span style="s2">（カヲル）おかしい ２本とも<br />形状が変化して そろっている</span></p> 
+   <p begin="01:08:26.812" end="01:08:30.106" style="s1"><span style="s2">早く槍を抜こうよ　そのために<br />エヴァに乗ってきたんだから</span></p> 
+   <p begin="01:08:30.190" end="01:08:31.191" style="s1"><span style="s2">（シンジ）わっ ああ！</span></p> 
+   <p begin="01:08:30.190" end="01:08:31.191" region="縦右">（衝撃音）</p> 
+   <p begin="01:08:34.653" end="01:08:35.862" style="s1"><span style="s2">何だよ これ!?</span></p> 
+   <p begin="01:08:43.870" end="01:08:45.038" style="s1"><span style="s2">（衝突音）</span></p> 
+   <p begin="01:08:45.747" end="01:08:46.748" style="s1"><span style="s2">２号機!!</span></p> 
+   <p begin="01:08:47.415" end="01:08:48.416" style="s1"><span style="s2">（シンジ）アスカ!!</span></p> 
+   <p begin="01:08:50.544" end="01:08:52.921" style="s1"><span style="s2">（シンジ）<br />何すんだよ アスカ！</span></p> 
+   <p begin="01:08:55.590" end="01:08:59.386" style="s1"><span style="s2">バカシンジ!? あんたまさか<br />エヴァに乗ってるの？</span></p> 
+   <p begin="01:08:59.511" end="01:09:03.014" style="s1"><span style="s2">（シンジ）そうだよ<br />エヴァに乗って世界を変えるんだ</span></p> 
+   <p begin="01:09:04.307" end="01:09:07.394" style="s1"><span style="s2">ガキが　だったら乗るな！</span></p> 
+   <p begin="01:09:10.480" end="01:09:11.481" style="s1"><span style="s2">くっ…</span></p> 
+   <p begin="01:09:12.357" end="01:09:13.358" style="s1"><span style="s2">（被弾音）</span></p> 
+   <p begin="01:09:15.110" end="01:09:17.237" style="s1"><span style="s2">援護射撃 いっつも遅いっ!!</span></p> 
+   <p begin="01:09:17.404" end="01:09:18.613" style="s1"><span style="s2">（マリ）めんご めんご</span></p> 
+   <p begin="01:09:19.489" end="01:09:21.074" style="s1"><span style="s2">アダムスの器さん</span></p> 
+   <p begin="01:09:21.741" end="01:09:25.370" style="s1"><span style="s2">せめて足止めはさせてもらうニャ</span></p> 
+   <p begin="01:09:25.745" end="01:09:26.746" style="s1"><span style="s2">（発砲音）</span></p> 
+   <p begin="01:09:27.581" end="01:09:28.582" style="s1"><span style="s2">（被弾音）</span></p> 
+   <p begin="01:09:31.209" end="01:09:33.003" style="s1"><span style="s2">（アスカ）やあああー！</span></p> 
+   <p begin="01:09:37.299" end="01:09:41.386" style="s1"><span style="s2">（衝突音）</span></p> 
+   <p begin="01:09:44.973" end="01:09:46.725" style="s1"><span style="s2">何で邪魔するんだ アスカ！</span></p> 
+   <p begin="01:09:47.142" end="01:09:50.103" style="s1"><span style="s2">（シンジ）あれは<br />僕たちの希望の槍なんだよ！</span></p> 
+   <p begin="01:09:51.646" end="01:09:54.941" style="s1"><span style="s2">（アスカ）あんたこそ<br />余計なことするんじゃないわよ！</span></p> 
+   <p begin="01:09:55.066" end="01:09:57.819" style="s1"><span style="s2">ガキシンジ　また<br />サードインパクトを起こすつもり？</span></p> 
+   <p begin="01:09:57.903" end="01:09:59.321" style="s1"><span style="s2">（シンジ）違う！</span></p> 
+   <p begin="01:09:57.903" end="01:09:59.321" region="縦右">（衝突音）</p> 
+   <p begin="01:09:59.738" end="01:10:02.282" style="s1"><span style="s2">（シンジ）<br />槍があれば 全部やり直せる</span></p> 
+   <p begin="01:10:03.241" end="01:10:04.826" style="s1"><span style="s2">世界が救えるんだ</span></p> 
+   <p begin="01:10:07.329" end="01:10:08.622" style="s1"><span style="s2">ホンットに ガキね</span></p> 
+   <p begin="01:10:09.915" end="01:10:11.291" style="s1"><span style="s2">わからずや!!</span></p> 
+   <p begin="01:10:19.925" end="01:10:21.009" style="s1"><span style="s2">ハァ…</span></p> 
+   <p begin="01:10:21.468" end="01:10:22.969" style="s1"><span style="s2">カヲル君も手伝ってよ</span></p> 
+   <p begin="01:10:25.221" end="01:10:29.059" style="s1"><span style="s2">カシウスとロンギヌス<br /><span style="s3"><span style="s4">対</span><span style="s7">つい</span></span>の槍が必要なんだ</span></p> 
+   <p begin="01:10:30.226" end="01:10:33.563" style="s1"><span style="s2">（カヲル）なのに ここには<br />同じ槍が２本あるだけ…</span></p> 
+   <p begin="01:10:33.647" end="01:10:34.689" style="s1"><span style="s2">カヲル君!!</span></p> 
+   <p begin="01:10:35.106" end="01:10:40.320" style="s1"><span style="s2">そうか！<br />そういうことか… リリン！</span></p> 
+   <p begin="01:10:43.448" end="01:10:44.449" style="s1"><span style="s2">（爆発音）</span></p> 
+   <p begin="01:10:45.784" end="01:10:49.913" style="s1"><span style="s2">（マリ）<br />ゼーレの暫定パイロットさん<br />聞こえてるでしょ</span></p> 
+   <p begin="01:10:50.747" end="01:10:54.793" style="s1"><span style="s2">アダムスの器になる前に<br />そっから出たほうがいいよ</span></p> 
+   <p begin="01:10:54.918" end="01:10:57.045" style="s1"><span style="s2">（レイ）<br />ダメ　それは命令じゃない</span></p> 
+   <p begin="01:10:57.921" end="01:10:59.506" style="s1"><span style="s2">堅物だニャ</span></p> 
+   <p begin="01:11:00.048" end="01:11:03.009" style="s1"><span style="s2">あんたのオリジナルは<br />もっと愛想があったよ</span></p> 
+   <p begin="01:11:03.635" end="01:11:06.554" style="s1"><span style="s2">オリジナル？ 別の私？</span></p> 
+   <p begin="01:11:06.972" end="01:11:09.432" style="s1"><span style="s2">どおおりゃー!!</span></p> 
+   <p begin="01:11:12.310" end="01:11:15.021" style="s1"><span style="s2">（シンジ）うわぁ<br />（アスカ）だぁぁぁー!!</span></p> 
+   <p begin="01:11:15.647" end="01:11:16.648" style="s1"><span style="s2">（突き刺す音）</span></p> 
+   <p begin="01:11:17.732" end="01:11:19.109" style="s1"><span style="s2">（爆発音）</span></p> 
+   <p begin="01:11:19.567" end="01:11:20.694" style="s1"><span style="s2">（シンジ）ううっ</span></p> 
+   <p begin="01:11:21.403" end="01:11:23.488" style="s1"><span style="s2">カヲル君！<br />どうしちゃったんだよ</span></p> 
+   <p begin="01:11:26.533" end="01:11:30.078" style="s1"><span style="s2">オオオオ！</span></p> 
+   <p begin="01:11:30.954" end="01:11:32.247" style="s1"><span style="s2">（刃を受ける音）</span></p> 
+   <p begin="01:11:34.833" end="01:11:39.129" style="s1"><span style="s2">（シンジ）アスカ！<br />お願いだから邪魔しないでよ</span></p> 
+   <p begin="01:11:39.337" end="01:11:43.383" style="s1"><span style="s2">おとなしくやられろ！<br />ガキシンジィ!!</span></p> 
+   <p begin="01:11:45.135" end="01:11:46.636" style="s1"><span style="s2">（電源が落ちる音）</span></p> 
+   <p begin="01:11:46.845" end="01:11:50.974" style="s1"><span style="s2">え？ こんな時にっ！<br />コネメガネ　スペア</span></p> 
+   <p begin="01:11:51.057" end="01:11:52.600" style="s1"><span style="s2">きゃぁ</span></p> 
+   <p begin="01:11:51.057" end="01:11:52.600" region="縦右">（衝撃音）</p> 
+   <p begin="01:11:56.271" end="01:11:59.858" style="s1"><span style="s2">ハァ ハァ…<br />今のうちに槍を！</span></p> 
+   <p begin="01:12:00.025" end="01:12:01.401" style="s1"><span style="s2">（アスカ）うう…</span></p> 
+   <p begin="01:12:01.818" end="01:12:05.405" style="s1"><span style="s2">女に手を上げるなんて サイテー</span></p> 
+   <p begin="01:12:05.530" end="01:12:07.407" style="s1"><span style="s2">（マリ）スペア 行くよ～</span></p> 
+   <p begin="01:12:18.626" end="01:12:23.089" style="s1"><span style="s2">やめよう シンジ君<br />嫌な予感がする</span></p> 
+   <p begin="01:12:23.256" end="01:12:27.469" style="s1"><span style="s2">ダメだよ カヲル君！<br />何のために ここまで来たんだよ</span></p> 
+   <p begin="01:12:27.677" end="01:12:30.764" style="s1"><span style="s2">もういいんだ…<br />あれは僕らの槍じゃない</span></p> 
+   <p begin="01:12:31.556" end="01:12:34.559" style="s1"><span style="s2">（シンジ）<br />僕らの槍じゃないって…</span></p> 
+   <p begin="01:12:36.728" end="01:12:40.857" style="s1"><span style="s2">はっ… 槍が必要だって<br />君が言ったんだ</span></p> 
+   <p begin="01:12:41.608" end="01:12:44.319" style="s1"><span style="s2">だから僕は<br />エヴァに乗ったんだよっ！</span></p> 
+   <p begin="01:12:44.819" end="01:12:46.613" style="s1"><span style="s2">（シンジ）えいっ</span></p> 
+   <p begin="01:12:44.819" end="01:12:46.613" region="縦右">（電子音）</p> 
+   <p begin="01:12:47.947" end="01:12:49.324" style="s1"><span style="s2">操作系が…</span></p> 
+   <p begin="01:12:53.328" end="01:12:58.458" style="s1"><span style="s2">（シンジ）カヲル君のために<br />みんなのために槍を手に入れる</span></p> 
+   <p begin="01:12:58.541" end="01:13:00.168" style="s1"><span style="s2">そうすれば世界は戻る</span></p> 
+   <p begin="01:13:02.212" end="01:13:05.340" style="s1"><span style="s2">そうすれば<br />ミサトさんだって！</span></p> 
+   <p begin="01:13:05.715" end="01:13:06.716" style="s1"><span style="s2">やばい…</span></p> 
+   <p begin="01:13:06.800" end="01:13:10.970" style="s1"><span style="s2">（アスカ）<br />コネメガネ 妨害物は片づいてる<br />ＡＡ弾の使用を許可！</span></p> 
+   <p begin="01:13:11.096" end="01:13:12.222" style="s1"><span style="s2">（マリ）待ってました</span></p> 
+   <p begin="01:13:12.222" end="01:13:13.139" style="s1"><span style="s2">（マリ）待ってました</span></p> 
+   <p begin="01:13:12.222" end="01:13:13.139" region="縦右" style="s6">（弾の装填音）</p> 
+   <p begin="01:13:13.139" end="01:13:13.223" region="縦右" style="s6">（弾の装填音）</p> 
+   <p begin="01:13:13.348" end="01:13:14.390" style="s1"><span style="s2">虎の子よん</span></p> 
+   <p begin="01:13:14.474" end="01:13:15.809" style="s1"><span style="s2">（発砲音）</span></p> 
+   <p begin="01:13:20.563" end="01:13:25.652" style="s1"><span style="s2">Ａ.Ｔ.フィールドがない？<br />まさか… この機体</span></p> 
+   <p begin="01:13:32.450" end="01:13:33.576" style="s1"><span style="s2">うっ</span></p> 
+   <p begin="01:13:37.789" end="01:13:39.124" style="s1"><span style="s2">ダメだ シンジ君！</span></p> 
+   <p begin="01:13:39.207" end="01:13:40.583" style="s1"><span style="s2">やめろ！ バカガキ！</span></p> 
+   <p begin="01:13:41.000" end="01:13:45.713" style="s1"><span style="s2">ふっ！ うぁあああああ!!</span></p> 
+   <p begin="01:13:45.880" end="01:13:49.134" style="s1"><span style="s2">（槍を引き抜く音）<br />（シンジの力む声）</span></p> 
+   <p begin="01:13:50.385" end="01:13:51.427" style="s1"><span style="s2">はっ</span></p> 
+   <p begin="01:13:55.723" end="01:13:57.392" style="s1"><span style="s2">（爆ぜる音）</span></p> 
+   <p begin="01:14:01.020" end="01:14:02.355" style="s1"><span style="s2">（爆ぜる音）</span></p> 
+   <p begin="01:14:03.982" end="01:14:06.109" style="s1"><span style="s2">始めよう 冬月</span></p> 
+   <p begin="01:14:13.324" end="01:14:15.034" style="s1"><span style="s2">（シンジ）エヴァMark.06</span></p> 
+   <p begin="01:14:15.618" end="01:14:18.288" style="s1"><span style="s2">パターン青って<br />どういうことだよ</span></p> 
+   <p begin="01:14:18.413" end="01:14:21.541" style="s1"><span style="s2">（使徒の咆哮）</span></p> 
+   <p begin="01:14:21.708" end="01:14:25.128" style="s1"><span style="s2">（アスカ）まずいっ！<br />第12の使徒がまだ生き残ってる</span></p> 
+   <p begin="01:14:26.004" end="01:14:28.047" style="s1"><span style="s2">コネメガネ！ ３番コンテナ！</span></p> 
+   <p begin="01:14:28.173" end="01:14:29.174" style="s1"><span style="s2">（マリ）あいよっ！</span></p> 
+   <p begin="01:14:30.842" end="01:14:33.094" style="s1"><span style="s2">（アスカ）<br />サードインパクトの続きが<br />始まる前に<span style="s8">―</span></span></p> 
+   <p begin="01:14:33.219" end="01:14:35.638" style="s1"><span style="s2">こいつを片づける！</span></p> 
+   <p begin="01:14:39.893" end="01:14:40.894" style="s1"><span style="s2">これが命令</span></p> 
+   <p begin="01:14:50.653" end="01:14:51.779" style="s1"><span style="s2">使徒!?</span></p> 
+   <p begin="01:14:58.953" end="01:15:01.372" style="s1"><span style="s2">（アスカ）うぉおおおおおっ</span></p> 
+   <p begin="01:14:58.953" end="01:15:01.372" region="縦右">（連続射撃音）</p> 
+   <p begin="01:15:01.706" end="01:15:06.794" style="s1"><span style="s2">（マリ）<br />姫　ムダ弾はやめときなよ<br />あれ全部コアだから</span></p> 
+   <p begin="01:15:07.378" end="01:15:10.256" style="s1"><span style="s2">私らじゃ<br />手の打ちようがニャイよん</span></p> 
+   <p begin="01:15:11.674" end="01:15:14.844" style="s1"><span style="s2">それに<br />最後の使徒を倒したところで</span></p> 
+   <p begin="01:15:14.969" end="01:15:18.556" style="s1"><span style="s2">鬼が出るか<span style="s3"><span style="s4">蛇</span><span style="s5">じゃ</span></span>が出るか<br />気になるジャ</span></p> 
+   <p begin="01:15:18.765" end="01:15:21.517" style="s1"><span style="s2">（多数の笑い声）</span></p> 
+   <p begin="01:15:22.727" end="01:15:23.728" style="s1"><span style="s2">これは？</span></p> 
+   <p begin="01:15:27.982" end="01:15:30.360" style="s1"><span style="s2">（レイ）これは　私？</span></p> 
+   <p begin="01:15:32.320" end="01:15:34.322" style="s1"><span style="s2">私は　何？</span></p> 
+   <p begin="01:15:34.572" end="01:15:36.449" style="s1"><span style="s2">（シンジの力む声）</span></p> 
+   <p begin="01:15:36.908" end="01:15:40.203" style="s1"><span style="s2">操縦がきかない！<br />どうなっちゃったんだ？ カヲル君</span></p> 
+   <p begin="01:15:42.664" end="01:15:43.665" style="s1"><span style="s2">カヲル君!?</span></p> 
+   <p begin="01:15:44.666" end="01:15:50.129" style="s1"><span style="s2">まさか第１使徒の僕が<br />13番目の使徒に<span style="s3"><span style="s4">堕</span><span style="s7">お</span></span>とされるとは…</span></p> 
+   <p begin="01:15:50.463" end="01:15:52.340" style="s1"><span style="s2">何を言ってるの？ カヲル君!?</span></p> 
+   <p begin="01:15:55.551" end="01:15:58.554" style="s1"><span style="s2">始まりと終わりは<br />同じというわけか</span></p> 
+   <p begin="01:15:58.763" end="01:16:03.059" style="s1"><span style="s2">さすがリリンの王<br />シンジ君の父上だ</span></p> 
+   <p begin="01:16:03.977" end="01:16:06.479" style="s1"><span style="s2">（マリ）<br />ＤＳＳチョーカーにパターン青？</span></p> 
+   <p begin="01:16:06.604" end="01:16:08.523" style="s1"><span style="s2">ないはずの13番目？</span></p> 
+   <p begin="01:16:09.482" end="01:16:11.484" style="s1"><span style="s2">ゲンドウ君の狙いはコレか！</span></p> 
+   <p begin="01:16:14.821" end="01:16:18.408" style="s1"><span style="s2">（ゲンドウ）死海文書の<br />契約改定の時が来ました</span></p> 
+   <p begin="01:16:19.075" end="01:16:20.493" style="s1"><span style="s2">これでお別れです</span></p> 
+   <p begin="01:16:24.455" end="01:16:27.834" style="s1"><span style="s2">あなた方も<br />魂の形を変えたとはいえ</span></p> 
+   <p begin="01:16:27.959" end="01:16:30.420" style="s1"><span style="s2">知恵の実を与えられた生命体だ</span></p> 
+   <p begin="01:16:32.463" end="01:16:35.508" style="s1"><span style="s2">悠久の時を生きることは出来ても</span></p> 
+   <p begin="01:16:35.633" end="01:16:39.345" style="s1"><span style="s2">我々と同じく<br />訪れる死からは逃れられない</span></p> 
+   <p begin="01:16:41.180" end="01:16:44.726" style="s1"><span style="s2">死を背負った群れの進化を<br />進めるために</span></p> 
+   <p begin="01:16:44.892" end="01:16:48.396" style="s1"><span style="s2">あなた方は<br />我々に文明を与えてくれた</span></p> 
+   <p begin="01:16:50.440" end="01:16:53.443" style="s1"><span style="s2">人類を代表し感謝します</span></p> 
+   <p begin="01:16:55.403" end="01:17:00.325" style="s1"><span style="s2">死をもって あなた方の魂を<br />あるべきところへ還しましょう</span></p> 
+   <p begin="01:17:02.493" end="01:17:05.371" style="s1"><span style="s2">宿願たる人類補完計画と</span></p> 
+   <p begin="01:17:05.830" end="01:17:09.709" style="s1"><span style="s2"><span style="s3"><span style="s4">諦観</span><span style="s5">ていかん</span></span>された神殺しは<br />私が行います</span></p> 
+   <p begin="01:17:10.543" end="01:17:12.420" style="s1"><span style="s2">ご安心を</span></p> 
+   <p begin="01:17:12.545" end="01:17:15.923" style="s1"><span style="s2">（ゼーレ01）<br />我らの願いはすでに かなった</span></p> 
+   <p begin="01:17:16.049" end="01:17:19.385" style="s1"><span style="s2">よい　全てこれでよい</span></p> 
+   <p begin="01:17:19.886" end="01:17:25.808" style="s1"><span style="s2">人類の補完<br />安らかな魂の浄化を願う</span></p> 
+   <p begin="01:17:27.518" end="01:17:30.355" style="s10"><span style="s2">♪～</span></p> 
+   <p begin="01:17:34.692" end="01:17:37.487" style="s1"><span style="s2">（13号機のうなり声）</span></p> 
+   <p begin="01:17:37.904" end="01:17:40.573" style="s1"><span style="s2">（うごめく音）</span></p> 
+   <p begin="01:17:43.826" end="01:17:45.495" style="s1"><span style="s2">（咆哮）</span></p> 
+   <p begin="01:17:53.920" end="01:17:56.714" style="s1"><span style="s2">（うなり声）</span></p> 
+   <p begin="01:17:56.923" end="01:18:00.176" style="s1"><span style="s2">（アスカ）こいつ<br />擬似シン化形態を超えている</span></p> 
+   <p begin="01:18:00.718" end="01:18:05.223" style="s1"><span style="s2">覚醒したみたいね<br />アダムスの生き残りが！</span></p> 
+   <p begin="01:18:10.561" end="01:18:12.897" style="s1"><span style="s2">（激しい衝突音）</span></p> 
+   <p begin="01:18:13.022" end="01:18:15.441" style="s1"><span style="s2">うう… ううっ…</span></p> 
+   <p begin="01:18:18.569" end="01:18:19.987" style="s1"><span style="s2">（破壊音）</span></p> 
+   <p begin="01:18:40.925" end="01:18:42.385" style="s1"><span style="s2">何だこれ？</span></p> 
+   <p begin="01:18:48.057" end="01:18:51.811" style="s1"><span style="s2">（大規模な破壊音）</span></p> 
+   <p begin="01:18:55.481" end="01:18:57.191" style="s1"><span style="s2">何なんだよ これ？</span></p> 
+   <p begin="01:19:02.280" end="01:19:06.993" style="s1"><span style="s2">僕のせいなのか？<br />僕が槍を抜いたから…</span></p> 
+   <p begin="01:19:07.118" end="01:19:10.079" style="s1"><span style="s2">（轟音）</span></p> 
+   <p begin="01:19:13.583" end="01:19:15.209" style="s1"><span style="s2">これって…</span></p> 
+   <p begin="01:19:15.793" end="01:19:17.420" style="s1"><span style="s2">（カヲル）フォースインパクト</span></p> 
+   <p begin="01:19:17.545" end="01:19:18.838" style="s1"><span style="s2">（息をのむ声）</span></p> 
+   <p begin="01:19:19.839" end="01:19:22.383" style="s1"><span style="s2">その始まりの儀式さ</span></p> 
+   <p begin="01:19:26.471" end="01:19:30.516" style="s1"><span style="s2">（咆哮）</span></p> 
+   <p begin="01:19:36.105" end="01:19:38.524" style="s1"><span style="s2">（シンジ）<br />カヲル君　首輪が！</span></p> 
+   <p begin="01:19:40.485" end="01:19:42.695" style="s1"><span style="s2">あっ う… ああ</span></p> 
+   <p begin="01:19:43.571" end="01:19:44.572" style="s1"><span style="s2">（衝撃音）</span></p> 
+   <p begin="01:19:46.741" end="01:19:47.533" style="s1"><span style="s2">ミサトさん！ うわっ！</span></p> 
+   <p begin="01:19:47.533" end="01:19:48.576" style="s1"><span style="s2">ミサトさん！ うわっ！</span></p> 
+   <p begin="01:19:47.533" end="01:19:48.576" region="縦右">（衝撃音）</p> 
+   <p begin="01:19:50.495" end="01:19:53.539" style="s1"><span style="s2">（ミサト）Ａ.Ｔ.フィールド最大<br />このままエヴァを封じ込めて！</span></p> 
+   <p begin="01:19:53.915" end="01:19:56.542" style="s1"><span style="s2">主砲斉射用意　曲射弾装填</span></p> 
+   <p begin="01:19:57.001" end="01:19:59.128" style="s1"><span style="s2">なんとしてもフォースの発動を<br />食い止めるのよ！</span></p> 
+   <p begin="01:19:59.462" end="01:20:00.463" style="s1"><span style="s2">撃てぇ！</span></p> 
+   <p begin="01:20:00.546" end="01:20:01.547" style="s1"><span style="s2">（発砲音）</span></p> 
+   <p begin="01:20:02.590" end="01:20:04.300" style="s1"><span style="s2">（爆発音）</span></p> 
+   <p begin="01:20:08.387" end="01:20:10.640" style="s1"><span style="s2">やられましたっ！ 主砲に直撃！</span></p> 
+   <p begin="01:20:10.848" end="01:20:12.266" style="s1"><span style="s2">アダムスの器か!?</span></p> 
+   <p begin="01:20:17.188" end="01:20:19.065" style="s1"><span style="s2">（多摩）<br />中央部に被弾！ 損害不明！</span></p> 
+   <p begin="01:20:19.190" end="01:20:21.400" style="s1"><span style="s2">（高雄）出力低下<br />重力制御に問題発生！</span></p> 
+   <p begin="01:20:21.526" end="01:20:23.986" style="s1"><span style="s2">（長良）<br />舵がききません　落下します！</span></p> 
+   <p begin="01:20:24.904" end="01:20:27.907" style="s1"><span style="s2">～<span style="s6">♪</span></span></p> 
+   <p begin="01:20:30.910" end="01:20:31.536" style="s1"><span style="s2">（ビーム音）</span></p> 
+   <p begin="01:20:31.536" end="01:20:31.911" style="s1"><span style="s2">（ビーム音）</span></p> 
+   <p begin="01:20:31.536" end="01:20:31.911" region="縦右">（爆発音）</p> 
+   <p begin="01:20:31.911" end="01:20:33.162" region="縦右">（爆発音）</p> 
+   <p begin="01:20:33.329" end="01:20:34.413" style="s1"><span style="s2">（オペレーターたちの悲鳴）</span></p> 
+   <p begin="01:20:34.497" end="01:20:36.290" style="s1"><span style="s2">（多摩）中央部に被弾！<br />（青葉）第３甲板 大破！</span></p> 
+   <p begin="01:20:37.124" end="01:20:39.877" style="s1"><span style="s2">（リツコ）<br />アダムスの器はヴンダー本来の主</span></p> 
+   <p begin="01:20:40.002" end="01:20:43.256" style="s1"><span style="s2">初号機から本艦の制御を<br />奪い返すつもりだわ</span></p> 
+   <p begin="01:20:44.215" end="01:20:46.342" style="s1"><span style="s2">（激しい爆発音）</span></p> 
+   <p begin="01:20:48.719" end="01:20:51.264" style="s1"><span style="s2">なぜ？ リンクが回復しない</span></p> 
+   <p begin="01:20:55.017" end="01:20:56.394" style="s1"><span style="s2">（マリ）よっと</span></p> 
+   <p begin="01:20:56.894" end="01:21:01.274" style="s1"><span style="s2">あっちゃ～ こいつは<br />シッチャカメッチャカな状況ね</span></p> 
+   <p begin="01:21:01.566" end="01:21:03.442" style="s1"><span style="s2">コネメガネはガキのエヴァを</span></p> 
+   <p begin="01:21:03.526" end="01:21:05.778" style="s1"><span style="s2">（アスカ）ヴンダーは改２で助ける<br />（マリ）ラジャ！</span></p> 
+   <p begin="01:21:05.903" end="01:21:08.155" style="s1"><span style="s2">（北上）<br />アダムスの器 排除できません！</span></p> 
+   <p begin="01:21:08.239" end="01:21:10.908" style="s1"><span style="s2">（多摩）主制御システムに<br />未確認データが侵入</span></p> 
+   <p begin="01:21:10.992" end="01:21:12.618" style="s1"><span style="s2">（青葉）艦のコントロールが<br />乗っ取られていきます</span></p> 
+   <p begin="01:21:12.702" end="01:21:13.786" style="s1"><span style="s2">くっ…</span></p> 
+   <p begin="01:21:18.958" end="01:21:19.792" style="s1"><span style="s2">ううっ</span></p> 
+   <p begin="01:21:23.546" end="01:21:25.506" style="s1"><span style="s2">（アスカ）<br />たぁっ！ てぁああああ!!</span></p> 
+   <p begin="01:21:31.554" end="01:21:32.555" style="s1"><span style="s2">（発砲音）</span></p> 
+   <p begin="01:21:35.182" end="01:21:37.518" style="s1"><span style="s2">ズルッ！<br />ゼーレのやりそうな事ね</span></p> 
+   <p begin="01:21:38.769" end="01:21:39.770" style="s1"><span style="s2">（ビーム音）</span></p> 
+   <p begin="01:21:41.522" end="01:21:44.150" style="s1"><span style="s2">（爆発音）</span></p> 
+   <p begin="01:21:44.817" end="01:21:46.152" style="s1"><span style="s2">モードチェンジ！</span></p> 
+   <p begin="01:21:46.360" end="01:21:47.612" style="s1"><span style="s2">コード トリプルセブン！</span></p> 
+   <p begin="01:21:49.447" end="01:21:50.448" style="s1"><span style="s2">（改２号機のうなり声）</span></p> 
+   <p begin="01:21:50.781" end="01:21:51.782" style="s1"><span style="s2">ううっ！</span></p> 
+   <p begin="01:21:51.949" end="01:21:53.117" style="s1"><span style="s2">（咆哮）</span></p> 
+   <p begin="01:21:56.245" end="01:21:58.080" style="s1"><span style="s2">（レイ）誰？<br />（アスカ）あんたこそ誰よ！</span></p> 
+   <p begin="01:22:06.714" end="01:22:09.216" style="s1"><span style="s2">（うなり声）</span></p> 
+   <p begin="01:22:10.676" end="01:22:12.053" style="s1"><span style="s2">（咆哮）</span></p> 
+   <p begin="01:22:15.306" end="01:22:18.684" style="s1"><span style="s2">（青葉）観測室より報告<br />改２号機 アダムスの器と会敵！</span></p> 
+   <p begin="01:22:18.809" end="01:22:20.227" style="s1"><span style="s2">頼むわ　アスカ</span></p> 
+   <p begin="01:22:20.478" end="01:22:21.479" style="s1"><span style="s2">（ビーム音）</span></p> 
+   <p begin="01:22:23.064" end="01:22:24.357" style="s1"><span style="s2">（咆哮）</span></p> 
+   <p begin="01:22:24.732" end="01:22:26.984" style="s1"><span style="s2">（力む声）</span></p> 
+   <p begin="01:22:30.321" end="01:22:33.032" style="s1"><span style="s2">んんんんっ!!</span></p> 
+   <p begin="01:22:35.785" end="01:22:38.454" style="s1"><span style="s2">（液体が噴き出す音）</span></p> 
+   <p begin="01:22:38.829" end="01:22:42.208" style="s1"><span style="s2">こんな時 アヤナミレイなら<br />どうするの？</span></p> 
+   <p begin="01:22:42.375" end="01:22:45.294" style="s1"><span style="s2">知るか！<br />あんたはどうしたいの!!</span></p> 
+   <p begin="01:22:49.423" end="01:22:50.758" style="s1"><span style="s2">（アスカ）これでコアを!!</span></p> 
+   <p begin="01:22:51.217" end="01:22:53.386" style="s1"><span style="s2">（連続射撃音）</span></p> 
+   <p begin="01:23:00.351" end="01:23:04.397" style="s1"><span style="s2">こいつ 全身がコアか！<br />時間もない</span></p> 
+   <p begin="01:23:05.648" end="01:23:06.941" style="s1"><span style="s2">ごめん２号機！</span></p> 
+   <p begin="01:23:07.274" end="01:23:08.275" style="s1"><span style="s2">うっ</span></p> 
+   <p begin="01:23:10.111" end="01:23:13.072" style="s1"><span style="s2">（電子音）</span></p> 
+   <p begin="01:23:14.699" end="01:23:16.742" style="s1"><span style="s2">（次第に速まる電子音）</span></p> 
+   <p begin="01:23:16.867" end="01:23:19.578" style="s1"><span style="s2">（爆発音）</span></p> 
+   <p begin="01:23:22.998" end="01:23:24.458" style="s1"><span style="s2">（北上）制御システム回復！</span></p> 
+   <p begin="01:23:24.542" end="01:23:27.586" style="s1"><span style="s2">（ミサト）全艦緊急発進！<br />目標のエヴァを直ちに追跡</span></p> 
+   <p begin="01:23:27.712" end="01:23:30.131" style="s1"><span style="s2">（リツコ）艦長！<br />主機が復元されるまでは無理よ</span></p> 
+   <p begin="01:23:30.256" end="01:23:32.258" style="s1"><span style="s2">くっ… シンジ君</span></p> 
+   <p begin="01:23:32.425" end="01:23:38.180" style="s10"><span style="s2">♪～</span></p> 
+   <p begin="01:23:49.817" end="01:23:53.028" style="s1"><span style="s2">（シンジの嗚咽）</span></p> 
+   <p begin="01:23:53.237" end="01:23:55.531" style="s1"><span style="s2">（シンジ）僕のせいなのか…</span></p> 
+   <p begin="01:23:57.700" end="01:24:01.495" style="s1"><span style="s2">僕が… 僕が…</span></p> 
+   <p begin="01:24:03.122" end="01:24:04.749" style="s1"><span style="s2">（カヲル）君のせいじゃない</span></p> 
+   <p begin="01:24:04.957" end="01:24:05.958" style="s1"><span style="s2">はっ</span></p> 
+   <p begin="01:24:06.834" end="01:24:10.129" style="s1"><span style="s2">僕が第13の使徒に<br />なってしまったからね</span></p> 
+   <p begin="01:24:10.546" end="01:24:12.006" style="s1"><span style="s2">僕がトリガーだ</span></p> 
+   <p begin="01:24:12.840" end="01:24:18.012" style="s1"><span style="s2">どうしよう…<br />ねえ どうしよう</span></p> 
+   <p begin="01:24:23.267" end="01:24:28.397" style="s1"><span style="s2">カヲル君<br />僕はどうしたらいいの？</span></p> 
+   <p begin="01:24:29.023" end="01:24:34.361" style="s1"><span style="s2">魂が消えても<br />願いと呪いはこの世界に残る</span></p> 
+   <p begin="01:24:34.779" end="01:24:38.866" style="s1"><span style="s2">意思は情報として<br />世界を伝い変えていく</span></p> 
+   <p begin="01:24:39.366" end="01:24:42.703" style="s1"><span style="s2">いつか自分自身のことも<br />書き換えていくんだ</span></p> 
+   <p begin="01:24:43.621" end="01:24:44.830" style="s1"><span style="s2">ああっ</span></p> 
+   <p begin="01:24:45.331" end="01:24:46.373" style="s1"><span style="s2">ごめん</span></p> 
+   <p begin="01:24:46.499" end="01:24:49.126" style="s1"><span style="s2">これは君の望む幸せではなかった</span></p> 
+   <p begin="01:24:51.128" end="01:24:56.008" style="s1"><span style="s2">ガフの扉は僕が閉じる<br />シンジ君が心配することはない</span></p> 
+   <p begin="01:24:56.801" end="01:24:58.511" style="s1"><span style="s2">カヲル君…</span></p> 
+   <p begin="01:24:59.887" end="01:25:03.557" style="s1"><span style="s2">カヲル君が何を言っているのか<br />わからないよ</span></p> 
+   <p begin="01:25:07.019" end="01:25:08.103" style="s1"><span style="s2">（突き刺す音）</span></p> 
+   <p begin="01:25:08.604" end="01:25:09.772" style="s1"><span style="s2">ああ…</span></p> 
+   <p begin="01:25:09.980" end="01:25:14.026" style="s1"><span style="s2">シンジ君は安らぎと<br />自分の場所を見つければいい</span></p> 
+   <p begin="01:25:19.240" end="01:25:20.407" style="s1"><span style="s2">（突き刺す音）</span></p> 
+   <p begin="01:25:20.491" end="01:25:21.659" style="s1"><span style="s2">うわぁ</span></p> 
+   <p begin="01:25:22.117" end="01:25:24.370" style="s1"><span style="s2">縁が君を導くだろう</span></p> 
+   <p begin="01:25:29.083" end="01:25:31.252" style="s1"><span style="s2">そんな顔をしないで</span></p> 
+   <p begin="01:25:32.002" end="01:25:34.380" style="s1"><span style="s2">また会えるよ　シンジ君</span></p> 
+   <p begin="01:25:34.797" end="01:25:37.216" style="s1"><span style="s2">ぐっ… カヲル君!!</span></p> 
+   <p begin="01:25:37.842" end="01:25:38.968" style="s1"><span style="s2">（血が飛び散る音）</span></p> 
+   <p begin="01:25:55.317" end="01:25:57.236" style="s1"><span style="s2">（マリ）<br />ガフの扉がまだ閉じない！</span></p> 
+   <p begin="01:25:57.820" end="01:25:59.947" style="s1"><span style="s2">ワンコ君が ゼーレの保険か！</span></p> 
+   <p begin="01:26:00.030" end="01:26:02.241" style="s1"><span style="s2">～<span style="s6">♪</span></span></p> 
+   <p begin="01:26:02.366" end="01:26:03.367" style="s1"><span style="s2">うっ！</span></p> 
+   <p begin="01:26:09.373" end="01:26:10.374" style="s1"><span style="s2">うあっ</span></p> 
+   <p begin="01:26:11.375" end="01:26:12.668" style="s1"><span style="s2">くうっ…</span></p> 
+   <p begin="01:26:14.712" end="01:26:15.921" style="s1"><span style="s2">えい</span></p> 
+   <p begin="01:26:16.547" end="01:26:19.758" style="s1"><span style="s2">後始末は済んだ！<br />しっかりしろ ワンコ君!!</span></p> 
+   <p begin="01:26:21.719" end="01:26:25.848" style="s1"><span style="s2">（マリ）グズるな！<br />せめて姫を助けろ 男だろ！</span></p> 
+   <p begin="01:26:27.516" end="01:26:30.811" style="s1"><span style="s2">ついでに<br />ちょっとは世間を知りニャ！</span></p> 
+   <p begin="01:26:31.020" end="01:26:32.187" style="s1"><span style="s2">（射出音）</span></p> 
+   <p begin="01:26:36.400" end="01:26:37.443" style="s1"><span style="s2">（活動停止音）</span></p> 
+   <p begin="01:26:56.086" end="01:26:59.298" style="s1"><span style="s2">（崩落音）</span></p> 
+   <p begin="01:27:05.679" end="01:27:08.599" style="s1"><span style="s2">（衝突音）</span></p> 
+   <p begin="01:27:24.657" end="01:27:26.742" style="s1"><span style="s2">ひどいありさまだな</span></p> 
+   <p begin="01:27:26.992" end="01:27:29.328" style="s1"><span style="s2">ほとんどが<br />ゼーレのもくろみ通りだ</span></p> 
+   <p begin="01:27:29.954" end="01:27:33.248" style="s1"><span style="s2">（ゲンドウ）<br />だが ゼーレの少年を排除し</span></p> 
+   <p begin="01:27:33.457" end="01:27:36.919" style="s1"><span style="s2">第13号機も覚醒へと導いた</span></p> 
+   <p begin="01:27:37.628" end="01:27:40.089" style="s1"><span style="s2">葛城大佐の動きも計算内だ</span></p> 
+   <p begin="01:27:40.839" end="01:27:43.092" style="s1"><span style="s2">今は これでいい</span></p> 
+   <p begin="01:27:43.968" end="01:27:46.553" style="s1"><span style="s2">（日向）<br />全艦第２種警戒態勢を維持</span></p> 
+   <p begin="01:27:46.637" end="01:27:50.432" style="s1"><span style="s2">（北上）パターン青反応なし<br />警戒空域に機影を認めず</span></p> 
+   <p begin="01:27:50.516" end="01:27:52.977" style="s1"><span style="s2">（多摩）中央部損傷箇所の<br />応急処置完了</span></p> 
+   <p begin="01:27:53.435" end="01:27:57.356" style="s1"><span style="s2">誰のおかげか わからないけれど<br />フォースは止まった</span></p> 
+   <p begin="01:27:58.732" end="01:28:01.986" style="s1"><span style="s2">ミサト<br />今はそれで良しとしましょう</span></p> 
+   <p begin="01:28:02.069" end="01:28:05.489" style="s1"><span style="s2">（飛行音）</span></p> 
+   <p begin="01:28:43.610" end="01:28:46.613" style="s1"><span style="s2">ハァ… ハァ… ハァ…</span></p> 
+   <p begin="01:28:53.328" end="01:28:58.125" style="s1"><span style="s2">ガキシンジ<br />助けてくれないんだ　私を</span></p> 
+   <p begin="01:29:02.046" end="01:29:06.050" style="s1"><span style="s2">また自分の事ばっかり<br />黙ってりゃ済むと思ってる</span></p> 
+   <p begin="01:29:07.801" end="01:29:08.802" style="s1"><span style="s2">ふんっ</span></p> 
+   <p begin="01:29:20.314" end="01:29:21.315" style="s1"><span style="s2">はぁ…</span></p> 
+   <p begin="01:29:29.073" end="01:29:30.074" style="s1"><span style="s2">うっ</span></p> 
+   <p begin="01:29:32.242" end="01:29:33.368" style="s1"><span style="s2">まだ甘えてる</span></p> 
+   <p begin="01:29:35.245" end="01:29:36.872" style="s1"><span style="s2">いつまでたっても…</span></p> 
+   <p begin="01:29:37.289" end="01:29:38.832" style="s1"><span style="s2">手間のかかるガキね</span></p> 
+   <p begin="01:29:39.583" end="01:29:42.878" style="s1"><span style="s2">ほら これ着けて<br />もお～</span></p> 
+   <p begin="01:29:43.337" end="01:29:46.048" style="s1"><span style="s2">立ってるくらい<br />自分で出来るでしょ！</span></p> 
+   <p begin="01:29:46.590" end="01:29:47.591" style="s1"><span style="s2">あっ</span></p> 
+   <p begin="01:29:50.427" end="01:29:52.054" style="s1"><span style="s2">（アスカ）<br />さっきのパイロットね</span></p> 
+   <p begin="01:29:53.347" end="01:29:55.224" style="s1"><span style="s2">綾波タイプの初期ロットか</span></p> 
+   <p begin="01:29:58.977" end="01:29:59.978" style="s1"><span style="s2">ハァ…</span></p> 
+   <p begin="01:30:03.107" end="01:30:07.194" style="s1"><span style="s2">ここじゃＬ結界密度が強すぎて<br />助けに来れないわ</span></p> 
+   <p begin="01:30:07.778" end="01:30:10.614" style="s1"><span style="s2">リリンが近づける所まで<br />移動するわよ</span></p> 
+   <p begin="01:30:11.365" end="01:30:12.366" style="s1"><span style="s2">よっ</span></p> 
+   <p begin="01:30:14.493" end="01:30:15.494" style="s1"><span style="s2">ほら！</span></p> 
+   <p begin="01:30:24.962" end="01:30:46.066" style="s1"><span style="s2">♪～</span></p> 
+   <p begin="01:30:47.693" end="01:30:57.035" style="s1"><span style="s2">開いたばかりの<br />　　　　　花が散るのを</span></p> 
+   <p begin="01:30:57.578" end="01:31:03.375" style="s1"><span style="s2">｢今年も早いね｣と</span></p> 
+   <p begin="01:31:03.500" end="01:31:11.800" style="s1"><span style="s2">残念そうに<br />　　　見ていたあなたは</span></p> 
+   <p begin="01:31:11.925" end="01:31:20.267" style="s1"><span style="s2">とてもきれいだった</span></p> 
+   <p begin="01:31:20.434" end="01:31:28.775" style="s1"><span style="s2">もし今の私を見れたなら</span></p> 
+   <p begin="01:31:28.984" end="01:31:34.698" style="s1"><span style="s2">どう思うでしょう</span></p> 
+   <p begin="01:31:36.366" end="01:31:43.457" style="s1"><span style="s2">あなた無しで生きてる私を</span></p> 
+   <p begin="01:31:43.582" end="01:31:50.088" style="s1"><span style="s2">Everybody finds love</span></p> 
+   <p begin="01:31:53.425" end="01:32:05.479" style="s1"><span style="s2">Everybody finds love<br />　　　　　　　　In the end</span></p> 
+   <p begin="01:32:09.233" end="01:32:12.903" style="s1"><span style="s2">In the end</span></p> 
+   <p begin="01:32:13.070" end="01:32:25.582" style="s1"><span style="s2">♪</span></p> 
+   <p begin="01:32:25.791" end="01:32:35.133" style="s1"><span style="s2">あなたが守った街のどこかで</span></p> 
+   <p begin="01:32:35.259" end="01:32:38.637" style="s1"><span style="s2">今日も響く</span></p> 
+   <p begin="01:32:38.845" end="01:32:47.437" style="s1"><span style="s2">健やかな産声を聞けたなら</span></p> 
+   <p begin="01:32:47.562" end="01:32:53.652" style="s1"><span style="s2">きっと喜ぶでしょう</span></p> 
+   <p begin="01:32:55.028" end="01:33:03.745" style="s1"><span style="s2">私たちの続きの足音</span></p> 
+   <p begin="01:33:04.079" end="01:33:31.356" style="s1"><span style="s2">♪</span></p> 
+   <p begin="01:33:31.606" end="01:33:41.908" style="s1"><span style="s2">Everybody finds love<br />　　　　　　　　In the end</span></p> 
+   <p begin="01:33:42.242" end="01:33:51.126" style="s1"><span style="s2">もう二度と会えないなんて<br />　　　　　　　　　信じられない</span></p> 
+   <p begin="01:33:51.460" end="01:34:00.719" style="s1"><span style="s2">まだ何も伝えてない<br />　　　　まだ何も伝えてない</span></p> 
+   <p begin="01:34:02.137" end="01:34:11.229" style="s1"><span style="s2">開いたばかりの花が散るのを</span></p> 
+   <p begin="01:34:11.313" end="01:34:20.113" style="s1"><span style="s2">見ていた木立の<span style="s3"><span style="s4">遺</span><span style="s5">や</span></span>る<span style="s3"><span style="s4">瀨</span><span style="s5">せ</span></span><span style="s3"><span style="s4">無</span><span style="s5">な</span></span>きかな</span></p> 
+   <p begin="01:34:20.906" end="01:34:29.623" style="s1"><span style="s2">どんなに怖くたって<br />　　　　　目を<span style="s3"><span style="s4">逸</span><span style="s7">そ</span></span>らさないよ</span></p> 
+   <p begin="01:34:30.207" end="01:34:39.466" style="s1"><span style="s2">全ての終わりに愛があるなら</span></p> 
+   <p begin="01:34:39.591" end="01:34:59.778" style="s1"><span style="s2">～♪</span></p> 
+   <p begin="01:35:03.907" end="01:35:07.869" style="s1"><span style="s2">（ミサト）生きる気力を失ったまま<br />放浪を続ける碇シンジ</span></p> 
+   <p begin="01:35:08.036" end="01:35:11.248" style="s1"><span style="s2">たどり着いた場所が<br />彼に希望を教える</span></p> 
+   <p begin="01:35:11.456" end="01:35:13.625" style="s1"><span style="s2">ついに発動する補完計画</span></p> 
+   <p begin="01:35:13.708" end="01:35:17.462" style="s1"><span style="s2">ファイナルインパクト阻止のため<br />最後の決戦を挑むヴィレ</span></p> 
+   <p begin="01:35:17.879" end="01:35:19.464" style="s1"><span style="s2">空を裂くヴンダー</span></p> 
+   <p begin="01:35:19.589" end="01:35:22.801" style="s1"><span style="s2">赤い大地を疾走する<br />エヴァ<span style="s3"><span style="s4">８＋２</span><span style="s7">はちプラスに</span></span>号機</span></p> 
+   <p begin="01:35:23.635" end="01:35:26.221" style="s1"><span style="s2">次回 シン･エヴァンゲリオン劇場版</span></p> 
+   <p begin="01:35:26.680" end="01:35:30.517" style="s1"><span style="s2">さぁ～て最後まで<br />サービス　サービスぅ！</span></p> 
+  </div> 
+ </body> </tt>

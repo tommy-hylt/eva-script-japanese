@@ -1,0 +1,21 @@
+{
+  "movieId": "eva-1.11",
+  "titleEn": "Evangelion: 1.11 You Are (Not) Alone",
+  "jpEntryCount": 1618,
+  "enEntryCount": 1506,
+  "entriesWithoutEnglish": 157,
+  "entriesWithSourceRuby": 23,
+  "entriesWithGeneratedRuby": 1309,
+  "carriedSpeakerEntries": 769,
+  "overriddenEntries": 752,
+  "generatedPartCount": 5,
+  "partSizes": [
+    328,
+    348,
+    336,
+    323,
+    283
+  ],
+  "firstTime": "00:00:44.295",
+  "lastTime": "01:40:49.419"
+}

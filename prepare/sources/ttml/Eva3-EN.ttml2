@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:version="2" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xml:lang="en-US">
+ <head>
+  <styling>
+   <style xml:id="AmazonDefaultStyle" tts:fontFamily="monospace" tts:color="white" tts:fontSize="1c"></style>
+  </styling>
+  <layout>
+   <region xml:id="AmazonDefaultRegion" tts:extent="80% 15%" tts:origin="10% 80%" tts:displayAlign="after" tts:textAlign="center"></region>
+  </layout>
+ </head>
+ <body>
+  <div>
+   <p begin="00:00:35.870" end="00:00:38.205" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[radio crackles and beeps]</p>
+   <p begin="00:00:38.289" end="00:00:41.417" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Aoba] <span tts:fontStyle="italic">Tracking team,</span><br /><span tts:fontStyle="italic">report current Eva unit positions.</span></p>
+   <p begin="00:00:41.500" end="00:00:44.462" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op woman #1] <span tts:fontStyle="italic">Pod Two Dash</span><br /><span tts:fontStyle="italic">has reached operational altitude,</span></p>
+   <p begin="00:00:44.545" end="00:00:45.963" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">locked in intended orbit.</span></p>
+   <p begin="00:00:46.046" end="00:00:48.883" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op man #1] <span tts:fontStyle="italic">Pod Eight...</span><br /><span tts:fontStyle="italic">altitude insufficient.</span></p>
+   <p begin="00:00:48.966" end="00:00:50.468" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Cannot reach intended orbit.</span></p>
+   <p begin="00:00:50.551" end="00:00:54.305" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Aoba] <span tts:fontStyle="italic">Copy, switching to backup plan,</span><br /><span tts:fontStyle="italic">Two Dash solo operation.</span></p>
+   <p begin="00:00:54.764" end="00:00:59.101" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op man #1]<span tts:fontStyle="italic"> Roger, Pod Eight will</span><br /><span tts:fontStyle="italic">provide cover fire. Shift to sub-plan 7.</span></p>
+   <p begin="00:00:59.185" end="00:01:03.439" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Ritsuko] <span tts:fontStyle="italic">Pod Two Dash, is now beyond PNR.</span><br /><span tts:fontStyle="italic">Entering into Area 88.</span></p>
+   <p begin="00:01:03.522" end="00:01:06.192" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Misato] <span tts:fontStyle="italic">Roger. Initiate Operation US.</span></p>
+   <p begin="00:01:06.901" end="00:01:11.238" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[operator] <span tts:fontStyle="italic">Roger. Pod Two Dash,</span><br /><span tts:fontStyle="italic">begin entry into final operation orbit.</span></p>
+   <p begin="00:01:11.322" end="00:01:12.615" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">RCS synchronized.</span></p>
+   <p begin="00:01:12.698" end="00:01:16.368" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op man #1] <span tts:fontStyle="italic">Starting deceleration.</span><br /><span tts:fontStyle="italic">Ready all Stage 1 engines. Start burn.</span></p>
+   <p begin="00:01:20.372" end="00:01:23.584" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op woman #1] <span tts:fontStyle="italic">S1C, burn complete.</span><br /><span tts:fontStyle="italic">Deceleration confirmed.</span></p>
+   <p begin="00:01:24.043" end="00:01:26.045" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op man #1] <span tts:fontStyle="italic">Opening draining vent.</span></p>
+   <p begin="00:01:28.255" end="00:01:31.801" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kitakami] <span tts:fontStyle="italic">Jettisoning Stage 1 boosters.</span><br /><span tts:fontStyle="italic">Recalculating mass change.</span></p>
+   <p begin="00:01:31.884" end="00:01:36.305" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op man #1]<span tts:fontStyle="italic"> Roger. Burn timing</span><br /><span tts:fontStyle="italic">set to auto. Stage 2 all engines start.</span></p>
+   <p begin="00:01:40.059" end="00:01:43.354" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op woman #1] <span tts:fontStyle="italic">S1C burn complete.</span><br /><span tts:fontStyle="italic">Closing pressure valves.</span></p>
+   <p begin="00:01:43.437" end="00:01:46.273" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op man #1]<span tts:fontStyle="italic"> S1C burn complete.</span><br /><span tts:fontStyle="italic">Closing pressure valves.</span></p>
+   <p begin="00:01:46.357" end="00:01:48.275" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op woman #1]<br /><span tts:fontStyle="italic">Recalculating velocity.</span></p>
+   <p begin="00:01:48.359" end="00:01:52.947" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op man #1] <span tts:fontStyle="italic">No deviation from scheduled</span><br /><span tts:fontStyle="italic">timeline. Re-verifying altitude.</span></p>
+   <p begin="00:01:53.572" end="00:01:57.117" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">All green. Re-verifying values.</span><br /><span tts:fontStyle="italic">Results nominal.</span></p>
+   <p begin="00:01:57.952" end="00:02:00.371" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">No abnormalities detected</span><br /><span tts:fontStyle="italic">in contact airspace.</span></p>
+   <p begin="00:02:00.454" end="00:02:01.455" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op woman #1] <span tts:fontStyle="italic">Roger.</span></p>
+   <p begin="00:02:02.206" end="00:02:06.043" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Final orbital adjustment complete.</span><br /><span tts:fontStyle="italic">Roll over complete.</span></p>
+   <p begin="00:02:06.460" end="00:02:10.506" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Hyuga] <span tts:fontStyle="italic">Roger. Pod Two Dash, beginning</span><br /><span tts:fontStyle="italic">transfer into intercept trajectory.</span></p>
+   <p begin="00:02:10.756" end="00:02:12.508" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Operation will now commence.</span></p>
+   <p begin="00:02:12.591" end="00:02:15.845" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Aoba] <span tts:fontStyle="italic">Disengaging remote guidance.</span><br /><span tts:fontStyle="italic">Further control will be local.</span></p>
+   <p begin="00:02:15.928" end="00:02:16.929" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Hyuga] <span tts:fontStyle="italic">Good luck.</span></p>
+   <p begin="00:02:17.179" end="00:02:19.181" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Mari singing]</p>
+   <p begin="00:02:19.265" end="00:02:22.685" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op woman #1] <span tts:fontStyle="italic">Transfer orbit lock</span><br /><span tts:fontStyle="italic">complete. T-minus 80 to contact.</span></p>
+   <p begin="00:02:23.477" end="00:02:26.355" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kitakami] <span tts:fontStyle="italic">Target confirmed.</span><br />[Aoba] <span tts:fontStyle="italic">No change in airspace.</span></p>
+   <p begin="00:02:26.438" end="00:02:28.691" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kitakami] <span tts:fontStyle="italic">Maintaining Shift M.</span><br /><span tts:fontStyle="italic">All is go.</span></p>
+   <p begin="00:02:29.066" end="00:02:32.528" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Misato] <span tts:fontStyle="italic">Two Dash, prepare for RDV.</span><br /><span tts:fontStyle="italic">Eight has insufficient altitude</span></p>
+   <p begin="00:02:32.611" end="00:02:36.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">and can only provide 96 seconds</span><br /><span tts:fontStyle="italic">of fire support prior to re-entry.</span></p>
+   <p begin="00:02:36.323" end="00:02:38.075" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Get this wrapped up before then.</span></p>
+   <p begin="00:02:39.034" end="00:02:42.204" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Hyuga] <span tts:fontStyle="italic">Reflected waves</span><br /><span tts:fontStyle="italic">from target area. Hostiles incoming.</span></p>
+   <p begin="00:02:42.288" end="00:02:45.583" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Aoba]<span tts:fontStyle="italic"> The mechanism's</span><br /><span tts:fontStyle="italic">mass projectile weapon. Not a problem.</span></p>
+   <p begin="00:02:46.458" end="00:02:47.710" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Mari continues singing]</p>
+   <p begin="00:02:47.793" end="00:02:51.338" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op man #1] <span tts:fontStyle="italic">Multiple explosions!</span><br /><span tts:fontStyle="italic">Blast impact in... three, two,</span></p>
+   <p begin="00:02:51.422" end="00:02:52.339" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">one...</span></p>
+   <p begin="00:02:56.343" end="00:02:58.679" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Aoba] <span tts:fontStyle="italic">Second wave incoming.</span><br /><span tts:fontStyle="italic">Pattern Blue.</span></p>
+   <p begin="00:02:58.762" end="00:02:59.805" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Expect a rough ride.</span></p>
+   <p begin="00:02:59.889" end="00:03:02.766" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op man] <span tts:fontStyle="italic">Initial barrage launched.</span><br /><span tts:fontStyle="italic">Stronger than expected.</span></p>
+   <p begin="00:03:02.850" end="00:03:04.768" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[screeching]</p>
+   <p begin="00:03:05.853" end="00:03:08.772" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[fizzing]</p>
+   <p begin="00:03:11.233" end="00:03:13.193" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Asuka] <span tts:fontStyle="italic">It's has an anti-AT Field!</span></p>
+   <p begin="00:03:18.324" end="00:03:20.492" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">What a prick! Damn it!</span></p>
+   <p begin="00:03:20.826" end="00:03:22.620" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Screw this helmet!</span></p>
+   <p begin="00:03:23.996" end="00:03:27.875" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Damn it, Four-Eyed Crony!<br />Quit singing! You're pissing me off!</p>
+   <p begin="00:03:30.169" end="00:03:32.671" region="AmazonDefaultRegion" style="AmazonDefaultStyle">And your cover fire is two seconds late!</p>
+   <p begin="00:03:35.883" end="00:03:38.344" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Mari] <span tts:fontStyle="italic">No, it's not.</span><br /><span tts:fontStyle="italic">You're 3 seconds early.</span></p>
+   <p begin="00:03:38.427" end="00:03:41.305" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Asuka] <span tts:fontStyle="italic">I'm going with the flow.</span><br /><span tts:fontStyle="italic">Improvise, damn it.</span></p>
+   <p begin="00:03:41.388" end="00:03:43.015" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Mari] <span tts:fontStyle="italic">But of course...</span></p>
+   <p begin="00:03:43.098" end="00:03:44.725" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">As you wish, Your Highness!</span></p>
+   <p begin="00:03:44.808" end="00:03:45.851" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[explosion]</p>
+   <p begin="00:03:52.066" end="00:03:56.070" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Asuka] Fullerene shift cleared.<br />Breaching the final defense, Area 89.</p>
+   <p begin="00:03:56.487" end="00:03:59.323" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Huh ? Wait,<br />target object is on the move!</p>
+   <p begin="00:04:02.368" end="00:04:05.287" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Orbital correction slow.<br />It's risky, but I'm going in!</p>
+   <p begin="00:04:05.371" end="00:04:06.580" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[gun shots]</p>
+   <p begin="00:04:13.963" end="00:04:15.130" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[whimpers]</p>
+   <p begin="00:04:25.683" end="00:04:27.434" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Starting deceleration!</p>
+   <p begin="00:04:33.023" end="00:04:34.441" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Eight, seven...</p>
+   <p begin="00:04:34.984" end="00:04:36.443" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Six, five...</p>
+   <p begin="00:04:37.111" end="00:04:40.656" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Four, three, two, one...</p>
+   <p begin="00:04:41.407" end="00:04:42.700" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Burn complete!</p>
+   <p begin="00:04:50.416" end="00:04:52.543" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kitakami]<br /><span tts:fontStyle="italic">Two Dash jettisoned boosters.</span></p>
+   <p begin="00:04:53.002" end="00:04:55.462" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Minimum safe re-entry window</span><br /><span tts:fontStyle="italic">has been reached.</span></p>
+   <p begin="00:04:56.088" end="00:04:59.550" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Target seized and secured.<br />Returning to base.</p>
+   <p begin="00:04:59.633" end="00:05:02.094" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Misato] <span tts:fontStyle="italic">Roger.</span><br /><span tts:fontStyle="italic">See you at the collection point.</span></p>
+   <p begin="00:05:02.177" end="00:05:04.430" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">- RDV code is Saturn Five.</span><br />- Copy that.</p>
+   <p begin="00:05:04.513" end="00:05:05.431" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[alarm]</p>
+   <p begin="00:05:05.973" end="00:05:08.225" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Pattern Blue! Where?</p>
+   <p begin="00:05:11.520" end="00:05:15.274" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op woman]<span tts:fontStyle="italic"> Code 4B.</span><br /><span tts:fontStyle="italic">Deploying field reflection membrane.</span></p>
+   <p begin="00:05:15.357" end="00:05:16.567" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Asuka] Give me a break.</p>
+   <p begin="00:05:16.650" end="00:05:19.278" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I was just about to go into re-entry!</p>
+   <p begin="00:05:19.361" end="00:05:21.071" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Four-Eyed Crony, give me back-up!</p>
+   <p begin="00:05:22.072" end="00:05:25.367" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Mari] <span tts:fontStyle="italic">My bad! Didn't get</span><br /><span tts:fontStyle="italic">enough altitude so I'm outta here.</span></p>
+   <p begin="00:05:25.451" end="00:05:28.996" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">You'll have to do that one yourself, K?</span><br /><span tts:fontStyle="italic">Bye-bye!</span></p>
+   <p begin="00:05:29.455" end="00:05:30.497" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Useless!</p>
+   <p begin="00:05:31.040" end="00:05:34.376" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Damn... persistent jerk! This wasn't<br />part of the mission briefing!</p>
+   <p begin="00:05:44.344" end="00:05:47.556" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Huh? Ouch!<br />What's the deal with this light!</p>
+   <p begin="00:05:47.639" end="00:05:49.933" region="AmazonDefaultRegion" style="AmazonDefaultStyle">My AT Field isn't neutralizing it!</p>
+   <p begin="00:05:50.017" end="00:05:51.894" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Gotta kill that core block!</p>
+   <p begin="00:05:52.227" end="00:05:53.687" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Come back here, little prick!</p>
+   <p begin="00:05:54.063" end="00:05:56.774" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[AI female] <span tts:fontStyle="italic">Caution. High angle of attack.</span><br /><span tts:fontStyle="italic">Danger.</span></p>
+   <p begin="00:05:56.857" end="00:06:01.028" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Asuka] Crap. I can't maintain my<br />re-entry angle. The Eva might break up.</p>
+   <p begin="00:06:01.111" end="00:06:05.365" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Misato] <span tts:fontStyle="italic">Two Dash! Your objective</span><br /><span tts:fontStyle="italic">has top priority. Don't lose your target</span></p>
+   <p begin="00:06:05.449" end="00:06:08.452" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">- even if you lose your Eva.</span><br />- You don't have to tell me that!</p>
+   <p begin="00:06:11.371" end="00:06:12.623" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[groans]</p>
+   <p begin="00:06:24.218" end="00:06:27.805" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[whimpers]</p>
+   <p begin="00:06:27.888" end="00:06:30.682" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[strains] Damn it,<br />do something you idiot, Shinji!</p>
+   <p begin="00:06:38.774" end="00:06:40.317" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[classical choral music]</p>
+   <p begin="00:07:02.089" end="00:07:04.007" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[distant wind]</p>
+   <p begin="00:07:09.346" end="00:07:11.473" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] Welcome back, Shinji Ikari.</p>
+   <p begin="00:07:12.015" end="00:07:13.350" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I've been waiting for you.</p>
+   <p begin="00:07:14.768" end="00:07:18.438" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[respirator breathing]</p>
+   <p begin="00:07:28.448" end="00:07:31.034" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Sakura] Cardiovascular<br />and lung functions normal.</p>
+   <p begin="00:07:31.118" end="00:07:33.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">No paralysis in his limbs either.</p>
+   <p begin="00:07:33.203" end="00:07:35.164" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Yes ma'am, his eyes are open.</p>
+   <p begin="00:07:36.874" end="00:07:38.625" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Do you understand what I am saying?</p>
+   <p begin="00:07:41.545" end="00:07:44.131" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Uh, where am I?</p>
+   <p begin="00:07:44.715" end="00:07:47.509" region="AmazonDefaultRegion" style="AmazonDefaultStyle">He's responsive.<br />I think he's fully conscious.</p>
+   <p begin="00:07:49.219" end="00:07:52.723" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] Last thing I remember<br />is saving Ayanami and...</p>
+   <p begin="00:07:52.806" end="00:07:56.476" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Sakura] Yes ma'am, he seems to<br />exhibit continuity in his memory recall.</p>
+   <p begin="00:07:57.853" end="00:07:59.313" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] Um, where's Ayanami?</p>
+   <p begin="00:07:59.688" end="00:08:01.648" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Do you know who this is?</p>
+   <p begin="00:08:04.693" end="00:08:06.612" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Er... That's me.</p>
+   <p begin="00:08:07.821" end="00:08:10.282" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Sakura] Self-aware, too.<br />He seems fine.</p>
+   <p begin="00:08:10.365" end="00:08:12.618" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- Do you need to urinate?<br />- [Shinji] What is this?</p>
+   <p begin="00:08:12.910" end="00:08:13.911" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[mechanical door]</p>
+   <p begin="00:08:15.037" end="00:08:17.122" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op woman]<br /><span tts:fontStyle="italic">Cargo loading. 86% complete...</span></p>
+   <p begin="00:08:17.206" end="00:08:19.958" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Takao]<br />Maintain N2 reactor output at 90%.</p>
+   <p begin="00:08:20.626" end="00:08:24.796" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Open the valve manually.<br />Don't worry about condensers.</p>
+   <p begin="00:08:24.880" end="00:08:26.715" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Aoba]<br />Priority One on boarding the crew...</p>
+   <p begin="00:08:26.798" end="00:08:29.551" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Hyuga] We are critically short on cargo<br />hands working on loading provisions.</p>
+   <p begin="00:08:29.635" end="00:08:32.346" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Nagara] Checking port and starboard<br />gyroscopes 3 and 5.</p>
+   <p begin="00:08:32.429" end="00:08:33.764" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Please institue repairs.</p>
+   <p begin="00:08:33.847" end="00:08:35.349" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Tama] Updating outfitting roadmap.</p>
+   <p begin="00:08:35.432" end="00:08:37.809" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ordnances behind schedule by 3%.</p>
+   <p begin="00:08:39.937" end="00:08:42.606" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Sakura] Subject BM03 is now in custody.</p>
+   <p begin="00:08:43.232" end="00:08:44.983" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Misato] Roger. Unbind him.</p>
+   <p begin="00:08:46.902" end="00:08:47.986" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Stand down.</p>
+   <p begin="00:08:48.278" end="00:08:51.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op man #1]<br /><span tts:fontStyle="italic">Unit 106 has completed operations.</span></p>
+   <p begin="00:08:51.323" end="00:08:53.867" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op woman #1]<br /><span tts:fontStyle="italic">Scuttling support ships.</span></p>
+   <p begin="00:08:54.868" end="00:08:59.248" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op man #1] <span tts:fontStyle="italic">Check wiring of gun directors.</span><br /><span tts:fontStyle="italic">Number three is reporting errors.</span></p>
+   <p begin="00:08:59.331" end="00:09:01.166" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op woman #1]<br /><span tts:fontStyle="italic">Resuming power inflow.</span></p>
+   <p begin="00:09:01.250" end="00:09:03.168" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[soft piano music]</p>
+   <p begin="00:09:12.219" end="00:09:14.179" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ms. Misato Katsuragi?</p>
+   <p begin="00:09:14.763" end="00:09:17.224" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Shinji Ikari. Correct?</p>
+   <p begin="00:09:17.933" end="00:09:23.063" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Ritsuko] Physiologically, he's a perfect<br />match to the Third Boy's archive files.</p>
+   <p begin="00:09:23.939" end="00:09:28.986" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Dental records are an exact reproduction<br />of him at the time of the N3I.</p>
+   <p begin="00:09:30.070" end="00:09:33.198" region="AmazonDefaultRegion" style="AmazonDefaultStyle">We're analyzing the results<br />of his deep synchronization test.</p>
+   <p begin="00:09:33.282" end="00:09:35.367" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Is the DSS choker on his neck?</p>
+   <p begin="00:09:35.450" end="00:09:36.702" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Ritsuko] Already done,</p>
+   <p begin="00:09:36.785" end="00:09:38.078" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Captain Katsuragi.</p>
+   <p begin="00:09:38.620" end="00:09:42.916" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Captain Katsuragi?<br />So it is you, Ms Misato.</p>
+   <p begin="00:09:43.000" end="00:09:44.543" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[electrical chirp]</p>
+   <p begin="00:09:49.631" end="00:09:53.135" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It's operating fine.<br />It's set to the captain's access code.</p>
+   <p begin="00:09:53.218" end="00:09:54.219" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Misato] Understood.</p>
+   <p begin="00:09:57.931" end="00:09:59.391" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What is this?</p>
+   <p begin="00:10:01.059" end="00:10:02.811" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Can I take it off, please?</p>
+   <p begin="00:10:05.397" end="00:10:08.025" region="AmazonDefaultRegion" style="AmazonDefaultStyle">That thing is never coming off.<br />Sorry.</p>
+   <p begin="00:10:08.734" end="00:10:11.653" region="AmazonDefaultRegion" style="AmazonDefaultStyle">This conversation is over.<br />Take him to quarantine.</p>
+   <p begin="00:10:13.030" end="00:10:14.281" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[alarm beeps]</p>
+   <p begin="00:10:14.781" end="00:10:18.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kitakami] We've lost decoys O-1 and O-5.<br />Detecting wave patterns.</p>
+   <p begin="00:10:18.660" end="00:10:19.995" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What is this?</p>
+   <p begin="00:10:20.078" end="00:10:21.121" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Get it together!</p>
+   <p begin="00:10:21.580" end="00:10:25.042" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It's a Pattern Blue! Target classified<br />as a Code 4C, Nemesis Series.</p>
+   <p begin="00:10:25.459" end="00:10:26.960" region="AmazonDefaultRegion" style="AmazonDefaultStyle">They don't give up.</p>
+   <p begin="00:10:27.336" end="00:10:30.005" region="AmazonDefaultRegion" style="AmazonDefaultStyle">They're widening formation. All axis.</p>
+   <p begin="00:10:30.088" end="00:10:31.673" region="AmazonDefaultRegion" style="AmazonDefaultStyle">They're trying to pen us in.</p>
+   <p begin="00:10:32.257" end="00:10:36.178" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Misato] We're not ready to move yet.<br />Halt ops except main engine outfitting.</p>
+   <p begin="00:10:37.179" end="00:10:39.348" region="AmazonDefaultRegion" style="AmazonDefaultStyle">All hands, battle stations condition 2!</p>
+   <p begin="00:10:39.931" end="00:10:41.975" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Target all Nemesis Series entities.</p>
+   <p begin="00:10:42.392" end="00:10:44.853" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Ritsuko] Assume battle stations<br />condition 2.</p>
+   <p begin="00:10:45.187" end="00:10:48.106" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ready anti-air, anti-surface<br />and anti-submarine.</p>
+   <p begin="00:10:48.357" end="00:10:51.401" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Abort loading and fueling.<br />Crew to board immediately.</p>
+   <p begin="00:10:51.777" end="00:10:54.071" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op woman]<br /><span tts:fontStyle="italic">All stations, discontinue loading.</span></p>
+   <p begin="00:10:54.154" end="00:10:59.409" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Prioritize boarding crew members.</span><br /><span tts:fontStyle="italic">Continue working on the main engine.</span></p>
+   <p begin="00:11:00.452" end="00:11:05.290" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Check status of all power inflow gates.</span><br /><span tts:fontStyle="italic">Verify all gates of power circuit.</span></p>
+   <p begin="00:11:05.374" end="00:11:08.752" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op man] <span tts:fontStyle="italic">Ready remote-controlled</span><br /><span tts:fontStyle="italic">gun turrets and torpedo tubes.</span></p>
+   <p begin="00:11:08.835" end="00:11:12.339" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Ditch any supplies not yet loaded.</span><br /><span tts:fontStyle="italic">Crew boarding has highest priority.</span></p>
+   <p begin="00:11:12.422" end="00:11:14.758" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op man 2]<span tts:fontStyle="italic"> Outfit the ship until contact.</span></p>
+   <p begin="00:11:15.050" end="00:11:21.223" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op woman #2] <span tts:fontStyle="italic">All units conduct headcounts</span><br /><span tts:fontStyle="italic">and report numbers to the bridge...</span></p>
+   <p begin="00:11:21.848" end="00:11:24.393" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Continue power<br />to main engine conductors.</p>
+   <p begin="00:11:24.935" end="00:11:26.061" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Hurry it up!</p>
+   <p begin="00:11:26.144" end="00:11:29.398" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op man #1] <span tts:fontStyle="italic">Anti-air surveillance</span><br /><span tts:fontStyle="italic">system is still a no-go.</span></p>
+   <p begin="00:11:29.689" end="00:11:32.275" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op woman #1]<br /><span tts:fontStyle="italic">Continue working on the power supply.</span></p>
+   <p begin="00:11:33.276" end="00:11:34.903" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Open all valves up to Number 90.</span></p>
+   <p begin="00:11:35.320" end="00:11:37.948" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Power supply pipes connection complete.</span></p>
+   <p begin="00:11:38.031" end="00:11:40.909" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op man #1]<span tts:fontStyle="italic"> Roger.</span><br /><span tts:fontStyle="italic">Opening all valves up to Number 90.</span></p>
+   <p begin="00:11:40.992" end="00:11:42.285" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Beginning power inflow.</span></p>
+   <p begin="00:11:42.369" end="00:11:45.330" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op woman #1] <span tts:fontStyle="italic">Power supply</span><br /><span tts:fontStyle="italic">to the N2 is holding steady.</span></p>
+   <p begin="00:11:45.414" end="00:11:49.334" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[overlapping]</p>
+   <p begin="00:11:49.793" end="00:11:53.046" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Ibuki] It's battle stations, people!<br />Come on, get to your posts!</p>
+   <p begin="00:11:53.630" end="00:11:55.632" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You there!<br />Get the lead out!</p>
+   <p begin="00:11:55.715" end="00:12:00.429" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Crewman] Chief, this is a makeshift crew.<br />We got civilians among us, remember?</p>
+   <p begin="00:12:00.720" end="00:12:03.140" region="AmazonDefaultRegion" style="AmazonDefaultStyle">No excuses! Get to work! Now!</p>
+   <p begin="00:12:05.225" end="00:12:07.269" region="AmazonDefaultRegion" style="AmazonDefaultStyle">This is the problem with young men.</p>
+   <p begin="00:12:07.686" end="00:12:10.689" region="AmazonDefaultRegion" style="AmazonDefaultStyle">We'll stop the outfitting there.</p>
+   <p begin="00:12:11.148" end="00:12:13.733" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Closing and securing bulkheads.<br />Is this it?</p>
+   <p begin="00:12:14.234" end="00:12:18.530" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Gotta be vigilant about<br />aerial attacks. Sonar will show up here.</p>
+   <p begin="00:12:18.613" end="00:12:20.699" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What's the deck plating status?</p>
+   <p begin="00:12:21.032" end="00:12:23.160" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Wait, am I in charge of that?</p>
+   <p begin="00:12:23.994" end="00:12:27.706" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Tama in background] I don't care!<br />We need a waterproofing supervisor.</p>
+   <p begin="00:12:29.499" end="00:12:34.463" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[sighs] Moving right now<br />would be too dangerous. We'll stay here.</p>
+   <p begin="00:12:35.338" end="00:12:38.425" region="AmazonDefaultRegion" style="AmazonDefaultStyle">But wow... It sure is exciting<br />to be on the bridge</p>
+   <p begin="00:12:38.508" end="00:12:40.802" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪during a battle alert!♪</p>
+   <p begin="00:12:41.803" end="00:12:43.263" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Priority on guarding Unit 01.</p>
+   <p begin="00:12:43.597" end="00:12:45.015" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Unit 01?</p>
+   <p begin="00:12:45.098" end="00:12:47.767" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[wind howls]</p>
+   <p begin="00:12:53.523" end="00:12:56.359" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Incoming target!<br />Pillars of Light confirmed.</p>
+   <p begin="00:12:56.985" end="00:12:59.488" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[hesitating] Their numbers are increasing.</p>
+   <p begin="00:13:00.071" end="00:13:02.324" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Aoba] Unable to detect<br />target's core block.</p>
+   <p begin="00:13:02.407" end="00:13:05.285" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It's most likely concealed<br />within its camouflage cocoon.</p>
+   <p begin="00:13:05.619" end="00:13:09.289" region="AmazonDefaultRegion" style="AmazonDefaultStyle">That's not good. They're gonna<br />hit us with a saturation attack.</p>
+   <p begin="00:13:09.372" end="00:13:11.917" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- [Kitakami] T-minus 600 secs!<br />- Katsuragi,</p>
+   <p begin="00:13:12.000" end="00:13:14.503" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I recommend<br />that we disperse the fleet immediately.</p>
+   <p begin="00:13:16.087" end="00:13:21.009" region="AmazonDefaultRegion" style="AmazonDefaultStyle">We're undermanned and undertrained.<br />And the ship isn't even fully outfitted.</p>
+   <p begin="00:13:21.676" end="00:13:24.971" region="AmazonDefaultRegion" style="AmazonDefaultStyle">And to cap it all, we have no fix<br />on their core block.</p>
+   <p begin="00:13:25.931" end="00:13:28.266" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Our chances of defeating them are nil.</p>
+   <p begin="00:13:28.350" end="00:13:30.185" region="AmazonDefaultRegion" style="AmazonDefaultStyle">We should retreat like we always do.</p>
+   <p begin="00:13:30.268" end="00:13:31.645" region="AmazonDefaultRegion" style="AmazonDefaultStyle">We have no other choice,</p>
+   <p begin="00:13:32.020" end="00:13:33.438" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Captain Katsuragi!</p>
+   <p begin="00:13:34.272" end="00:13:38.527" region="AmazonDefaultRegion" style="AmazonDefaultStyle">All the more reason to stop<br />second-guessing and make the jump.</p>
+   <p begin="00:13:39.194" end="00:13:40.987" region="AmazonDefaultRegion" style="AmazonDefaultStyle">X-O... Let's fly.</p>
+   <p begin="00:13:41.071" end="00:13:43.907" region="AmazonDefaultRegion" style="AmazonDefaultStyle">To fly?<br />You want to activate the main engine?</p>
+   <p begin="00:13:44.282" end="00:13:46.284" region="AmazonDefaultRegion" style="AmazonDefaultStyle">All stations, ready for launch.</p>
+   <p begin="00:13:46.743" end="00:13:48.203" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ready main engine!</p>
+   <p begin="00:13:48.620" end="00:13:49.955" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kitakami] Huh?</p>
+   <p begin="00:13:50.038" end="00:13:52.624" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Captain Katsuragi,<br />this ship isn't ready!</p>
+   <p begin="00:13:53.083" end="00:13:56.086" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I agree!<br />It's too dangerous without a test run.</p>
+   <p begin="00:13:56.670" end="00:13:59.631" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I never used gravity control.<br />I'm not sure.</p>
+   <p begin="00:14:00.090" end="00:14:02.217" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I'll pass on an unwinnable battle.</p>
+   <p begin="00:14:02.300" end="00:14:03.802" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I don't want to die just yet.</p>
+   <p begin="00:14:03.885" end="00:14:06.471" region="AmazonDefaultRegion" style="AmazonDefaultStyle">When you die, you die,<br />that's it.</p>
+   <p begin="00:14:06.555" end="00:14:08.807" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You youngsters shouldn't be so fussy.</p>
+   <p begin="00:14:08.890" end="00:14:11.893" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Oh c'mon, you're old.<br />You should be more cautious!</p>
+   <p begin="00:14:12.185" end="00:14:16.273" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I know the risks. We will draw<br />our target into the open with this ship.</p>
+   <p begin="00:14:17.148" end="00:14:20.193" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It's time we found out<br />if this ship is capable of deicide.</p>
+   <p begin="00:14:20.443" end="00:14:23.405" region="AmazonDefaultRegion" style="AmazonDefaultStyle">But the ignition system<br />hasn't been installed yet.</p>
+   <p begin="00:14:23.488" end="00:14:25.115" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You're thinking of using an Eva?</p>
+   <p begin="00:14:25.740" end="00:14:28.285" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- Mari?<br />- [Mari]<span tts:fontStyle="italic"> Unit 08 is a no-go.</span></p>
+   <p begin="00:14:28.368" end="00:14:30.495" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- Asuka?<br />- Asuka?</p>
+   <p begin="00:14:30.579" end="00:14:32.414" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[explosion]</p>
+   <p begin="00:14:32.998" end="00:14:36.418" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Asuka] Already on it. You just need me<br />to jam in the igniter, right?</p>
+   <p begin="00:14:36.501" end="00:14:38.169" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Counting on you.</p>
+   <p begin="00:14:38.253" end="00:14:41.047" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Ritsuko]<br />Containment field is strong by the engine.</p>
+   <p begin="00:14:41.131" end="00:14:43.300" region="AmazonDefaultRegion" style="AmazonDefaultStyle">And your Eva<br />is still undergoing a refit.</p>
+   <p begin="00:14:43.383" end="00:14:46.928" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Asuka] Colonel says: "Target comes first,<br />human life a distant second."</p>
+   <p begin="00:14:47.012" end="00:14:48.430" region="AmazonDefaultRegion" style="AmazonDefaultStyle">No time to worry about it!</p>
+   <p begin="00:14:48.888" end="00:14:50.724" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Eva Unit 02 Improved, launch!</p>
+   <p begin="00:14:52.434" end="00:14:54.227" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Ibuki]<span tts:fontStyle="italic"> Deploying Unit 02 Improved.</span></p>
+   <p begin="00:14:54.311" end="00:14:56.980" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kitakami] <span tts:fontStyle="italic">Roger.</span><br /><span tts:fontStyle="italic">Unit 02 Improved currently underway.</span></p>
+   <p begin="00:14:57.063" end="00:15:00.692" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Ibuki]<span tts:fontStyle="italic"> Drop underwater motor</span><br /><span tts:fontStyle="italic">and Number 1 left container.</span></p>
+   <p begin="00:15:06.990" end="00:15:10.744" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Asuka] And here I just got Unit 02<br />Improved looking all new and spiffy.</p>
+   <p begin="00:15:10.827" end="00:15:12.454" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Talk about a mundane debut.</p>
+   <p begin="00:15:17.917" end="00:15:21.212" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It really is Eva Unit 02!<br />Thank goodness.</p>
+   <p begin="00:15:22.297" end="00:15:24.007" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I guess Asuka's okay.</p>
+   <p begin="00:15:27.093" end="00:15:28.261" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ms Misato,</p>
+   <p begin="00:15:28.678" end="00:15:29.971" region="AmazonDefaultRegion" style="AmazonDefaultStyle">what about me?</p>
+   <p begin="00:15:30.347" end="00:15:32.557" region="AmazonDefaultRegion" style="AmazonDefaultStyle">All hands,<br />assume battle stations.</p>
+   <p begin="00:15:33.391" end="00:15:35.602" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op man #1]<span tts:fontStyle="italic"> All personnel,</span></p>
+   <p begin="00:15:35.685" end="00:15:38.563" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">man your battle stations.</span></p>
+   <p begin="00:15:38.980" end="00:15:41.149" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Ritsuko] Command control<br />to combat mode.</p>
+   <p begin="00:15:41.232" end="00:15:42.734" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Crew to the battle bridge.</p>
+   <p begin="00:15:42.817" end="00:15:44.486" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Misato] Ready gravity ballast systems.</p>
+   <p begin="00:15:44.569" end="00:15:46.696" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Roger.<br />Checking all vent systems.</p>
+   <p begin="00:15:46.988" end="00:15:50.158" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Misato] Centralize ship control systems<br />to the anchoring plug.</p>
+   <p begin="00:15:50.241" end="00:15:54.412" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Takao] Roger. Readying descent.<br />Checking injectors. Starting countdown.</p>
+   <p begin="00:15:56.289" end="00:15:57.499" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ms Misato!</p>
+   <p begin="00:15:57.582" end="00:15:59.376" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Unit 01 is here, right?</p>
+   <p begin="00:16:00.960" end="00:16:03.505" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I'll pilot it. I'll help Asuka!</p>
+   <p begin="00:16:07.550" end="00:16:09.969" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Shouldn't I be piloting Unit 01?</p>
+   <p begin="00:16:10.220" end="00:16:11.471" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ms Misato!</p>
+   <p begin="00:16:12.472" end="00:16:13.723" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Ritsuko] No.</p>
+   <p begin="00:16:14.015" end="00:16:16.017" region="AmazonDefaultRegion" style="AmazonDefaultStyle">There's no need for you to pilot an Eva.</p>
+   <p begin="00:16:16.101" end="00:16:18.812" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op woman #2]<br /><span tts:fontStyle="italic">Initiating Hirnstamm Tower separation.</span></p>
+   <p begin="00:16:18.895" end="00:16:22.190" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op woman #3]<br />Moving <span tts:fontStyle="italic">command control to battle bridge.</span></p>
+   <p begin="00:16:22.857" end="00:16:24.734" region="AmazonDefaultRegion" style="AmazonDefaultStyle">There's no need?</p>
+   <p begin="00:16:26.820" end="00:16:29.114" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Then...<br />What am I supposed to do?</p>
+   <p begin="00:16:31.282" end="00:16:32.283" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ms Misato!</p>
+   <p begin="00:16:33.284" end="00:16:35.078" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Shinji Ikari.</p>
+   <p begin="00:16:37.706" end="00:16:39.249" region="AmazonDefaultRegion" style="AmazonDefaultStyle">From now on...</p>
+   <p begin="00:16:39.332" end="00:16:41.084" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Don't do anything.</p>
+   <p begin="00:16:45.130" end="00:16:47.215" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[hydraulic doors]</p>
+   <p begin="00:16:49.342" end="00:16:50.802" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[metal clang]</p>
+   <p begin="00:16:51.261" end="00:16:52.804" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[sighs]</p>
+   <p begin="00:16:52.887" end="00:16:55.181" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op man #1]<br /><span tts:fontStyle="italic">LCL gas injection complete.</span></p>
+   <p begin="00:16:55.265" end="00:16:56.850" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Ritsuko] Start entry sequence.</p>
+   <p begin="00:16:56.933" end="00:17:01.438" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op woman #2] <span tts:fontStyle="italic">LCL ionization nominal.</span><br /><span tts:fontStyle="italic">Computational integration systems go.</span></p>
+   <p begin="00:17:01.521" end="00:17:02.522" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Misato] Status?</p>
+   <p begin="00:17:02.605" end="00:17:03.898" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kitakami] All crew counted.</p>
+   <p begin="00:17:03.982" end="00:17:06.276" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Initial contact is go.<br />Transfer confirmed.</p>
+   <p begin="00:17:07.902" end="00:17:10.989" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Tama] Bulkhead lockdown confirmed.<br />Pressure check complete.</p>
+   <p begin="00:17:12.657" end="00:17:16.995" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Takao] Power feed to the main engine<br />for ignition. 5% to critical threshold.</p>
+   <p begin="00:17:17.078" end="00:17:19.956" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Nagara] Initializing gyrocompass.<br />Stabilizers show green.</p>
+   <p begin="00:17:20.039" end="00:17:23.918" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op woman #3] <span tts:fontStyle="italic">Activating visual display</span><br /><span tts:fontStyle="italic">data processing and main monitor.</span></p>
+   <p begin="00:17:24.919" end="00:17:28.965" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Hyuga] Target still inbound.<br />They're taking an encircling formation!</p>
+   <p begin="00:17:29.048" end="00:17:33.136" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Aoba] Unit 02 Improved has discarded<br />the UPV. Swapping out left arm.</p>
+   <p begin="00:17:33.219" end="00:17:34.471" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Asuka] Easy does it.</p>
+   <p begin="00:17:37.640" end="00:17:38.767" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[straining]</p>
+   <p begin="00:17:41.144" end="00:17:42.187" region="AmazonDefaultRegion" style="AmazonDefaultStyle">All right, then.</p>
+   <p begin="00:17:43.772" end="00:17:45.064" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Let's do this!</p>
+   <p begin="00:17:52.113" end="00:17:53.907" region="AmazonDefaultRegion" style="AmazonDefaultStyle">AT Field. Deploy.</p>
+   <p begin="00:17:56.618" end="00:17:58.745" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Aoba] Change detected<br />in Pillars of Light!</p>
+   <p begin="00:17:58.828" end="00:18:00.497" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kitakami] Their energy's growing!</p>
+   <p begin="00:18:00.580" end="00:18:01.873" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Hyuga] They're moving.</p>
+   <p begin="00:18:05.376" end="00:18:07.086" region="AmazonDefaultRegion" style="AmazonDefaultStyle">A cruiser's been vaporized!</p>
+   <p begin="00:18:07.337" end="00:18:09.839" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It's a blitz.<br />If they make it to the ship</p>
+   <p begin="00:18:09.923" end="00:18:11.049" region="AmazonDefaultRegion" style="AmazonDefaultStyle">it's over.</p>
+   <p begin="00:18:11.883" end="00:18:14.010" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kitakami]<br /><span tts:fontStyle="italic">T-minus 360 seconds to contact.</span></p>
+   <p begin="00:18:21.059" end="00:18:23.478" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Asuka] Here we go!</p>
+   <p begin="00:18:25.814" end="00:18:28.691" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Aoba] Unit 02 Improved<br />has begun the ignition process.</p>
+   <p begin="00:18:30.068" end="00:18:33.279" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Takao] Ignore it.<br />Direct all energy to the flywheel.</p>
+   <p begin="00:18:33.363" end="00:18:34.364" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Priority One!</p>
+   <p begin="00:18:44.791" end="00:18:47.085" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Tama] Number 7 converter array<br />has exploded!</p>
+   <p begin="00:18:47.168" end="00:18:50.296" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Takao] Ignore the lines<br />that have gone down! Power infusion.</p>
+   <p begin="00:18:50.380" end="00:18:52.090" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ignore all the pressure gauges!</p>
+   <p begin="00:18:52.173" end="00:18:55.885" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Tama] Flywheel pressure plate unlocked!<br />Initiating rotation.</p>
+   <p begin="00:19:03.893" end="00:19:06.604" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[op man #2]<span tts:fontStyle="italic"> Main engine</span><br /><span tts:fontStyle="italic">energy pump now operating!</span></p>
+   <p begin="00:19:06.688" end="00:19:09.190" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Tama]<br />Adjusting APU rotation power to 80%.</p>
+   <p begin="00:19:09.274" end="00:19:10.817" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Takao]<br />Force-inject catalyst.</p>
+   <p begin="00:19:15.822" end="00:19:17.323" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Asuka] [straining]</p>
+   <p begin="00:19:25.999" end="00:19:27.083" region="AmazonDefaultRegion" style="AmazonDefaultStyle">And next up...</p>
+   <p begin="00:19:30.169" end="00:19:31.588" region="AmazonDefaultRegion" style="AmazonDefaultStyle">T-minus 35 seconds!</p>
+   <p begin="00:19:32.714" end="00:19:36.342" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Aoba] Unit 02 in ignition position.<br />[Tama] We've hit critical!</p>
+   <p begin="00:19:36.634" end="00:19:39.846" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Flywheel powered at 102%.</span><br /><span tts:fontStyle="italic">Threshold reached!</span></p>
+   <p begin="00:19:39.929" end="00:19:42.599" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Takao] Main engine activation,<br />now in final stage.</p>
+   <p begin="00:19:42.682" end="00:19:44.392" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Misato] Change helm systems.</p>
+   <p begin="00:19:44.475" end="00:19:48.646" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Enabling time space control.<br />Switching over to tri-axial helm.</p>
+   <p begin="00:19:49.564" end="00:19:51.941" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Deploy AT Field on ignition.</p>
+   <p begin="00:19:52.025" end="00:19:54.277" region="AmazonDefaultRegion" style="AmazonDefaultStyle">We're at 36,000 RPM!<br />All systems go!</p>
+   <p begin="00:19:54.360" end="00:19:56.571" region="AmazonDefaultRegion" style="AmazonDefaultStyle">We are go for contact!</p>
+   <p begin="00:19:56.654" end="00:19:59.073" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Skip countdown.<br />Initiate contact.</p>
+   <p begin="00:19:59.157" end="00:20:00.783" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Contact!</p>
+   <p begin="00:20:04.078" end="00:20:04.829" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ignition!</p>
+   <p begin="00:20:04.913" end="00:20:06.247" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[yells]</p>
+   <p begin="00:20:21.638" end="00:20:22.889" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Course clear.</p>
+   <p begin="00:20:22.972" end="00:20:25.433" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Check systems.<br />Friendlies to evacuate!</p>
+   <p begin="00:20:25.516" end="00:20:28.019" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Here we go...<br />And locked. Wunder!</p>
+   <p begin="00:20:30.188" end="00:20:34.651" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[triumphant music]</p>
+   <p begin="00:21:17.735" end="00:21:19.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Tama] Main wings damaged!</p>
+   <p begin="00:21:19.404" end="00:21:20.446" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ignore it!</p>
+   <p begin="00:21:20.780" end="00:21:24.325" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ready enemy annihilation!<br />Pitch 90 degrees down. Go astern!</p>
+   <p begin="00:21:24.409" end="00:21:26.494" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Go astern, aye, captain!</p>
+   <p begin="00:21:31.958" end="00:21:35.378" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Drag the core block<br />out of its camouflage cocoon!</p>
+   <p begin="00:21:40.133" end="00:21:42.593" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Tama] Fissures forming<br />in main wing structure!</p>
+   <p begin="00:21:42.677" end="00:21:45.847" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Helm, hold course.<br />Main engine, give me full power.</p>
+   <p begin="00:21:46.139" end="00:21:47.598" region="AmazonDefaultRegion" style="AmazonDefaultStyle">All back full!</p>
+   <p begin="00:21:48.057" end="00:21:49.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Nagara] Maximum battle speed!</p>
+   <p begin="00:21:55.523" end="00:21:58.276" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[electric guitar rock music]</p>
+   <p begin="00:22:16.127" end="00:22:18.588" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kitakami] I have visuals<br />of enemy core blocks!</p>
+   <p begin="00:22:18.671" end="00:22:20.631" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Hard to port!<br />Swing them round!</p>
+   <p begin="00:22:21.090" end="00:22:22.467" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Roger that!</p>
+   <p begin="00:22:32.351" end="00:22:35.229" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[triumphal music]</p>
+   <p begin="00:22:47.784" end="00:22:50.036" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Full thrusters! All stop!</p>
+   <p begin="00:22:59.754" end="00:23:02.548" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- Targets inactive!<br />- Main guns, get ready.</p>
+   <p begin="00:23:02.840" end="00:23:08.012" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Load AP rounds. Enable direct feed<br />from main engine. Engage reload circuits.</p>
+   <p begin="00:23:08.096" end="00:23:10.014" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Takao] Circuits engaged.</p>
+   <p begin="00:23:10.098" end="00:23:12.600" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Maintaining range correction until fire!</p>
+   <p begin="00:23:14.185" end="00:23:17.897" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Hyuga] Turrets have direct visual<br />targeting and manual tracking enabled!</p>
+   <p begin="00:23:17.980" end="00:23:19.732" region="AmazonDefaultRegion" style="AmazonDefaultStyle">That's good enough. Fire!</p>
+   <p begin="00:23:44.215" end="00:23:45.716" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Aoba] Targets annihilated.</p>
+   <p begin="00:23:45.800" end="00:23:48.469" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Misato] All stations stand down<br />to alert condition 2.</p>
+   <p begin="00:23:48.553" end="00:23:51.973" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Retrieval of Unit 02 Improved.<br />Expedite damage control on the wings.</p>
+   <p begin="00:23:53.516" end="00:23:56.227" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- Oh, wow.<br />- We actually won.</p>
+   <p begin="00:23:56.310" end="00:23:58.896" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Oh man, that was pushing it.</p>
+   <p begin="00:23:59.564" end="00:24:02.525" region="AmazonDefaultRegion" style="AmazonDefaultStyle">This Captain's even more interesting<br />than Kaji let on.</p>
+   <p begin="00:24:02.608" end="00:24:04.819" region="AmazonDefaultRegion" style="AmazonDefaultStyle">So this is the power to slay gods.</p>
+   <p begin="00:24:05.444" end="00:24:08.239" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Wunder, a fitting name<br />for a ship that embodies hope.</p>
+   <p begin="00:24:47.528" end="00:24:51.240" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Sakura] Subject BM-03,<br />provisionally Mr. Shinji Ikari.</p>
+   <p begin="00:24:52.158" end="00:24:54.076" region="AmazonDefaultRegion" style="AmazonDefaultStyle">The XO would like to fill you in.</p>
+   <p begin="00:24:55.161" end="00:24:57.872" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- [Shinji] This is Unit 01?<br />- [Ritsuko] Yes,</p>
+   <p begin="00:24:57.955" end="00:25:02.001" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Unit 01 is currently being employed<br />as this ship's main engine power core.</p>
+   <p begin="00:25:02.293" end="00:25:04.128" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Hence, no pilot is needed.</p>
+   <p begin="00:25:05.254" end="00:25:08.007" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] So I'm really<br />not needed for anything.</p>
+   <p begin="00:25:08.090" end="00:25:10.968" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Ritsuko] The results of your<br />deep synch tests are back.</p>
+   <p begin="00:25:11.052" end="00:25:14.222" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Your synchronization rates<br />were 0.000 percent.</p>
+   <p begin="00:25:14.555" end="00:25:17.683" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Even if you boarded an Eva,<br />it wouldn't activate.</p>
+   <p begin="00:25:19.602" end="00:25:22.021" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Sakura] Wow.<br />Isn't that wonderful, Mr. Ikari?</p>
+   <p begin="00:25:22.104" end="00:25:27.193" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Ritsuko] Nevertheless, we cannot ignore<br />that you recently had Unit 01 awakened.</p>
+   <p begin="00:25:28.069" end="00:25:31.697" region="AmazonDefaultRegion" style="AmazonDefaultStyle">For this reason, you have been fitted<br />with a DSS choker.</p>
+   <p begin="00:25:32.782" end="00:25:35.785" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- [Shinji] What is that?<br />- [Ritsuko] An insurance policy.</p>
+   <p begin="00:25:35.868" end="00:25:39.288" region="AmazonDefaultRegion" style="AmazonDefaultStyle">A physical failsafe device meant<br />to prevent any further awakenings.</p>
+   <p begin="00:25:39.372" end="00:25:40.915" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It symbolizes our distrust,</p>
+   <p begin="00:25:40.998" end="00:25:43.209" region="AmazonDefaultRegion" style="AmazonDefaultStyle">as well as your punishment.</p>
+   <p begin="00:25:43.292" end="00:25:44.669" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] What do you mean?</p>
+   <p begin="00:25:45.002" end="00:25:48.923" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Ritsuko] If you allow your emotions<br />to overwhelm you while piloting an Eva</p>
+   <p begin="00:25:49.006" end="00:25:51.592" region="AmazonDefaultRegion" style="AmazonDefaultStyle">and the risk of another awakening<br />becomes real,</p>
+   <p begin="00:25:52.134" end="00:25:54.637" region="AmazonDefaultRegion" style="AmazonDefaultStyle">we will shut it down<br />at the cost of your life.</p>
+   <p begin="00:25:57.223" end="00:25:58.557" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] Does that mean...</p>
+   <p begin="00:26:00.017" end="00:26:01.644" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I would die?</p>
+   <p begin="00:26:02.311" end="00:26:03.604" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Ritsuko] I won't deny it.</p>
+   <p begin="00:26:03.688" end="00:26:06.148" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What are you... What?</p>
+   <p begin="00:26:06.983" end="00:26:09.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ms Misato, what's going on here?</p>
+   <p begin="00:26:10.861" end="00:26:15.241" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Why kill me? It doesn't make sense!<br />How am I supposed to understand?</p>
+   <p begin="00:26:15.324" end="00:26:17.618" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Confusion is natural.<br />Lieutenant.</p>
+   <p begin="00:26:17.702" end="00:26:20.705" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- Yes ma'am!<br />- Tell him your name and rank.</p>
+   <p begin="00:26:20.788" end="00:26:21.914" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Sakura] Yes ma'am.</p>
+   <p begin="00:26:22.248" end="00:26:26.585" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I realize it's a little late now,<br />but I'm your supervising medical officer,</p>
+   <p begin="00:26:27.461" end="00:26:30.965" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Second Lieutenant Sakura Suzuhara.<br />Nice to meet you, sir.</p>
+   <p begin="00:26:31.382" end="00:26:32.591" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Oh, sure.</p>
+   <p begin="00:26:34.552" end="00:26:38.097" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Wait, Suzuhara?<br />Are you related to Tohji?</p>
+   <p begin="00:26:38.556" end="00:26:43.853" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Yes. Thanks for looking out<br />for my brother. I'm his younger sister.</p>
+   <p begin="00:26:43.936" end="00:26:46.105" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] Don't you mean his big sister?</p>
+   <p begin="00:26:46.480" end="00:26:48.316" region="AmazonDefaultRegion" style="AmazonDefaultStyle">No, sir, younger sister.</p>
+   <p begin="00:26:49.567" end="00:26:51.902" region="AmazonDefaultRegion" style="AmazonDefaultStyle">His younger sister? But how?</p>
+   <p begin="00:26:52.778" end="00:26:55.614" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Asuka] It’s because you were out cold<br />for 14 years.</p>
+   <p begin="00:26:55.698" end="00:26:57.575" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Idiot Shinji.</p>
+   <p begin="00:26:58.326" end="00:26:59.577" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] Asuka!</p>
+   <p begin="00:27:03.414" end="00:27:06.625" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I'm so glad to see you!<br />I knew you were okay, Asuka!</p>
+   <p begin="00:27:06.709" end="00:27:07.710" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What?</p>
+   <p begin="00:27:12.048" end="00:27:16.635" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It's no use, I can't hold it in.<br />I've kept it pent up all these years.</p>
+   <p begin="00:27:17.511" end="00:27:18.637" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[sighs]</p>
+   <p begin="00:27:22.058" end="00:27:23.768" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What's gotten into you?</p>
+   <p begin="00:27:24.852" end="00:27:26.562" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Asuka] Pent-up rage and sorrow.</p>
+   <p begin="00:27:27.438" end="00:27:32.068" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What are you talking about?<br />Asuka, what happened to your left eye?</p>
+   <p begin="00:27:32.151" end="00:27:33.778" region="AmazonDefaultRegion" style="AmazonDefaultStyle">None of your business.</p>
+   <p begin="00:27:34.528" end="00:27:37.782" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Asuka, you said 14 years have passed.</p>
+   <p begin="00:27:37.865" end="00:27:40.743" region="AmazonDefaultRegion" style="AmazonDefaultStyle">But aside from the eye patch,<br />you look the same.</p>
+   <p begin="00:27:41.243" end="00:27:43.120" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Yeah, the curse of the Eva.</p>
+   <p begin="00:27:43.204" end="00:27:44.872" region="AmazonDefaultRegion" style="AmazonDefaultStyle">The Eva's curse?</p>
+   <p begin="00:27:47.750" end="00:27:50.503" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Wait a second!<br />Asuka, you would know, right?</p>
+   <p begin="00:27:50.586" end="00:27:52.671" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Tell me! Where's Ayanami?</p>
+   <p begin="00:27:53.381" end="00:27:54.548" region="AmazonDefaultRegion" style="AmazonDefaultStyle">No idea.</p>
+   <p begin="00:27:54.632" end="00:27:58.260" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What? But I saved her back then!</p>
+   <p begin="00:27:58.803" end="00:28:00.971" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Big fuss over just one person.</p>
+   <p begin="00:28:01.055" end="00:28:04.850" region="AmazonDefaultRegion" style="AmazonDefaultStyle">The life of one single person<br />means absolutely jack in today's world.</p>
+   <p begin="00:28:04.934" end="00:28:07.728" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Isn't that right, Colonel Katsuragi?</p>
+   <p begin="00:28:10.606" end="00:28:11.482" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Asuka!</p>
+   <p begin="00:28:11.941" end="00:28:15.486" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ms Misato!<br />Where is Ayanami? Please tell me.</p>
+   <p begin="00:28:15.569" end="00:28:19.448" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You need to understand,<br />Rei Ayanami doesn't exist anymore.</p>
+   <p begin="00:28:19.949" end="00:28:22.910" region="AmazonDefaultRegion" style="AmazonDefaultStyle">No, I know that I saved her!</p>
+   <p begin="00:28:22.993" end="00:28:27.456" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I'm sure she's still inside Unit 01's<br />entry plug. Please, look inside carefully.</p>
+   <p begin="00:28:27.540" end="00:28:30.251" region="AmazonDefaultRegion" style="AmazonDefaultStyle">We've searched<br />every inch inside Unit 01.</p>
+   <p begin="00:28:30.960" end="00:28:33.212" region="AmazonDefaultRegion" style="AmazonDefaultStyle">All we found was you, and…</p>
+   <p begin="00:28:34.588" end="00:28:36.882" region="AmazonDefaultRegion" style="AmazonDefaultStyle">this, which had been<br />reconstructed somehow.</p>
+   <p begin="00:28:37.133" end="00:28:40.386" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Screening results reveal<br />no abnormalities, you can have it back.</p>
+   <p begin="00:28:41.262" end="00:28:42.888" region="AmazonDefaultRegion" style="AmazonDefaultStyle">This is my father's.</p>
+   <p begin="00:28:44.056" end="00:28:47.685" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ayanami had this with her.<br />I did save her.</p>
+   <p begin="00:28:49.854" end="00:28:50.896" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What was that?</p>
+   <p begin="00:28:52.982" end="00:28:53.983" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Talk to me.</p>
+   <p begin="00:28:54.483" end="00:28:56.735" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Hyuga] <span tts:fontStyle="italic">Target has appeared</span><br /><span tts:fontStyle="italic">on the afterdeck.</span></p>
+   <p begin="00:28:56.986" end="00:28:58.654" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Must be the real deal.</p>
+   <p begin="00:28:58.946" end="00:29:00.990" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">All hands, battle stations. Position 1!</span></p>
+   <p begin="00:29:01.073" end="00:29:02.867" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Prioritize safeguarding Unit 01.</span></p>
+   <p begin="00:29:02.950" end="00:29:04.869" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Unit 08 is ready to go, right?</p>
+   <p begin="00:29:04.952" end="00:29:06.495" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kitakami] Prepare Eva 08.</p>
+   <p begin="00:29:06.579" end="00:29:09.457" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Mari] I'm saddling up as we speak,<br />Your Highness.</p>
+   <p begin="00:29:09.540" end="00:29:13.002" region="AmazonDefaultRegion" style="AmazonDefaultStyle">So how is our little puppy?<br />Did he sit still like a good dog?</p>
+   <p begin="00:29:13.085" end="00:29:16.547" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Asuka] <span tts:fontStyle="italic">He hasn't changed a bit.</span><br /><span tts:fontStyle="italic">His hair and face, goofy as ever.</span></p>
+   <p begin="00:29:16.630" end="00:29:20.926" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Oh, but that was exactly<br />what you wanted to go and see.</p>
+   <p begin="00:29:21.010" end="00:29:22.553" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Asuka] <span tts:fontStyle="italic">No! I went there...</span></p>
+   <p begin="00:29:22.636" end="00:29:23.929" region="AmazonDefaultRegion" style="AmazonDefaultStyle">to belt him one.</p>
+   <p begin="00:29:24.305" end="00:29:29.268" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ms Misato! Ms Ritsuko!<br />What happened? Is it a new angel?</p>
+   <p begin="00:29:30.060" end="00:29:32.771" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Rei] <span tts:fontStyle="italic">Shinji. Where are you?</span></p>
+   <p begin="00:29:32.855" end="00:29:38.819" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ayanami? You heard her voice<br />just now, right? Ms Misato!</p>
+   <p begin="00:29:39.236" end="00:29:41.864" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[straining]</p>
+   <p begin="00:29:42.114" end="00:29:43.908" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Damn it, what the hell!</p>
+   <p begin="00:29:43.991" end="00:29:46.911" region="AmazonDefaultRegion" style="AmazonDefaultStyle">We're ready to go.<br />Mr. Ikari, come with me!</p>
+   <p begin="00:29:46.994" end="00:29:49.497" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Rei] <span tts:fontStyle="italic">Shinji... Where are you?</span></p>
+   <p begin="00:29:49.955" end="00:29:51.332" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It is Ayanami.</p>
+   <p begin="00:29:52.625" end="00:29:54.168" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It's Ayanami!</p>
+   <p begin="00:29:54.960" end="00:29:57.379" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Mr. Ikari, we must hurry!</p>
+   <p begin="00:29:59.882" end="00:30:01.467" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] I've had enough.</p>
+   <p begin="00:30:01.759" end="00:30:03.427" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ayanami, I'm here!</p>
+   <p begin="00:30:04.386" end="00:30:05.513" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[cries]</p>
+   <p begin="00:30:10.351" end="00:30:15.481" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Tama] <span tts:fontStyle="italic">Depressurization in temporary</span><br /><span tts:fontStyle="italic">quarantined interrogation room.</span></p>
+   <p begin="00:30:15.564" end="00:30:17.525" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">- Emergency bulkhead shutdown.</span><br /><span tts:fontStyle="italic">- Eva?</span></p>
+   <p begin="00:30:17.608" end="00:30:18.984" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Unit Zero?</p>
+   <p begin="00:30:19.443" end="00:30:22.071" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Rei] <span tts:fontStyle="italic">Shinji, come this way.</span></p>
+   <p begin="00:30:23.531" end="00:30:24.698" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Misato] No, Shinji.</p>
+   <p begin="00:30:25.407" end="00:30:26.659" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You're staying put.</p>
+   <p begin="00:30:27.451" end="00:30:31.580" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What the hell, Ms Misato!<br />You just said you didn't need me.</p>
+   <p begin="00:30:31.664" end="00:30:33.999" region="AmazonDefaultRegion" style="AmazonDefaultStyle">We'll keep you in protective custody.</p>
+   <p begin="00:30:34.083" end="00:30:36.710" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You're not making any sense at all!</p>
+   <p begin="00:30:41.882" end="00:30:44.426" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Stop this!<br />That's an Eva you're firing on!</p>
+   <p begin="00:30:44.510" end="00:30:47.846" region="AmazonDefaultRegion" style="AmazonDefaultStyle">We going to exterminate<br />all of NERV's Eva Units.</p>
+   <p begin="00:30:48.347" end="00:30:51.308" region="AmazonDefaultRegion" style="AmazonDefaultStyle">But you're a part of NERV!</p>
+   <p begin="00:30:51.559" end="00:30:55.604" region="AmazonDefaultRegion" style="AmazonDefaultStyle">No, we are WILLE, an organization<br />dedicated to the destruction of NERV.</p>
+   <p begin="00:30:56.313" end="00:31:01.610" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What?<br />But Ayanami's piloting that Eva!</p>
+   <p begin="00:31:01.902" end="00:31:03.779" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ayanami is gone!</p>
+   <p begin="00:31:03.862" end="00:31:06.323" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You're lying! She's right here!</p>
+   <p begin="00:31:07.116" end="00:31:09.827" region="AmazonDefaultRegion" style="AmazonDefaultStyle">How can you be so blind?<br />I've had enough of this!</p>
+   <p begin="00:31:13.247" end="00:31:14.248" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Mr. Ikari!</p>
+   <p begin="00:31:16.125" end="00:31:19.712" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[yelling] Do what you want,<br />but just don't pilot an Eva, ever.</p>
+   <p begin="00:31:20.462" end="00:31:22.464" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Seriously, I couldn't handle that again!</p>
+   <p begin="00:31:31.390" end="00:31:32.891" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Don't let them escape!</p>
+   <p begin="00:31:32.975" end="00:31:33.976" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You got it!</p>
+   <p begin="00:31:37.438" end="00:31:41.483" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Mari]<br />♪<span tts:fontStyle="italic">"When I set my sights on a target,</span>♪</p>
+   <p begin="00:31:41.567" end="00:31:42.735" region="AmazonDefaultRegion" style="AmazonDefaultStyle">♪<span tts:fontStyle="italic">I never miss!"</span>♪</p>
+   <p begin="00:31:43.569" end="00:31:45.237" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Hey, come on !</span></p>
+   <p begin="00:31:50.826" end="00:31:51.952" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Gotcha!</span></p>
+   <p begin="00:31:57.750" end="00:31:59.710" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I knew it! The Vessel of the Adams!</p>
+   <p begin="00:32:06.383" end="00:32:09.094" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Hey, I'm talking to you!</span><br /><span tts:fontStyle="italic">Show some manners, jackass!</span></p>
+   <p begin="00:32:11.096" end="00:32:13.515" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Ritsuko]<br />If NERV prioritized him over Unit 01,</p>
+   <p begin="00:32:13.891" end="00:32:16.018" region="AmazonDefaultRegion" style="AmazonDefaultStyle">it means he's still a potential trigger!</p>
+   <p begin="00:32:16.101" end="00:32:19.021" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Misato! Activate the DSS choker!</p>
+   <p begin="00:32:22.232" end="00:32:24.401" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[long beep]</p>
+   <p begin="00:32:33.702" end="00:32:35.996" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Ritsuko] XO to Bridge. Cancel pursuit.</p>
+   <p begin="00:32:36.080" end="00:32:39.875" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Continue damage control<br />and outfitting the ship.</p>
+   <p begin="00:32:40.793" end="00:32:42.461" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Aoba] <span tts:fontStyle="italic">Roger. Canceling pursuit.</span></p>
+   <p begin="00:32:42.544" end="00:32:44.463" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Asuka] That makes it clear:</p>
+   <p begin="00:32:44.546" end="00:32:45.714" region="AmazonDefaultRegion" style="AmazonDefaultStyle">he's less of an idiot</p>
+   <p begin="00:32:45.798" end="00:32:47.007" region="AmazonDefaultRegion" style="AmazonDefaultStyle">and more of a brat.</p>
+   <p begin="00:32:51.595" end="00:32:52.721" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[gasps]</p>
+   <p begin="00:33:00.062" end="00:33:01.772" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[grunts]</p>
+   <p begin="00:33:04.358" end="00:33:08.612" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ms Misato did lie to me.<br />I saved Ayanami.</p>
+   <p begin="00:33:10.197" end="00:33:11.198" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Over here.</p>
+   <p begin="00:33:36.974" end="00:33:40.185" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] I can see the sky<br />from inside the Geofront.</p>
+   <p begin="00:33:49.486" end="00:33:51.822" region="AmazonDefaultRegion" style="AmazonDefaultStyle">That's NERV HQ?</p>
+   <p begin="00:33:53.574" end="00:33:54.575" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What happened here?</p>
+   <p begin="00:34:25.522" end="00:34:28.484" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I guess 14 years really have gone by.</p>
+   <p begin="00:34:38.535" end="00:34:40.954" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[footsteps]</p>
+   <p begin="00:34:45.000" end="00:34:47.544" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[piano playing]</p>
+   <p begin="00:34:47.628" end="00:34:50.130" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[classical piano music]</p>
+   <p begin="00:35:04.561" end="00:35:05.562" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Rei] We're here.</p>
+   <p begin="00:35:06.939" end="00:35:08.524" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Huh? What?</p>
+   <p begin="00:35:11.485" end="00:35:12.569" region="AmazonDefaultRegion" style="AmazonDefaultStyle">An Eva?</p>
+   <p begin="00:35:12.653" end="00:35:13.862" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Gendoh] Correct.</p>
+   <p begin="00:35:17.699" end="00:35:18.867" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Father?</p>
+   <p begin="00:35:19.117" end="00:35:21.703" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Gendoh] Evangelion Unit thirteen.</p>
+   <p begin="00:35:21.787" end="00:35:24.248" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You will share it with your co-pilot.</p>
+   <p begin="00:35:26.333" end="00:35:28.335" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji]<br />You were the one playing piano?</p>
+   <p begin="00:35:29.586" end="00:35:33.173" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Gendoh] When the time comes,<br />you are going to pilot the Eva with him.</p>
+   <p begin="00:35:34.007" end="00:35:35.509" region="AmazonDefaultRegion" style="AmazonDefaultStyle">That will be all.</p>
+   <p begin="00:35:36.760" end="00:35:38.303" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Father, wait, Father!</p>
+   <p begin="00:35:38.637" end="00:35:42.766" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I have lots of questions!<br />I want to talk to you more. Father!</p>
+   <p begin="00:35:53.527" end="00:35:57.781" region="AmazonDefaultRegion" style="AmazonDefaultStyle">There's no dial, so I guess<br />I can't call anyone from this end.</p>
+   <p begin="00:36:07.708" end="00:36:09.418" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[sighs]</p>
+   <p begin="00:36:18.969" end="00:36:20.888" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">I have to go thank her.</span></p>
+   <p begin="00:36:29.021" end="00:36:30.647" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[footsteps]</p>
+   <p begin="00:36:31.481" end="00:36:33.066" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[shouts] Ayanami!</p>
+   <p begin="00:36:35.235" end="00:36:37.738" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Where are you, Ayanami?</p>
+   <p begin="00:36:39.072" end="00:36:40.532" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ayanami!</p>
+   <p begin="00:36:42.534" end="00:36:44.870" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[gentle piano music]</p>
+   <p begin="00:37:15.067" end="00:37:16.735" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What is this place?</p>
+   <p begin="00:37:19.321" end="00:37:21.907" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ayanami? I finally found her!</p>
+   <p begin="00:37:24.868" end="00:37:27.245" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ayanami! I looked everywhere for you!</p>
+   <p begin="00:37:28.747" end="00:37:32.042" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Hey! Clothes!<br />Come on, put some clothes on!</p>
+   <p begin="00:37:33.627" end="00:37:35.796" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I will, if it's an order.</p>
+   <p begin="00:37:37.547" end="00:37:38.799" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] I'm coming in.</p>
+   <p begin="00:37:44.680" end="00:37:46.932" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ayanami. Thank you for this.</p>
+   <p begin="00:37:47.349" end="00:37:50.352" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I've been meaning to thank you<br />for a long time.</p>
+   <p begin="00:37:58.568" end="00:38:01.989" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Oh, I see you have a new plug suit.<br />It looks nice,</p>
+   <p begin="00:38:02.614" end="00:38:04.658" region="AmazonDefaultRegion" style="AmazonDefaultStyle">but the black is a bit...</p>
+   <p begin="00:38:09.913" end="00:38:14.334" region="AmazonDefaultRegion" style="AmazonDefaultStyle">So, a lot has changed around here<br />at NERV HQ.</p>
+   <p begin="00:38:17.254" end="00:38:21.508" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Why is Ms Misato now fighting NERV<br />instead of the Angels?</p>
+   <p begin="00:38:22.968" end="00:38:24.845" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What's father trying to do here?</p>
+   <p begin="00:38:25.929" end="00:38:27.347" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What happened to everyone?</p>
+   <p begin="00:38:27.723" end="00:38:29.474" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ayanami, do you know anything?</p>
+   <p begin="00:38:31.226" end="00:38:32.227" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I don't know.</p>
+   <p begin="00:38:32.561" end="00:38:37.357" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Oh, uh...<br />I suppose you wouldn't.</p>
+   <p begin="00:38:38.316" end="00:38:41.111" region="AmazonDefaultRegion" style="AmazonDefaultStyle">So, when did you make it out of Unit 01?</p>
+   <p begin="00:38:48.076" end="00:38:51.246" region="AmazonDefaultRegion" style="AmazonDefaultStyle">This isn't even a proper room.</p>
+   <p begin="00:38:52.956" end="00:38:55.083" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I suppose it fits you, but still...</p>
+   <p begin="00:38:55.876" end="00:38:59.296" region="AmazonDefaultRegion" style="AmazonDefaultStyle">They don't have school here, right?<br />What do you do all day?</p>
+   <p begin="00:39:00.088" end="00:39:01.965" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Rei] I wait for orders.</p>
+   <p begin="00:39:04.009" end="00:39:07.554" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] I don't see any books here.<br />Don't you ever read?</p>
+   <p begin="00:39:08.472" end="00:39:13.602" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Books?<br />Would Rei Ayanami read books?</p>
+   <p begin="00:39:14.728" end="00:39:18.190" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] You used to read all the time.<br />You had them in your room.</p>
+   <p begin="00:39:18.440" end="00:39:19.524" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I see.</p>
+   <p begin="00:39:19.608" end="00:39:22.611" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] I know! I'll find the library<br />and you bring some.</p>
+   <p begin="00:39:23.820" end="00:39:28.075" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Do you want books in English? You always<br />had one and seemed to like them.</p>
+   <p begin="00:39:28.784" end="00:39:29.785" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Like?</p>
+   <p begin="00:39:30.202" end="00:39:33.038" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Yeah. At least, I think you did.</p>
+   <p begin="00:39:34.289" end="00:39:36.124" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What is "like"?</p>
+   <p begin="00:39:45.008" end="00:39:47.928" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Fuyutsuki]<br />So SEELE still remains silent?</p>
+   <p begin="00:39:49.638" end="00:39:53.725" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Gendoh] The Human Instrumentality Project<br />will occur as per the Dead Sea Scrolls.</p>
+   <p begin="00:39:54.643" end="00:39:57.354" region="AmazonDefaultRegion" style="AmazonDefaultStyle">There is no further need<br />to interact with us.</p>
+   <p begin="00:39:58.980" end="00:40:01.942" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ikari, do you intend<br />to use Unit 13 next?</p>
+   <p begin="00:40:04.945" end="00:40:08.782" region="AmazonDefaultRegion" style="AmazonDefaultStyle">No matter. I'll go along<br />with your plans, anyway.</p>
+   <p begin="00:40:09.825" end="00:40:11.451" region="AmazonDefaultRegion" style="AmazonDefaultStyle">For Yui's sake.</p>
+   <p begin="00:40:14.371" end="00:40:16.915" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] I guess it's broken.</p>
+   <p begin="00:40:24.172" end="00:40:25.507" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Don't do anything.</span></p>
+   <p begin="00:40:25.590" end="00:40:27.050" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">None of your business!</span></p>
+   <p begin="00:40:27.134" end="00:40:28.969" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Just don't pilot an Eva.</span></p>
+   <p begin="00:40:29.052" end="00:40:30.804" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">- Pilot the Eva.</span><br /><span tts:fontStyle="italic">- I don't know.</span></p>
+   <p begin="00:40:39.729" end="00:40:41.189" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[sighs]</p>
+   <p begin="00:41:19.436" end="00:41:22.314" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[gentle piano music]</p>
+   <p begin="00:41:25.942" end="00:41:28.904" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] Come on, Ikari. Let's talk.</p>
+   <p begin="00:41:34.242" end="00:41:35.493" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Um, I thought...</p>
+   <p begin="00:41:35.952" end="00:41:38.038" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I thought we were going to talk.</p>
+   <p begin="00:41:38.121" end="00:41:41.833" region="AmazonDefaultRegion" style="AmazonDefaultStyle">A piano duet is a conversation<br />through music.</p>
+   <p begin="00:41:45.545" end="00:41:47.631" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] No, I'm not cut out for this.</p>
+   <p begin="00:41:48.215" end="00:41:52.385" region="AmazonDefaultRegion" style="AmazonDefaultStyle">In life, it's important<br />to embrace change and try new things.</p>
+   <p begin="00:41:56.973" end="00:41:58.016" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It's simple.</p>
+   <p begin="00:41:58.642" end="00:42:02.479" region="AmazonDefaultRegion" style="AmazonDefaultStyle">All you have to do is...<br />Hit the keys over here.</p>
+   <p begin="00:42:14.574" end="00:42:16.576" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[piano tinkling]</p>
+   <p begin="00:42:16.660" end="00:42:19.162" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Go on... Try playing something.</p>
+   <p begin="00:42:32.259" end="00:42:34.427" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[fast complex piano music]</p>
+   <p begin="00:42:42.852" end="00:42:45.647" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I like it!<br />Our melodies work well together.</p>
+   <p begin="00:42:52.696" end="00:42:56.992" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[beautiful piano music duet]</p>
+   <p begin="00:43:21.266" end="00:43:23.268" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Music is so wonderful.</p>
+   <p begin="00:43:24.352" end="00:43:26.354" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] It's great to play together.</p>
+   <p begin="00:43:31.609" end="00:43:35.905" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] Thank you. It's been a while<br />since I enjoyed myself like this.</p>
+   <p begin="00:43:35.989" end="00:43:39.534" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] Same here. Let's do this again.<br />You're welcome anytime.</p>
+   <p begin="00:43:39.951" end="00:43:40.952" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Shinji Ikari.</p>
+   <p begin="00:43:42.704" end="00:43:44.664" region="AmazonDefaultRegion" style="AmazonDefaultStyle">And what's your name?</p>
+   <p begin="00:43:45.290" end="00:43:47.751" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I'm Kaworu.<br />Kaworu Nagisa.</p>
+   <p begin="00:43:48.960" end="00:43:52.047" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I'm like you: another child<br />with a predetermined fate.</p>
+   <p begin="00:43:58.011" end="00:43:59.346" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] She's out again.</p>
+   <p begin="00:44:00.138" end="00:44:01.723" region="AmazonDefaultRegion" style="AmazonDefaultStyle">The books haven't been touched.</p>
+   <p begin="00:44:18.823" end="00:44:20.867" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] Good morning, Shinji Ikari.</p>
+   <p begin="00:44:22.285" end="00:44:23.328" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You're up early.</p>
+   <p begin="00:44:24.371" end="00:44:26.498" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Well, I've got nothing else to do.</p>
+   <p begin="00:44:27.165" end="00:44:29.959" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[fast complex piano music]</p>
+   <p begin="00:44:56.236" end="00:44:58.613" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji]<br />I wonder what can I do to play better?</p>
+   <p begin="00:44:59.739" end="00:45:04.828" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] Playing better isn't important.<br />Create sounds that feel good to you.</p>
+   <p begin="00:45:06.621" end="00:45:10.417" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] It would feel good if I could<br />play better sounds. How do I do that?</p>
+   <p begin="00:45:11.084" end="00:45:15.171" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] Practice through repetition.<br />Do the same thing over and over.</p>
+   <p begin="00:45:15.922" end="00:45:18.842" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Do it until you think to yourself,<br />"That's pretty good."</p>
+   <p begin="00:45:19.259" end="00:45:20.844" region="AmazonDefaultRegion" style="AmazonDefaultStyle">That's the only way.</p>
+   <p begin="00:45:36.401" end="00:45:37.652" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[sighs]</p>
+   <p begin="00:45:50.915" end="00:45:54.419" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] Sure, leave it to me.<br />You want me to get it working, right?</p>
+   <p begin="00:45:54.502" end="00:45:56.921" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] Yes. Thank you.</p>
+   <p begin="00:45:57.005" end="00:45:59.966" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I feel bad, asking you<br />to do something like this for me.</p>
+   <p begin="00:46:00.049" end="00:46:03.470" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] Don't worry about it.<br />After all, we're friends.</p>
+   <p begin="00:46:08.308" end="00:46:11.227" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It's getting dark.<br />Let's head back for today.</p>
+   <p begin="00:46:12.312" end="00:46:15.064" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] Say, can we stay here<br />a little longer?</p>
+   <p begin="00:46:15.356" end="00:46:18.067" region="AmazonDefaultRegion" style="AmazonDefaultStyle">- Let's watch the stars.<br />- The stars?</p>
+   <p begin="00:46:21.404" end="00:46:22.572" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You like the stars?</p>
+   <p begin="00:46:23.323" end="00:46:24.449" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] Yeah.</p>
+   <p begin="00:46:25.492" end="00:46:28.828" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Taking in the immensity of the cosmos<br />really relaxes me.</p>
+   <p begin="00:46:28.912" end="00:46:31.706" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I've been like this since I was young.</p>
+   <p begin="00:46:33.583" end="00:46:38.087" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It makes me happy to know<br />that 14 years mean so little up there.</p>
+   <p begin="00:46:39.380" end="00:46:41.841" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It's like I can lose myself<br />and stop worrying.</p>
+   <p begin="00:46:42.592" end="00:46:44.344" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It's soothing, I guess.</p>
+   <p begin="00:46:45.678" end="00:46:47.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[chuckles] It's hard to explain.</p>
+   <p begin="00:46:48.139" end="00:46:52.018" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] The sentiment<br />came across just fine. Shunning change.</p>
+   <p begin="00:46:52.727" end="00:46:55.605" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You prefer the empty,<br />merciless world of the abyss.</p>
+   <p begin="00:46:55.688" end="00:46:57.190" region="AmazonDefaultRegion" style="AmazonDefaultStyle">That's so like you.</p>
+   <p begin="00:46:58.608" end="00:47:00.860" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You know lying here with you is nice.</p>
+   <p begin="00:47:02.028" end="00:47:04.614" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I never realized<br />this could be so pleasant.</p>
+   <p begin="00:47:05.448" end="00:47:07.992" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Thank you for inviting me.</p>
+   <p begin="00:47:08.076" end="00:47:12.121" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] No, uh, I just thought<br />maybe watching the stars with you</p>
+   <p begin="00:47:12.622" end="00:47:15.750" region="AmazonDefaultRegion" style="AmazonDefaultStyle">might be something fun. Huh?</p>
+   <p begin="00:47:16.292" end="00:47:17.418" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It is fun.</p>
+   <p begin="00:47:19.295" end="00:47:22.173" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I realize now<br />that I was born to meet you.</p>
+   <p begin="00:47:39.190" end="00:47:41.109" region="AmazonDefaultRegion" style="AmazonDefaultStyle">This is a little big on me.</p>
+   <p begin="00:47:44.571" end="00:47:46.197" region="AmazonDefaultRegion" style="AmazonDefaultStyle">"Tohji Suzuhara"</p>
+   <p begin="00:47:49.534" end="00:47:51.786" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] Here you are.<br />It works now.</p>
+   <p begin="00:47:52.495" end="00:47:53.496" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] Thank you.</p>
+   <p begin="00:47:54.539" end="00:47:57.875" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You're amazing.<br />It seems like you can do anything.</p>
+   <p begin="00:47:57.959" end="00:48:00.587" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] It's only a matter<br />of technical knowledge.</p>
+   <p begin="00:48:00.670" end="00:48:03.089" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I've just been here<br />a little longer than you.</p>
+   <p begin="00:48:04.007" end="00:48:06.342" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Still... You're amazing.</p>
+   <p begin="00:48:08.261" end="00:48:11.180" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You seem rather deflated.<br />What's the matter?</p>
+   <p begin="00:48:15.393" end="00:48:17.854" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I'm worried about my friends.</p>
+   <p begin="00:48:18.396" end="00:48:19.564" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Your friends?</p>
+   <p begin="00:48:20.023" end="00:48:21.190" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[sighs]</p>
+   <p begin="00:48:21.608" end="00:48:26.154" region="AmazonDefaultRegion" style="AmazonDefaultStyle">There used to be a city<br />on top of NERV HQ. They all lived there.</p>
+   <p begin="00:48:26.487" end="00:48:29.991" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Tohji, Kensuke,<br />the class rep and everyone else.</p>
+   <p begin="00:48:31.117" end="00:48:34.537" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I guess I really was asleep<br />inside Unit 01 for 14 years…</p>
+   <p begin="00:48:35.288" end="00:48:38.791" region="AmazonDefaultRegion" style="AmazonDefaultStyle">and everything changed during that time.</p>
+   <p begin="00:48:39.417" end="00:48:42.920" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It must be hard<br />for you to cope with all that change.</p>
+   <p begin="00:48:44.005" end="00:48:45.423" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] I'm afraid...</p>
+   <p begin="00:48:46.758" end="00:48:51.471" region="AmazonDefaultRegion" style="AmazonDefaultStyle">because I don't know what happened<br />to the city, to everyone.</p>
+   <p begin="00:48:52.263" end="00:48:54.891" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I'm so afraid, its driving me crazy.</p>
+   <p begin="00:48:54.974" end="00:48:56.059" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I'm terrified!</p>
+   <p begin="00:49:04.233" end="00:49:05.777" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Do you want to know?</p>
+   <p begin="00:49:18.915" end="00:49:20.667" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[gasps]</p>
+   <p begin="00:49:34.305" end="00:49:36.349" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Nagisa? Nagisa!</span></p>
+   <p begin="00:49:51.864" end="00:49:53.950" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu]<br />Come on, we're almost there.</p>
+   <p begin="00:50:06.003" end="00:50:08.840" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[panting]</p>
+   <p begin="00:50:11.676" end="00:50:13.553" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] The clouds will break soon.</p>
+   <p begin="00:50:14.387" end="00:50:16.472" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You'll be able to see the truth.</p>
+   <p begin="00:50:24.564" end="00:50:25.857" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">What is this?</span></p>
+   <p begin="00:50:32.113" end="00:50:37.034" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] The result of the Third Impact<br />while you were fused with Unit 01.</p>
+   <p begin="00:50:40.830" end="00:50:44.125" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji]<br /><span tts:fontStyle="italic">Then everyone in the city must have...</span></p>
+   <p begin="00:50:44.792" end="00:50:48.087" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Mass extinctions<br />are not rare on this planet.</p>
+   <p begin="00:50:48.921" end="00:50:51.299" region="AmazonDefaultRegion" style="AmazonDefaultStyle">They actually spur on evolution.</p>
+   <p begin="00:50:52.425" end="00:50:56.179" region="AmazonDefaultRegion" style="AmazonDefaultStyle">After all, life-forms transform themselves<br />to adapt to the world.</p>
+   <p begin="00:50:57.889" end="00:51:02.935" region="AmazonDefaultRegion" style="AmazonDefaultStyle">But the Lilin transform the world<br />instead of themselves.</p>
+   <p begin="00:51:04.312" end="00:51:08.608" region="AmazonDefaultRegion" style="AmazonDefaultStyle">And so, they created a rite<br />in order to artificially evolve.</p>
+   <p begin="00:51:10.443" end="00:51:13.070" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Sacrificing the life-forms of the past</p>
+   <p begin="00:51:13.529" end="00:51:16.908" region="AmazonDefaultRegion" style="AmazonDefaultStyle">in order to create new life-forms<br />imbued with the fruit of life.</p>
+   <p begin="00:51:18.159" end="00:51:21.996" region="AmazonDefaultRegion" style="AmazonDefaultStyle">This extinction is all part of a program<br />hard-coded in antiquity.</p>
+   <p begin="00:51:22.997" end="00:51:26.709" region="AmazonDefaultRegion" style="AmazonDefaultStyle">NERV called it<br />the Human Instrumentality Project.</p>
+   <p begin="00:51:28.002" end="00:51:30.630" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">NERV did this? What was...</span></p>
+   <p begin="00:51:32.799" end="00:51:35.009" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">What was my father trying to do?</span></p>
+   <p begin="00:51:37.762" end="00:51:38.971" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Shinji Ikari...</p>
+   <p begin="00:51:40.139" end="00:51:43.976" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Once awakened,<br />Eva Unit 01 opened the Doors of Guf</p>
+   <p begin="00:51:44.060" end="00:51:47.146" region="AmazonDefaultRegion" style="AmazonDefaultStyle">and acted as the trigger<br />to bring about the Third Impact.</p>
+   <p begin="00:51:48.022" end="00:51:50.608" region="AmazonDefaultRegion" style="AmazonDefaultStyle">The Lilin call it<br />the "Near Third Impact".</p>
+   <p begin="00:51:52.276" end="00:51:54.570" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You were the key to all of this.</p>
+   <p begin="00:51:58.699" end="00:52:00.076" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">No...</span></p>
+   <p begin="00:52:00.493" end="00:52:03.955" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">I just wanted to save Ayanami.</span></p>
+   <p begin="00:52:06.082" end="00:52:09.377" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu]<br />Perhaps. But that caused this.</p>
+   <p begin="00:52:11.337" end="00:52:16.425" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] [crying] <span tts:fontStyle="italic">No…</span><br /><span tts:fontStyle="italic">How was I supposed to know!</span></p>
+   <p begin="00:52:17.093" end="00:52:20.304" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">It's all too much.</span><br /><span tts:fontStyle="italic">I can't do anything about this!</span></p>
+   <p begin="00:52:20.638" end="00:52:24.225" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] True. It's a horrific past<br />you can't do anything about.</p>
+   <p begin="00:52:25.101" end="00:52:27.478" region="AmazonDefaultRegion" style="AmazonDefaultStyle">This is the truth you wanted to know.</p>
+   <p begin="00:52:28.604" end="00:52:32.441" region="AmazonDefaultRegion" style="AmazonDefaultStyle">As a consequence, the Lilin<br />made you bear the wages of that sin.</p>
+   <p begin="00:52:33.651" end="00:52:36.612" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Isn't that what that thing<br />on your neck represents?</p>
+   <p begin="00:52:37.864" end="00:52:43.494" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] [crying] <span tts:fontStyle="italic">Sin? I didn't sin!</span><br /><span tts:fontStyle="italic">I have nothing to do with this!</span></p>
+   <p begin="00:52:44.412" end="00:52:46.539" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] That's not how others see it.</p>
+   <p begin="00:52:48.332" end="00:52:51.210" region="AmazonDefaultRegion" style="AmazonDefaultStyle">However there are no sins<br />you can't atone for.</p>
+   <p begin="00:52:52.378" end="00:52:55.590" region="AmazonDefaultRegion" style="AmazonDefaultStyle">There is hope. There is always hope.</p>
+   <p begin="00:52:55.673" end="00:52:56.883" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Ah!</span></p>
+   <p begin="00:53:13.024" end="00:53:15.985" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Fuyutsuki] SEELE's boy<br />has made contact with the Third Boy.</p>
+   <p begin="00:53:16.068" end="00:53:18.696" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It appears the Third Boy<br />was shown the outside world.</p>
+   <p begin="00:53:19.739" end="00:53:24.535" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I wonder how he will take it.<br />Aren't you worried, Ikari?</p>
+   <p begin="00:53:25.411" end="00:53:27.830" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Gendoh]<br />We will rewrite SEELE's scenario.</p>
+   <p begin="00:53:28.831" end="00:53:31.959" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Any and all beings<br />are tools to that end.</p>
+   <p begin="00:53:32.418" end="00:53:35.087" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Do you feel<br />that opening up to your son…</p>
+   <p begin="00:53:35.171" end="00:53:36.839" region="AmazonDefaultRegion" style="AmazonDefaultStyle">would not be in his interests?</p>
+   <p begin="00:53:38.591" end="00:53:40.343" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I feel differently.</p>
+   <p begin="00:53:43.346" end="00:53:47.808" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What the hell?<br />How did this happen?</p>
+   <p begin="00:53:52.730" end="00:53:56.192" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Wait. I was able to save Ayanami.</p>
+   <p begin="00:53:57.526" end="00:53:58.694" region="AmazonDefaultRegion" style="AmazonDefaultStyle">That's what matters.</p>
+   <p begin="00:54:22.510" end="00:54:26.389" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">She's out again.</span><br /><span tts:fontStyle="italic">And she hasn't touched these.</span></p>
+   <p begin="00:54:28.474" end="00:54:32.812" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">What's going on?</span><br /><span tts:fontStyle="italic">What happened to Ayanami?</span></p>
+   <p begin="00:54:42.321" end="00:54:45.366" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Third Boy, can you play Shogi?</p>
+   <p begin="00:54:46.742" end="00:54:48.953" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] Well, I know the rules.</p>
+   <p begin="00:54:49.704" end="00:54:51.038" region="AmazonDefaultRegion" style="AmazonDefaultStyle">That'll do.</p>
+   <p begin="00:54:51.122" end="00:54:54.375" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Come with me. I'll play<br />at a handicap to even the odds.</p>
+   <p begin="00:55:02.633" end="00:55:04.969" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Calm yourself to achieve inner serenity.</p>
+   <p begin="00:55:05.720" end="00:55:08.097" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It's a necessity in order to win battles.</p>
+   <p begin="00:55:09.724" end="00:55:12.351" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You will lose in 31 moves.</p>
+   <p begin="00:55:12.435" end="00:55:13.436" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Hmmm.</p>
+   <p begin="00:55:15.104" end="00:55:16.647" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Hmmm.</p>
+   <p begin="00:55:20.776" end="00:55:22.945" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Fuyutsuki] This should make<br />for a more enjoyable game.</p>
+   <p begin="00:55:25.406" end="00:55:28.826" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Thank you for humoring this old man.</p>
+   <p begin="00:55:33.164" end="00:55:34.707" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I am a coward, you see.</p>
+   <p begin="00:55:35.458" end="00:55:39.086" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I needed an excuse<br />to be able to converse with you.</p>
+   <p begin="00:55:40.546" end="00:55:42.965" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Do you remember your mother?</p>
+   <p begin="00:55:44.508" end="00:55:48.888" region="AmazonDefaultRegion" style="AmazonDefaultStyle">No, I was very young<br />when she died.</p>
+   <p begin="00:55:49.680" end="00:55:52.725" region="AmazonDefaultRegion" style="AmazonDefaultStyle">And my father threw away<br />everything related to her.</p>
+   <p begin="00:55:57.313" end="00:55:58.314" region="AmazonDefaultRegion" style="AmazonDefaultStyle">This woman...</p>
+   <p begin="00:56:00.274" end="00:56:01.358" region="AmazonDefaultRegion" style="AmazonDefaultStyle">is it Ayanami?</p>
+   <p begin="00:56:01.859" end="00:56:06.113" region="AmazonDefaultRegion" style="AmazonDefaultStyle">That's your mother.<br />Her maiden name was Yui Ayanami.</p>
+   <p begin="00:56:06.489" end="00:56:08.741" region="AmazonDefaultRegion" style="AmazonDefaultStyle">She was a student of mine in college.</p>
+   <p begin="00:56:10.326" end="00:56:13.913" region="AmazonDefaultRegion" style="AmazonDefaultStyle">She's now part<br />of Eva Unit 01's pilot interface.</p>
+   <p begin="00:56:17.083" end="00:56:20.336" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Good, the power<br />has finally been restored.</p>
+   <p begin="00:56:21.378" end="00:56:22.671" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] Oh...</p>
+   <p begin="00:56:23.422" end="00:56:26.926" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Fuyutsuki] That is the very<br />early version of the Eva control system.</p>
+   <p begin="00:56:27.218" end="00:56:31.347" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Yui envisioned a direct core entry system,<br />and she tested it herself.</p>
+   <p begin="00:56:31.639" end="00:56:34.183" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You saw it,<br />although your memory has been wiped.</p>
+   <p begin="00:56:35.351" end="00:56:38.521" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It ended with Yui disappearing in there.</p>
+   <p begin="00:56:45.277" end="00:56:48.197" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Leaving behind only her information,</p>
+   <p begin="00:56:49.198" end="00:56:52.243" region="AmazonDefaultRegion" style="AmazonDefaultStyle">which would become the Ayanami series.</p>
+   <p begin="00:56:52.952" end="00:56:56.705" region="AmazonDefaultRegion" style="AmazonDefaultStyle">The Rei Ayanami you know<br />is one of the replicas of Yui.</p>
+   <p begin="00:56:58.290" end="00:57:03.045" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Along with your mother,<br />she too is now trapped inside Unit 01.</p>
+   <p begin="00:57:03.712" end="00:57:05.589" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It's all part of your father's plans.</p>
+   <p begin="00:57:07.007" end="00:57:08.259" region="AmazonDefaultRegion" style="AmazonDefaultStyle">No...</p>
+   <p begin="00:57:10.261" end="00:57:13.139" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Fuyutsuki] Breaking apart the world<br />is a trivial matter.</p>
+   <p begin="00:57:13.430" end="00:57:14.682" region="AmazonDefaultRegion" style="AmazonDefaultStyle">However...</p>
+   <p begin="00:57:14.974" end="00:57:17.393" region="AmazonDefaultRegion" style="AmazonDefaultStyle">rebuilding it is not so easy.</p>
+   <p begin="00:57:18.060" end="00:57:21.522" region="AmazonDefaultRegion" style="AmazonDefaultStyle">As with time itself, the course<br />of the world cannot be reversed.</p>
+   <p begin="00:57:22.481" end="00:57:23.983" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Nor can people's hearts.</p>
+   <p begin="00:57:24.692" end="00:57:30.447" region="AmazonDefaultRegion" style="AmazonDefaultStyle">That is why your father is sacrificing<br />everything to make his wish come true.</p>
+   <p begin="00:57:30.823" end="00:57:32.658" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Including his very soul.</p>
+   <p begin="00:57:34.326" end="00:57:36.996" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I wanted to share some truths with you.</p>
+   <p begin="00:57:37.371" end="00:57:38.956" region="AmazonDefaultRegion" style="AmazonDefaultStyle">To tell you about your father.</p>
+   <p begin="00:57:51.218" end="00:57:53.470" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What a wretched role to play.</p>
+   <p begin="00:57:54.430" end="00:57:57.892" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Is this what you wanted, Yui?</p>
+   <p begin="00:58:04.982" end="00:58:07.401" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Gendoh] The time for the final pact<br />draws near.</p>
+   <p begin="00:58:09.570" end="00:58:12.656" region="AmazonDefaultRegion" style="AmazonDefaultStyle">We'll be together again soon, Yui.</p>
+   <p begin="00:58:21.290" end="00:58:23.667" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] Why don't you read the books?</p>
+   <p begin="00:58:25.711" end="00:58:27.296" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Rei] I wasn't ordered to.</p>
+   <p begin="00:58:27.546" end="00:58:32.426" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] Orders, huh?<br />Fine! Forget it, then!</p>
+   <p begin="00:58:35.471" end="00:58:38.432" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[grunts] You're Ayanami, right?</p>
+   <p begin="00:58:38.682" end="00:58:41.101" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Rei] Yes, I'm Rei Ayanami.</p>
+   <p begin="00:58:41.810" end="00:58:44.230" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You're the one I saved, right?</p>
+   <p begin="00:58:44.772" end="00:58:45.773" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I don't know.</p>
+   <p begin="00:58:46.357" end="00:58:49.568" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[grunts]</p>
+   <p begin="00:58:54.698" end="00:58:55.699" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Shinji?</p>
+   <p begin="00:59:01.413" end="00:59:03.332" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I didn't save her...</p>
+   <p begin="00:59:05.709" end="00:59:07.336" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I lost Ayanami.</p>
+   <p begin="00:59:08.629" end="00:59:11.507" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Misato] [repeating]<br /><span tts:fontStyle="italic">Don't do anything.</span></p>
+   <p begin="00:59:11.590" end="00:59:12.758" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Mother...</p>
+   <p begin="00:59:13.801" end="00:59:17.221" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Gendoh] [repeating] <span tts:fontStyle="italic">Pilot the Eva.</span></p>
+   <p begin="00:59:17.304" end="00:59:21.475" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Sakura] <span tts:fontStyle="italic">Just don't pilot an Eva, ever.</span></p>
+   <p begin="00:59:21.558" end="00:59:23.644" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Misato] [repeating] <span tts:fontStyle="italic">Don't do anything.</span></p>
+   <p begin="00:59:23.727" end="00:59:26.313" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Gendoh] <span tts:fontStyle="italic">Pilot the EVA.</span></p>
+   <p begin="00:59:29.775" end="00:59:31.068" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] Ms Misako.</p>
+   <p begin="00:59:32.361" end="00:59:34.029" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Gendoh] <span tts:fontStyle="italic">Pilot the Eva.</span></p>
+   <p begin="00:59:34.113" end="00:59:36.031" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Sakura] <span tts:fontStyle="italic">Just don't pilot an Eva, ever.</span></p>
+   <p begin="00:59:36.115" end="00:59:37.950" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Gendoh] <span tts:fontStyle="italic">Pilot the Eva.</span></p>
+   <p begin="00:59:41.453" end="00:59:42.454" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Pilot the Eva.</span></p>
+   <p begin="00:59:42.538" end="00:59:44.123" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Sakura] <span tts:fontStyle="italic">Just don't pilot an Eva.</span></p>
+   <p begin="00:59:44.206" end="00:59:46.583" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Misato] <span tts:fontStyle="italic">Don't do anything.</span></p>
+   <p begin="00:59:47.251" end="00:59:48.877" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Sakura] <span tts:fontStyle="italic">Don't pilot an Eva.</span></p>
+   <p begin="00:59:49.461" end="00:59:51.130" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Rei] <span tts:fontStyle="italic">I don't know.</span></p>
+   <p begin="00:59:58.262" end="01:00:00.180" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What have I been doing?</p>
+   <p begin="01:00:06.270" end="01:00:07.646" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[yells] Ah!</p>
+   <p begin="01:00:36.508" end="01:00:39.470" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Fuyutsuki] So, the final<br />executor is at last complete.</p>
+   <p begin="01:00:40.095" end="01:00:43.474" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Gendoh] Yes. We now possess<br />all the tools we need.</p>
+   <p begin="01:00:46.852" end="01:00:50.147" region="AmazonDefaultRegion" style="AmazonDefaultStyle">The time has come.<br />This is our moment,</p>
+   <p begin="01:00:50.689" end="01:00:51.899" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Shinji Ikari.</p>
+   <p begin="01:00:52.816" end="01:00:57.112" region="AmazonDefaultRegion" style="AmazonDefaultStyle">No! I don't want<br />to pilot an Eva anymore!</p>
+   <p begin="01:00:57.821" end="01:00:59.823" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I didn't save Ayanami!</p>
+   <p begin="01:01:00.574" end="01:01:02.951" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Nothing good ever comes<br />from piloting an Eva.</p>
+   <p begin="01:01:03.035" end="01:01:05.204" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I'm sick of it.<br />I don't want to do anything!</p>
+   <p begin="01:01:06.413" end="01:01:10.459" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] But nothing good would come<br />from replaying</p>
+   <p begin="01:01:10.918" end="01:01:12.669" region="AmazonDefaultRegion" style="AmazonDefaultStyle">a traumatic refrain in your head.</p>
+   <p begin="01:01:13.212" end="01:01:15.923" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[crying]<br />Nothing good ever happens!</p>
+   <p begin="01:01:16.715" end="01:01:18.384" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You showed it to me!</p>
+   <p begin="01:01:19.426" end="01:01:21.720" region="AmazonDefaultRegion" style="AmazonDefaultStyle">That red desolate world…</p>
+   <p begin="01:01:22.638" end="01:01:26.809" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] Change brought about by an Eva<br />can be changed again with an Eva.</p>
+   <p begin="01:01:26.892" end="01:01:31.772" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] It doesn't matter! Evas, Father,<br />Ms Misato... I can't trust anyone anymore!</p>
+   <p begin="01:01:33.232" end="01:01:35.609" region="AmazonDefaultRegion" style="AmazonDefaultStyle">But at least you can trust me.</p>
+   <p begin="01:01:35.692" end="01:01:36.985" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I can't!</p>
+   <p begin="01:01:39.405" end="01:01:42.658" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ms Misato and the others<br />put this thing on me.</p>
+   <p begin="01:01:43.700" end="01:01:48.080" region="AmazonDefaultRegion" style="AmazonDefaultStyle">They said never to pilot an Eva again.<br />Threatened to kill me if I did.</p>
+   <p begin="01:01:52.376" end="01:01:54.711" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I don't care about Evas anymore.</p>
+   <p begin="01:01:59.508" end="01:02:05.472" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I'll take the Lilin curse and<br />the risk of the Eva awakening on myself.</p>
+   <p begin="01:02:11.687" end="01:02:13.105" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Nagisa... no...</p>
+   <p begin="01:02:14.148" end="01:02:15.816" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Don't worry about it.</p>
+   <p begin="01:02:16.275" end="01:02:19.570" region="AmazonDefaultRegion" style="AmazonDefaultStyle">They originally made this out of fear<br />for what I might do.</p>
+   <p begin="01:02:20.070" end="01:02:22.448" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I planned to do this sooner or later.</p>
+   <p begin="01:02:25.200" end="01:02:26.201" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Shinji Ikari,</p>
+   <p begin="01:02:26.285" end="01:02:31.331" region="AmazonDefaultRegion" style="AmazonDefaultStyle">your hope rests with the two spears left<br />at ground zero inside the Central Dogma.</p>
+   <p begin="01:02:31.874" end="01:02:34.626" region="AmazonDefaultRegion" style="AmazonDefaultStyle">They are the key to the initiating<br />the Project.</p>
+   <p begin="01:02:35.127" end="01:02:37.337" region="AmazonDefaultRegion" style="AmazonDefaultStyle">All we have to do is take those spears.</p>
+   <p begin="01:02:38.130" end="01:02:41.884" region="AmazonDefaultRegion" style="AmazonDefaultStyle">That way, NERV won't be able<br />to bring about a Fourth Impact.</p>
+   <p begin="01:02:42.759" end="01:02:47.222" region="AmazonDefaultRegion" style="AmazonDefaultStyle">And when used with Unit 13, the spears<br />will allow us to repair the world.</p>
+   <p begin="01:02:48.765" end="01:02:54.980" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You're right.<br />Yes, you could do it.</p>
+   <p begin="01:02:55.606" end="01:02:57.441" region="AmazonDefaultRegion" style="AmazonDefaultStyle">No, it's us together.</p>
+   <p begin="01:02:58.484" end="01:03:01.445" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Unit 13 uses a double entry plug system.</p>
+   <p begin="01:03:02.488" end="01:03:04.781" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Together, we'll give hope to the Lilins.</p>
+   <p begin="01:03:05.407" end="01:03:08.869" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What you need<br />most of all right now is hope.</p>
+   <p begin="01:03:09.786" end="01:03:12.581" region="AmazonDefaultRegion" style="AmazonDefaultStyle">As well as redemption and peace of mind.</p>
+   <p begin="01:03:15.292" end="01:03:19.713" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You're amazing.<br />You know everything.</p>
+   <p begin="01:03:20.255" end="01:03:22.883" region="AmazonDefaultRegion" style="AmazonDefaultStyle">That's because all I think about is you.</p>
+   <p begin="01:03:25.802" end="01:03:28.055" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Thank you, Nagisa.</p>
+   <p begin="01:03:28.430" end="01:03:30.265" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Just call me Kaworu.</p>
+   <p begin="01:03:33.560" end="01:03:35.604" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Call me just Shinji as well.</p>
+   <p begin="01:03:39.107" end="01:03:42.945" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It's like playing the piano.<br />Good things come when we play together,</p>
+   <p begin="01:03:43.612" end="01:03:44.821" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Shinji.</p>
+   <p begin="01:03:45.280" end="01:03:49.326" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] Right. Let's do this, Kaworu.</p>
+   <p begin="01:03:52.496" end="01:03:57.626" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[hydraulic doors opening]</p>
+   <p begin="01:04:28.240" end="01:04:31.410" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu &amp; Shinji]<br />Evangelion Unit 13, activate!</p>
+   <p begin="01:04:33.537" end="01:04:36.707" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Aoba] Signal detected!<br />An Eva has been activated.</p>
+   <p begin="01:04:56.393" end="01:04:58.645" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] We're not doing this<br />by ourselves?</p>
+   <p begin="01:04:59.146" end="01:05:02.190" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] You mean the Mark nine?<br />It's here for backup.</p>
+   <p begin="01:05:02.733" end="01:05:04.693" region="AmazonDefaultRegion" style="AmazonDefaultStyle">NERV is worried about WILLE.</p>
+   <p begin="01:05:05.527" end="01:05:07.654" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] We can handle this by ourselves.</p>
+   <p begin="01:05:09.197" end="01:05:10.616" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">She's not Ayanami, anyway.</span></p>
+   <p begin="01:05:11.241" end="01:05:12.868" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I am not Ayanami?</p>
+   <p begin="01:05:17.914" end="01:05:19.416" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] The wall, they're...</p>
+   <p begin="01:05:19.750" end="01:05:23.295" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] Yes, they're the ones<br />that failed to become Infinities.</p>
+   <p begin="01:05:28.300" end="01:05:30.135" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You don't have to worry about it.</p>
+   <p begin="01:05:32.846" end="01:05:34.681" region="AmazonDefaultRegion" style="AmazonDefaultStyle">We're almost at Lilith's seal.</p>
+   <p begin="01:05:35.349" end="01:05:37.726" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It's completely blocking the main shaft,</p>
+   <p begin="01:05:37.809" end="01:05:41.480" region="AmazonDefaultRegion" style="AmazonDefaultStyle">preventing anyone from entering<br />for the past 14 years.</p>
+   <p begin="01:05:46.818" end="01:05:48.862" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] It's like a huge lid.</p>
+   <p begin="01:05:49.696" end="01:05:53.450" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] Don't worry.<br />Unit 13's purpose is to breach it.</p>
+   <p begin="01:05:54.076" end="01:05:55.452" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Together, we can do it.</p>
+   <p begin="01:05:55.827" end="01:05:56.828" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Hmmm.</p>
+   <p begin="01:06:05.921" end="01:06:09.800" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Synchronize our tempos,<br />just like when playing the piano.</p>
+   <p begin="01:06:13.887" end="01:06:15.305" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Here we go, Shinji.</p>
+   <p begin="01:06:15.389" end="01:06:16.348" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[grunts]</p>
+   <p begin="01:06:19.184" end="01:06:21.144" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[ping / smashing]</p>
+   <p begin="01:06:21.228" end="01:06:24.189" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[dramatic choral music]</p>
+   <p begin="01:06:37.828" end="01:06:38.829" region="AmazonDefaultRegion" style="AmazonDefaultStyle">We did it.</p>
+   <p begin="01:06:56.555" end="01:06:58.056" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] Here we are.</p>
+   <p begin="01:06:58.140" end="01:07:00.434" region="AmazonDefaultRegion" style="AmazonDefaultStyle">The bottom most level<br />of the Central Dogma.</p>
+   <p begin="01:07:04.563" end="01:07:06.690" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ground zero of the Third Impact.</p>
+   <p begin="01:07:11.653" end="01:07:13.613" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] Is that Lilith?</p>
+   <p begin="01:07:13.905" end="01:07:15.365" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] What used to be.</p>
+   <p begin="01:07:15.657" end="01:07:17.534" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Now, it's only a carcass.</p>
+   <p begin="01:07:17.617" end="01:07:21.872" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ms Misato was willing<br />to sacrifice her life to protect it.</p>
+   <p begin="01:07:23.999" end="01:07:25.584" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Is that an Eva?</p>
+   <p begin="01:07:25.667" end="01:07:28.545" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Yes, Eva Mark 6.</p>
+   <p begin="01:07:29.379" end="01:07:33.884" region="AmazonDefaultRegion" style="AmazonDefaultStyle">The sad remains of the unit altered<br />by the Lilin to function autonomously.</p>
+   <p begin="01:07:39.181" end="01:07:42.392" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] The things sticking<br />through Lilith, that's our target?</p>
+   <p begin="01:07:42.726" end="01:07:45.562" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Yes, Longinus and Cassius.</p>
+   <p begin="01:07:46.021" end="01:07:50.275" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Two souls are required<br />to retrieve the two spears.</p>
+   <p begin="01:07:50.901" end="01:07:53.278" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Hence the double entry plug system.</p>
+   <p begin="01:07:53.695" end="01:07:57.491" region="AmazonDefaultRegion" style="AmazonDefaultStyle">If they needed two souls,<br />why didn't they just use her?</p>
+   <p begin="01:07:58.492" end="01:08:01.286" region="AmazonDefaultRegion" style="AmazonDefaultStyle">A facsimile<br />made by the Lilin wouldn't work.</p>
+   <p begin="01:08:01.369" end="01:08:03.789" region="AmazonDefaultRegion" style="AmazonDefaultStyle">The seat of the soul<br />is in a different place.</p>
+   <p begin="01:08:04.456" end="01:08:06.291" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Alright, let's get started.</p>
+   <p begin="01:08:13.840" end="01:08:14.883" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Wait.</p>
+   <p begin="01:08:15.801" end="01:08:17.385" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Something's not right...</p>
+   <p begin="01:08:17.469" end="01:08:18.929" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] What is it, Kaworu?</p>
+   <p begin="01:08:21.723" end="01:08:26.186" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] This is strange. The two spears<br />have changed shape to look alike.</p>
+   <p begin="01:08:26.561" end="01:08:28.021" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Let's pull them out.</p>
+   <p begin="01:08:28.688" end="01:08:30.565" region="AmazonDefaultRegion" style="AmazonDefaultStyle">That's why we've come here, right?</p>
+   <p begin="01:08:33.985" end="01:08:35.862" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What the hell was that?</p>
+   <p begin="01:08:45.664" end="01:08:46.748" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Unit 02!</p>
+   <p begin="01:08:47.332" end="01:08:48.333" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Asuka?</p>
+   <p begin="01:08:50.627" end="01:08:52.754" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">What are you doing, Asuka!</span></p>
+   <p begin="01:08:55.257" end="01:08:56.383" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Idiot Shinji!</p>
+   <p begin="01:08:56.967" end="01:08:59.302" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Don't tell me you're piloting that Eva!</span></p>
+   <p begin="01:08:59.386" end="01:09:00.387" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] <span tts:fontStyle="italic">Yes I am.</span></p>
+   <p begin="01:09:00.762" end="01:09:03.014" region="AmazonDefaultRegion" style="AmazonDefaultStyle">And with this Eva I will change the world.</p>
+   <p begin="01:09:04.266" end="01:09:07.644" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Damn brat.<br />You can help by not piloting an Eva!</p>
+   <p begin="01:09:15.110" end="01:09:17.404" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You're always late with your cover fire!</p>
+   <p begin="01:09:17.487" end="01:09:18.613" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Mari] <span tts:fontStyle="italic">Sorry, my bad.</span></p>
+   <p begin="01:09:19.406" end="01:09:21.032" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Well dear Vessel of the Adams.</p>
+   <p begin="01:09:21.783" end="01:09:25.245" region="AmazonDefaultRegion" style="AmazonDefaultStyle">At the very least, I'm going<br />to slow you down a bit, kiddo.</p>
+   <p begin="01:09:31.209" end="01:09:32.544" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ya!</p>
+   <p begin="01:09:44.723" end="01:09:46.725" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Why are you trying to stop me?</p>
+   <p begin="01:09:47.183" end="01:09:49.811" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Those spears are our only hope!</span></p>
+   <p begin="01:09:51.730" end="01:09:54.816" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Asuka] <span tts:fontStyle="italic">Stop trying to help!</span><br /><span tts:fontStyle="italic">You'll only make things worse!</span></p>
+   <p begin="01:09:55.150" end="01:09:57.861" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Do you want to start<br />another Third Impact?</p>
+   <p begin="01:09:57.944" end="01:09:59.029" region="AmazonDefaultRegion" style="AmazonDefaultStyle">No!</p>
+   <p begin="01:09:59.613" end="01:10:02.365" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">If we had those spears,</span><br /><span tts:fontStyle="italic">we could start everything over!</span></p>
+   <p begin="01:10:03.366" end="01:10:04.826" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">We could save the world!</span></p>
+   <p begin="01:10:06.786" end="01:10:08.622" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You're such a naïve child.</p>
+   <p begin="01:10:09.372" end="01:10:11.541" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You never listen!</p>
+   <p begin="01:10:21.426" end="01:10:22.969" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I could use your help, Kaworu.</p>
+   <p begin="01:10:25.138" end="01:10:29.059" region="AmazonDefaultRegion" style="AmazonDefaultStyle">We need a matched set of spears.<br />We need Cassius and Longinus.</p>
+   <p begin="01:10:30.268" end="01:10:33.563" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Instead, all we have here<br />are two identical spears.</p>
+   <p begin="01:10:33.647" end="01:10:34.689" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Kaworu!</p>
+   <p begin="01:10:35.023" end="01:10:38.443" region="AmazonDefaultRegion" style="AmazonDefaultStyle">So that's it...<br />That's your plan.</p>
+   <p begin="01:10:38.985" end="01:10:40.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Lilin!</p>
+   <p begin="01:10:45.492" end="01:10:47.869" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Mari] <span tts:fontStyle="italic">Hello,</span><br /><span tts:fontStyle="italic">dearest SEELE stand-in pilot.</span></p>
+   <p begin="01:10:48.244" end="01:10:49.829" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">I know you can hear me.</span></p>
+   <p begin="01:10:50.747" end="01:10:54.918" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I suggest you clear out of there<br />before you become part of Adams' Vessel.</p>
+   <p begin="01:10:55.001" end="01:10:56.962" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Rei] <span tts:fontStyle="italic">I can't. I wasn't ordered to.</span></p>
+   <p begin="01:10:57.837" end="01:10:59.631" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Uptight, ain't ya?</p>
+   <p begin="01:11:00.048" end="01:11:03.009" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You know, your original<br />was a lot easier to get along with.</p>
+   <p begin="01:11:03.593" end="01:11:06.471" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Original? A different me?</p>
+   <p begin="01:11:06.805" end="01:11:09.766" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ah!</p>
+   <p begin="01:11:19.651" end="01:11:23.738" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[grunts]<br />Kaworu, what's gotten into you?</p>
+   <p begin="01:11:26.074" end="01:11:28.201" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Asuka] [yells]</p>
+   <p begin="01:11:34.666" end="01:11:39.045" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[yelling] Asuka,<br />please stop getting in my way!</p>
+   <p begin="01:11:39.462" end="01:11:42.590" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Just give up<br />and drop dead, Brat Shinji!</p>
+   <p begin="01:11:47.637" end="01:11:50.974" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Damn it, not now!<br />Four-Eyed Crony, throw me a spare!</p>
+   <p begin="01:11:58.273" end="01:11:59.858" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Now get the spears.</p>
+   <p begin="01:12:01.943" end="01:12:05.363" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Asuka] How dare you hit a woman.<br />You bastard.</p>
+   <p begin="01:12:05.613" end="01:12:07.365" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Mari] <span tts:fontStyle="italic">Here's your spare, Highness.</span></p>
+   <p begin="01:12:18.501" end="01:12:20.170" region="AmazonDefaultRegion" style="AmazonDefaultStyle">We should stop, Shinji.</p>
+   <p begin="01:12:20.962" end="01:12:22.505" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I have a bad feeling.</p>
+   <p begin="01:12:23.256" end="01:12:27.427" region="AmazonDefaultRegion" style="AmazonDefaultStyle">We can't stop now, Kaworu.<br />What did we come all this way for?</p>
+   <p begin="01:12:27.510" end="01:12:30.722" region="AmazonDefaultRegion" style="AmazonDefaultStyle">We need to let it go.<br />Those are not the spears we need.</p>
+   <p begin="01:12:31.556" end="01:12:34.559" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] What do you mean,<br />not the spears we need?</p>
+   <p begin="01:12:38.188" end="01:12:40.565" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You said we needed these spears!</p>
+   <p begin="01:12:41.858" end="01:12:44.319" region="AmazonDefaultRegion" style="AmazonDefaultStyle">That's why I got into this Eva!</p>
+   <p begin="01:12:45.278" end="01:12:47.697" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[alarm buzzes]</p>
+   <p begin="01:12:47.947" end="01:12:49.324" region="AmazonDefaultRegion" style="AmazonDefaultStyle">My control systems!</p>
+   <p begin="01:12:53.369" end="01:12:57.582" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] I'll grab those spears for you.<br />For everyone...</p>
+   <p begin="01:12:58.458" end="01:13:00.126" region="AmazonDefaultRegion" style="AmazonDefaultStyle">The world will be normal again.</p>
+   <p begin="01:13:02.337" end="01:13:04.047" region="AmazonDefaultRegion" style="AmazonDefaultStyle">And then even Ms Misato...</p>
+   <p begin="01:13:04.130" end="01:13:05.340" region="AmazonDefaultRegion" style="AmazonDefaultStyle">will have to...</p>
+   <p begin="01:13:06.299" end="01:13:11.012" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Asuka] Crap! <span tts:fontStyle="italic">Four-Eyed</span> <span tts:fontStyle="italic">Crony, you've</span><br /><span tts:fontStyle="italic">got a shot! Permission to use AA rounds!</span></p>
+   <p begin="01:13:11.096" end="01:13:12.138" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">[Mari] Goody!</span></p>
+   <p begin="01:13:13.139" end="01:13:14.474" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">My ace in the hole.</span></p>
+   <p begin="01:13:20.188" end="01:13:21.689" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It doesn't have an AT Field?</p>
+   <p begin="01:13:22.982" end="01:13:25.401" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Wait a second, don't tell me...</p>
+   <p begin="01:13:37.872" end="01:13:39.124" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Don't do this, Shinji.</p>
+   <p begin="01:13:39.207" end="01:13:40.583" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Stop it, you brat!</p>
+   <p begin="01:13:41.209" end="01:13:42.919" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[grunts]</p>
+   <p begin="01:13:43.253" end="01:13:45.672" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[yelling]</p>
+   <p begin="01:14:04.107" end="01:14:06.109" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Let's begin, Fuyutsuki.</p>
+   <p begin="01:14:13.324" end="01:14:14.993" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] Eva Mark 6...</p>
+   <p begin="01:14:15.493" end="01:14:16.870" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Pattern Blue!</p>
+   <p begin="01:14:17.162" end="01:14:18.329" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What's going on?</p>
+   <p begin="01:14:21.624" end="01:14:24.627" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Crap!<br />The 12th Angel isn't dead yet!</p>
+   <p begin="01:14:25.920" end="01:14:27.964" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Four-Eyed Crony,<br />Container three, now!</p>
+   <p begin="01:14:28.298" end="01:14:29.340" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Mari] <span tts:fontStyle="italic">Alrighty!</span></p>
+   <p begin="01:14:30.884" end="01:14:35.013" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Asuka] I'll finish this thing off<br />before the Third Impact restarts!</p>
+   <p begin="01:14:39.392" end="01:14:40.894" region="AmazonDefaultRegion" style="AmazonDefaultStyle">These were my orders.</p>
+   <p begin="01:14:50.028" end="01:14:51.529" region="AmazonDefaultRegion" style="AmazonDefaultStyle">An Angel!</p>
+   <p begin="01:14:59.621" end="01:15:01.247" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[screams]</p>
+   <p begin="01:15:01.331" end="01:15:02.332" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Mari] <span tts:fontStyle="italic">Your Highness!</span></p>
+   <p begin="01:15:02.415" end="01:15:06.794" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Don't waste your ammo!</span><br /><span tts:fontStyle="italic">That whole thing is a core.</span></p>
+   <p begin="01:15:07.253" end="01:15:10.256" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Forget it.<br />We don't have a chance in the world.</p>
+   <p begin="01:15:11.799" end="01:15:18.556" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Besides, I'm curious to see what'll<br />happen after the final Angel is beaten.</p>
+   <p begin="01:15:18.973" end="01:15:21.517" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[chuckling]</p>
+   <p begin="01:15:22.268" end="01:15:23.394" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What is this?</p>
+   <p begin="01:15:28.107" end="01:15:30.360" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Is this me?</p>
+   <p begin="01:15:32.487" end="01:15:34.322" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Then who am I?</p>
+   <p begin="01:15:34.405" end="01:15:36.282" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Shinji] [straining]</p>
+   <p begin="01:15:37.033" end="01:15:40.203" region="AmazonDefaultRegion" style="AmazonDefaultStyle">The controls aren't responding!<br />What's going on, Kaworu?</p>
+   <p begin="01:15:42.664" end="01:15:43.665" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Kaworu!</p>
+   <p begin="01:15:44.832" end="01:15:47.293" region="AmazonDefaultRegion" style="AmazonDefaultStyle">To think that I, the 1st Angel,</p>
+   <p begin="01:15:47.669" end="01:15:50.129" region="AmazonDefaultRegion" style="AmazonDefaultStyle">would fall and become<br />the 13th Angel like this...</p>
+   <p begin="01:15:50.213" end="01:15:52.340" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What are you saying?<br />Kaworu!</p>
+   <p begin="01:15:55.593" end="01:15:58.680" region="AmazonDefaultRegion" style="AmazonDefaultStyle">So the beginning and the end<br />are one and the same.</p>
+   <p begin="01:15:59.055" end="01:16:03.059" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Well played, King of the Lilin,<br />Father of Shinji Ikari.</p>
+   <p begin="01:16:03.977" end="01:16:06.604" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Mari] Pattern Blue detected<br />in the DSS choker!</p>
+   <p begin="01:16:06.688" end="01:16:08.523" region="AmazonDefaultRegion" style="AmazonDefaultStyle">There shouldn't be a 13th Angel.</p>
+   <p begin="01:16:09.399" end="01:16:11.484" region="AmazonDefaultRegion" style="AmazonDefaultStyle">So this is what Gendoh was after.</p>
+   <p begin="01:16:14.779" end="01:16:18.908" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Gendoh] It is time to revise the pact<br />laid down in the Dead Sea Scrolls.</p>
+   <p begin="01:16:19.409" end="01:16:20.493" region="AmazonDefaultRegion" style="AmazonDefaultStyle">This is farewell.</p>
+   <p begin="01:16:22.870" end="01:16:25.581" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Though your souls may have<br />taken on a different form,</p>
+   <p begin="01:16:25.665" end="01:16:28.167" region="AmazonDefaultRegion" style="AmazonDefaultStyle">you are still products<br />of the forbidden fruit.</p>
+   <p begin="01:16:28.251" end="01:16:31.921" region="AmazonDefaultRegion" style="AmazonDefaultStyle">While it may be possible to live<br />eternally, death must come to you</p>
+   <p begin="01:16:32.005" end="01:16:33.881" region="AmazonDefaultRegion" style="AmazonDefaultStyle">as it does to us.</p>
+   <p begin="01:16:34.215" end="01:16:39.637" region="AmazonDefaultRegion" style="AmazonDefaultStyle">In your quest to assist the evolution of<br />our ilk and kin burdened with mortality.</p>
+   <p begin="01:16:41.431" end="01:16:48.396" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You gave us the gift of civilization.<br />So today on behalf of all of humanity...</p>
+   <p begin="01:16:50.857" end="01:16:53.192" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I express our gratitude.</p>
+   <p begin="01:16:55.820" end="01:17:00.199" region="AmazonDefaultRegion" style="AmazonDefaultStyle">With your death, I will return<br />your souls to where they belong.</p>
+   <p begin="01:17:02.493" end="01:17:05.538" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I shall carry out<br />your Human Instrumentality Project</p>
+   <p begin="01:17:05.830" end="01:17:09.667" region="AmazonDefaultRegion" style="AmazonDefaultStyle">as well as the deicide<br />that you long sought after.</p>
+   <p begin="01:17:11.002" end="01:17:12.503" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You can rest in peace.</p>
+   <p begin="01:17:12.754" end="01:17:19.218" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[SEELE] <span tts:fontStyle="italic">Our goals have already been met.</span><br /><span tts:fontStyle="italic">It is good. All is very good.</span></p>
+   <p begin="01:17:19.552" end="01:17:23.181" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">We hope for humanity's instrumentality</span><br /><span tts:fontStyle="italic">to be realized.</span></p>
+   <p begin="01:17:23.264" end="01:17:25.808" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Let their souls be peacefully cleansed.</span></p>
+   <p begin="01:17:27.852" end="01:17:30.355" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Beethoven's "Ode to Joy" playing]</p>
+   <p begin="01:17:57.715" end="01:18:00.134" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It's going beyond<br />the Pseudo DMS Phase!</p>
+   <p begin="01:18:00.510" end="01:18:02.178" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It has awakened alright.</p>
+   <p begin="01:18:03.262" end="01:18:05.098" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Must be a straggler Adam!</p>
+   <p begin="01:18:13.648" end="01:18:15.358" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[straining]</p>
+   <p begin="01:18:40.758" end="01:18:42.385" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What is going on?</p>
+   <p begin="01:18:42.844" end="01:18:45.138" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[screeching]</p>
+   <p begin="01:18:55.982" end="01:18:57.191" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What is this?</p>
+   <p begin="01:19:02.655" end="01:19:07.034" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Is this my fault?<br />Because I pulled out the spears?</p>
+   <p begin="01:19:13.708" end="01:19:14.959" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Is this...</p>
+   <p begin="01:19:16.002" end="01:19:17.670" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] The Fourth Impact.</p>
+   <p begin="01:19:17.753" end="01:19:18.754" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[gasps]</p>
+   <p begin="01:19:19.881" end="01:19:22.467" region="AmazonDefaultRegion" style="AmazonDefaultStyle">This is its opening rites.</p>
+   <p begin="01:19:36.063" end="01:19:38.232" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Kaworu... your choker!</p>
+   <p begin="01:19:46.782" end="01:19:48.117" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Ms Misato!</p>
+   <p begin="01:19:50.536" end="01:19:53.539" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Misato] A.T. Field at max strength!<br />Seal the Eva inside it!</p>
+   <p begin="01:19:53.831" end="01:19:56.542" region="AmazonDefaultRegion" style="AmazonDefaultStyle">All main guns, ready salvo.<br />Load high-arcing rounds.</p>
+   <p begin="01:19:57.043" end="01:19:59.128" region="AmazonDefaultRegion" style="AmazonDefaultStyle">We'll prevent a Fourth Impact!</p>
+   <p begin="01:19:59.545" end="01:20:00.546" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Fire!</p>
+   <p begin="01:20:08.012" end="01:20:10.640" region="AmazonDefaultRegion" style="AmazonDefaultStyle">We're hit!<br />Direct hits to our main guns!</p>
+   <p begin="01:20:10.723" end="01:20:12.308" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Vessel of the Adams!</p>
+   <p begin="01:20:17.230" end="01:20:18.814" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Tama] Central block hit!</p>
+   <p begin="01:20:18.898" end="01:20:20.691" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Takao] We're losing power.</p>
+   <p begin="01:20:20.775" end="01:20:22.652" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Nagara] Helm not responding.</p>
+   <p begin="01:20:22.735" end="01:20:24.195" region="AmazonDefaultRegion" style="AmazonDefaultStyle">We are going down!</p>
+   <p begin="01:20:32.912" end="01:20:34.705" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Tama] Central block hit!</p>
+   <p begin="01:20:34.789" end="01:20:37.250" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Start emergency measures<br />to bypass damaged areas!</p>
+   <p begin="01:20:37.333" end="01:20:39.710" region="AmazonDefaultRegion" style="AmazonDefaultStyle">The Adams<br />was Wunder's original owner.</p>
+   <p begin="01:20:40.169" end="01:20:43.172" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It's trying to take back control<br />of this ship from Unit 01.</p>
+   <p begin="01:20:48.803" end="01:20:51.264" region="AmazonDefaultRegion" style="AmazonDefaultStyle">The controls,<br />why aren't they coming back?</p>
+   <p begin="01:20:55.226" end="01:20:56.686" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Mari] [straining]</p>
+   <p begin="01:20:57.520" end="01:21:01.190" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Oh, that's one fine mess<br />we got going on here.</p>
+   <p begin="01:21:01.274" end="01:21:04.652" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Four-Eyed Crony,<br />handle the Eva! I'll rescue the Wunder!</p>
+   <p begin="01:21:04.735" end="01:21:05.736" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Mari] <span tts:fontStyle="italic">Roger!</span></p>
+   <p begin="01:21:05.820" end="01:21:08.239" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kitakami]<br />We can't dislodge the Adams Vessel!</p>
+   <p begin="01:21:08.322" end="01:21:11.200" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Tama] Unidentified data<br />infiltrating central control.</p>
+   <p begin="01:21:11.284" end="01:21:13.244" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Aoba] I'm losing control of the ship.</p>
+   <p begin="01:21:35.016" end="01:21:37.518" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Not fair!<br />SEELE's playing dirty again!</p>
+   <p begin="01:21:44.775" end="01:21:46.110" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Change modes!</p>
+   <p begin="01:21:46.402" end="01:21:47.612" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Code Triple Seven.</p>
+   <p begin="01:21:49.155" end="01:21:50.197" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[gasps]</p>
+   <p begin="01:21:57.121" end="01:21:58.956" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Who the hell are you?</p>
+   <p begin="01:22:15.348" end="01:22:18.601" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Engaging the Vessel of the Adams!</p>
+   <p begin="01:22:18.684" end="01:22:20.227" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I'm counting on you, Asuka.</p>
+   <p begin="01:22:38.704" end="01:22:42.166" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What would Rei Ayanami do<br />at a time like this?</p>
+   <p begin="01:22:42.583" end="01:22:43.834" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Hell if I know!</p>
+   <p begin="01:22:43.918" end="01:22:45.670" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Question is what do you want to do?</span></p>
+   <p begin="01:22:49.507" end="01:22:51.175" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Now I can hit the core!</p>
+   <p begin="01:23:00.267" end="01:23:02.353" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What? This entire thing is a core!</p>
+   <p begin="01:23:03.104" end="01:23:04.563" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I'm out of time.</p>
+   <p begin="01:23:05.731" end="01:23:06.899" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I'm sorry, Unit 02!</p>
+   <p begin="01:23:22.873" end="01:23:24.875" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kitakami] Control systems back online!</p>
+   <p begin="01:23:24.959" end="01:23:28.129" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Misato] Emergency full power!<br />Pursue target Eva immediately.</p>
+   <p begin="01:23:28.212" end="01:23:30.214" region="AmazonDefaultRegion" style="AmazonDefaultStyle">We need the main engine first!</p>
+   <p begin="01:23:30.464" end="01:23:32.174" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[grunts] Shinji!</p>
+   <p begin="01:23:53.362" end="01:23:55.156" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Is it my fault?</p>
+   <p begin="01:23:57.992" end="01:23:59.285" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Did I…</p>
+   <p begin="01:24:00.619" end="01:24:01.829" region="AmazonDefaultRegion" style="AmazonDefaultStyle">do this?</p>
+   <p begin="01:24:03.205" end="01:24:04.874" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kaworu] It's not your fault.</p>
+   <p begin="01:24:06.959" end="01:24:12.006" region="AmazonDefaultRegion" style="AmazonDefaultStyle">It happened because I turned<br />into the 13th Angel. I am the trigger.</p>
+   <p begin="01:24:13.048" end="01:24:14.508" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What should I do?</p>
+   <p begin="01:24:15.551" end="01:24:18.012" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Please, tell me.</p>
+   <p begin="01:24:23.517" end="01:24:26.145" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Kaworu... Tell me.</p>
+   <p begin="01:24:26.896" end="01:24:29.064" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What am I supposed to do now?</p>
+   <p begin="01:24:29.148" end="01:24:31.275" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Even when a soul is lost,</p>
+   <p begin="01:24:31.358" end="01:24:34.320" region="AmazonDefaultRegion" style="AmazonDefaultStyle">its aspirations and curses<br />remain in this world.</p>
+   <p begin="01:24:34.653" end="01:24:38.824" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Human will is conveyed as information<br />throughout the world, and it changes it.</p>
+   <p begin="01:24:39.658" end="01:24:42.119" region="AmazonDefaultRegion" style="AmazonDefaultStyle">In time, we rewrite who we are.</p>
+   <p begin="01:24:45.414" end="01:24:49.293" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I'm sorry. This isn't the happiness<br />that you were hoping to find.</p>
+   <p begin="01:24:51.128" end="01:24:55.424" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I'll close the Doors of Guf.<br />You don't have to worry, Shinji.</p>
+   <p begin="01:24:57.051" end="01:24:58.344" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Kaworu.</p>
+   <p begin="01:25:00.054" end="01:25:03.182" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I don't understand<br />anything you're saying. Kaworu...</p>
+   <p begin="01:25:09.688" end="01:25:13.943" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Shinji, you need to find a place<br />to rest that you can call your own.</p>
+   <p begin="01:25:21.909" end="01:25:24.370" region="AmazonDefaultRegion" style="AmazonDefaultStyle">The ties that bind you<br />will show you the way.</p>
+   <p begin="01:25:29.083" end="01:25:34.338" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Please, don't look so sad.<br />We'll meet again, Shinji.</p>
+   <p begin="01:25:35.506" end="01:25:36.757" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[yells] Kaworu!</p>
+   <p begin="01:25:55.359" end="01:25:57.194" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Mari] The doors aren't closing!</p>
+   <p begin="01:25:57.695" end="01:25:59.905" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Our puppy must be SEELE's insurance.</p>
+   <p begin="01:26:16.463" end="01:26:19.675" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Everything's wrapped up!<br />Snap out of it, doggy!</p>
+   <p begin="01:26:21.886" end="01:26:22.887" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Stop being a baby!</span></p>
+   <p begin="01:26:22.970" end="01:26:24.555" region="AmazonDefaultRegion" style="AmazonDefaultStyle">At least save the Princess!</p>
+   <p begin="01:26:24.889" end="01:26:25.806" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Man up, kid!</span></p>
+   <p begin="01:26:27.600" end="01:26:30.769" region="AmazonDefaultRegion" style="AmazonDefaultStyle">And learn a thing or two<br />about life while you're at it.</p>
+   <p begin="01:27:24.823" end="01:27:29.286" region="AmazonDefaultRegion" style="AmazonDefaultStyle">What an absolute mess.<br />This is almost what SEELE wanted.</p>
+   <p begin="01:27:30.204" end="01:27:36.210" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Gendoh] Perhaps, but we've neutralized<br />SEELE's Boy and awakened Unit 13.</p>
+   <p begin="01:27:37.711" end="01:27:40.089" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Colonel Katsuragi's actions<br />were expected.</p>
+   <p begin="01:27:40.923" end="01:27:42.508" region="AmazonDefaultRegion" style="AmazonDefaultStyle">For now, this is fine.</p>
+   <p begin="01:27:43.801" end="01:27:46.595" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Hyuga] <span tts:fontStyle="italic">All stations,</span><br /><span tts:fontStyle="italic">remain in alert condition 2.</span></p>
+   <p begin="01:27:46.679" end="01:27:50.349" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Kitakami] <span tts:fontStyle="italic">Pattern Blue can't be detected.</span><br /><span tts:fontStyle="italic">No contact in alert airspace.</span></p>
+   <p begin="01:27:50.432" end="01:27:52.977" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Tama] <span tts:fontStyle="italic">Temporary repairs on</span><br /><span tts:fontStyle="italic">damaged areas complete.</span></p>
+   <p begin="01:27:53.435" end="01:27:57.564" region="AmazonDefaultRegion" style="AmazonDefaultStyle">I don't know how or why,<br />but a Fourth Impact was averted.</p>
+   <p begin="01:27:58.440" end="01:28:01.402" region="AmazonDefaultRegion" style="AmazonDefaultStyle">That's something to be thankful for.</p>
+   <p begin="01:28:43.193" end="01:28:45.696" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[crashing noises]</p>
+   <p begin="01:28:50.784" end="01:28:52.119" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[straining]</p>
+   <p begin="01:28:53.370" end="01:28:54.371" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Hey, Shinji.</p>
+   <p begin="01:28:55.748" end="01:28:58.125" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You didn't come to help me, stupid brat.</p>
+   <p begin="01:29:02.129" end="01:29:06.050" region="AmazonDefaultRegion" style="AmazonDefaultStyle">All you do is think about yourself.<br />You think shutting up is the answer?</p>
+   <p begin="01:29:20.147" end="01:29:21.190" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[sighs]</p>
+   <p begin="01:29:29.740" end="01:29:31.033" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[grunts]</p>
+   <p begin="01:29:31.867" end="01:29:33.327" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Asuka] You act like a baby.</p>
+   <p begin="01:29:35.287" end="01:29:36.830" region="AmazonDefaultRegion" style="AmazonDefaultStyle">After all these years,</p>
+   <p begin="01:29:36.914" end="01:29:38.791" region="AmazonDefaultRegion" style="AmazonDefaultStyle">you're still the same annoying brat!</p>
+   <p begin="01:29:39.750" end="01:29:41.335" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Here, you'll carry the bag.</p>
+   <p begin="01:29:41.835" end="01:29:43.003" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Come on!</p>
+   <p begin="01:29:43.087" end="01:29:45.881" region="AmazonDefaultRegion" style="AmazonDefaultStyle">You can at least stand up, can't you?</p>
+   <p begin="01:29:50.636" end="01:29:52.012" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Hey, you're that pilot.</p>
+   <p begin="01:29:53.430" end="01:29:55.224" region="AmazonDefaultRegion" style="AmazonDefaultStyle">One of the original Ayanami batch.</p>
+   <p begin="01:30:02.981" end="01:30:06.819" region="AmazonDefaultRegion" style="AmazonDefaultStyle">The L containment field density here<br />is too strong for them to rescue us</p>
+   <p begin="01:30:07.861" end="01:30:12.032" region="AmazonDefaultRegion" style="AmazonDefaultStyle">so let's move to a spot<br />where the Lilin can come for us.</p>
+   <p begin="01:30:14.076" end="01:30:15.077" region="AmazonDefaultRegion" style="AmazonDefaultStyle">Come on!</p>
+   <p begin="01:30:43.856" end="01:30:46.275" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[soft music]</p>
+   <p begin="01:35:03.907" end="01:35:07.911" region="AmazonDefaultRegion" style="AmazonDefaultStyle">[Misato]<span tts:fontStyle="italic"> Having lost his will to live,</span><br /><span tts:fontStyle="italic">Shinji Ikari wanders aimlessly.</span></p>
+   <p begin="01:35:07.994" end="01:35:11.039" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">The place he ends up</span><br /><span tts:fontStyle="italic">helps him regain hope.</span></p>
+   <p begin="01:35:11.289" end="01:35:15.043" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">The Human Instrumentality Project</span><br /><span tts:fontStyle="italic">is finally initiated.</span></p>
+   <p begin="01:35:15.544" end="01:35:19.131" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">WILLE begins the final showdown</span><br /><span tts:fontStyle="italic">to stop the Final Impact.</span></p>
+   <p begin="01:35:19.506" end="01:35:21.591" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">The Wunder streaks through the sky.</span></p>
+   <p begin="01:35:22.050" end="01:35:25.679" region="AmazonDefaultRegion" style="AmazonDefaultStyle"><span tts:fontStyle="italic">Eva Unit 08 plus 02</span><br /><span tts:fontStyle="italic">runs across the red Earth.</span></p>
+   <p begin="01:35:26.763" end="01:35:28.974" region="AmazonDefaultRegion" style="AmazonDefaultStyle">IN EVANGELION THEATRICAL EDITION</p>
+  </div>
+ </body></tt>

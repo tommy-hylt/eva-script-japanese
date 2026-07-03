@@ -1,0 +1,1336 @@
+{
+  "eva-3.33-0006": {
+    "character": "青葉",
+    "english": "Copy."
+  },
+  "eva-3.33-0007": {
+    "character": "青葉",
+    "english": "Switching to backup plan,\nTwo Dash solo operation."
+  },
+  "eva-3.33-0012": {
+    "character": "女性オペレーター",
+    "english": "Starting deceleration."
+  },
+  "eva-3.33-0013": {
+    "character": "男性オペレーター",
+    "english": "Ready all Stage 1 engines.\nStart burn."
+  },
+  "eva-3.33-0016": {
+    "character": "多摩",
+    "english": "[Tama] Jettisoning\nStage 1 booster unit."
+  },
+  "eva-3.33-0017": {
+    "character": "北上",
+    "english": "[Kitakami] Separation confirmed.\nChecking electrical systems. No abnormalities."
+  },
+  "eva-3.33-0021": {
+    "character": "多摩",
+    "english": "[Tama] Jettisoning\nStage 2 booster unit."
+  },
+  "eva-3.33-0024": {
+    "character": "女性オペレーター",
+    "english": ""
+  },
+  "eva-3.33-0025": {
+    "character": "女性オペレーター",
+    "english": "Deceleration complete."
+  },
+  "eva-3.33-0026": {
+    "character": "男性オペレーター",
+    "english": "Prepare for insertion into final operation orbit.\nInvert the nose. Begin roll."
+  },
+  "eva-3.33-0027": {
+    "character": "男性オペレーター",
+    "english": "Confirming descent angle.\nCourse correction within tolerance."
+  },
+  "eva-3.33-0028": {
+    "character": "女性オペレーター",
+    "english": "Recalculating relative velocity.\nRechecking coordinates and altitude."
+  },
+  "eva-3.33-0029": {
+    "character": "女性オペレーター",
+    "english": "All clear."
+  },
+  "eva-3.33-0030": {
+    "character": "女性オペレーター",
+    "english": "Final orbital correction complete."
+  },
+  "eva-3.33-0031": {
+    "character": "女性オペレーター",
+    "english": "180-degree roll complete."
+  },
+  "eva-3.33-0046": {
+    "character": "北上",
+    "english": "Target confirmed."
+  },
+  "eva-3.33-0049": {
+    "character": "青葉",
+    "english": "No change in the contact point."
+  },
+  "eva-3.33-0055": {
+    "character": "ミサト",
+    "english": "Two Dash, prepare for rendezvous."
+  },
+  "eva-3.33-0062": {
+    "character": "アスカ",
+    "english": "Roger."
+  },
+  "eva-3.33-0074": {
+    "character": "男性オペレーター",
+    "english": "Blast sphere detected! Impact in three, two,"
+  },
+  "eva-3.33-0077": {
+    "character": "男性オペレーター",
+    "english": "one..."
+  },
+  "eva-3.33-0085": {
+    "character": "男性オペレーター",
+    "english": "Object approaching identified. Confirmed as Code 4A."
+  },
+  "eva-3.33-0091": {
+    "character": "アスカ",
+    "english": "Anti-AT Field!"
+  },
+  "eva-3.33-0094": {
+    "character": "アスカ"
+  },
+  "eva-3.33-0095": {
+    "character": "アスカ"
+  },
+  "eva-3.33-0096": {
+    "character": "アスカ",
+    "english": "Four-Eyes,"
+  },
+  "eva-3.33-0098": {
+    "character": "アスカ",
+    "english": "how long are you going to keep singing? It's annoying!"
+  },
+  "eva-3.33-0108": {
+    "character": "アスカ"
+  },
+  "eva-3.33-0109": {
+    "character": "アスカ"
+  },
+  "eva-3.33-0110": {
+    "character": "アスカ"
+  },
+  "eva-3.33-0115": {
+    "english": "Eight... seven... six..."
+  },
+  "eva-3.33-0116": {
+    "english": "five... four... three..."
+  },
+  "eva-3.33-0117": {
+    "english": "two... one..."
+  },
+  "eva-3.33-0119": {
+    "character": "北上",
+    "english": "Two Dash,"
+  },
+  "eva-3.33-0120": {
+    "character": "北上",
+    "english": "jettison final booster."
+  },
+  "eva-3.33-0125": {
+    "character": "北上",
+    "english": "Minimum safe re-entry distance secured."
+  },
+  "eva-3.33-0128": {
+    "character": "男性オペレーター",
+    "english": "Trajectory error within correction range."
+  },
+  "eva-3.33-0129": {
+    "character": "男性オペレーター",
+    "english": "Recalculating re-entry angle."
+  },
+  "eva-3.33-0130": {
+    "character": "アスカ",
+    "english": "Target seized. Returning."
+  },
+  "eva-3.33-0131": {
+    "character": "アスカ",
+    "english": "Mission accomplished. Heading back."
+  },
+  "eva-3.33-0132": {
+    "character": "ミサト",
+    "english": "Roger. We'll wait at the recovery point."
+  },
+  "eva-3.33-0133": {
+    "character": "アスカ",
+    "english": "- RDV code is Saturn V. / - Copy."
+  },
+  "eva-3.33-0134": {
+    "english": ""
+  },
+  "eva-3.33-0144": {
+    "character": "マリ",
+    "english": "Sorry! I'm short on altitude, so I'm peeling off."
+  },
+  "eva-3.33-0147": {
+    "character": "アスカ"
+  },
+  "eva-3.33-0149": {
+    "character": "アスカ",
+    "english": "Huh?!"
+  },
+  "eva-3.33-0150": {
+    "character": "アスカ",
+    "english": "Ow, hot hot hot!"
+  },
+  "eva-3.33-0155": {
+    "character": "アスカ"
+  },
+  "eva-3.33-0159": {
+    "character": "ＡＩ音声",
+    "english": "Caution. High angle of attack. Danger."
+  },
+  "eva-3.33-0163": {
+    "character": "アスカ",
+    "english": ""
+  },
+  "eva-3.33-0164": {
+    "character": "ミサト",
+    "english": "Two Dash! Mission completion takes top priority."
+  },
+  "eva-3.33-0165": {
+    "character": "ミサト",
+    "english": "Even if you lose the unit, do not let go of the target."
+  },
+  "eva-3.33-0166": {
+    "character": "アスカ",
+    "english": "I know that already!"
+  },
+  "eva-3.33-0188": {
+    "character": "サクラ",
+    "english": "Do you feel the urge to urinate"
+  },
+  "eva-3.33-0189": {
+    "character": "シンジ",
+    "english": "What is this?"
+  },
+  "eva-3.33-0190": {
+    "character": "サクラ",
+    "english": "or any hunger?"
+  },
+  "eva-3.33-0191": {
+    "character": "サクラ",
+    "english": ""
+  },
+  "eva-3.33-0194": {
+    "character": "高雄",
+    "english": "Maintain all active N2 reactors at 90% output."
+  },
+  "eva-3.33-0195": {
+    "character": "高雄",
+    "english": ""
+  },
+  "eva-3.33-0196": {
+    "character": "北上",
+    "english": "No vessels within radius 1200. No unidentified flying objects detected."
+  },
+  "eva-3.33-0200": {
+    "character": "多摩",
+    "english": "Check the outfitting work roadmap."
+  },
+  "eva-3.33-0201": {
+    "character": "シンジ",
+    "english": "Ah..."
+  },
+  "eva-3.33-0208": {
+    "character": "シンジ",
+    "english": ""
+  },
+  "eva-3.33-0209": {
+    "character": "シンジ",
+    "english": ""
+  },
+  "eva-3.33-0210": {
+    "character": "女性オペレーター",
+    "english": "Rechecking normal steering systems. No issues."
+  },
+  "eva-3.33-0214": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0216": {
+    "character": "リツコ",
+    "english": "That's right."
+  },
+  "eva-3.33-0218": {
+    "character": "リツコ",
+    "english": "His body tissues, down to healed baby teeth,"
+  },
+  "eva-3.33-0223": {
+    "character": "シンジ",
+    "english": "Captain Katsuragi?"
+  },
+  "eva-3.33-0224": {
+    "character": "シンジ",
+    "english": "So it really is you, Ms. Misato?"
+  },
+  "eva-3.33-0227": {
+    "character": "リツコ",
+    "english": "Hm?"
+  },
+  "eva-3.33-0228": {
+    "character": "リツコ",
+    "english": "Oh?"
+  },
+  "eva-3.33-0229": {
+    "character": "リツコ",
+    "english": "It's functioning normally. Set to captain-only passcode."
+  },
+  "eva-3.33-0231": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0232": {
+    "character": "シンジ",
+    "english": "Ah... please take it off!"
+  },
+  "eva-3.33-0234": {
+    "character": "ミサト",
+    "english": "That thing is never coming off."
+  },
+  "eva-3.33-0236": {
+    "character": "シンジ",
+    "english": "What?"
+  },
+  "eva-3.33-0241": {
+    "character": "日向",
+    "english": "It's a Pattern Blue!"
+  },
+  "eva-3.33-0251": {
+    "character": "アナウンス",
+    "english": "All stations, discontinue loading."
+  },
+  "eva-3.33-0252": {
+    "character": "女性オペレーター１",
+    "english": "Continue main engine work. Check all power inflow line valves."
+  },
+  "eva-3.33-0253": {
+    "character": "女性オペレーター２",
+    "english": "All aircraft, leave the current airspace immediately."
+  },
+  "eva-3.33-0254": {
+    "character": "女性オペレーター２",
+    "english": "Proceed at once to secondary rally point."
+  },
+  "eva-3.33-0255": {
+    "character": "男性オペレーター１",
+    "english": "Leave any cargo behind. Crew transfer takes priority."
+  },
+  "eva-3.33-0256": {
+    "character": "男性オペレーター２",
+    "english": "Keep outfitting work going. Assemble her right up until contact."
+  },
+  "eva-3.33-0257": {
+    "character": "男性オペレーター３",
+    "english": "Anyone who can help with the power lines, gather at the launches."
+  },
+  "eva-3.33-0258": {
+    "character": "女性オペレーター３",
+    "english": "All turrets, prepare to fire independently."
+  },
+  "eva-3.33-0259": {
+    "character": "女性オペレーター４",
+    "english": "Activate remote-control and linked systems."
+  },
+  "eva-3.33-0260": {
+    "character": "女性オペレーター４",
+    "english": "Prepare for sudden engagement."
+  },
+  "eva-3.33-0262": {
+    "character": "男性オペレーター４",
+    "english": "N2 reactor running at 99% output."
+  },
+  "eva-3.33-0263": {
+    "character": "女性オペレーター３",
+    "english": "Continue injection. Open valves through Number 90."
+  },
+  "eva-3.33-0264": {
+    "character": "女性オペレーター１",
+    "english": "Power pipe connection complete."
+  },
+  "eva-3.33-0265": {
+    "character": "女性オペレーター２",
+    "english": "No abnormalities at port hub stations 3 and 4."
+  },
+  "eva-3.33-0269": {
+    "character": "女性オペレーター２",
+    "english": "Inspecting LCL circulation pumps. Checking filtration system."
+  },
+  "eva-3.33-0270": {
+    "character": "伊吹",
+    "english": "Battle stations!"
+  },
+  "eva-3.33-0273": {
+    "character": "整備員",
+    "english": "Come on, Chief..."
+  },
+  "eva-3.33-0276": {
+    "character": "整備長"
+  },
+  "eva-3.33-0277": {
+    "character": "多摩",
+    "english": "Um... suspending outfitting work here."
+  },
+  "eva-3.33-0278": {
+    "character": "多摩"
+  },
+  "eva-3.33-0279": {
+    "character": "多摩",
+    "english": "Maintain strict anti-air watch. Sonar bearing goes here."
+  },
+  "eva-3.33-0282": {
+    "character": "北上",
+    "english": "It's shared duty, obviously!"
+  },
+  "eva-3.33-0283": {
+    "character": "青葉",
+    "english": "What?! Seriously?"
+  },
+  "eva-3.33-0284": {
+    "character": "サクラ",
+    "english": "Heave-ho."
+  },
+  "eva-3.33-0286": {
+    "character": "サクラ",
+    "english": "There."
+  },
+  "eva-3.33-0287": {
+    "character": "サクラ",
+    "english": ""
+  },
+  "eva-3.33-0288": {
+    "character": "アナウンス",
+    "english": "All anti-air turrets and anti-air guided missiles are ready."
+  },
+  "eva-3.33-0289": {
+    "character": "アナウンス",
+    "english": ""
+  },
+  "eva-3.33-0290": {
+    "character": "アナウンス",
+    "english": ""
+  },
+  "eva-3.33-0291": {
+    "character": "サクラ",
+    "english": "Still, a battle alert on the bridge is pretty nerve-racking."
+  },
+  "eva-3.33-0292": {
+    "character": "サクラ",
+    "english": ""
+  },
+  "eva-3.33-0293": {
+    "character": "サクラ",
+    "english": "So tense..."
+  },
+  "eva-3.33-0294": {
+    "character": "ミサト",
+    "english": "Roger. Link all anti-air systems."
+  },
+  "eva-3.33-0295": {
+    "character": "ミサト",
+    "english": ""
+  },
+  "eva-3.33-0296": {
+    "character": "ミサト"
+  },
+  "eva-3.33-0299": {
+    "character": "女性オペレーター",
+    "english": "Incoming! Confirming pillars of light from the target."
+  },
+  "eva-3.33-0300": {
+    "character": "女性オペレーター",
+    "english": "Uh... their numbers seem to be increasing."
+  },
+  "eva-3.33-0304": {
+    "character": "北上",
+    "english": "T-minus 600 to contact!"
+  },
+  "eva-3.33-0307": {
+    "character": "リツコ",
+    "english": "On top of that, this ship is still unfinished and mid-outfitting."
+  },
+  "eva-3.33-0311": {
+    "character": "ミサト",
+    "english": "That's exactly why we change the situation and remove future worries."
+  },
+  "eva-3.33-0312": {
+    "character": "ミサト",
+    "english": "XO, we're taking off."
+  },
+  "eva-3.33-0314": {
+    "character": "ミサト"
+  },
+  "eva-3.33-0315": {
+    "character": "ミサト"
+  },
+  "eva-3.33-0321": {
+    "character": "高雄"
+  },
+  "eva-3.33-0322": {
+    "character": "高雄"
+  },
+  "eva-3.33-0323": {
+    "character": "北上"
+  },
+  "eva-3.33-0324": {
+    "character": "ミサト",
+    "english": "I know it's reckless."
+  },
+  "eva-3.33-0325": {
+    "character": "ミサト"
+  },
+  "eva-3.33-0326": {
+    "character": "ミサト"
+  },
+  "eva-3.33-0327": {
+    "character": "リツコ"
+  },
+  "eva-3.33-0328": {
+    "character": "リツコ"
+  },
+  "eva-3.33-0329": {
+    "character": "ミサト",
+    "english": "Mari?"
+  },
+  "eva-3.33-0331": {
+    "character": "ミサト",
+    "english": "Asuka."
+  },
+  "eva-3.33-0332": {
+    "character": "ミサト",
+    "english": "Asuka?"
+  },
+  "eva-3.33-0333": {
+    "english": ""
+  },
+  "eva-3.33-0335": {
+    "character": "ミサト"
+  },
+  "eva-3.33-0342": {
+    "character": "伊吹",
+    "english": "Next, discard the underwater motor and left container number one."
+  },
+  "eva-3.33-0346": {
+    "character": "シンジ",
+    "english": "It's really Eva Unit 02... thank goodness."
+  },
+  "eva-3.33-0347": {
+    "character": "シンジ",
+    "english": "So Asuka's okay."
+  },
+  "eva-3.33-0348": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0349": {
+    "character": "アナウンス",
+    "english": "All hands, battle stations condition 1."
+  },
+  "eva-3.33-0356": {
+    "character": "高雄",
+    "english": "Roger. Prepare for descent. Checking injectors."
+  },
+  "eva-3.33-0358": {
+    "character": "アナウンス",
+    "english": "Preparing to move Hirnstamm Tower."
+  },
+  "eva-3.33-0359": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0360": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0361": {
+    "character": "シンジ",
+    "english": "Huh?!"
+  },
+  "eva-3.33-0362": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0363": {
+    "character": "女性オペレーター",
+    "english": "Prepare plug charge. Ready entry."
+  },
+  "eva-3.33-0365": {
+    "character": "女性オペレーター",
+    "english": "Separating Hirnstamm Tower. Beginning transfer."
+  },
+  "eva-3.33-0366": {
+    "character": "女性オペレーター",
+    "english": "Command control is now transferring to the battle bridge."
+  },
+  "eva-3.33-0370": {
+    "character": "ミサト"
+  },
+  "eva-3.33-0371": {
+    "character": "ミサト"
+  },
+  "eva-3.33-0372": {
+    "character": "ミサト"
+  },
+  "eva-3.33-0380": {
+    "character": "女性オペレーター",
+    "english": "Initial contact nominal. First-stage list cleared."
+  },
+  "eva-3.33-0381": {
+    "character": "女性オペレーター",
+    "english": ""
+  },
+  "eva-3.33-0382": {
+    "character": "女性オペレーター",
+    "english": ""
+  },
+  "eva-3.33-0384": {
+    "character": "女性オペレーター",
+    "english": "Auxiliary output rising."
+  },
+  "eva-3.33-0385": {
+    "character": "高雄",
+    "english": "Injecting ignition power into the main engine system."
+  },
+  "eva-3.33-0394": {
+    "character": "アスカ"
+  },
+  "eva-3.33-0396": {
+    "character": "アスカ"
+  },
+  "eva-3.33-0406": {
+    "character": "男性オペレーター",
+    "english": ""
+  },
+  "eva-3.33-0411": {
+    "character": "女性オペレーター",
+    "english": ""
+  },
+  "eva-3.33-0418": {
+    "english": ""
+  },
+  "eva-3.33-0419": {
+    "character": "アスカ"
+  },
+  "eva-3.33-0420": {
+    "character": "アスカ"
+  },
+  "eva-3.33-0421": {
+    "character": "北上"
+  },
+  "eva-3.33-0422": {
+    "character": "女性オペレーター",
+    "english": ""
+  },
+  "eva-3.33-0423": {
+    "character": "青葉／多摩"
+  },
+  "eva-3.33-0424": {
+    "character": "青葉",
+    "english": ""
+  },
+  "eva-3.33-0425": {
+    "character": "多摩",
+    "english": ""
+  },
+  "eva-3.33-0428": {
+    "character": "ミサト"
+  },
+  "eva-3.33-0429": {
+    "character": "長良"
+  },
+  "eva-3.33-0430": {
+    "character": "長良"
+  },
+  "eva-3.33-0431": {
+    "character": "長良"
+  },
+  "eva-3.33-0432": {
+    "character": "高雄"
+  },
+  "eva-3.33-0433": {
+    "character": "高雄"
+  },
+  "eva-3.33-0434": {
+    "character": "高雄"
+  },
+  "eva-3.33-0435": {
+    "character": "高雄"
+  },
+  "eva-3.33-0438": {
+    "character": "女性オペレーター",
+    "english": "Course clear."
+  },
+  "eva-3.33-0439": {
+    "character": "女性オペレーター",
+    "english": "Check systems. All friendly craft, evacuate!"
+  },
+  "eva-3.33-0440": {
+    "character": "アスカ",
+    "english": "Here we go... Locked in. Wunder!"
+  },
+  "eva-3.33-0446": {
+    "character": "多摩"
+  },
+  "eva-3.33-0447": {
+    "character": "ミサト"
+  },
+  "eva-3.33-0448": {
+    "character": "ミサト"
+  },
+  "eva-3.33-0449": {
+    "character": "長良"
+  },
+  "eva-3.33-0450": {
+    "character": "ミサト"
+  },
+  "eva-3.33-0452": {
+    "character": "多摩"
+  },
+  "eva-3.33-0454": {
+    "character": "ミサト"
+  },
+  "eva-3.33-0461": {
+    "character": "長良",
+    "english": "Roger!"
+  },
+  "eva-3.33-0462": {
+    "character": "長良",
+    "english": "Full thrusters! All stop!"
+  },
+  "eva-3.33-0465": {
+    "character": "青葉／高雄",
+    "english": "- Targets inactive! / - Main guns, prepare."
+  },
+  "eva-3.33-0467": {
+    "character": "高雄",
+    "english": "Load AP rounds. Direct-feed from main engine. Engage reload circuits."
+  },
+  "eva-3.33-0473": {
+    "english": ""
+  },
+  "eva-3.33-0480": {
+    "english": ""
+  },
+  "eva-3.33-0481": {
+    "english": ""
+  },
+  "eva-3.33-0483": {
+    "character": "ミサト",
+    "english": ""
+  },
+  "eva-3.33-0484": {
+    "character": "サクラ／北上",
+    "english": "- Oh wow. / - We actually won."
+  },
+  "eva-3.33-0485": {
+    "character": "サクラ"
+  },
+  "eva-3.33-0486": {
+    "character": "マリ"
+  },
+  "eva-3.33-0487": {
+    "character": "ミサト"
+  },
+  "eva-3.33-0488": {
+    "character": "ミサト"
+  },
+  "eva-3.33-0492": {
+    "character": "シンジ／リツコ",
+    "english": "- This is Unit 01? / - Yes."
+  },
+  "eva-3.33-0496": {
+    "character": "リツコ",
+    "english": ""
+  },
+  "eva-3.33-0504": {
+    "character": "リツコ",
+    "english": ""
+  },
+  "eva-3.33-0505": {
+    "character": "シンジ／リツコ",
+    "english": "- What is that? / - An insurance policy."
+  },
+  "eva-3.33-0506": {
+    "character": "リツコ",
+    "english": ""
+  },
+  "eva-3.33-0516": {
+    "character": "シンジ",
+    "english": "What are you... What?"
+  },
+  "eva-3.33-0517": {
+    "character": "シンジ",
+    "english": "Ms. Misato, what is going on here?"
+  },
+  "eva-3.33-0518": {
+    "character": "シンジ",
+    "english": ""
+  },
+  "eva-3.33-0519": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0520": {
+    "character": "リツコ"
+  },
+  "eva-3.33-0521": {
+    "character": "リツコ",
+    "english": ""
+  },
+  "eva-3.33-0522": {
+    "character": "リツコ"
+  },
+  "eva-3.33-0528": {
+    "character": "サクラ",
+    "english": "Yes."
+  },
+  "eva-3.33-0529": {
+    "character": "サクラ",
+    "english": "Thanks for looking out for my brother. I'm his younger sister."
+  },
+  "eva-3.33-0530": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0531": {
+    "character": "サクラ"
+  },
+  "eva-3.33-0536": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0537": {
+    "character": "シンジ",
+    "english": "What?"
+  },
+  "eva-3.33-0538": {
+    "character": "シンジ",
+    "english": ""
+  },
+  "eva-3.33-0539": {
+    "character": "アスカ",
+    "english": ""
+  },
+  "eva-3.33-0540": {
+    "character": "アスカ",
+    "english": "It's no use. I can't hold it back anymore. I've bottled it up all these years."
+  },
+  "eva-3.33-0541": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0543": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0544": {
+    "character": "アスカ",
+    "english": ""
+  },
+  "eva-3.33-0546": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0547": {
+    "character": "アスカ"
+  },
+  "eva-3.33-0548": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0550": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0551": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0556": {
+    "character": "アスカ",
+    "english": ""
+  },
+  "eva-3.33-0558": {
+    "character": "シンジ",
+    "english": "Asuka!"
+  },
+  "eva-3.33-0559": {
+    "character": "アスカ",
+    "english": ""
+  },
+  "eva-3.33-0560": {
+    "character": "ミサト",
+    "english": "Asuka."
+  },
+  "eva-3.33-0561": {
+    "character": "アスカ",
+    "english": ""
+  },
+  "eva-3.33-0562": {
+    "character": "アスカ",
+    "english": ""
+  },
+  "eva-3.33-0563": {
+    "character": "シンジ",
+    "english": ""
+  },
+  "eva-3.33-0565": {
+    "character": "ミサト"
+  },
+  "eva-3.33-0566": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0567": {
+    "character": "シンジ",
+    "english": ""
+  },
+  "eva-3.33-0574": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0575": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0585": {
+    "character": "北上／マリ"
+  },
+  "eva-3.33-0605": {
+    "character": "サクラ"
+  },
+  "eva-3.33-0615": {
+    "character": "女性オペレーター／シンジ",
+    "english": "- Emergency bulkhead shutdown. / - Eva? Unit Zero?"
+  },
+  "eva-3.33-0618": {
+    "character": "ミサト",
+    "english": ""
+  },
+  "eva-3.33-0619": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0621": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0625": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0630": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0632": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0634": {
+    "character": "サクラ"
+  },
+  "eva-3.33-0640": {
+    "character": "アスカ"
+  },
+  "eva-3.33-0673": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0674": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0676": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0684": {
+    "character": "レイ"
+  },
+  "eva-3.33-0690": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0695": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0712": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0715": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0720": {
+    "character": "レイ"
+  },
+  "eva-3.33-0734": {
+    "character": "レイ"
+  },
+  "eva-3.33-0743": {
+    "character": "レイ"
+  },
+  "eva-3.33-0745": {
+    "character": "レイ"
+  },
+  "eva-3.33-0748": {
+    "character": "レイ"
+  },
+  "eva-3.33-0750": {
+    "character": "レイ"
+  },
+  "eva-3.33-0761": {
+    "character": "ゲンドウ／シンジ"
+  },
+  "eva-3.33-0769": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0773": {
+    "character": "カヲル"
+  },
+  "eva-3.33-0776": {
+    "character": "カヲル"
+  },
+  "eva-3.33-0782": {
+    "character": "カヲル"
+  },
+  "eva-3.33-0786": {
+    "character": "カヲル"
+  },
+  "eva-3.33-0787": {
+    "character": "カヲル"
+  },
+  "eva-3.33-0794": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0802": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0822": {
+    "character": "カヲル／シンジ",
+    "english": "- Let's watch the stars. / - The stars?"
+  },
+  "eva-3.33-0845": {
+    "character": "レイ"
+  },
+  "eva-3.33-0847": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0853": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0855": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0862": {
+    "character": "カヲル"
+  },
+  "eva-3.33-0866": {
+    "character": "カヲル"
+  },
+  "eva-3.33-0874": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0889": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0893": {
+    "character": "カヲル"
+  },
+  "eva-3.33-0902": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0903": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0929": {
+    "character": "ゲンドウ"
+  },
+  "eva-3.33-0930": {
+    "character": "ゲンドウ"
+  },
+  "eva-3.33-0953": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0954": {
+    "character": "シンジ"
+  },
+  "eva-3.33-0958": {
+    "character": "冬月"
+  },
+  "eva-3.33-0959": {
+    "character": "冬月"
+  },
+  "eva-3.33-0961": {
+    "character": "冬月"
+  },
+  "eva-3.33-0972": {
+    "character": "冬月"
+  },
+  "eva-3.33-0973": {
+    "character": "冬月"
+  },
+  "eva-3.33-0974": {
+    "character": "冬月"
+  },
+  "eva-3.33-0975": {
+    "character": "冬月"
+  },
+  "eva-3.33-0976": {
+    "character": "冬月"
+  },
+  "eva-3.33-0987": {
+    "character": "冬月"
+  },
+  "eva-3.33-0988": {
+    "character": "冬月"
+  },
+  "eva-3.33-0999": {
+    "character": "レイ"
+  },
+  "eva-3.33-1003": {
+    "character": "レイ"
+  },
+  "eva-3.33-1013": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1017": {
+    "character": "ゲンドウ"
+  },
+  "eva-3.33-1018": {
+    "character": "ゲンドウ／サクラ／ミサト／サクラ",
+    "english": "[Gendo] Pilot the Eva. / [Sakura] Don't pilot an Eva. / [Misato] Don't do anything. / [Sakura] Don't pilot an Eva."
+  },
+  "eva-3.33-1047": {
+    "character": "カヲル"
+  },
+  "eva-3.33-1048": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1065": {
+    "character": "カヲル"
+  },
+  "eva-3.33-1066": {
+    "character": "カヲル"
+  },
+  "eva-3.33-1067": {
+    "character": "カヲル"
+  },
+  "eva-3.33-1076": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1077": {
+    "character": "カヲル"
+  },
+  "eva-3.33-1082": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1083": {
+    "character": "カヲル"
+  },
+  "eva-3.33-1084": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1085": {
+    "character": "カヲル"
+  },
+  "eva-3.33-1087": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1103": {
+    "character": "レイ"
+  },
+  "eva-3.33-1117": {
+    "character": "カヲル"
+  },
+  "eva-3.33-1118": {
+    "character": "カヲル"
+  },
+  "eva-3.33-1122": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1130": {
+    "character": "カヲル"
+  },
+  "eva-3.33-1132": {
+    "character": "カヲル"
+  },
+  "eva-3.33-1134": {
+    "character": "カヲル"
+  },
+  "eva-3.33-1135": {
+    "character": "カヲル"
+  },
+  "eva-3.33-1136": {
+    "character": "カヲル"
+  },
+  "eva-3.33-1137": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1138": {
+    "character": "カヲル"
+  },
+  "eva-3.33-1139": {
+    "character": "カヲル"
+  },
+  "eva-3.33-1140": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1146": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1154": {
+    "character": "アスカ"
+  },
+  "eva-3.33-1156": {
+    "character": "アスカ"
+  },
+  "eva-3.33-1167": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1175": {
+    "character": "アスカ"
+  },
+  "eva-3.33-1178": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1179": {
+    "character": "カヲル"
+  },
+  "eva-3.33-1181": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1187": {
+    "character": "マリ"
+  },
+  "eva-3.33-1188": {
+    "character": "マリ"
+  },
+  "eva-3.33-1189": {
+    "character": "レイ"
+  },
+  "eva-3.33-1208": {
+    "character": "カヲル"
+  },
+  "eva-3.33-1209": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1210": {
+    "character": "カヲル"
+  },
+  "eva-3.33-1228": {
+    "character": "マリ"
+  },
+  "eva-3.33-1230": {
+    "character": "カヲル"
+  },
+  "eva-3.33-1231": {
+    "character": "アスカ"
+  },
+  "eva-3.33-1237": {
+    "character": "ゲンドウ"
+  },
+  "eva-3.33-1247": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1258": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1259": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1260": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1261": {
+    "character": "カヲル"
+  },
+  "eva-3.33-1262": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1263": {
+    "character": "カヲル"
+  },
+  "eva-3.33-1264": {
+    "character": "カヲル"
+  },
+  "eva-3.33-1292": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1294": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1296": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1297": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1299": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1316": {
+    "character": "女性オペレーター"
+  },
+  "eva-3.33-1317": {
+    "character": "ミサト"
+  },
+  "eva-3.33-1326": {
+    "character": "女性オペレーター"
+  },
+  "eva-3.33-1331": {
+    "character": "ミサト"
+  },
+  "eva-3.33-1335": {
+    "character": "アスカ"
+  },
+  "eva-3.33-1343": {
+    "character": "アスカ"
+  },
+  "eva-3.33-1346": {
+    "character": "マリ"
+  },
+  "eva-3.33-1347": {
+    "character": "マリ"
+  },
+  "eva-3.33-1351": {
+    "character": "アスカ"
+  },
+  "eva-3.33-1361": {
+    "character": "レイ"
+  },
+  "eva-3.33-1362": {
+    "character": "アスカ"
+  },
+  "eva-3.33-1365": {
+    "character": "アスカ"
+  },
+  "eva-3.33-1366": {
+    "character": "アスカ"
+  },
+  "eva-3.33-1383": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1384": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1392": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1393": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1399": {
+    "character": "カヲル"
+  },
+  "eva-3.33-1400": {
+    "character": "カヲル"
+  },
+  "eva-3.33-1402": {
+    "character": "シンジ"
+  },
+  "eva-3.33-1411": {
+    "character": "マリ"
+  },
+  "eva-3.33-1419": {
+    "character": "冬月"
+  },
+  "eva-3.33-1431": {
+    "character": "アスカ"
+  },
+  "eva-3.33-1432": {
+    "character": "アスカ"
+  },
+  "eva-3.33-1436": {
+    "character": "アスカ"
+  },
+  "eva-3.33-1437": {
+    "character": "アスカ"
+  },
+  "eva-3.33-1438": {
+    "character": "アスカ"
+  },
+  "eva-3.33-1439": {
+    "character": "アスカ"
+  },
+  "eva-3.33-1440": {
+    "character": "アスカ"
+  }
+}
