@@ -7,4 +7,5 @@ export interface ScriptEntry {
   character: string;
   segments: TextSegment[];
   english: string;
+  comment?: string;
 }

@@ -25,21 +25,41 @@ export const ReportButton = ({ entry }: ReportButtonProps) => {
           row => row.id !== entry.id
         );
       } else {
-        return [...prev, entry];
+        return [...prev, { ...entry, comment: '' }];
       }
     });
   };
 
+  const handleCommentChange = (comment: string) => {
+    setReportedRows(prev => prev.map(row => (
+      row.id === entry.id ? { ...row, comment } : row
+    )));
+  };
+
+  const reportedEntry = reportedRows.find(row => row.id === entry.id);
+
   return (
-    <button
-      className={`report-button ${isReported ? 'reported' : ''}`}
-      onClick={handleClick}
-      title={isReported ? 'Unreport this row' : 'Report this row'}
-    >
-      <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
-        <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
-        <path d="M7.002 11a1 1 0 1 1 2 0 1 1 0 0 1-2 0zM7.1 4.995a.905.905 0 1 1 1.8 0l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 4.995z"/>
-      </svg>
-    </button>
+    <>
+      <button
+        className={`report-button ${isReported ? 'reported' : ''}`}
+        onClick={handleClick}
+        title={isReported ? 'Unreport this row' : 'Report this row'}
+      >
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+          <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+          <path d="M7.002 11a1 1 0 1 1 2 0 1 1 0 0 1-2 0zM7.1 4.995a.905.905 0 1 1 1.8 0l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 4.995z"/>
+        </svg>
+      </button>
+      {isReported && (
+        <input
+          className="report-comment"
+          type="text"
+          value={reportedEntry?.comment ?? ''}
+          onChange={event => handleCommentChange(event.target.value)}
+          placeholder="Add a comment"
+          aria-label="Comment for reported row"
+        />
+      )}
+    </>
   );
 };
